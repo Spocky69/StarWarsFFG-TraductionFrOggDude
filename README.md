@@ -15,10 +15,9 @@
  
  ## Installation
  Ce module n'étant pas publié sur foundry seulement l'installation manuelle est disponible.
- *Ouvrir FoundryVTT, cliquer sur installer un module
- *Dans l'URL du manifest entrer 
- https://raw.githubusercontent.com/Spocky69/StarWarsFFG-TraductionFrOggDude/main/ffg-star-wars-traduction-fr-oggdude/module.json
- *Cliquer sur Installation
+ * Ouvrir FoundryVTT, cliquer sur installer un module
+ * Dans l'URL du manifest entrer https://raw.githubusercontent.com/Spocky69/StarWarsFFG-TraductionFrOggDude/main/ffg-star-wars-traduction-fr-oggdude/module.json
+ * Cliquer sur Installation
  
  
  
