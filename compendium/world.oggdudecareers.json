@@ -1,0 +1,108 @@
+{
+	"label": "oggdude.Careers",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Ace",
+			"name": "As",
+			"description": "<ul>\n<li>\n<h3>Astrogation</h3>\n</li>\n<li>\n<h3>Calme</h3>\n</li>\n<li>\n<h3>Artillerie</h3>\n</li>\n<li>\n<h3>M&eacute;canique</h3>\n</li>\n<li>\n<h3>Perception</h3>\n</li>\n<li>\n<h3>Pilotage : Plan&eacute;taire</h3>\n</li>\n<li>\n<h3>Pilotage : Spatial</h3>\n</li>\n<li>\n<h3>Armes l&eacute;g&egrave;res</h3>\n</li>\n</ul>\n<p>Page 64 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Bounty Hunter",
+			"name": "Chasseur de prime",
+			"description": "<ul>\n<li>\n<h3>Athl&eacute;tisme</h3>\n</li>\n<li>\n<h3>Pugilat</h3>\n</li>\n<li>\n<h3>Perception</h3>\n</li>\n<li>\n<h3>Pilotage : Plan&eacute;taire</h3>\n</li>\n<li>\n<h3>Pilotage : Spatial</h3>\n</li>\n<li>\n<h3>Armes lourdes</h3>\n</li>\n<li>\n<h3>Syst&egrave;me D</h3>\n</li>\n<li>\n<h3>Vigilance</h3>\n</li>\n</ul>\n<p>Page 56 du livre l'Age de la Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Clone Soldier",
+			"name": "Clone Soldier",
+			"description": "[H4]Clone Soldier[h4]\n    Please see page 18 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 18 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Colonist",
+			"name": "Colonist",
+			"description": "[H4]Colonist[h4]\n    Please see page 62 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 62 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Commander",
+			"name": "Commander",
+			"description": "[H4]Commander [h4]\n    Please see page 70 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 70 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Consular",
+			"name": "Consular",
+			"description": "[H4]Consular[h4]\nPlease see page 66 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 66 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Diplomat",
+			"name": "Diplomat",
+			"description": "[H4]Diplomat[h4]\n    Please see page 76 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 76 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Engineer",
+			"name": "Engineer",
+			"description": "[H4]Engineer[h4]\n    Please see page 82 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 82 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Explorer",
+			"name": "Explorer",
+			"description": "[H4]Explorer[h4]\n    Please see page 67 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 67 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Guardian",
+			"name": "Guardian",
+			"description": "[H4]Guardian[h4]\nPlease see page 72 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 72 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Hired Gun",
+			"name": "Hired Gun",
+			"description": "[H4]Hired Gun[h4]\n    Please see page 74 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 74 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Jedi",
+			"name": "Jedi",
+			"description": "[H4]Jedi[h4]\nPlease see page 24 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 24 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Mystic",
+			"name": "Mystic",
+			"description": "[H4]Mystic[h4]\nPlease see page 78 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 78 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Seeker",
+			"name": "Seeker",
+			"description": "[H4]Seeker[h4]\nPlease see page 84 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 84 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Sentinel",
+			"name": "Sentinel",
+			"description": "[H4]Sentinel[h4]\nPlease see page 90 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 90 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Smuggler",
+			"name": "Smuggler",
+			"description": "[H4]Smuggler[h4]\n    Please see page 80 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 80 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Soldier",
+			"name": "Soldier",
+			"description": "[H4]Soldier[h4]\n    Please see page 88 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 88 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Spy",
+			"name": "Spy",
+			"description": "[H4]Spy[h4]\n    Please see page 94 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 94 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Technician",
+			"name": "Technician",
+			"description": "[H4]Technician[h4]\n    Please see page 86 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 86 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Warrior",
+			"name": "Warrior",
+			"description": "[H4]Warrior[h4]\nPlease see page 96 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 96 - Force and Destiny Core Rulebook[h4]"
+		}
+	]
+}
