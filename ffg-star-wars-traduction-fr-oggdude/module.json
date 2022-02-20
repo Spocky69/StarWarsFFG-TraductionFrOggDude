@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "minimumCoreVersion" : "9",
   "compatibleCoreVersion": "9",
-  "author": "Spocky",
+  "author": "Spocky69",
   "dependencies": [
     {
       "name": "system-de-base",
@@ -33,9 +33,12 @@
   }],
   "system": "system-de-base",
   "systemVersion": "1.3.22",
-  "url": "https://github.com/mon-compte/mon-repository",
-  "manifest": "https://github.com/mon-compte/mon-repository/raw/main/module.json",
-  "download": "https://github.com/mon-compte/mon-repository/archive/refs/heads/main.zip",
+  "socket": false,
+  "coreTranslation": false,
+  "library": false,
+  "url": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude",
+  "manifest": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/blob/16366637e4ec8e3a8e6c73570100a16b04637c82/ffg-star-wars-traduction-fr-oggdude/module.json",
+  "download": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/archive/refs/tags/v0.0.1.zip",
     "system": [
         "starwarsffg"
     ]
