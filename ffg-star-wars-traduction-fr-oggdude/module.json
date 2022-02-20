@@ -1,9 +1,9 @@
 {
   "type": "module",
-  "name": "ffg-star-wars-ogg-dude-fr",
-  "title": "Traduction fr pour Star Wars",
-  "description": "Traduction des compendiums Ogg-Dude en Français, basé sur Babele.",
-  "version": "0.2.37",
+  "name": "ffg-star-wars-traduction-fr-oggdude",
+  "title": "StarWarsFFG - Traduction Fr OggDude",
+  "description": "Traduction des compendiums Ogg-Dude en Français, basé sur Babele",
+  "version": "0.0.1",
   "minimumCoreVersion" : "9",
   "compatibleCoreVersion": "9",
   "author": "Spocky",
