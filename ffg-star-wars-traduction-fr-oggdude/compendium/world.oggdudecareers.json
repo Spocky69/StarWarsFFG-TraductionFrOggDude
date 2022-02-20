@@ -7,102 +7,102 @@
 		{
 			"id": "Ace",
 			"name": "As",
-			"description": "<ul>\n<li>\n<h3>Astrogation</h3>\n</li>\n<li>\n<h3>Calme</h3>\n</li>\n<li>\n<h3>Artillerie</h3>\n</li>\n<li>\n<h3>M&eacute;canique</h3>\n</li>\n<li>\n<h3>Perception</h3>\n</li>\n<li>\n<h3>Pilotage : Plan&eacute;taire</h3>\n</li>\n<li>\n<h3>Pilotage : Spatial</h3>\n</li>\n<li>\n<h3>Armes l&eacute;g&egrave;res</h3>\n</li>\n</ul>\n<p>Page 64 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3><span style=\"font-size: 1.125em;\">Artillerie, </span>Astrogation, Calme, Distance (Armes l&eacute;g&egrave;res), M&eacute;canique, Perception, Pilotage (Plan&eacute;taire), Pilotage (Spatial)</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Artilleur, Fonceur, Pilote, Cavalier, T&ecirc;te brul&eacute;e, Bidouilleur</h3>\n<p>&nbsp;</p>\n<p>Page 64 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Bounty Hunter",
-			"name": "Chasseur de prime",
-			"description": "<ul>\n<li>\n<h3>Athl&eacute;tisme</h3>\n</li>\n<li>\n<h3>Pugilat</h3>\n</li>\n<li>\n<h3>Perception</h3>\n</li>\n<li>\n<h3>Pilotage : Plan&eacute;taire</h3>\n</li>\n<li>\n<h3>Pilotage : Spatial</h3>\n</li>\n<li>\n<h3>Armes lourdes</h3>\n</li>\n<li>\n<h3>Syst&egrave;me D</h3>\n</li>\n<li>\n<h3>Vigilance</h3>\n</li>\n</ul>\n<p>Page 56 du livre l'Age de la Rebellion pour plus de d&eacute;tails</p>"
-		},
-		{
-			"id": "Clone Soldier",
-			"name": "Clone Soldier",
-			"description": "[H4]Clone Soldier[h4]\n    Please see page 18 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 18 - Rise of the Separatists[h4]"
+			"name": "Chasseur de primes",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Distance (armes lourdes),<span style=\"font-size: 1.125em;\"> </span>Perception, Pilotage (plan&eacute;taire), Pilotage (spatial), Pugilat,<span style=\"font-size: 1.125em;\"> </span><span style=\"font-size: 1.125em;\">Syst&egrave;me D, Vigilance</span></h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Assassin, Expert en Gadget, Expert en survie, Expert en art martiaux, Op&eacute;rateur, Traceur</h3>\n<p>&nbsp;</p>\n<p>Page 56 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Colonist",
-			"name": "Colonist",
-			"description": "[H4]Colonist[h4]\n    Please see page 62 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 62 - Edge of the Empire Core Rulebook[h4]"
-		},
-		{
-			"id": "Commander",
-			"name": "Commander",
-			"description": "[H4]Commander [h4]\n    Please see page 70 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 70 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Colon",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Charme, Commandement, Connaissance (Culture), Connaissance (Education), Connaissance (Monde du noyau), N&eacute;gociation, Syst&egrave;me D, Tromperie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>M&eacute;decin, Diplomate, Erudit, Entrepreneur, Marshal, Artiste</h3>\n<p>&nbsp;</p>\n<p>Page 62 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Consular",
-			"name": "Consular",
-			"description": "[H4]Consular[h4]\nPlease see page 66 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 66 - Force and Destiny Core Rulebook[h4]"
+			"name": "Consulaire",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Calme, Connaissance (Education), Connaissance (Culture), Commandement, N&eacute;gociation, Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Arbitre, Asc&egrave;te, Disciple Niman, Gu&eacute;risseur, Sage, Enseignant</h3>\n<p>&nbsp;</p>\n<p>Page 66 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Diplomat",
-			"name": "Diplomat",
-			"description": "[H4]Diplomat[h4]\n    Please see page 76 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 76 - Age of Rebellion Core Rulebook[h4]"
-		},
-		{
-			"id": "Engineer",
-			"name": "Engineer",
-			"description": "[H4]Engineer[h4]\n    Please see page 82 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 82 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Diplomate",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3><span style=\"font-size: 1.125em;\">Charme, </span>Connaissance (Monde du noyau), Connaissance (Culture), Connaissance (Bordure Ext&eacute;rieur), Connaissance (X&eacute;nologie), Commandement, N&eacute;gociation, Tromperie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Ambassadeur, Agitateur, Analyste, Avocat, Intendant, Propagandiste</h3>\n<p>&nbsp;</p>\n<p>Page 76 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Explorer",
-			"name": "Explorer",
-			"description": "[H4]Explorer[h4]\n    Please see page 67 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 67 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Explorateur",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Astrogation, Calme, Connaissance (Bordure Ext&eacute;rieur), Connaissance (Culture), Connaissance (X&eacute;nologie), Perception, Pilotage (espace), Survie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Bourlingueur, Eclaireur, N&eacute;gociant, Archa&eacute;ologue, Fonceur, Pr&eacute;dateur</h3>\n<p>&nbsp;</p>\n<p>Page 68 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Guardian",
-			"name": "Guardian",
-			"description": "[H4]Guardian[h4]\nPlease see page 72 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 72 - Force and Destiny Core Rulebook[h4]"
+			"name": "Guardien",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Calme, Corps &agrave; corps, Pugilat, R&eacute;sistance, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Pacificateur, D&eacute;fenseur Soresu, Protecteur, Armurier, Chef de guerre, Guetteur</h3>\n<p>&nbsp;</p>\n<p>Page 72 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Hired Gun",
-			"name": "Hired Gun",
-			"description": "[H4]Hired Gun[h4]\n    Please see page 74 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 74 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Mercenaire",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Corps &agrave; corps, Distance (armes l&eacute;g&egrave;res), Pilotage (plan&eacute;taire), Pugilat, R&eacute;sistance, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Garde du corps, Maraudeur, Soldat &agrave; louer, Nervi, Demolisseur, Canonnier</h3>\n<p>&nbsp;</p>\n<p>Page 74 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Engineer",
+			"name": "Ingénieur",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3><span style=\"font-size: 1.125em;\">Athl&eacute;tisme, Connaissance (Education), Distance (armes l&eacute;g&egrave;res), </span>Informatique, Mecanique, Perception, Pilotage (espace), Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>M&eacute;canicien, Saboteur, Scientifique, Specialiste des droids, Sappeur, Designer de vaisseaux</h3>\n<p>&nbsp;</p>\n<p>Page 82 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Jedi",
 			"name": "Jedi",
-			"description": "[H4]Jedi[h4]\nPlease see page 24 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 24 - Rise of the Separatists[h4]"
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Connaissance (Culture), Pilotage (espace), Sabre Laser, Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Chevalier jedi, Padawan,&nbsp;</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre La mont&eacute;e des s&eacute;paratistes pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Mystic",
-			"name": "Mystic",
-			"description": "[H4]Mystic[h4]\nPlease see page 78 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 78 - Force and Destiny Core Rulebook[h4]"
+			"name": "Mystique",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Charme, Coercition, Connaissance (Bordure Ext&eacute;rieur), Connaissance (Culture), Perception, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Conseiller, Duelliste Makashi, Visionnaire, Alchimiste, Mage, Proph&egrave;te</h3>\n<p>&nbsp;</p>\n<p>Page 78 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Seeker",
-			"name": "Seeker",
-			"description": "[H4]Seeker[h4]\nPlease see page 84 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 84 - Force and Destiny Core Rulebook[h4]"
+			"name": "Errant",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (X&eacute;nologie), Pilotage (plan&eacute;taire), Pilotage (espace), Distance (armes lourdes), Survie, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Bretteur Ataru, Chasseur, Arpenteur, Ex&eacute;cuteur, Ermite, Navigateur</h3>\n<p>&nbsp;</p>\n<p>Page 84 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Sentinel",
-			"name": "Sentinel",
-			"description": "[H4]Sentinel[h4]\nPlease see page 90 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 90 - Force and Destiny Core Rulebook[h4]"
+			"name": "Sentinelle",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (Monde du noyau), Discr&eacute;tion, Informatique, Magouille, Perception, Tromperie,&nbsp;</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Artisan, Expert Shien, Enqu&ecirc;teur, Ombre, Pilote de course, Gueteur</h3>\n<p>&nbsp;</p>\n<p>Page 90 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Smuggler",
-			"name": "Smuggler",
-			"description": "[H4]Smuggler[h4]\n    Please see page 80 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 80 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Contrebandier",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (P&egrave;gre), Coordination, Magouille, Perception, Pilotage (espace), Syst&egrave;me D, Tromperie, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Pilote, Vaurien, Voleur, Charmeur, Flambeur, Pistolero</h3>\n<p>&nbsp;</p>\n<p>Page 80 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Clone Soldier",
+			"name": "Soldat Clone",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes),<span style=\"font-size: 1.125em;\"> Medecine, </span>Pugilat, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Officier clone, Pilote clone, Soldat clone</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre La mont&eacute;e des s&eacute;paratistes pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Soldier",
-			"name": "Soldier",
-			"description": "[H4]Soldier[h4]\n    Please see page 88 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 88 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Soldat",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Connaissance (Art de la guerre), Corps &agrave; corps, Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes), M&eacute;decine, Pugilat, Survie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Commando, Tireur d'&eacute;lite, Urgentiste, Avant garde, Tireur embusqu&eacute;, Soldat Lourd</h3>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Page 88 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Spy",
-			"name": "Spy",
-			"description": "[H4]Spy[h4]\n    Please see page 94 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 94 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Espion",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Calme, Connaissance (Art de la guerre), Coordination, Discr&eacute;tion, Informatique, Magouille, Perception,&nbsp;</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Eclaireur, Slicer, Taupe, Messager, Interrogateur, Agent dormant</h3>\n<p>&nbsp;</p>\n<p>Page 94 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Commander",
+			"name": "Stratège",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Coercition,&nbsp;<span style=\"font-size: 1.125em;\">Commandement,</span> Connaissance (Art de la guerre), Distance (armes l&eacute;g&egrave;res), Perception, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Chef d'escadron, Commodore, Tacticien, Leader d'opinion, Instructeur, Strat&egrave;ge</h3>\n<p>&nbsp;</p>\n<p>Page 70 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Technician",
-			"name": "Technician",
-			"description": "[H4]Technician[h4]\n    Please see page 86 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 86 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Technicien",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Astrogation, Connaissance(Bordure ext&eacute;rieur), Coordination, Informatique, M&eacute;canique, Perception, Pilotage (plan&eacute;taire), Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>M&eacute;canicien, Tech hors-la-loi, Slicer, Expert cybern&eacute;tique, Expert Droid, Moddeur</h3>\n<p>&nbsp;</p>\n<p>Page 86 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Warrior",
-			"name": "Warrior",
-			"description": "[H4]Warrior[h4]\nPlease see page 96 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 96 - Force and Destiny Core Rulebook[h4]"
+			"name": "Guerrier",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3><span style=\"font-size: 17.7188px;\">Athl&eacute;tisme,&nbsp;Calme,&nbsp;Corps &agrave; corps,&nbsp;Perception, </span>Pugilat, Survie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Agresseur, As de l'espace, Chevalier Shi-Sho, Colosse, Berserker Juyo, Adepte de la main de fer</h3>\n<p>&nbsp;</p>\n<p>Page 96 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		}
 	]
 }
