@@ -3,7 +3,7 @@
   "name": "ffg-star-wars-traduction-fr-oggdude",
   "title": "StarWarsFFG - Traduction Fr OggDude",
   "description": "Traduction des compendiums Ogg-Dude en Français, basé sur Babele",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minimumCoreVersion" : "9",
   "compatibleCoreVersion": "9",
   "author": "Spocky69",
