@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "ffg-star-wars-traduction-fr-oggdude",
-  "title": "StarWarsFFG - Traduction Fr OggDude",
+  "title": "Star Wars FFG - Traduction Fr OggDude",
   "description": "Traduction des compendiums Ogg-Dude en Français, basé sur Babele",
   "version": "0.0.5",
   "minimumCoreVersion" : "9",
