@@ -12,6 +12,7 @@
  
  ## Wikis
  Informations sur Babele : https://foundryvtt.wiki/fr/developpement/guides/Traduire-compendium-Babele
+ 
  Pour participer à l'effort de traduction : https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/wiki
  
  ## Installation
