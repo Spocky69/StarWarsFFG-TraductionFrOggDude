@@ -52,7 +52,7 @@
 		{
 			"id": "Jedi",
 			"name": "Jedi",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Connaissance (Culture), Pilotage (espace), Sabre Laser, Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Chevalier jedi, Padawan,&nbsp;</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre La mont&eacute;e des s&eacute;paratistes pour plus de d&eacute;tails</p>"
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Connaissance (Culture), Pilotage (espace), Sabre Laser, Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Chevalier jedi, Padawan,&nbsp;</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre Rise of the Separatists pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Mystic",
@@ -77,7 +77,7 @@
 		{
 			"id": "Clone Soldier",
 			"name": "Soldat Clone",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes),<span style=\"font-size: 1.125em;\"> Medecine, </span>Pugilat, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Officier clone, Pilote clone, Soldat clone</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre La mont&eacute;e des s&eacute;paratistes pour plus de d&eacute;tails</p>"
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes),<span style=\"font-size: 1.125em;\"> Medecine, </span>Pugilat, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Officier clone, Pilote clone, Soldat clone</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre Rise of the Separatists pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Soldier",
