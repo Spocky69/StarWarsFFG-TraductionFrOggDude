@@ -25,9 +25,24 @@
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Calme, Connaissance (Education), Connaissance (Culture), Commandement, N&eacute;gociation, Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Arbitre, Asc&egrave;te, Disciple Niman, Gu&eacute;risseur, Sage, Enseignant</h3>\n<p>&nbsp;</p>\n<p>Page 66 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
+			"id": "Smuggler",
+			"name": "Contrebandier",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (P&egrave;gre), Coordination, Magouille, Perception, Pilotage (espace), Syst&egrave;me D, Tromperie, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Pilote, Vaurien, Voleur, Charmeur, Flambeur, Pistolero</h3>\n<p>&nbsp;</p>\n<p>Page 80 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
+		},
+		{
 			"id": "Diplomat",
 			"name": "Diplomate",
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3><span style=\"font-size: 1.125em;\">Charme, </span>Connaissance (Monde du noyau), Connaissance (Culture), Connaissance (Bordure Ext&eacute;rieur), Connaissance (X&eacute;nologie), Commandement, N&eacute;gociation, Tromperie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Ambassadeur, Agitateur, Analyste, Avocat, Intendant, Propagandiste</h3>\n<p>&nbsp;</p>\n<p>Page 76 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Seeker",
+			"name": "Errant",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (X&eacute;nologie), Pilotage (plan&eacute;taire), Pilotage (espace), Distance (armes lourdes), Survie, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Bretteur Ataru, Chasseur, Arpenteur, Ex&eacute;cuteur, Ermite, Navigateur</h3>\n<p>&nbsp;</p>\n<p>Page 84 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Spy",
+			"name": "Espion",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Calme, Connaissance (Art de la guerre), Coordination, Discr&eacute;tion, Informatique, Magouille, Perception,&nbsp;</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Eclaireur, Slicer, Taupe, Messager, Interrogateur, Agent dormant</h3>\n<p>&nbsp;</p>\n<p>Page 94 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Explorer",
@@ -40,9 +55,9 @@
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Calme, Corps &agrave; corps, Pugilat, R&eacute;sistance, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Pacificateur, D&eacute;fenseur Soresu, Protecteur, Armurier, Chef de guerre, Guetteur</h3>\n<p>&nbsp;</p>\n<p>Page 72 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
-			"id": "Hired Gun",
-			"name": "Mercenaire",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Corps &agrave; corps, Distance (armes l&eacute;g&egrave;res), Pilotage (plan&eacute;taire), Pugilat, R&eacute;sistance, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Garde du corps, Maraudeur, Soldat &agrave; louer, Nervi, Demolisseur, Canonnier</h3>\n<p>&nbsp;</p>\n<p>Page 74 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
+			"id": "Warrior",
+			"name": "Guerrier",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3><span style=\"font-size: 17.7188px;\">Athl&eacute;tisme,&nbsp;Calme,&nbsp;Corps &agrave; corps,&nbsp;Perception, </span>Pugilat, Survie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Agresseur, As de l'espace, Chevalier Shi-Sho, Colosse, Berserker Juyo, Adepte de la main de fer</h3>\n<p>&nbsp;</p>\n<p>Page 96 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Engineer",
@@ -55,14 +70,14 @@
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Connaissance (Culture), Pilotage (espace), Sabre Laser, Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Chevalier jedi, Padawan,&nbsp;</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre Rise of the Separatists pour plus de d&eacute;tails</p>"
 		},
 		{
+			"id": "Hired Gun",
+			"name": "Mercenaire",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Corps &agrave; corps, Distance (armes l&eacute;g&egrave;res), Pilotage (plan&eacute;taire), Pugilat, R&eacute;sistance, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Garde du corps, Maraudeur, Soldat &agrave; louer, Nervi, Demolisseur, Canonnier</h3>\n<p>&nbsp;</p>\n<p>Page 74 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
+		},
+		{
 			"id": "Mystic",
 			"name": "Mystique",
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Charme, Coercition, Connaissance (Bordure Ext&eacute;rieur), Connaissance (Culture), Perception, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Conseiller, Duelliste Makashi, Visionnaire, Alchimiste, Mage, Proph&egrave;te</h3>\n<p>&nbsp;</p>\n<p>Page 78 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
-		},
-		{
-			"id": "Seeker",
-			"name": "Errant",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (X&eacute;nologie), Pilotage (plan&eacute;taire), Pilotage (espace), Distance (armes lourdes), Survie, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Bretteur Ataru, Chasseur, Arpenteur, Ex&eacute;cuteur, Ermite, Navigateur</h3>\n<p>&nbsp;</p>\n<p>Page 84 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Sentinel",
@@ -70,9 +85,9 @@
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (Monde du noyau), Discr&eacute;tion, Informatique, Magouille, Perception, Tromperie,&nbsp;</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Artisan, Expert Shien, Enqu&ecirc;teur, Ombre, Pilote de course, Gueteur</h3>\n<p>&nbsp;</p>\n<p>Page 90 du livre Force et Destin&eacute;e pour plus de d&eacute;tails</p>"
 		},
 		{
-			"id": "Smuggler",
-			"name": "Contrebandier",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Connaissance (P&egrave;gre), Coordination, Magouille, Perception, Pilotage (espace), Syst&egrave;me D, Tromperie, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Pilote, Vaurien, Voleur, Charmeur, Flambeur, Pistolero</h3>\n<p>&nbsp;</p>\n<p>Page 80 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
+			"id": "Soldier",
+			"name": "Soldat",
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Connaissance (Art de la guerre), Corps &agrave; corps, Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes), M&eacute;decine, Pugilat, Survie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Commando, Tireur d'&eacute;lite, Urgentiste, Avant garde, Tireur embusqu&eacute;, Soldat Lourd</h3>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Page 88 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Clone Soldier",
@@ -80,29 +95,14 @@
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Calme, Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes),<span style=\"font-size: 1.125em;\"> Medecine, </span>Pugilat, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Officier clone, Pilote clone, Soldat clone</h3>\n<p>&nbsp;</p>\n<p>Page 18 du livre Rise of the Separatists pour plus de d&eacute;tails</p>"
 		},
 		{
-			"id": "Soldier",
-			"name": "Soldat",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Athl&eacute;tisme, Connaissance (Art de la guerre), Corps &agrave; corps, Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes), M&eacute;decine, Pugilat, Survie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Commando, Tireur d'&eacute;lite, Urgentiste, Avant garde, Tireur embusqu&eacute;, Soldat Lourd</h3>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Page 88 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
-		},
-		{
-			"id": "Spy",
-			"name": "Espion",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Calme, Connaissance (Art de la guerre), Coordination, Discr&eacute;tion, Informatique, Magouille, Perception,&nbsp;</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Eclaireur, Slicer, Taupe, Messager, Interrogateur, Agent dormant</h3>\n<p>&nbsp;</p>\n<p>Page 94 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
-		},
-		{
 			"id": "Commander",
 			"name": "Stratège",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Coercition,&nbsp;<span style=\"font-size: 1.125em;\">Commandement,</span> Connaissance (Art de la guerre), Distance (armes l&eacute;g&egrave;res), Perception, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Chef d'escadron, Commodore, Tacticien, Leader d'opinion, Instructeur, Strat&egrave;ge</h3>\n<p>&nbsp;</p>\n<p>Page 70 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
+			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Coercition,&nbsp;<span style=\"font-size: 1.125em;\">Commandement,</span> Connaissance (Art de la guerre), Distance (armes l&eacute;g&egrave;res), Perception, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Chef d'escadron, Commodore, Tacticien, Repr&eacute;sentant, Instructeur, Logisticien</h3>\n<p>&nbsp;</p>\n<p>Page 70 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Technician",
 			"name": "Technicien",
 			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3>Astrogation, Connaissance(Bordure ext&eacute;rieur), Coordination, Informatique, M&eacute;canique, Perception, Pilotage (plan&eacute;taire), Sang-froid</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>M&eacute;canicien, Tech hors-la-loi, Slicer, Expert cybern&eacute;tique, Expert Droid, Moddeur</h3>\n<p>&nbsp;</p>\n<p>Page 86 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
-		},
-		{
-			"id": "Warrior",
-			"name": "Guerrier",
-			"description": "<h2>Comp&eacute;tences&nbsp;</h2>\n<h3><span style=\"font-size: 17.7188px;\">Athl&eacute;tisme,&nbsp;Calme,&nbsp;Corps &agrave; corps,&nbsp;Perception, </span>Pugilat, Survie</h3>\n<p>&nbsp;</p>\n<h2>Sp&eacute;cialisations</h2>\n<h3>Agresseur, As de l'espace, Chevalier Shi-Sho, Colosse, Berserker Juyo, Adepte de la main de fer</h3>\n<p>&nbsp;</p>\n<p>Page 96 du livre l'Age de la Rebellion of Rebellion pour plus de d&eacute;tails</p>"
 		}
 	]
 }
