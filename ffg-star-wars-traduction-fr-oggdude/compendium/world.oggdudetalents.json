@@ -1,0 +1,2748 @@
+{
+	"label": "oggdude.Talents",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "A Step Ahead",
+			"name": "A Step Ahead",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Acklay's Scything Strike",
+			"name": "Acklay's Scything Strike",
+			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Adaptable",
+			"name": "Adaptable",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Adversary",
+			"name": "Adversary",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 142 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 142 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Against All Odds",
+			"name": "Against All Odds",
+			"description": "Please see page 138 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 138 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Aggressive Negotiations",
+			"name": "Aggressive Negotiations",
+			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Alchemical Arts",
+			"name": "Alchemical Arts",
+			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "All-Terrain Driver",
+			"name": "All-Terrain Driver",
+			"description": "Please see page 142 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Ambush",
+			"name": "Ambush",
+			"description": "See page 34 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Analyze Data",
+			"name": "Analyze Data",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Anatomy Lessons",
+			"name": "Anatomy Lessons",
+			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque le personnage peut d&eacute;penser 1 point de Destin pour ajouter des d&eacute;gats &eacute;gaux &agrave; son Intelligence &agrave; un coup de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 142 de l'Age de la Rebellion </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Animal Bond",
+			"name": "Animal Bond",
+			"description": "Please see page 138 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 138 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Animal Bond (Improved)",
+			"name": "Animal Bond (Improved)",
+			"description": "Please see page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Animal Empathy",
+			"name": "Animal Empathy",
+			"description": "Please see page 139 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 139 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Another's Treasure",
+			"name": "Another's Treasure",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Armor Master",
+			"name": "Armor Master",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, page 142 of the Age of Rebellion Core Rulebook, or page 37 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 142 - Age of Rebellion Core Rulebook[h4][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Armor Master (Improved)",
+			"name": "Armor Master (Improved)",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 37 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Armor Master (Supreme)",
+			"name": "Armor Master (Supreme)",
+			"description": "Please see page 30 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Assault Drop",
+			"name": "Assault Drop",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Ataru Technique",
+			"name": "Ataru Technique",
+			"description": "Please see page 139 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 139 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Backroom Deal",
+			"name": "Backroom Deal",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Bacta Specialist",
+			"name": "Bacta Specialist",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Bad Cop",
+			"name": "Bad Cop",
+			"description": "<p>Le personnage peut d&eacute;penser [AD][AD] obtenus lors d'un <strong>test de Coercition ou de Tromperie</strong> pour am&eacute;liorer des d&eacute;s d'aptitude d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible. Le nombre de d&eacute;s am&eacute;lior&eacute;s est &eacute;gal au rang de <em>M&eacute;chant Flic</em>..</p>\n<p><em>Page 33 du livre Horizon lointain </em><em>ou page 30 de&nbsp;</em>Cyphers and Masks<em> pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Bad Motivator",
+			"name": "Bad Motivator",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Bad Press",
+			"name": "Bad Press",
+			"description": "Please see page 32 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Balance",
+			"name": "Balance",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Baleful Gaze",
+			"name": "Baleful Gaze",
+			"description": "Please see page 30 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Barrage",
+			"name": "Barrage",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Barrel Roll",
+			"name": "Barrel Roll",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Barrel Roll (Improved)",
+			"name": "Barrel Roll (Improved)",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Barrel Roll (Supreme)",
+			"name": "Barrel Roll (Supreme)",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Basic Combat Training",
+			"name": "Basic Combat Training",
+			"description": "Please see page 143 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Beast Wrangler",
+			"name": "Beast Wrangler",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Beast of Burden",
+			"name": "Beast of Burden",
+			"description": "Add 1 per rank to the mount's encumbrance threshold.[P][H3]Sources:[h3][H4]Page 83 - Stay on Target[h4]"
+		},
+		{
+			"id": "Beginner's Luck",
+			"name": "Beginner's Luck",
+			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Better Luck Next Time",
+			"name": "Better Luck Next Time",
+			"description": "Please see page 30 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Biggest Fan",
+			"name": "Biggest Fan",
+			"description": "Please see page 32 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Far Horizons[h4]"
+		},
+		{
+			"id": "Black Market Contacts",
+			"name": "Black Market Contacts",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Blackmail",
+			"name": "Blackmail",
+			"description": "Please see page 32 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Blind Spot",
+			"name": "Blind Spot",
+			"description": "Please see page 30 of the Keeping the Peace Sourcebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Blooded",
+			"name": "Blooded",
+			"description": "<p>Ajouter [BO] par rang d'Antitoxine &agrave; tous les tests pour r&eacute;sister aux poisons, venins et autres toxines, ou pour s'en remettre. R&eacute;duisez la dur&eacute;e des poisons de 1 round par rang d'Antitoxine, jusqu'&agrave; un minimum de 1.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 32 de&nbsp;</em>Unlimited Power<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Blooded (Improved)",
+			"name": "Blooded (Improved)",
+			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Body Guard",
+			"name": "Body Guard",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Body Guard (Improved)",
+			"name": "Body Guard (Improved)",
+			"description": "Please see page 140 of the Force and Destiny Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Body Guard (Supreme)",
+			"name": "Body Guard (Supreme)",
+			"description": "Please see page 34 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Bolstered Armor",
+			"name": "Bolstered Armor",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Bought Info",
+			"name": "Bought Info",
+			"description": "Please see page 143 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Brace",
+			"name": "Brace",
+			"description": "<p>Ex&eacute;cutez une manoeuvre pour retirer [SE] par rang de Stabilit&eacute; &agrave; votre prochaine action. Cela ne peut retirer que les [SE] li&eacute;s &agrave; l'environement.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 37 de&nbsp; </em>Rise of the Separatists.</p>"
+		},
+		{
+			"id": "Brace (Improved)",
+			"name": "Brace (Improved)",
+			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Brace (Supreme)",
+			"name": "Brace (Supreme)",
+			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Brilliant Evasion",
+			"name": "Brilliant Evasion",
+			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 144 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Bring It Down",
+			"name": "Bring It Down",
+			"description": "Please see page 30 of Enter the Unknown for details.[P][H3]Sources:[h3][H4]Page 30 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "Burly",
+			"name": "Burly",
+			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Bypass Security",
+			"name": "Bypass Security",
+			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, or page 144 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Call 'Em",
+			"name": "Call 'Em",
+			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Calm Commander",
+			"name": "Calm Commander",
+			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
+		},
+		{
+			"id": "Calming Aura",
+			"name": "Calming Aura",
+			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Calming Aura (Improved)",
+			"name": "Calming Aura (Improved)",
+			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Careful Planning",
+			"name": "Careful Planning",
+			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Center of Being",
+			"name": "Center of Being",
+			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Center of Being (Improved)",
+			"name": "Center of Being (Improved)",
+			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Channel Agony",
+			"name": "Channel Agony",
+			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Circle of Shelter",
+			"name": "Circle of Shelter",
+			"description": "Please see page 140 of the Force and Destiny Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Clanker Killer",
+			"name": "Clanker Killer",
+			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Clever Commander",
+			"name": "Clever Commander",
+			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
+		},
+		{
+			"id": "Clever Solution",
+			"name": "Clever Solution",
+			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, page 32 of the Fly Casual Sourcebook, or page 30 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 32 - Fly Casual[h4][H4]Page 30 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Codebreaker",
+			"name": "Codebreaker",
+			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Combat Programming",
+			"name": "Combat Programming",
+			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Command",
+			"name": "Command",
+			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Commanding Presence",
+			"name": "Commanding Presence",
+			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, page 140 of the Force and Destiny Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Commanding Presence (Improved)",
+			"name": "Commanding Presence (Improved)",
+			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
+		},
+		{
+			"id": "Comprehend Technology",
+			"name": "Comprehend Technology",
+			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Conditioned",
+			"name": "Conditioned",
+			"description": "Please see page 141 of the Force and Destiny Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Confidence",
+			"name": "Confidence",
+			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Confidence (Improved)",
+			"name": "Confidence (Improved)",
+			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
+		},
+		{
+			"id": "Congenial",
+			"name": "Congenial",
+			"description": "Please see page 32 of the Far Horizons Sourcebook, page 32 of the Fly Casual Sourcebook, page 28 of the Disciples of Harmony Sourcebook, or page 32 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Far Horizons[h4][H4]Page 32 - Fly Casual[h4][H4]Page 28 - Disciples of Harmony[h4][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Consider our Options",
+			"name": "Consider our Options",
+			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Consider our Options (Improved)",
+			"name": "Consider our Options (Improved)",
+			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Constant Vigilance",
+			"name": "Constant Vigilance",
+			"description": "Please see page 30 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Construction Specialist",
+			"name": "Construction Specialist",
+			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Contingency Plan",
+			"name": "Contingency Plan",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Contraption",
+			"name": "Contraption",
+			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Convincing Demeanor",
+			"name": "Convincing Demeanor",
+			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Coordinated Assault",
+			"name": "Coordinated Assault",
+			"description": "Please see page 145 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Coordination Dodge",
+			"name": "Coordination Dodge",
+			"description": "Please see page 32 of the Far Horizons Sourcebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Far Horizons[h4][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Corellian Sendoff",
+			"name": "Corellian Sendoff",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Corellian Sendoff (Improved)",
+			"name": "Corellian Sendoff (Improved)",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Counterstrike",
+			"name": "Counterstrike",
+			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Creative Design",
+			"name": "Creative Design",
+			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Creative Killer",
+			"name": "Creative Killer",
+			"description": "Please see page 145 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Crippling Blow",
+			"name": "Crippling Blow",
+			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Crucial Point",
+			"name": "Crucial Point",
+			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Cunning Persona",
+			"name": "Cunning Persona",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Cunning Snare",
+			"name": "Cunning Snare",
+			"description": "See page 34 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Custom Loadout",
+			"name": "Custom Loadout",
+			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Customized Cooling Unit",
+			"name": "Customized Cooling Unit",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Cutting Question",
+			"name": "Cutting Question",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Cyberneticist",
+			"name": "Cyberneticist",
+			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Dead to Rights",
+			"name": "Dead to Rights",
+			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Dead to Rights (Improved)",
+			"name": "Dead to Rights (Improved)",
+			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Deadly Accuracy",
+			"name": "Deadly Accuracy",
+			"description": "<p>Choississez 1 comp&eacute;tence de combat au moment de l'acquisition de ce talent. Ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre rang de Pr&eacute;cision mortelle &agrave; un coup d'une attaque r&eacute;ussie utilisant cette comp&eacute;tence.</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion ou page 39 de&nbsp;</em>Rise of the Separatists<em>&nbsp;</em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Deathblow",
+			"name": "Deathblow",
+			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Debilitating Shot",
+			"name": "Debilitating Shot",
+			"description": "Please see page 145 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Deceptive Taunt",
+			"name": "Deceptive Taunt",
+			"description": "Please see page 32 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Far Horizons[h4]"
+		},
+		{
+			"id": "Dedication",
+			"name": "Dedication",
+			"description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Defensive Circle",
+			"name": "Defensive Circle",
+			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Defensive Driving",
+			"name": "Defensive Driving",
+			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Defensive Slicing",
+			"name": "Defensive Slicing",
+			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Defensive Slicing (Improved)",
+			"name": "Defensive Slicing (Improved)",
+			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Defensive Stance",
+			"name": "Defensive Stance",
+			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque attaque de corps &agrave; corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas d&eacute;passer votre d&eacute;passer votre rang en Garde strat&eacute;gique.</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Defensive Training",
+			"name": "Defensive Training",
+			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Deft Maker",
+			"name": "Deft Maker",
+			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Design Flaw",
+			"name": "Design Flaw",
+			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Desperate Repairs",
+			"name": "Desperate Repairs",
+			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Disarming Smile",
+			"name": "Disarming Smile",
+			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Discredit",
+			"name": "Discredit",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Disorient",
+			"name": "Disorient",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 39 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Disruptive Strike",
+			"name": "Disruptive Strike",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Distracting Behavior",
+			"name": "Distracting Behavior",
+			"description": "Please see page 32 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Far Horizons[h4]"
+		},
+		{
+			"id": "Distracting Behavior (Improved)",
+			"name": "Distracting Behavior (Improved)",
+			"description": "Please see page 33 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Far Horizons[h4]"
+		},
+		{
+			"id": "Djem So Deflection",
+			"name": "Djem So Deflection",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Dockyard Expertise",
+			"name": "Dockyard Expertise",
+			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Dodge",
+			"name": "Dodge",
+			"description": "<p>Quand il est la cible d'une attaque (Distance ou au corps &agrave; corps), le personnage peut choisir de subir aussit&ocirc;t un certain nombre de points de stress, puis d'am&eacute;liorer autant de d&eacute;s de difficult&eacute; du test de combat. Le nombre de points de stress subis ne peut d&eacute;passer son rang d'<em>Esquive</em>.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Dodge (Improved)",
+			"name": "Dodge (Improved)",
+			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Domesticable",
+			"name": "Domesticable",
+			"description": "Downgrade the difficulty of checks to train this mount by 1 per rank.[P][H3]Sources:[h3][H4]Page 83 - Stay on Target[h4]"
+		},
+		{
+			"id": "Domesticated",
+			"name": "Domesticated",
+			"description": "Difficulty for training this beast is not upgraded.[P][H3]Sources:[h3][H4]Page 85 - Stay on Target[h4]"
+		},
+		{
+			"id": "Don't Shoot!",
+			"name": "Don't Shoot!",
+			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Double or Nothing",
+			"name": "Double or Nothing",
+			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Double or Nothing (Improved)",
+			"name": "Double or Nothing (Improved)",
+			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Double or Nothing (Supreme)",
+			"name": "Double or Nothing (Supreme)",
+			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Draw Closer",
+			"name": "Draw Closer",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Drive Back",
+			"name": "Drive Back",
+			"description": "Please see page 419 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 419 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Duelist's Training",
+			"name": "Duelist's Training",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Durable",
+			"name": "Durable",
+			"description": "<p>Le personnage peut r&eacute;duire le r&eacute;sultat d&rsquo;une blessure critique de 10 par rang de&nbsp;<em>Dur au mal</em>, jusqu&rsquo;&agrave; un minimum de 1.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e</em></p>"
+		},
+		{
+			"id": "Dynamic Fire",
+			"name": "Dynamic Fire",
+			"description": "Please see page 146 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Embrace Your Hate",
+			"name": "Embrace Your Hate",
+			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Empty Soul",
+			"name": "Empty Soul",
+			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Encoded Communique",
+			"name": "Encoded Communique",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Encouraging Words",
+			"name": "Encouraging Words",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook, or page 28 of the Disciples of Harmony Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4][H4]Page 28 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Enduring",
+			"name": "Enduring",
+			"description": "<p>Augmentez votre valeur d'encaissement de +1.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 100 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Energy Transfer",
+			"name": "Energy Transfer",
+			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Engineered Redundancies",
+			"name": "Engineered Redundancies",
+			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Enhanced Leader",
+			"name": "Enhanced Leader",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Essential Kill",
+			"name": "Essential Kill",
+			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Exceed Specifications",
+			"name": "Exceed Specifications",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Exceed Specifications (Improved)",
+			"name": "Exceed Specifications (Improved)",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Exceed Specifications (Supreme)",
+			"name": "Exceed Specifications (Supreme)",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Exhaust Port",
+			"name": "Exhaust Port",
+			"description": "Please see page 146 of the Age of Rebellion Core Rulebook, or page 142 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Exhaustive Questioning",
+			"name": "Exhaustive Questioning",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Expert Handler",
+			"name": "Expert Handler",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Expert Tracker",
+			"name": "Expert Tracker",
+			"description": "<p>Retirez [SE] par rang de Pisteur chevronn&eacute; aux tests effectu&eacute;s pour suivre ou touver des traces. R&eacute;duisez de moiti&eacute; le temps n&eacute;cessaire pour suivre une cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Eye for Detail",
+			"name": "Eye for Detail",
+			"description": "See page 34 of the Special Modifications Sourcebook, or page 30 of the Fully Operational Sourcebook, for details..[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Falling Avalanche",
+			"name": "Falling Avalanche",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Familiar Suns",
+			"name": "Familiar Suns",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, or page 146 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Fancy Paint Job",
+			"name": "Fancy Paint Job",
+			"description": "Please see page 32 of the Stay on Target Sourcebook, or page 34 of the Special Modifications Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Far Strike",
+			"name": "Far Strike",
+			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Fear the Shadows",
+			"name": "Fear the Shadows",
+			"description": "Please see page 30 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Fearsome",
+			"name": "Fearsome",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook, or page 32 of Dangerous Covenants, for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Feint",
+			"name": "Feint",
+			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Feral Strength",
+			"name": "Feral Strength",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, or page 146 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Field Commander",
+			"name": "Field Commander",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 101 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 101 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Field Commander (Improved)",
+			"name": "Field Commander (Improved)",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Fine Tuning",
+			"name": "Fine Tuning",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Fire Control",
+			"name": "Fire Control",
+			"description": "Please see page 147 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Fire Support",
+			"name": "Fire Support",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Fire When Ready",
+			"name": "Fire When Ready",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "First Among Brothers",
+			"name": "First Among Brothers",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Flyer",
+			"name": "Flyer",
+			"description": "This mount can fly.  When on the ground, it's Speed is reduced to 1.[P][H3]Sources:[h3][H4]Page 85 - Stay on Target[h4]"
+		},
+		{
+			"id": "Font of Power",
+			"name": "Font of Power",
+			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "For the Republic!",
+			"name": "For the Republic!",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Forager",
+			"name": "Forager",
+			"description": "<p>Retirez jusqu'&agrave; [SE][SE] aux tests de comp&eacute;tence pour trouver de la nourriture, de l'eau ou un abri. Ces tests de Survie prennent moiti&eacute; moins de temps que la normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 147 de l'Age de la Rebellion ou page 143 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Force Assault",
+			"name": "Force Assault",
+			"description": "Please see page 143 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Force Connection",
+			"name": "Force Connection",
+			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Force Protection",
+			"name": "Force Protection",
+			"description": "Please see page 143 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Force Rating",
+			"name": "Force Rating",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Force of Will",
+			"name": "Force of Will",
+			"description": "Please see page 147 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Forewarning",
+			"name": "Forewarning",
+			"description": "Please see page 143 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Form On Me",
+			"name": "Form On Me",
+			"description": "Please see page 147 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Fortified Vacuum Seal",
+			"name": "Fortified Vacuum Seal",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Fortune Favors the Bold",
+			"name": "Fortune Favors the Bold",
+			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Freerunning",
+			"name": "Freerunning",
+			"description": "Please see page 30 of the Endless Vigil Sourcebook, and page 30 of the Cyphers and Masks Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 30 - Endless Vigil[h4][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Freerunning (Improved)",
+			"name": "Freerunning (Improved)",
+			"description": "Please see page 30 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Frenzied Attack",
+			"name": "Frenzied Attack",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, or page 147 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Full Stop",
+			"name": "Full Stop",
+			"description": "Please see page 147 of the Age of Rebellion Core Rulebook, or page 30 of the Enter the Unknown Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "Full Throttle",
+			"name": "Full Throttle",
+			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Full Throttle (Improved)",
+			"name": "Full Throttle (Improved)",
+			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 30 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Full Throttle (Supreme)",
+			"name": "Full Throttle (Supreme)",
+			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 31 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Galaxy Mapper",
+			"name": "Galaxy Mapper",
+			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 144 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Gearhead",
+			"name": "Gearhead",
+			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, or page 148 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Go Without",
+			"name": "Go Without",
+			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Good Cop",
+			"name": "Good Cop",
+			"description": "<p>Le personnage peut d&eacute;penser [AD][AD]&nbsp; obtenus lors d'<strong>un test de Charme ou de N&eacute;gociation&nbsp;</strong>pour am&eacute;liorer des d&eacute;s d'aptitude (autant que son rang de Bon Flic) d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain ou page 34 de&nbsp;</em>No Disintegrations<em> ou page 30 de </em>Cyphers and Masks<em>&nbsp;pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Grapple",
+			"name": "Grapple",
+			"description": "Please see page 30 of the Keeping the Peace Sourcebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Greased Palms",
+			"name": "Greased Palms",
+			"description": "Please see page 148 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Grit",
+			"name": "Grit",
+			"description": "<p>Augmentez votre seuil de stress de +1</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 144 de Force et Destin&eacute;e&nbsp;</em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Guardian of the Republic",
+			"name": "Guardian of the Republic",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Guns Blazing",
+			"name": "Guns Blazing",
+			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
+		},
+		{
+			"id": "Harass",
+			"name": "Harass",
+			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Hard Headed",
+			"name": "Hard Headed",
+			"description": "<p>Lorsque vous &ecirc;tes &eacute;tourdi ou d&eacute;sorient&eacute;, entreprenez l'action de T&ecirc;te dure : effectuez un <strong>test de Sang-froid Intimidant ([DI][DI][DI][DI])</strong> pour vous d&eacute;barasser de ce statut. La difficult&eacute; diminue de 1 par rang suppl&eacute;mentaire de T&ecirc;te dure.</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de&nbsp;</em>Knights of Fate<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Hard Headed (Improved)",
+			"name": "Hard Headed (Improved)",
+			"description": "<p>Le personnage peut utiliser son action de&nbsp;<em>T&ecirc;te dure&nbsp;</em>quand il est neutralis&eacute; pour avoir d&eacute;pass&eacute; son seuil de stress. En cas de succ&egrave;s, il ram&egrave;ne son stress a un point au-dessous de son seuil.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de Knights of Fate</em></p>"
+		},
+		{
+			"id": "Hard-Boiled",
+			"name": "Hard-Boiled",
+			"description": "Please see page 34 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Hawk Bat Swoop",
+			"name": "Hawk Bat Swoop",
+			"description": "Please see page 144 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Headbutt",
+			"name": "Headbutt",
+			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Healing Trance",
+			"name": "Healing Trance",
+			"description": "Please see page 144 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Healing Trance (Improved)",
+			"name": "Healing Trance (Improved)",
+			"description": "Please see page 144 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Heavy Hitter",
+			"name": "Heavy Hitter",
+			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 35 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Heightened Awareness",
+			"name": "Heightened Awareness",
+			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Heroic Fortitude",
+			"name": "Heroic Fortitude",
+			"description": "<p>Vous pouvez d&eacute;penser 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Vigueur et d'Agilit&eacute; jusqu'a la fin de la rencontre.</p>\n<p>&nbsp;</p>\n<p><em>Page 137du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>\n<p>&nbsp;</p>"
+		},
+		{
+			"id": "Heroic Resilience",
+			"name": "Heroic Resilience",
+			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 35 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Hidden Storage",
+			"name": "Hidden Storage",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 148 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Hidden Storage (Improved)",
+			"name": "Hidden Storage (Improved)",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "High-G Training",
+			"name": "High-G Training",
+			"description": "Please see page 32 of the Stay on Target Sourcebook, or page 39 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Hindering Shot",
+			"name": "Hindering Shot",
+			"description": "Please see page 34 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Hold Together",
+			"name": "Hold Together",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Holistic Navigation",
+			"name": "Holistic Navigation",
+			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Hunter",
+			"name": "Hunter",
+			"description": "<p>Ajoutez [BO] par rang de Chasseur &agrave; tous les tests concernant des interactions avec des b&ecirc;tes sauvages et des animaux (y compris les tests de combat). Ajoutez +10 par rang de Chasseur aux r&eacute;sultats des blessures critiques contre les b&ecirc;tes sauvages et les animaux.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 137 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion </em><em>pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Hunter's Quarry",
+			"name": "Hunter's Quarry",
+			"description": "Please see page 30 of Enter the Unknown, or page 30 of Savage Spirits, for details.[P][H3]Sources:[h3][H4]Page 30 - Enter the Unknown[h4][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Hunter's Quarry (Improved)",
+			"name": "Hunter's Quarry (Improved)",
+			"description": "Please see page 30 of Enter the Unknown, or page 30 of Savage Spirits, for details.[P][H3]Sources:[h3][H4]Page 30 - Enter the Unknown[h4][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Hyperspace Assault",
+			"name": "Hyperspace Assault",
+			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Idealist",
+			"name": "Idealist",
+			"description": "Please see page 62 of the Jewel of Yavin adventure for details.[P][H3]Sources:[h3][H4]Page 62 - Jewel of Yavin[h4]"
+		},
+		{
+			"id": "Identify Ingredients",
+			"name": "Identify Ingredients",
+			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Imbue Item",
+			"name": "Imbue Item",
+			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Impossible Fall",
+			"name": "Impossible Fall",
+			"description": "Please see page 31 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Improvised Concoction",
+			"name": "Improvised Concoction",
+			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Improvised Defenses",
+			"name": "Improvised Defenses",
+			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Improvised Detonation",
+			"name": "Improvised Detonation",
+			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 30 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Improvised Detonation (Improved)",
+			"name": "Improvised Detonation (Improved)",
+			"description": "Please see page 32 of Dangerous Covenants for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Improvised Position",
+			"name": "Improvised Position",
+			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "In The Know",
+			"name": "In The Know",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
+		},
+		{
+			"id": "In The Know (Improved)",
+			"name": "In The Know (Improved)",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Incite Distraction",
+			"name": "Incite Distraction",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Incite Rebellion",
+			"name": "Incite Rebellion",
+			"description": "Please see page 149 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Indistinguishable",
+			"name": "Indistinguishable",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 149 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Indistinguishable (Improved)",
+			"name": "Indistinguishable (Improved)",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Indomitable Will",
+			"name": "Indomitable Will",
+			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Informant",
+			"name": "Informant",
+			"description": "Please see page 33 of the Desperate Allies Sourcebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Inner Peace",
+			"name": "Inner Peace",
+			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Inside Knowledge",
+			"name": "Inside Knowledge",
+			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Inside Person",
+			"name": "Inside Person",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Insight",
+			"name": "Insight",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Inspiring Rhetoric",
+			"name": "Inspiring Rhetoric",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 149 of the Age of Rebellion Core Rulebook, or page 32 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Inspiring Rhetoric (Improved)",
+			"name": "Inspiring Rhetoric (Improved)",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 149 of the Age of Rebellion Core Rulebook, or page 32 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Inspiring Rhetoric (Supreme)",
+			"name": "Inspiring Rhetoric (Supreme)",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Intense Focus",
+			"name": "Intense Focus",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 28 of the Disciples of Harmony Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 28 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Intense Presence",
+			"name": "Intense Presence",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Interjection",
+			"name": "Interjection",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Intimidating",
+			"name": "Intimidating",
+			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Intuitive Evasion",
+			"name": "Intuitive Evasion",
+			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Intuitive Improvements",
+			"name": "Intuitive Improvements",
+			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Intuitive Navigation",
+			"name": "Intuitive Navigation",
+			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Intuitive Shot",
+			"name": "Intuitive Shot",
+			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Intuitive Strike",
+			"name": "Intuitive Strike",
+			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Inventor",
+			"name": "Inventor",
+			"description": "<p>Quand vous fabriquez de nouveaux objets ou modifiez des kits existants, ajoutez [BO] ou retirez [SE] par rang d'inventeur.</p>\n<p>&nbsp;</p>\n<p><em>Page 137 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 146 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Invigorate",
+			"name": "Invigorate",
+			"description": "Please see page 150 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Iron Body",
+			"name": "Iron Body",
+			"description": "Please see page 34 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 34 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Iron Soul",
+			"name": "Iron Soul",
+			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "It's Not that Bad",
+			"name": "It's Not that Bad",
+			"description": "Please see page 150 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Jump Up",
+			"name": "Jump Up",
+			"description": "<p>Une fois par round, qu'il soit assis ou a terre, le personnage peut, &agrave; son tour, se relever au prix d'une broutille.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 146 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Jury Rigged",
+			"name": "Jury Rigged",
+			"description": "<p>Choississez 1 arme, armure ou autre objet et offrez-lui une am&eacute;lioration valable permanente tant qu'il/elle est utilis&eacute;(e).</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Just Kidding!",
+			"name": "Just Kidding!",
+			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
+		},
+		{
+			"id": "Juyo Savagery",
+			"name": "Juyo Savagery",
+			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Keen Eyed",
+			"name": "Keen Eyed",
+			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Kill With Kindness",
+			"name": "Kill With Kindness",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Knockdown",
+			"name": "Knockdown",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, or page 150 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Know Somebody",
+			"name": "Know Somebody",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Know Their Weakness",
+			"name": "Know Their Weakness",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Know Their Weakness (Improved)",
+			"name": "Know Their Weakness (Improved)",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Know-It-All",
+			"name": "Know-It-All",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Knowledge Specialization",
+			"name": "Knowledge Specialization",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Knowledge is Power",
+			"name": "Knowledge is Power",
+			"description": "Please see page 103 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 103 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Knowledgeable Healing",
+			"name": "Knowledgeable Healing",
+			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Known Schematic",
+			"name": "Known Schematic",
+			"description": "<p>Une fois par partie, ex&eacute;cutez la manoeuvre de Sch&eacute;mas connus : effectuez un <strong>test de Connaissance (Education) Difficile ([DI][DI][DI])</strong>. Un succ&egrave;s signifie que vous connaissez bien le plan d'un b&acirc;timent ou d'un vaisseau.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Koiogran Turn",
+			"name": "Koiogran Turn",
+			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "Larger Project",
+			"name": "Larger Project",
+			"description": "Please see page 32 of the Stay on Target Sourcebook, or page 34 of the Special Modifications Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Lateral Thinking",
+			"name": "Lateral Thinking",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Learning Opportunity",
+			"name": "Learning Opportunity",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Let's Ride",
+			"name": "Let's Ride",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Lethal Blows",
+			"name": "Lethal Blows",
+			"description": "<p>Le personnage ajoute +10 par rang en&nbsp;<em>Coup mortel</em>&nbsp;&agrave; tous ses jets de blessure critique inflig&eacute;s &agrave; un adversaire.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 30 de Savage Spirits ou page 31 de&nbsp;</em>Knights of Fate pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Leverage",
+			"name": "Leverage",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Loom",
+			"name": "Loom",
+			"description": "Please see page 32 of Dangerous Covenants for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Lose Them",
+			"name": "Lose Them",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Machine Mender",
+			"name": "Machine Mender",
+			"description": "See page 34 of the Special Modifications Sourcebook, or page 31 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Made You Talk",
+			"name": "Made You Talk",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Makashi Finish",
+			"name": "Makashi Finish",
+			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Makashi Flourish",
+			"name": "Makashi Flourish",
+			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Makashi Technique",
+			"name": "Makashi Technique",
+			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Marked for Death",
+			"name": "Marked for Death",
+			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Martial Grace",
+			"name": "Martial Grace",
+			"description": "Please see page 35 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4][object Object][h4]"
+		},
+		{
+			"id": "Master Artisan",
+			"name": "Master Artisan",
+			"description": "Please see page 146 of the Force and Destiny Core Rulebook, or page 31 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Master Demolitionist",
+			"name": "Master Demolitionist",
+			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Master Doctor",
+			"name": "Master Doctor",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Master Driver",
+			"name": "Master Driver",
+			"description": "Please see page 151 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Master Grenadier",
+			"name": "Master Grenadier",
+			"description": "Please see page 151 of the Age of Rebellion Core Rulebook, or page 32 of the Dangerous Covenants Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 32 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Master Instructor",
+			"name": "Master Instructor",
+			"description": "See page 33 of the Lead by Example Sourcebook, or page 29 of the Disciples of Harmony Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4][H4]Page 29 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Master Leader",
+			"name": "Master Leader",
+			"description": "Please see page 151 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Master Merchant",
+			"name": "Master Merchant",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Master Pilot",
+			"name": "Master Pilot",
+			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Master Slicer",
+			"name": "Master Slicer",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Master Starhopper",
+			"name": "Master Starhopper",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 31 of the Savage Spirits Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Master Strategist",
+			"name": "Master Strategist",
+			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
+		},
+		{
+			"id": "Master of Shadows",
+			"name": "Master of Shadows",
+			"description": "<p>Une fois par round, le personnage peut choisir de subir 2 points de stress pour r&eacute;duire de 1 d&eacute; la difficult&eacute; de son prochain test de Discr&eacute;tion ou de Magouilles.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Meditative Trance",
+			"name": "Meditative Trance",
+			"description": "Please see page 29 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 29 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Menace",
+			"name": "Menace",
+			"description": "See page 31 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Mental Bond",
+			"name": "Mental Bond",
+			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Mental Fortress",
+			"name": "Mental Fortress",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 147 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Mental Tools",
+			"name": "Mental Tools",
+			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Mind Bleed",
+			"name": "Mind Bleed",
+			"description": "Please see page 29 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 29 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Mind Over Matter",
+			"name": "Mind Over Matter",
+			"description": "See page 31 of the Savage Spirits Sourcebook, page 35 of the No Disintegrations Sourcebook, or page 33 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4][H4]Page 35 - No Disintegrations[h4][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Mission Critical",
+			"name": "Mission Critical",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "More Machine Than Man",
+			"name": "More Machine Than Man",
+			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Moving Target",
+			"name": "Moving Target",
+			"description": "See page 35 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Multiple Opponents",
+			"name": "Multiple Opponents",
+			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Museum Worthy",
+			"name": "Museum Worthy",
+			"description": "Please see page 30 of Enter the Unknown for details.[P][H3]Sources:[h3][H4]Page 30 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "Natural Athlete",
+			"name": "Natural Athlete",
+			"description": "Please see page 33 of the Far Horizons Sourcebook, or page 31 of the Cyphers and Masks Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Far Horizons[h4][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Natural Blademaster",
+			"name": "Natural Blademaster",
+			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Brawler",
+			"name": "Natural Brawler",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Charmer",
+			"name": "Natural Charmer",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 147 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Doctor",
+			"name": "Natural Doctor",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Driver",
+			"name": "Natural Driver",
+			"description": "Please see page 153 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Enforcer",
+			"name": "Natural Enforcer",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Hunter",
+			"name": "Natural Hunter",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 105 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 105 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Instructor",
+			"name": "Natural Instructor",
+			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
+		},
+		{
+			"id": "Natural Leader",
+			"name": "Natural Leader",
+			"description": "Please see page 153 of the Age of Rebellion Core Rulebook, page 148 of the Force and Destiny Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Natural Marksman",
+			"name": "Natural Marksman",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Merchant",
+			"name": "Natural Merchant",
+			"description": "Please see page 33 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Far Horizons[h4]"
+		},
+		{
+			"id": "Natural Mystic",
+			"name": "Natural Mystic",
+			"description": "Please see page 148 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Negotiator",
+			"name": "Natural Negotiator",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Operator",
+			"name": "Natural Operator",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Natural Outdoorsman",
+			"name": "Natural Outdoorsman",
+			"description": "<p>Une fois par partie, vous pouvez relancer 1 test de R&eacute;sistance ou de Survie.</p>\n<p>&nbsp;</p>\n<p><em>Page 139 du livre Aux confins de l'Empire ou page 153 de l'Age de la Rebellion ou page 148 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Natural Pilot",
+			"name": "Natural Pilot",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Programmer",
+			"name": "Natural Programmer",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Rogue",
+			"name": "Natural Rogue",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Scholar",
+			"name": "Natural Scholar",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Tinkerer",
+			"name": "Natural Tinkerer",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Trooper",
+			"name": "Natural Trooper",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Niman Technique",
+			"name": "Niman Technique",
+			"description": "Please see page 148 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "No Escape",
+			"name": "No Escape",
+			"description": "Please see page 30 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Nobody's Fool",
+			"name": "Nobody's Fool",
+			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Not Today",
+			"name": "Not Today",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Now You See Me",
+			"name": "Now You See Me",
+			"description": "Please see page 148 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Now the Master",
+			"name": "Now the Master",
+			"description": "Please see page 29 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 29 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Offensive Driving",
+			"name": "Offensive Driving",
+			"description": "Please see page 35 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - No Disintegrations[h4]"
+		},
+		{
+			"id": "On My Order",
+			"name": "On My Order",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Once A Learner",
+			"name": "Once A Learner",
+			"description": "Please see page 29 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 29 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "One Person's Trash",
+			"name": "One Person's Trash",
+			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "One With The Universe",
+			"name": "One With The Universe",
+			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "One with Nature",
+			"name": "One with Nature",
+			"description": "See page 31 of the Savage Spirits Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4][H4]Page 35 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Ordnance Saturation",
+			"name": "Ordnance Saturation",
+			"description": "Please see page 41 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Outdoorsman",
+			"name": "Outdoorsman",
+			"description": "<p>Retirez [SE] par rang de Baroudeur aux tests effectu&eacute;s pour se d&eacute;placer au sol ou pour g&eacute;rer les effets d'un environnement. R&eacute;duisez de moiti&eacute; le temps de voyage terrestre.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>\n<p>&nbsp;</p>"
+		},
+		{
+			"id": "Outmaneuver",
+			"name": "Outmaneuver",
+			"description": "Please see page 41 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Overbalance",
+			"name": "Overbalance",
+			"description": "Please see page 31 of the Keeping the Peace Sourcebook, or page 35 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4][H4]Page 35 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Overcharge",
+			"name": "Overcharge",
+			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Overcharge (Improved)",
+			"name": "Overcharge (Improved)",
+			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Overstocked Ammo",
+			"name": "Overstocked Ammo",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Overwhelm Defenses",
+			"name": "Overwhelm Defenses",
+			"description": "Please see page 154 of the Age of Rebellion Core Rulebook, or page 35 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 35 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Overwhelm Emotions",
+			"name": "Overwhelm Emotions",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Overwhelming Aura",
+			"name": "Overwhelming Aura",
+			"description": "Please see page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Overwhelming Aura (Improved)",
+			"name": "Overwhelming Aura (Improved)",
+			"description": "Please see page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Parry",
+			"name": "Parry",
+			"description": "Please see page 149 of the Force and Destiny Core Rulebook, page 35 of the No Disintegrations Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4][H4]Page 35 - No Disintegrations[h4][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Parry (Improved)",
+			"name": "Parry (Improved)",
+			"description": "Please see page 149 of the Force and Destiny Core Rulebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Parry (Supreme)",
+			"name": "Parry (Supreme)",
+			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Physical Training",
+			"name": "Physical Training",
+			"description": "Please see page 154 of the Age of Rebellion Core Rulebook, page 30 of the Disciples of Harmony Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Disciples of Harmony[h4][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Physician",
+			"name": "Physician",
+			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Pilot Training",
+			"name": "Pilot Training",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Pin",
+			"name": "Pin",
+			"description": "Please see page 30 of Enter the Unknown for details.[P][H3]Sources:[h3][H4]Page 30 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "Planet Mapper",
+			"name": "Planet Mapper",
+			"description": "See page 31 of the Savage Spirits Sourcebook, or page 35 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4][H4]Page 35 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Plausible Deniability",
+			"name": "Plausible Deniability",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 149 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Plausible Deniability (Improved)",
+			"name": "Plausible Deniability (Improved)",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Point Blank",
+			"name": "Point Blank",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, or page 154 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Positive Spin",
+			"name": "Positive Spin",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Positive Spin (Improved)",
+			"name": "Positive Spin (Improved)",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Power From Pain",
+			"name": "Power From Pain",
+			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Power of Darkness",
+			"name": "Power of Darkness",
+			"description": "Please see page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Powerful Blast",
+			"name": "Powerful Blast",
+			"description": "Please see page 154 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Precise Aim",
+			"name": "Precise Aim",
+			"description": "<p>Une fois par round, le personnage peut, &agrave; son tour, ex&eacute;cuter la manoeuvre<em>&nbsp;Coup pr&eacute;cis&nbsp;</em>avant de tenter un test de comp&eacute;tence de combat et subir un nombre de points de stress inf&eacute;rieur ou &eacute;gal &agrave; son rang en&nbsp;<em>Coup pr&eacute;cis</em>. Il r&eacute;duit d'autant la d&eacute;fense (au corps a corps et &agrave; distance) de la cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 31 de Savage Spirits </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Precision Strike",
+			"name": "Precision Strike",
+			"description": "Please see page 31 of the Keeping the Peace Sourcebook, or page 35 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4][H4]Page 35 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Precision Strike (Improved)",
+			"name": "Precision Strike (Improved)",
+			"description": "Please see page 35 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 35 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Precision Strike (Supreme)",
+			"name": "Precision Strike (Supreme)",
+			"description": "Please see page 36 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 36 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Preemptive Avoidance",
+			"name": "Preemptive Avoidance",
+			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Prescient Shot",
+			"name": "Prescient Shot",
+			"description": "Please see page 31 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Pressure Point",
+			"name": "Pressure Point",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, or page 31 of the Cyphers and Masks Sourceboos, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Prey on the Weak",
+			"name": "Prey on the Weak",
+			"description": "Please see page 149 of the Force and Destiny Core Rulebook, page 35 of the Forged in Battle Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4][H4]Page 35 - Forged in Battle[h4][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Prime Positions",
+			"name": "Prime Positions",
+			"description": "Please see page 31 of the Keeping the Peace Sourcebook, page 35 of the Forged in Battle Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4][H4]Page 35 - Forged in Battle[h4][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Prophetic Aim",
+			"name": "Prophetic Aim",
+			"description": "Please see page 31 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Push the Specs",
+			"name": "Push the Specs",
+			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Quick Draw",
+			"name": "Quick Draw",
+			"description": "<p>Une fois par round, le personnage peut, &agrave; son tour, d&eacute;gainer ou rengainer une arme accessible au prix d'une broutille au lieu d'une manoeuvre.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em></p>"
+		},
+		{
+			"id": "Quick Draw (Improved)",
+			"name": "Quick Draw (Improved)",
+			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
+		},
+		{
+			"id": "Quick Fix",
+			"name": "Quick Fix",
+			"description": "Please see page 154 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Quick Movement",
+			"name": "Quick Movement",
+			"description": "Please see page 150 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Quick Strike",
+			"name": "Quick Strike",
+			"description": "<p>Quand il effectue un test d'attaque en combat, le personnage ajoute [BO] par rang de<em>&nbsp;Coup &eacute;clair&nbsp;</em>aux tests de combat contre les cibles qui n'ont pas encore agi durant cette rencontre.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 150 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Rain of Death",
+			"name": "Rain of Death",
+			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 35 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Rapid Reaction",
+			"name": "Rapid Reaction",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Rapid Recovery",
+			"name": "Rapid Recovery",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Ravage",
+			"name": "Ravage",
+			"description": "Please see page 41 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Ready for Anything",
+			"name": "Ready for Anything",
+			"description": "See page 34 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Lead by Example[h4]"
+		},
+		{
+			"id": "Ready for Anything (Improved)",
+			"name": "Ready for Anything (Improved)",
+			"description": "See page 34 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Reconstruct the Scene",
+			"name": "Reconstruct the Scene",
+			"description": "Please see page 31 of the Endless Vigil Sourcebook, or page 36 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4][H4]Page 36 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Redundant Systems",
+			"name": "Redundant Systems",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, or page 154 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Reflect",
+			"name": "Reflect",
+			"description": "Please see page 150 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Reflect (Improved)",
+			"name": "Reflect (Improved)",
+			"description": "Please see page 150 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Reflect (Supreme)",
+			"name": "Reflect (Supreme)",
+			"description": "Please see page 150 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Reinforce Item",
+			"name": "Reinforce Item",
+			"description": "Please see page 31 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Reinforced Frame",
+			"name": "Reinforced Frame",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Renegade Form",
+			"name": "Renegade Form",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Repair Patch Specialization",
+			"name": "Repair Patch Specialization",
+			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Reroute Processors",
+			"name": "Reroute Processors",
+			"description": "See page 35 of the Special Modifications Sourcebook, or page 31 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Researcher",
+			"name": "Researcher",
+			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Researcher (Improved)",
+			"name": "Researcher (Improved)",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Resist Disarm",
+			"name": "Resist Disarm",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Resist Questioning",
+			"name": "Resist Questioning",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Resist Questioning (Improved)",
+			"name": "Resist Questioning (Improved)",
+			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Resolve",
+			"name": "Resolve",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Resourceful Refit",
+			"name": "Resourceful Refit",
+			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Respected Delegate",
+			"name": "Respected Delegate",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Respected Scholar",
+			"name": "Respected Scholar",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Saber Swarm",
+			"name": "Saber Swarm",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Saber Throw",
+			"name": "Saber Throw",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Saber Throw (Improved)",
+			"name": "Saber Throw (Improved)",
+			"description": "Please see page 31 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Sapith Sundering",
+			"name": "Sapith Sundering",
+			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Sarlacc Sweep",
+			"name": "Sarlacc Sweep",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Savvy Negotiator",
+			"name": "Savvy Negotiator",
+			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Savvy Negotiator (Improved)",
+			"name": "Savvy Negotiator (Improved)",
+			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Scathing Tirade",
+			"name": "Scathing Tirade",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Scathing Tirade (Improved)",
+			"name": "Scathing Tirade (Improved)",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Scathing Tirade (Supreme)",
+			"name": "Scathing Tirade (Supreme)",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Scrap 'Em!",
+			"name": "Scrap 'Em!",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Scrap 'Em! (Improved)",
+			"name": "Scrap 'Em! (Improved)",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Second Chances",
+			"name": "Second Chances",
+			"description": "Please see  page 33 of the Stay on Target Sourcebook, or page 33 of the Fly Casual Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4][H4]Page 33 - Fly Casual[h4]"
+		},
+		{
+			"id": "Second Wind",
+			"name": "Second Wind",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 151 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Secret Lore",
+			"name": "Secret Lore",
+			"description": "Please see page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Secrets of the Force",
+			"name": "Secrets of the Force",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Seize the Initiative",
+			"name": "Seize the Initiative",
+			"description": "See page 35 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Selective Detonation",
+			"name": "Selective Detonation",
+			"description": "Please see page 155 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Sense Advantage",
+			"name": "Sense Advantage",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Sense Danger",
+			"name": "Sense Danger",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 151 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Sense Emotions",
+			"name": "Sense Emotions",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 151 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Sense the Scene",
+			"name": "Sense the Scene",
+			"description": "Please see page 31 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Share Pain",
+			"name": "Share Pain",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Shien Technique",
+			"name": "Shien Technique",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Shortcut",
+			"name": "Shortcut",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, page 31 of the Savage Spirits Sourcebook, or page 31 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Savage Spirits[h4][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Shortcut (Improved)",
+			"name": "Shortcut (Improved)",
+			"description": "See page 31 of the Savage Spirits Sourcebook, page 31 of the Endless Vigil Sourcebook, or page 36 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4][H4]Page 31 - Endless Vigil[h4][H4]Page 36 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Showboat",
+			"name": "Showboat",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Shroud",
+			"name": "Shroud",
+			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Side Step",
+			"name": "Side Step",
+			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre d'Esquive et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque test de combat &agrave; distance qui vous vise lors du round suivant. Le stress ainsi subit ne doit pas d&eacute;passer votre rang d'esquive instinctive.</p>\n<p>&nbsp;</p>\n<p><em>Page 142 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 151 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Side by Side",
+			"name": "Side by Side",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Signature Vehicle",
+			"name": "Signature Vehicle",
+			"description": "Please see page 33 of the Stay on Target Sourcebook, or page 35 of the Special Modificaitons Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Sincerest Flattery",
+			"name": "Sincerest Flattery",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Situational Awareness",
+			"name": "Situational Awareness",
+			"description": "Please see page 156 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 156 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Sixth Sense",
+			"name": "Sixth Sense",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Skilled Jockey",
+			"name": "Skilled Jockey",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Skilled Slicer",
+			"name": "Skilled Slicer",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 156 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Skilled Teacher",
+			"name": "Skilled Teacher",
+			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Sleight of Mind",
+			"name": "Sleight of Mind",
+			"description": "Please see page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Slippery Minded",
+			"name": "Slippery Minded",
+			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Smart Handling",
+			"name": "Smart Handling",
+			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Smooth Talker",
+			"name": "Smooth Talker",
+			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Sniper Shot",
+			"name": "Sniper Shot",
+			"description": "<p>Avant de porter une attaque &agrave; distance (mais pas avec une arme de jet), vous pouvez &eacute;x&eacute;cuter une manoeuvre pour augmenter la port&eacute;e de votre arme &agrave; distance de 1 niveau par rang de Tireur d'&eacute;lite. Pour chaque niveau de port&eacute;e en plus, am&eacute;liorez 1 d&eacute; de difficult&eacute; de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 142 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Soft Spot",
+			"name": "Soft Spot",
+			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque, vous pouvez d&eacute;penser 1 point de Destin pour ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre Ruse &agrave; un coup r&eacute;ussi.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Solid Repairs",
+			"name": "Solid Repairs",
+			"description": "<p>Quand vous r&eacute;parez un v&eacute;hicule ou un vaisseau spatial, vous restaurez +1 d&eacute;g&acirc;t de coque par rang de R&eacute;paration solides</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Something to Prove",
+			"name": "Something to Prove",
+			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Soothing Tone",
+			"name": "Soothing Tone",
+			"description": "Please see page 33 of the Stay on Target Sourcebook, or page 31 of Savage Spirits, for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4][H4]Page 31 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Soresu Technique",
+			"name": "Soresu Technique",
+			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Sorry About the Mess",
+			"name": "Sorry About the Mess",
+			"description": "Please see page 33 of the Fly Casual Sourcebook, or page 43 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Sound Investments",
+			"name": "Sound Investments",
+			"description": "Please see page 156 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 156 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Spare Clip",
+			"name": "Spare Clip",
+			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Speaks Binary",
+			"name": "Speaks Binary",
+			"description": "<p>Quand vous donnez des ordres aux droids PNJ, vous gagnez [BO] aux tests par rang de Langage Binaire.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion ou page 35 de Modifications sp&eacute;ciales pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Speaks Binary (Improved)",
+			"name": "Speaks Binary (Improved)",
+			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Speaks Binary (Supreme)",
+			"name": "Speaks Binary (Supreme)",
+			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Spitfire",
+			"name": "Spitfire",
+			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
+		},
+		{
+			"id": "Spur",
+			"name": "Spur",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Spur (Improved)",
+			"name": "Spur (Improved)",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Spur (Supreme)",
+			"name": "Spur (Supreme)",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Stalker",
+			"name": "Stalker",
+			"description": "<p>Ajoutez [BO] par rang de Filature &agrave; tous vos tests de Coordination et de Discretion.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion</em></p>"
+		},
+		{
+			"id": "Steady Nerves",
+			"name": "Steady Nerves",
+			"description": "Please see page 33 of Dangerous Covenants for details.[P][H3]Sources:[h3][H4]Page 33 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Steely Nerves",
+			"name": "Steely Nerves",
+			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Stim Application",
+			"name": "Stim Application",
+			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Stim Application (Improved)",
+			"name": "Stim Application (Improved)",
+			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Stim Application (Supreme)",
+			"name": "Stim Application (Supreme)",
+			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Stimpack Specialization",
+			"name": "Stimpack Specialization",
+			"description": "Please see page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Strategic Form",
+			"name": "Strategic Form",
+			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Street Smarts",
+			"name": "Street Smarts",
+			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Street Smarts (Improved)",
+			"name": "Street Smarts (Improved)",
+			"description": "Please see page 31 of the Endless Vigil Sourcebook, or page 36 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4][H4]Page 36 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Stroke of Genius",
+			"name": "Stroke of Genius",
+			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Strong Arm",
+			"name": "Strong Arm",
+			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Stubborn",
+			"name": "Stubborn",
+			"description": "Upgrade the difficulty of checks to train this mount by 1 per rank.[P][H3]Sources:[h3][H4]Page 85 - Stay on Target[h4]"
+		},
+		{
+			"id": "Studious Plotting",
+			"name": "Studious Plotting",
+			"description": "See page 31 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Stunning Blow",
+			"name": "Stunning Blow",
+			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Stunning Blow (Improved)",
+			"name": "Stunning Blow (Improved)",
+			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Sum Djem",
+			"name": "Sum Djem",
+			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Sunder (Improved)",
+			"name": "Sunder (Improved)",
+			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Superhuman Reflexes",
+			"name": "Superhuman Reflexes",
+			"description": "Please see page 31 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Superior Reflexes",
+			"name": "Superior Reflexes",
+			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Supporting Evidence",
+			"name": "Supporting Evidence",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Suppressing Fire",
+			"name": "Suppressing Fire",
+			"description": "Please see page 31 of the Keeping the Peace Sourcebook, page 35 of the Forged in Battle Sourcebook, or page 43 of the Rise of the Separatist Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4][H4]Page 35 - Forged in Battle[h4][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Supreme Overcharge",
+			"name": "Supreme Overcharge",
+			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Surgeon",
+			"name": "Surgeon",
+			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Survival of the Fittest",
+			"name": "Survival of the Fittest",
+			"description": "See page 31 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Swift",
+			"name": "Swift",
+			"description": "<p>Vous ne subissez pas les malus habituels pour vous d&eacute;placer en terrain difficile.</p>\n<p>&nbsp;</p>\n<p><em>Page 144 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Tactical Advance",
+			"name": "Tactical Advance",
+			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Tactical Advance (Improved)",
+			"name": "Tactical Advance (Improved)",
+			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Tactical Combat Training",
+			"name": "Tactical Combat Training",
+			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Talk the Talk",
+			"name": "Talk the Talk",
+			"description": "Please see page 33 of Dangerous Covenants, or page 31 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Dangerous Covenants[h4][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Targeted Blow",
+			"name": "Targeted Blow",
+			"description": "<p>Quand le personnage r&eacute;ussit une attaque, il peut d&eacute;penser 1 point de Destin pour ajouter des d&eacute;gats &eacute;gaux a son Agilit&eacute; a un coup r&eacute;ussi de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 144 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion&nbsp; </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Technical Aptitude",
+			"name": "Technical Aptitude",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Temple Training",
+			"name": "Temple Training",
+			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Terrify",
+			"name": "Terrify",
+			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Terrify (Improved)",
+			"name": "Terrify (Improved)",
+			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Terrifying Kill",
+			"name": "Terrifying Kill",
+			"description": "See page 31 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4]"
+		},
+		{
+			"id": "That's How It's Done",
+			"name": "That's How It's Done",
+			"description": "See page 34 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Lead by Example[h4]"
+		},
+		{
+			"id": "The Force Is My Ally",
+			"name": "The Force Is My Ally",
+			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Thorough Assessment",
+			"name": "Thorough Assessment",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Throwing Credits",
+			"name": "Throwing Credits",
+			"description": "Please see page 33 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Far Horizons[h4]"
+		},
+		{
+			"id": "Time to Go",
+			"name": "Time to Go",
+			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Time to Go (Improved)",
+			"name": "Time to Go (Improved)",
+			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Tinkerer",
+			"name": "Tinkerer",
+			"description": "<p>Vous pouvez ajouter 1 emplacement &agrave; un nombre d'objet &eacute;gal &agrave; votre rang en Customization. Chaque objet ne peut &ecirc;tre modifi&eacute; qu'une fois.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Touch of Fate",
+			"name": "Touch of Fate",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Toughened",
+			"name": "Toughened",
+			"description": "<p>Augmentez votre seuil de blessure de +2.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Toughened (Improved)",
+			"name": "Toughened (Improved)",
+			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Trained Mount",
+			"name": "Trained Mount",
+			"description": "Add [BO] per rank to a rider's Survival checks while mounted on this mount.[P][H3]Sources:[h3][H4]Page 83 - Stay on Target[h4]"
+		},
+		{
+			"id": "Translation Error",
+			"name": "Translation Error",
+			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Transmogrify",
+			"name": "Transmogrify",
+			"description": "Please see page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Tricky Target",
+			"name": "Tricky Target",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "True Aim",
+			"name": "True Aim",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, or page 158 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Tuned Maneuvering Thrusters",
+			"name": "Tuned Maneuvering Thrusters",
+			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
+		},
+		{
+			"id": "Twisted Words",
+			"name": "Twisted Words",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook, or page 33 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4][H4]Page 33 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Unarmed Parry",
+			"name": "Unarmed Parry",
+			"description": "Please see page 36 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 36 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Uncanny Reactions",
+			"name": "Uncanny Reactions",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Uncanny Senses",
+			"name": "Uncanny Senses",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Unity Assault",
+			"name": "Unity Assault",
+			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Unrelenting Skeptic",
+			"name": "Unrelenting Skeptic",
+			"description": "<p>Lorsque le personnage est cibl&eacute; par un jet tromperie, il ajoute automatiquement autant de [FA] que son rang en vigilance&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizons lointains ou page 31 de&nbsp;</em>Endless Vigil<em>&nbsp;</em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Unrelenting Skeptic (Improved)",
+			"name": "Unrelenting Skeptic (Improved)",
+			"description": "<p>Lorsque le personnage est la cible d'un test de Tromperie qui &eacute;choue, il peut d&eacute;penser 1 point de Destin pour ajouter r&eacute;troactivement [DE] au r&eacute;sultat.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain&nbsp;</em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Unstoppable",
+			"name": "Unstoppable",
+			"description": "Please see page 159 of the Age of Rebellion Core Rulebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Up the Ante",
+			"name": "Up the Ante",
+			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
+		},
+		{
+			"id": "Utility Belt",
+			"name": "Utility Belt",
+			"description": "<p>D&eacute;pensez 1 point de Destin pour &eacute;x&eacute;cuter une broutille; sortez d'une ceinture &agrave; outil ou d'une sacoche un objet ou une arme (sous certaines restrictions) ne figurant pas sur votre liste d'&eacute;quipement.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 159 de l'Age de la Rebellion ou&nbsp;</em><em>Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Utility Belt (Improved)",
+			"name": "Utility Belt (Improved)",
+			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Utinni!",
+			"name": "Utinni!",
+			"description": "<p>Retirez [SE] par rang d'Utinni! aux tests effectu&eacute;s pour trouver ou r&eacute;cup&eacute;rer des objets ou de l'&eacute;quipement. Ces tests Prennent la moiti&eacute; de leur dur&eacute;e normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Vaapad Control",
+			"name": "Vaapad Control",
+			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Valuable Facts",
+			"name": "Valuable Facts",
+			"description": "Please see page 34 of the Desperate Allies Sourcebook, page 153 of the Force and Destiny Core Rulebook, or page 43 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Vehicle Combat Training",
+			"name": "Vehicle Combat Training",
+			"description": "Please see page 159 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Walk the Walk",
+			"name": "Walk the Walk",
+			"description": "Please see page 33 of Dangerous Covenants for details.[P][H3]Sources:[h3][H4]Page 33 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Weak Foundation",
+			"name": "Weak Foundation",
+			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
+		},
+		{
+			"id": "Well Read",
+			"name": "Well Read",
+			"description": "See page 34 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Lead by Example[h4]"
+		},
+		{
+			"id": "Well Rounded",
+			"name": "Well Rounded",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 159 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 159 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Well Traveled",
+			"name": "Well Traveled",
+			"description": "Please see page 159 of the Age of Rebellion Core Rulebook, or page 30 of the Disciples of Harmony Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Wheel and Deal",
+			"name": "Wheel and Deal",
+			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, or page 159 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 159 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Will of the Force",
+			"name": "Will of the Force",
+			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Wise Warrior",
+			"name": "Wise Warrior",
+			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Wise Warrior (Improved)",
+			"name": "Wise Warrior (Improved)",
+			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Works Like A Charm",
+			"name": "Works Like A Charm",
+			"description": "Please see page 159 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4]"
+		}
+	]
+}

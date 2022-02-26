@@ -1,0 +1,6 @@
+{
+	"label": "oggdude.ItemQualities",
+	"mapping": {
+		"description": "data.description"
+	}
+}

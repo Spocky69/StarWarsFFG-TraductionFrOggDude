@@ -1,0 +1,6 @@
+{
+	"label": "oggdude.ItemAttachments",
+	"mapping": {
+		"description": "data.description"
+	}
+}
