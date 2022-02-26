@@ -10,8 +10,10 @@
  
  En utilisant ce module vous vous engagez à avoir acheter les livres contenant les informations contenues dans ce module.
  
- ## Wiki pour la traduction
- https://foundryvtt.wiki/fr/developpement/guides/Traduire-compendium-Babele
+ ## Wikis
+ Informations sur Babele : https://foundryvtt.wiki/fr/developpement/guides/Traduire-compendium-Babele
+ 
+ Pour participer à l'effort de traduction : https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/wiki
  
  ## Installation
  Ce module n'étant pas publié sur foundry seulement l'installation manuelle est disponible.
