@@ -1,5 +1,8 @@
 {
 	"label": "oggdude.Specializations",
+	"mapping": {
+		"description": "data.description"
+	},
 	"entries": [
 		{
 			"id": "Steel Hand Adept",
