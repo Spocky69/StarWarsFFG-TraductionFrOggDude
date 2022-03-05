@@ -16,8 +16,8 @@
 		},
 		{
 			"id": "Adaptable",
-			"name": "Adaptable",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"name": "Ajustement",
+			"description": "Sur un jet de compétence dont il ne possède pas de rang, le personnage peut dépenser un point de Destin pour retirer un [DE] ou autant de [TH] que son rang en Sang-froid.</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Adversary",
@@ -56,7 +56,7 @@
 		},
 		{
 			"id": "Anatomy Lessons",
-			"name": "Anatomy Lessons",
+			"name": "Leçons d'Anatomie",
 			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque le personnage peut d&eacute;penser 1 point de Destin pour ajouter des d&eacute;gats &eacute;gaux &agrave; son Intelligence &agrave; un coup de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 142 de l'Age de la Rebellion </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -77,7 +77,7 @@
 		{
 			"id": "Another's Treasure",
 			"name": "Another's Treasure",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Armor Master",
@@ -97,7 +97,7 @@
 		{
 			"id": "Assault Drop",
 			"name": "Assault Drop",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Ataru Technique",
@@ -107,7 +107,7 @@
 		{
 			"id": "Backroom Deal",
 			"name": "Backroom Deal",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Bacta Specialist",
@@ -131,8 +131,8 @@
 		},
 		{
 			"id": "Balance",
-			"name": "Balance",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Sérénité",
+			"description": "Quand le personnage retire des points de stress à la fin d'une rencontre, il peut ajouter un nombre de [FO] égal à sa Valeur de Force. Il retire un point de stress supplémentaire par [LI] obtenu."
 		},
 		{
 			"id": "Baleful Gaze",
@@ -147,17 +147,17 @@
 		{
 			"id": "Barrel Roll",
 			"name": "Barrel Roll",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Barrel Roll (Improved)",
 			"name": "Barrel Roll (Improved)",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Barrel Roll (Supreme)",
 			"name": "Barrel Roll (Supreme)",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Basic Combat Training",
@@ -176,8 +176,8 @@
 		},
 		{
 			"id": "Beginner's Luck",
-			"name": "Beginner's Luck",
-			"description": "Please see page 37 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 37 - Rise of the Separatists[h4]"
+			"name": "La chance du débutant",
+			"description": "Une fois par partie quand le personnage fait un jet, il peut ajouter autant de [SU] que de [LI] dans la réserve de Points de Destinée.  </p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Better Luck Next Time",
@@ -247,12 +247,12 @@
 		{
 			"id": "Brace (Improved)",
 			"name": "Brace (Improved)",
-			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Brace (Supreme)",
 			"name": "Brace (Supreme)",
-			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Brilliant Evasion",
@@ -322,7 +322,7 @@
 		{
 			"id": "Clanker Killer",
 			"name": "Clanker Killer",
-			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+			"description": "\nPage 38 du livre the Rise of the Separatists pour plus de détails."
 		},
 		{
 			"id": "Clever Commander",
@@ -336,8 +336,8 @@
 		},
 		{
 			"id": "Codebreaker",
-			"name": "Codebreaker",
-			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+			"name": "Craqueur de Codes",
+			"description": "Retirez [SE] par rang de Craqueur de code aux tests pour percer un code ou décrypter des communications. Retirez 1 dé de difficulté aux tests pour percer un code ou décrypter des communications."
 		},
 		{
 			"id": "Combat Programming",
@@ -371,8 +371,8 @@
 		},
 		{
 			"id": "Confidence",
-			"name": "Confidence",
-			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Aplomb",
+			"description": "Vous pouvez retirer 1 dé de difficulté par rang d'Aplomb aux tests de Sang-froid pour éviter la peur."
 		},
 		{
 			"id": "Confidence (Improved)",
@@ -387,12 +387,12 @@
 		{
 			"id": "Consider our Options",
 			"name": "Consider our Options",
-			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Consider our Options (Improved)",
 			"name": "Consider our Options (Improved)",
-			"description": "Please see page 38 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Constant Vigilance",
@@ -416,8 +416,8 @@
 		},
 		{
 			"id": "Convincing Demeanor",
-			"name": "Convincing Demeanor",
-			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Persuasion",
+			"description": "Retirez [SE] par rang de Persuasion aux tests de Tromperie et de Magouilles."
 		},
 		{
 			"id": "Coordinated Assault",
@@ -531,8 +531,8 @@
 		},
 		{
 			"id": "Defensive Circle",
-			"name": "Defensive Circle",
-			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Cercle Défensif",
+			"description": "Entreprenez la manoeuvre Cercle défensif. Effectuez un test de Sabre laser Difficile ([Di][Di][Di]). Le personnage, plus un allié à portée courte par [SU], gagne X en défense jusqu'au début du tour suivant. X étant égal à 1 + 1 par [AV][AV]."
 		},
 		{
 			"id": "Defensive Driving",
@@ -551,7 +551,7 @@
 		},
 		{
 			"id": "Defensive Stance",
-			"name": "Defensive Stance",
+			"name": "Garde Stratégique",
 			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque attaque de corps &agrave; corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas d&eacute;passer votre d&eacute;passer votre rang en Garde strat&eacute;gique.</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -616,7 +616,7 @@
 		},
 		{
 			"id": "Dodge",
-			"name": "Dodge",
+			"name": "Esquive",
 			"description": "<p>Quand il est la cible d'une attaque (Distance ou au corps &agrave; corps), le personnage peut choisir de subir aussit&ocirc;t un certain nombre de points de stress, puis d'am&eacute;liorer autant de d&eacute;s de difficult&eacute; du test de combat. Le nombre de points de stress subis ne peut d&eacute;passer son rang d'<em>Esquive</em>.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -727,17 +727,17 @@
 		{
 			"id": "Exceed Specifications",
 			"name": "Exceed Specifications",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Exceed Specifications (Improved)",
 			"name": "Exceed Specifications (Improved)",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Exceed Specifications (Supreme)",
 			"name": "Exceed Specifications (Supreme)",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Exhaust Port",
@@ -756,7 +756,7 @@
 		},
 		{
 			"id": "Expert Tracker",
-			"name": "Expert Tracker",
+			"name": "Pisteur Chevronné",
 			"description": "<p>Retirez [SE] par rang de Pisteur chevronn&eacute; aux tests effectu&eacute;s pour suivre ou touver des traces. R&eacute;duisez de moiti&eacute; le temps n&eacute;cessaire pour suivre une cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -827,17 +827,17 @@
 		{
 			"id": "Fire Support",
 			"name": "Fire Support",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Fire When Ready",
 			"name": "Fire When Ready",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "First Among Brothers",
 			"name": "First Among Brothers",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Flyer",
@@ -852,11 +852,11 @@
 		{
 			"id": "For the Republic!",
 			"name": "For the Republic!",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Forager",
-			"name": "Forager",
+			"name": "Subsistance",
 			"description": "<p>Retirez jusqu'&agrave; [SE][SE] aux tests de comp&eacute;tence pour trouver de la nourriture, de l'eau ou un abri. Ces tests de Survie prennent moiti&eacute; moins de temps que la normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 147 de l'Age de la Rebellion ou page 143 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -876,8 +876,8 @@
 		},
 		{
 			"id": "Force Rating",
-			"name": "Force Rating",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+			"name": "Valeur de Force",
+			"description": "+1 à la valeur de Force."
 		},
 		{
 			"id": "Force of Will",
@@ -971,13 +971,13 @@
 		},
 		{
 			"id": "Grit",
-			"name": "Grit",
+			"name": "Robustesse",
 			"description": "<p>Augmentez votre seuil de stress de +1</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 144 de Force et Destin&eacute;e&nbsp;</em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Guardian of the Republic",
 			"name": "Guardian of the Republic",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Guns Blazing",
@@ -1092,7 +1092,7 @@
 		{
 			"id": "Hyperspace Assault",
 			"name": "Hyperspace Assault",
-			"description": "Please see page 39 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Idealist",
@@ -1161,8 +1161,8 @@
 		},
 		{
 			"id": "Indistinguishable",
-			"name": "Indistinguishable",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 149 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Quelconque",
+			"description": "Améliorez 1 dé de difficulté des tests visant à vous identifier par rang de Quelconque."
 		},
 		{
 			"id": "Indistinguishable (Improved)",
@@ -1196,8 +1196,8 @@
 		},
 		{
 			"id": "Insight",
-			"name": "Insight",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Intuition",
+			"description": "Perception et Sang-froid deviennent des compétences de carrière."
 		},
 		{
 			"id": "Inspiring Rhetoric",
@@ -1216,8 +1216,8 @@
 		},
 		{
 			"id": "Intense Focus",
-			"name": "Intense Focus",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 28 of the Disciples of Harmony Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 28 - Disciples of Harmony[h4]"
+			"name": "Concentration Intense",
+			"description": "Effectuez une manoeuvre de Concentration intense : subissez 1 point de stress et améliorez 1 dé d'aptitude lors de votre prochain test."
 		},
 		{
 			"id": "Intense Presence",
@@ -1306,13 +1306,13 @@
 		},
 		{
 			"id": "Keen Eyed",
-			"name": "Keen Eyed",
-			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Oeil Aiguisé",
+			"description": "Retirez [SE] par rang en Oeil aiguisé à tous les tests de Perception ou de Vigilance. Divisez par deux le temps nécessaire pour fouiller un lieu."
 		},
 		{
 			"id": "Kill With Kindness",
-			"name": "Kill With Kindness",
-			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Irrésistible",
+			"description": "Retirez [SE] par rang d'Irrésistible à tous vos tests de Charme et de Commandement."
 		},
 		{
 			"id": "Knockdown",
@@ -1341,8 +1341,8 @@
 		},
 		{
 			"id": "Knowledge Specialization",
-			"name": "Knowledge Specialization",
-			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Connaissance Spécialisées",
+			"description": "Quand vous choisissez ce talent, choisissez une compétence de Connaissance. Lorsque vous effectuez un test avec cette compétence, vous pouvez dépenser [TR] pour gagner un nombre de [SU] supplémentaires égal à votre rang de Connaissances spécialisées."
 		},
 		{
 			"id": "Knowledge is Power",
@@ -1372,12 +1372,12 @@
 		{
 			"id": "Lateral Thinking",
 			"name": "Lateral Thinking",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Learning Opportunity",
-			"name": "Learning Opportunity",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"name": "Opportunité d'apprentissage",
+			"description": "Une fois par tour, si le personnage rate son jet, il peut dépenser [AV][AV][AV] pour améliorer son prochain jet une fois. Page 40 du livre the Rise of the Separatists pour plus de détails."
 		},
 		{
 			"id": "Let's Ride",
@@ -1392,7 +1392,7 @@
 		{
 			"id": "Leverage",
 			"name": "Leverage",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Loom",
@@ -1501,7 +1501,7 @@
 		},
 		{
 			"id": "Master of Shadows",
-			"name": "Master of Shadows",
+			"name": "Expert en Discrétion",
 			"description": "<p>Une fois par round, le personnage peut choisir de subir 2 points de stress pour r&eacute;duire de 1 d&eacute; la difficult&eacute; de son prochain test de Discr&eacute;tion ou de Magouilles.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -1521,8 +1521,8 @@
 		},
 		{
 			"id": "Mental Fortress",
-			"name": "Mental Fortress",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 147 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+			"name": "Forteresse Mentale",
+			"description": "Dépensez 1 point de Destin pour ignorer les effets des blessures critiques aux tests d'Intelligence et de Ruse jusqu'à la fin de la rencontre."
 		},
 		{
 			"id": "Mental Tools",
@@ -1542,7 +1542,7 @@
 		{
 			"id": "Mission Critical",
 			"name": "Mission Critical",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "More Machine Than Man",
@@ -1601,8 +1601,8 @@
 		},
 		{
 			"id": "Natural Hunter",
-			"name": "Natural Hunter",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 105 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 105 - Force and Destiny Core Rulebook[h4]"
+			"name": "Chasseur-Né",
+			"description": "Une fois par partie, vous pouvez relancer 1 test de Perception ou de Vigilance."
 		},
 		{
 			"id": "Natural Instructor",
@@ -1616,8 +1616,8 @@
 		},
 		{
 			"id": "Natural Marksman",
-			"name": "Natural Marksman",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Tireur-Né",
+			"description": "Une fois par séance de jeu, vous pouvez relancer 1 test de Distance (armes légères) ou de Distance (armes lourdes). \n Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion</em>pour plus de d&eacute;tails."
 		},
 		{
 			"id": "Natural Merchant",
@@ -1631,13 +1631,13 @@
 		},
 		{
 			"id": "Natural Negotiator",
-			"name": "Natural Negotiator",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+			"name": "Négociateur-Né",
+			"description": "Une fois par session de jeu, vous pouvez relancer un test de Calme ou de Négociation."
 		},
 		{
 			"id": "Natural Operator",
 			"name": "Natural Operator",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Natural Outdoorsman",
@@ -1672,7 +1672,7 @@
 		{
 			"id": "Natural Trooper",
 			"name": "Natural Trooper",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Niman Technique",
@@ -1696,8 +1696,8 @@
 		},
 		{
 			"id": "Now You See Me",
-			"name": "Now You See Me",
-			"description": "Please see page 148 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+			"name": "Trou de Mémoire",
+			"description": "Une fois par session de jeu, entreprenez l'action Trou de mémoire. Effectuez un test Tromperie Difficile ([DI][DI][DI]) pour être oublié par un nombre de PNJ égal à votre Ruse, situés au plus à portée  moyenne."
 		},
 		{
 			"id": "Now the Master",
@@ -1712,7 +1712,7 @@
 		{
 			"id": "On My Order",
 			"name": "On My Order",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Once A Learner",
@@ -1722,12 +1722,17 @@
 		{
 			"id": "One Person's Trash",
 			"name": "One Person's Trash",
-			"description": "Please see page 40 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "One With the Universe",
+			"name": "Harmonie avec l'Univers",
+			"description": "Une fois par session de jeu, méditez puis accomplissez l'action Harmonie avec l'univers : effectuez un test d'Astrogation Moyen ([DI][DI]). S'il est réussi, ajoutez [LI] à tous les tests des pouvoirs de la Force au cours de la prochaine rencontre. Si le test d'Astrogation est réussi avec un [DE], ajoutez [DA] à la place."
 		},
 		{
 			"id": "One With The Universe",
-			"name": "One With The Universe",
-			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+			"name": "Harmonie avec l'Univers",
+			"description": "Une fois par session de jeu, méditez puis accomplissez l'action Harmonie avec l'univers : effectuez un test d'Astrogation Moyen ([DI][DI]). S'il est réussi, ajoutez [LI] à tous les tests des pouvoirs de la Force au cours de la prochaine rencontre. Si le test d'Astrogation est réussi avec un [DE], ajoutez [DA] à la place."
 		},
 		{
 			"id": "One with Nature",
@@ -1737,7 +1742,7 @@
 		{
 			"id": "Ordnance Saturation",
 			"name": "Ordnance Saturation",
-			"description": "Please see page 41 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 41 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Outdoorsman",
@@ -1747,7 +1752,7 @@
 		{
 			"id": "Outmaneuver",
 			"name": "Outmaneuver",
-			"description": "Please see page 41 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 41 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Overbalance",
@@ -1776,8 +1781,9 @@
 		},
 		{
 			"id": "Overwhelm Emotions",
-			"name": "Overwhelm Emotions",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Ascendant Emotionnel",
+			"description": "Vous pouvez ajouter un nombre de [FO] égal à votre Valeur de Force aux tests de Charme, de Coercition ou de Tromperie. Les [LI] et les [DA] ajoutent des [SU] ou des [FA] aux tests."
+
 		},
 		{
 			"id": "Overwhelming Aura",
@@ -1791,18 +1797,18 @@
 		},
 		{
 			"id": "Parry",
-			"name": "Parry",
-			"description": "Please see page 149 of the Force and Destiny Core Rulebook, page 35 of the No Disintegrations Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4][H4]Page 35 - No Disintegrations[h4][H4]Page 41 - Rise of the Separatists[h4]"
+			"name": "Parer",
+			"description": "Lorsque vous êtes touché par une attaque au corps à corps, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Parer."
 		},
 		{
 			"id": "Parry (Improved)",
-			"name": "Parry (Improved)",
-			"description": "Please see page 149 of the Force and Destiny Core Rulebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4][H4]Page 41 - Rise of the Separatists[h4]"
+			"name": "Parer (Amélioré)",
+			"description": "Lorsque vous parez une attaque qui a généré [DE] ou [TH][TH][TH], une fois l'attaque originale résolue, vous pouvez toucher l'adversaire une fois avec un sabre laser, une arme de pugilat ou de corps à corps. L'arme inflige les dégâts de base"
 		},
 		{
 			"id": "Parry (Supreme)",
-			"name": "Parry (Supreme)",
-			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+			"name": "Parer (Ultime)",
+			"description": "Si vous n'avez pas effectué de test de combat pendant ce round, vous pouvez subir 1 point de stress pour utiliser Parer."
 		},
 		{
 			"id": "Physical Training",
@@ -1841,8 +1847,8 @@
 		},
 		{
 			"id": "Point Blank",
-			"name": "Point Blank",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, or page 154 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Bout portant",
+			"description": "Ajoutez 1 point de dégâts par rang de Bout portant à ceux d'une attaque réussie de Distance (armes lourdes) ou Distance (armes légères) effectuée à portée courte ou au contact. \n Page 133 du livre Aux confins de l'Empire ou page 144 de l'Age de la Rebellion pour plus de d&eacute;tails."
 		},
 		{
 			"id": "Positive Spin",
@@ -1891,8 +1897,8 @@
 		},
 		{
 			"id": "Preemptive Avoidance",
-			"name": "Preemptive Avoidance",
-			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+			"name": "Esquive Préventive",
+			"description": "Vous pouvez dépenser 1 point de Destin pour rompre le contact avec un ennemi en tant que broutille hors tour."
 		},
 		{
 			"id": "Prescient Shot",
@@ -1926,7 +1932,7 @@
 		},
 		{
 			"id": "Quick Draw",
-			"name": "Quick Draw",
+			"name": "Arme en main",
 			"description": "<p>Une fois par round, le personnage peut, &agrave; son tour, d&eacute;gainer ou rengainer une arme accessible au prix d'une broutille au lieu d'une manoeuvre.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em></p>"
 		},
 		{
@@ -1961,13 +1967,13 @@
 		},
 		{
 			"id": "Rapid Recovery",
-			"name": "Rapid Recovery",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+			"name": "Récupération Rapide",
+			"description": "Quand vous éliminez du stress après une rencontre, débarrassez-vous de 1 point de stress supplémentaire par rang de Récupération rapide."
 		},
 		{
 			"id": "Ravage",
 			"name": "Ravage",
-			"description": "Please see page 41 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 41 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Ready for Anything",
@@ -1991,13 +1997,13 @@
 		},
 		{
 			"id": "Reflect",
-			"name": "Reflect",
-			"description": "Please see page 150 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+			"name": "Dévier",
+			"description": "Lorsque vous êtes touché par une attaque à distance, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Dévier."
 		},
 		{
 			"id": "Reflect (Improved)",
-			"name": "Reflect (Improved)",
-			"description": "Please see page 150 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+			"name": "Dévier (Amélioré)",
+			"description": "Quand vous déviez un tir qui a généré [DE] ou [TH][TH][TH], une fois l'attaque initiale résolue, vous pouvez toucher une cible à portée moyenne, infligeant les mêmes dégâts que le tir initial."
 		},
 		{
 			"id": "Reflect (Supreme)",
@@ -2017,7 +2023,7 @@
 		{
 			"id": "Renegade Form",
 			"name": "Renegade Form",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Repair Patch Specialization",
@@ -2031,8 +2037,8 @@
 		},
 		{
 			"id": "Researcher",
-			"name": "Researcher",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+			"name": "Chercheur",
+			"description": "Retirez [SE] par rang de Chercheur aux tests de Connaissance. Les recherches entreprises prennent deux fois moins de temps."
 		},
 		{
 			"id": "Researcher (Improved)",
@@ -2067,7 +2073,7 @@
 		{
 			"id": "Respected Delegate",
 			"name": "Respected Delegate",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Respected Scholar",
@@ -2127,12 +2133,12 @@
 		{
 			"id": "Scrap 'Em!",
 			"name": "Scrap 'Em!",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Scrap 'Em! (Improved)",
 			"name": "Scrap 'Em! (Improved)",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Second Chances",
@@ -2152,7 +2158,7 @@
 		{
 			"id": "Secrets of the Force",
 			"name": "Secrets of the Force",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Seize the Initiative",
@@ -2171,13 +2177,13 @@
 		},
 		{
 			"id": "Sense Danger",
-			"name": "Sense Danger",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 151 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Perception du Danger",
+			"description": "Une fois par partie, retirez [SE][SE] à n'importe quel test."
 		},
 		{
 			"id": "Sense Emotions",
-			"name": "Sense Emotions",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 151 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+			"name": "Perception des Emotions",
+			"description": "Ajoutez [BO] à un test de Charme, de Coercition ou de Tromperie, sauf si la cible est immunisée contre les pouvoirs de la Force."
 		},
 		{
 			"id": "Sense the Scene",
@@ -2211,18 +2217,18 @@
 		},
 		{
 			"id": "Shroud",
-			"name": "Shroud",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Voile",
+			"description": "Dépensez 1 point de Destin. Vous êtes indétectable aux pouvoirs de la Force et vos propres pouvoirs passent inaperçus jusqu'à la fin de la rencontre."
 		},
 		{
 			"id": "Side Step",
-			"name": "Side Step",
+			"name": "Esquive Instinctive",
 			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre d'Esquive et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque test de combat &agrave; distance qui vous vise lors du round suivant. Le stress ainsi subit ne doit pas d&eacute;passer votre rang d'esquive instinctive.</p>\n<p>&nbsp;</p>\n<p><em>Page 142 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 151 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Side by Side",
 			"name": "Side by Side",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Signature Vehicle",
@@ -2231,8 +2237,8 @@
 		},
 		{
 			"id": "Sincerest Flattery",
-			"name": "Sincerest Flattery",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"name": "Imitation",
+			"description": "Une fois par rencontre quand le personnage fait le jet d'une compétence déjà utilisée dans la rencontre par un autre personnage, ils ajoutent [BO][BO]. </p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Situational Awareness",
@@ -2241,8 +2247,8 @@
 		},
 		{
 			"id": "Sixth Sense",
-			"name": "Sixth Sense",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Sixième Sens",
+			"description": "Augmentez votre défense à distance de 1."
 		},
 		{
 			"id": "Skilled Jockey",
@@ -2261,13 +2267,13 @@
 		},
 		{
 			"id": "Sleight of Mind",
-			"name": "Sleight of Mind",
-			"description": "Please see page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Esprit furtif",
+			"description": "Ajouter [BO] à tous les tests de Discretion, sauf quand l'opposition est immunisée conre les pouvoirs de la Force."
 		},
 		{
 			"id": "Slippery Minded",
-			"name": "Slippery Minded",
-			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Insaisissable",
+			"description": "Si vous êtes sous l'effet d'un pouvoir de la Force, entreprenez l'action Insaisissable : effectuez un test de Tromperie Difficile ([DI][DI][DI]) pour mettre un terme immédiat aux effets de ce pouvoir."
 		},
 		{
 			"id": "Smart Handling",
@@ -2276,8 +2282,8 @@
 		},
 		{
 			"id": "Smooth Talker",
-			"name": "Smooth Talker",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Beau Parleur",
+			"description": "Quand vous acquérez ce talent, choisissez une compétence : Charme, Coercition, Négociation ou Tromperie. Quand vous effectuez des tests avec cette compétence, vous pouvez dépenser [TR] pour gagner un nombre de [SU] supplémentaires égal à votre rang de Beau parleur."
 		},
 		{
 			"id": "Sniper Shot",
@@ -2286,7 +2292,7 @@
 		},
 		{
 			"id": "Soft Spot",
-			"name": "Soft Spot",
+			"name": "Point Faible",
 			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque, vous pouvez d&eacute;penser 1 point de Destin pour ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre Ruse &agrave; un coup r&eacute;ussi.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -2296,8 +2302,8 @@
 		},
 		{
 			"id": "Something to Prove",
-			"name": "Something to Prove",
-			"description": "Please see page 42 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Rise of the Separatists[h4]"
+			"name": "Faire ses preuves",
+			"description": "Une par partie, le personnage peut subir 4 points de stress dans le but de relancer un jet raté. Si le nouveau jet réussi, il récupère ses 4 points de stress.  </p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Soothing Tone",
@@ -2306,8 +2312,8 @@
 		},
 		{
 			"id": "Soresu Technique",
-			"name": "Soresu Technique",
-			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Technique Soresu",
+			"description": "Lorsque vous effectuez un test avec votre compétence Sabre laser, vous pouvez vous servir d'Intelligence au lieu de Vigueur."
 		},
 		{
 			"id": "Sorry About the Mess",
@@ -2396,13 +2402,13 @@
 		},
 		{
 			"id": "Strategic Form",
-			"name": "Strategic Form",
-			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Traquenard",
+			"description": "Entreprenez l'action Traquenard. Effectuez un test de Sabre laser (Intelligence) Difficile ([DI][Di][DI]), en lançant un nombre de [FO] inférieur ou égal à votre valeur de Force. S'il est réussi, 1 cible à courte portée ne peut attaquer que vous pendant un round. Dépensez [FP] pour étendre les effets à 1 cible supplémentaire pendant 1 round."
 		},
 		{
 			"id": "Street Smarts",
-			"name": "Street Smarts",
-			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Dégourdi",
+			"description": "Retirez [SE] par rang de Dégourdi à vos tests de Connaissance (pègre) et de Système D."
 		},
 		{
 			"id": "Street Smarts (Improved)",
@@ -2456,8 +2462,8 @@
 		},
 		{
 			"id": "Superior Reflexes",
-			"name": "Superior Reflexes",
-			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Réflexes Aiguisés",
+			"description": "Augmentez votre défense au corps-à-corps de 1."
 		},
 		{
 			"id": "Supporting Evidence",
@@ -2492,12 +2498,12 @@
 		{
 			"id": "Tactical Advance",
 			"name": "Tactical Advance",
-			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Tactical Advance (Improved)",
 			"name": "Tactical Advance (Improved)",
-			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Tactical Combat Training",
@@ -2522,7 +2528,7 @@
 		{
 			"id": "Temple Training",
 			"name": "Temple Training",
-			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+			"description": "Avant de faire un jet de la compétence Sabre laser, le personnage peut dépenser un Point de destin pour ajouter un nombre de dégats égal à son rang dans la compétence Connaissance (Culture). </p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Terrify",
@@ -2546,8 +2552,8 @@
 		},
 		{
 			"id": "The Force Is My Ally",
-			"name": "The Force Is My Ally",
-			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "La Force est mon Alliée",
+			"description": "Une fois par session de jeu, vous pouvez subir 2 points de stress afin d'accomplir une action de pouvoir de la Force en tant que manoeuvre."
 		},
 		{
 			"id": "Thorough Assessment",
@@ -2576,8 +2582,8 @@
 		},
 		{
 			"id": "Touch of Fate",
-			"name": "Touch of Fate",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Coup de Pouce du Destin",
+			"description": "Une fois par partie, ajoutez [BO][BO] à n'importe quel test."
 		},
 		{
 			"id": "Toughened",
@@ -2597,7 +2603,7 @@
 		{
 			"id": "Translation Error",
 			"name": "Translation Error",
-			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Transmogrify",
@@ -2631,13 +2637,13 @@
 		},
 		{
 			"id": "Uncanny Reactions",
-			"name": "Uncanny Reactions",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Réaction Fulgurante",
+			"description": "Ajouter [BO] par rang de Réaction fulgurante aux tests de Vigilance."
 		},
 		{
 			"id": "Uncanny Senses",
-			"name": "Uncanny Senses",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Sens Surdéveloppés",
+			"description": "Ajoutez [BO] par rang de Sens surdéveloppé aux tests de Perception."
 		},
 		{
 			"id": "Unity Assault",
@@ -2672,7 +2678,7 @@
 		{
 			"id": "Utility Belt (Improved)",
 			"name": "Utility Belt (Improved)",
-			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Utinni!",
@@ -2686,8 +2692,8 @@
 		},
 		{
 			"id": "Valuable Facts",
-			"name": "Valuable Facts",
-			"description": "Please see page 34 of the Desperate Allies Sourcebook, page 153 of the Force and Destiny Core Rulebook, or page 43 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4][H4]Page 43 - Rise of the Separatists[h4]"
+			"name": "Info Précieuse",
+			"description": "Une fois par rencontre, accomplissez une action Info précieuse : efffectuez un test de connaissance Moyen ([DI][DI]). S'il est réussi, ajoutez [TR] au test de compétence d'un allié pendant la rencontre."
 		},
 		{
 			"id": "Vehicle Combat Training",
@@ -2711,8 +2717,8 @@
 		},
 		{
 			"id": "Well Rounded",
-			"name": "Well Rounded",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 159 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 159 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Accompli",
+			"description": "Choississez 2 compétences. Elles deviennent à tout jamais des compétences de carrière."
 		},
 		{
 			"id": "Well Traveled",
@@ -2727,7 +2733,7 @@
 		{
 			"id": "Will of the Force",
 			"name": "Will of the Force",
-			"description": "Please see page 43 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Rise of the Separatists[h4]"
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Wise Warrior",

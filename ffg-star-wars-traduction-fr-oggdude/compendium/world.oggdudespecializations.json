@@ -573,6 +573,81 @@
 			"id": "Thief",
 			"name": "Voleur",
 			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Discr&eacute;tion, Informatique, Magouille, Vigilance</h3>\n<p>&nbsp;</p>\n<p>Page 85 du livre Aux confins de l'Empire pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "ARC Trooper",
+			"name": "Soldat ARC",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Coordination, Discr&eacute;tion, M&eacute;canique, Pilotage (plan&eacute;taire)</h3>\n<p>&nbsp;</p>\n<p>Page 21 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Clone Commander",
+			"name": "Commandant Clone",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Commandement, Connaissance (Monde du Noyau), Connaissance (Strat&eacute;gie), Perception</h3>\n<p>&nbsp;</p>\n<p>Page 22 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Clone Veteran",
+			"name": "Véteran Clone",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Corps &agrave; corps, Magouilles, R&eacute;sistance, Survie</h3>\n<p>&nbsp;</p>\n<p>Page 23 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Death Watch Warrior",
+			"name": "Guerrier Death Watch",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Coercition, Distance (armes l&eacute;g&egrave;res), M&eacute;canique, Pilotage (plan&eacute;taire),&nbsp;</h3>\n<p>&nbsp;</p>\n<p>Page 28 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Force Adherent",
+			"name": "Adhérent de la Force",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Connaissance (Culture), Corps &agrave; corps, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<p>Page 99 de Dawn of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "General",
+			"name": "Général Jedi",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Commandement, Connaissance (Strat&eacute;gie), Pilotage (plan&eacute;taire), Vigilance</h3>\n<p><strong>Pr&eacute;requis : Rang de force 2</strong>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Page 26 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Imperial Academy Cadet",
+			"name": "Cadet de l'Académie Impérial",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Commandement, Connaissance (Strat&eacute;gie), Distance (armes l&eacute;g&egrave;res), Pilotage (espace)</h3>\n<p>&nbsp;</p>\n<p>Page 101 de Dawn of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Master",
+			"name": "Maître Jedi",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Charme, Connaissance (Education), Connaissance (Monde du Noyau), Perception&nbsp;</h3>\n<p><strong>Pr&eacute;requis : Rang de force 3</strong></p>\n<p>&nbsp;</p>\n<p>Page 27 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Nightsister",
+			"name": "Soeur de la Nuit",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Connaissance (Culture), Discr&eacute;tion, Sang-froid, Survie</h3>\n<p>&nbsp;</p>\n<p>Page 31 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Padawan Survivor",
+			"name": "Padawan Survivant",
+			"description": "<p><strong>Gagne Rang de force 1</strong></p>\n<p>&nbsp;</p>\n<p>Page 102 de Dawn of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Pirate",
+			"name": "Pirate",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Coercition, Connaissance (P&egrave;gre), Magouilles, Tromperie</h3>\n<p>&nbsp;</p>\n<p>Page 105 de Dawn of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Retired Clone Trooper",
+			"name": "Soldat Clone à la Retraite",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Connaissance (Strat&eacute;gie), Distance (armes l&eacute;g&egrave;res), Distance (armes lourdes), R&eacute;sistance, Sang-froid, Vigilance</h3>\n<p>&nbsp;</p>\n<p>Page 107 de Dawn of Rebellion pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Senator",
+			"name": "Sénateur",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Charme, Connaissance (Education), N&eacute;gociation, Tromperie,&nbsp;</h3>\n<p>&nbsp;</p>\n<p>Page 33 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Separatist Commander",
+			"name": "Commandant Séparatiste",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Commandement, Connaissance (Strat&eacute;gie), Tromperie, Vigilance</h3>\n<p>&nbsp;</p>\n<p>Page 35 de Collapse of the Republic pour plus de d&eacute;tails</p>"
+		},
+		{
+			"id": "Ship Captain",
+			"name": "Capitaine de Vaisseau",
+			"description": "<h2>Comp&eacute;tences</h2>\n<h3>Charme, Commandement, N&eacute;gociation, Pilotage (espace)</h3>\n<p>&nbsp;</p>\n<p>Page 108 de Dawn of Rebellion pour plus de d&eacute;tails</p>"
 		}
 	]
 }
