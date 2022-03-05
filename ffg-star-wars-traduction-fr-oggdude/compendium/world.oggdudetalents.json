@@ -116,7 +116,7 @@
 		},
 		{
 			"id": "Bad Cop",
-			"name": "Bad Cop",
+			"name": "Méchant Flic",
 			"description": "<p>Le personnage peut d&eacute;penser [AD][AD] obtenus lors d'un <strong>test de Coercition ou de Tromperie</strong> pour am&eacute;liorer des d&eacute;s d'aptitude d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible. Le nombre de d&eacute;s am&eacute;lior&eacute;s est &eacute;gal au rang de <em>M&eacute;chant Flic</em>..</p>\n<p><em>Page 33 du livre Horizon lointain </em><em>ou page 30 de&nbsp;</em>Cyphers and Masks<em> pour plus de d&eacute;tails.</em></p>"
 		},
 		{
@@ -206,12 +206,12 @@
 		},
 		{
 			"id": "Blooded",
-			"name": "Blooded",
+			"name": "Antitoxine",
 			"description": "<p>Ajouter [BO] par rang d'Antitoxine &agrave; tous les tests pour r&eacute;sister aux poisons, venins et autres toxines, ou pour s'en remettre. R&eacute;duisez la dur&eacute;e des poisons de 1 round par rang d'Antitoxine, jusqu'&agrave; un minimum de 1.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 32 de&nbsp;</em>Unlimited Power<em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Blooded (Improved)",
-			"name": "Blooded (Improved)",
+			"name": "Antitoxine (Amélioré)",
 			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
 		},
 		{
@@ -221,7 +221,7 @@
 		},
 		{
 			"id": "Body Guard (Improved)",
-			"name": "Body Guard (Improved)",
+			"name": "Body Guard (Amélioré)",
 			"description": "Please see page 140 of the Force and Destiny Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
 		},
 		{
@@ -241,12 +241,12 @@
 		},
 		{
 			"id": "Brace",
-			"name": "Brace",
+			"name": "Stabilité",
 			"description": "<p>Ex&eacute;cutez une manoeuvre pour retirer [SE] par rang de Stabilit&eacute; &agrave; votre prochaine action. Cela ne peut retirer que les [SE] li&eacute;s &agrave; l'environement.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 37 de&nbsp; </em>Rise of the Separatists.</p>"
 		},
 		{
 			"id": "Brace (Improved)",
-			"name": "Brace (Improved)",
+			"name": "Stabilité (Amélioré)",
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
@@ -526,7 +526,7 @@
 		},
 		{
 			"id": "Dedication",
-			"name": "Dedication",
+			"name": "Entraînement",
 			"description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>"
 		},
 		{
@@ -701,7 +701,7 @@
 		},
 		{
 			"id": "Enduring",
-			"name": "Enduring",
+			"name": "Endurance",
 			"description": "<p>Augmentez votre valeur d'encaissement de +1.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 100 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -956,7 +956,7 @@
 		},
 		{
 			"id": "Good Cop",
-			"name": "Good Cop",
+			"name": "Bon Flic",
 			"description": "<p>Le personnage peut d&eacute;penser [AD][AD]&nbsp; obtenus lors d'<strong>un test de Charme ou de N&eacute;gociation&nbsp;</strong>pour am&eacute;liorer des d&eacute;s d'aptitude (autant que son rang de Bon Flic) d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain ou page 34 de&nbsp;</em>No Disintegrations<em> ou page 30 de </em>Cyphers and Masks<em>&nbsp;pour plus de d&eacute;tails.</em></p>"
 		},
 		{
@@ -991,12 +991,12 @@
 		},
 		{
 			"id": "Hard Headed",
-			"name": "Hard Headed",
+			"name": "Tête dure",
 			"description": "<p>Lorsque vous &ecirc;tes &eacute;tourdi ou d&eacute;sorient&eacute;, entreprenez l'action de T&ecirc;te dure : effectuez un <strong>test de Sang-froid Intimidant ([DI][DI][DI][DI])</strong> pour vous d&eacute;barasser de ce statut. La difficult&eacute; diminue de 1 par rang suppl&eacute;mentaire de T&ecirc;te dure.</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de&nbsp;</em>Knights of Fate<em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Hard Headed (Improved)",
-			"name": "Hard Headed (Improved)",
+			"name": "Tête dure (Amélioré)",
 			"description": "<p>Le personnage peut utiliser son action de&nbsp;<em>T&ecirc;te dure&nbsp;</em>quand il est neutralis&eacute; pour avoir d&eacute;pass&eacute; son seuil de stress. En cas de succ&egrave;s, il ram&egrave;ne son stress a un point au-dessous de son seuil.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de Knights of Fate</em></p>"
 		},
 		{
@@ -1036,7 +1036,7 @@
 		},
 		{
 			"id": "Heroic Fortitude",
-			"name": "Heroic Fortitude",
+			"name": "Résistance Héroïque",
 			"description": "<p>Vous pouvez d&eacute;penser 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Vigueur et d'Agilit&eacute; jusqu'a la fin de la rencontre.</p>\n<p>&nbsp;</p>\n<p><em>Page 137du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>\n<p>&nbsp;</p>"
 		},
 		{
@@ -1076,7 +1076,7 @@
 		},
 		{
 			"id": "Hunter",
-			"name": "Hunter",
+			"name": "Chasseur",
 			"description": "<p>Ajoutez [BO] par rang de Chasseur &agrave; tous les tests concernant des interactions avec des b&ecirc;tes sauvages et des animaux (y compris les tests de combat). Ajoutez +10 par rang de Chasseur aux r&eacute;sultats des blessures critiques contre les b&ecirc;tes sauvages et les animaux.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 137 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion </em><em>pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -1261,7 +1261,7 @@
 		},
 		{
 			"id": "Inventor",
-			"name": "Inventor",
+			"name": "Inventeur",
 			"description": "<p>Quand vous fabriquez de nouveaux objets ou modifiez des kits existants, ajoutez [BO] ou retirez [SE] par rang d'inventeur.</p>\n<p>&nbsp;</p>\n<p><em>Page 137 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 146 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -1291,7 +1291,7 @@
 		},
 		{
 			"id": "Jury Rigged",
-			"name": "Jury Rigged",
+			"name": "Bidouillage",
 			"description": "<p>Choississez 1 arme, armure ou autre objet et offrez-lui une am&eacute;lioration valable permanente tant qu'il/elle est utilis&eacute;(e).</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -1356,7 +1356,7 @@
 		},
 		{
 			"id": "Known Schematic",
-			"name": "Known Schematic",
+			"name": "Schémas Connus",
 			"description": "<p>Une fois par partie, ex&eacute;cutez la manoeuvre de Sch&eacute;mas connus : effectuez un <strong>test de Connaissance (Education) Difficile ([DI][DI][DI])</strong>. Un succ&egrave;s signifie que vous connaissez bien le plan d'un b&acirc;timent ou d'un vaisseau.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -1641,7 +1641,7 @@
 		},
 		{
 			"id": "Natural Outdoorsman",
-			"name": "Natural Outdoorsman",
+			"name": "Baroudeur-Né",
 			"description": "<p>Une fois par partie, vous pouvez relancer 1 test de R&eacute;sistance ou de Survie.</p>\n<p>&nbsp;</p>\n<p><em>Page 139 du livre Aux confins de l'Empire ou page 153 de l'Age de la Rebellion ou page 148 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -1746,7 +1746,7 @@
 		},
 		{
 			"id": "Outdoorsman",
-			"name": "Outdoorsman",
+			"name": "Baroudeur",
 			"description": "<p>Retirez [SE] par rang de Baroudeur aux tests effectu&eacute;s pour se d&eacute;placer au sol ou pour g&eacute;rer les effets d'un environnement. R&eacute;duisez de moiti&eacute; le temps de voyage terrestre.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>\n<p>&nbsp;</p>"
 		},
 		{
@@ -2297,7 +2297,7 @@
 		},
 		{
 			"id": "Solid Repairs",
-			"name": "Solid Repairs",
+			"name": "Réparations solides",
 			"description": "<p>Quand vous r&eacute;parez un v&eacute;hicule ou un vaisseau spatial, vous restaurez +1 d&eacute;g&acirc;t de coque par rang de R&eacute;paration solides</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -2332,17 +2332,17 @@
 		},
 		{
 			"id": "Speaks Binary",
-			"name": "Speaks Binary",
+			"name": "Langage Binaire",
 			"description": "<p>Quand vous donnez des ordres aux droids PNJ, vous gagnez [BO] aux tests par rang de Langage Binaire.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion ou page 35 de Modifications sp&eacute;ciales pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Speaks Binary (Improved)",
-			"name": "Speaks Binary (Improved)",
+			"name": "Langage Binaire (Amélioré)",
 			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
 		},
 		{
 			"id": "Speaks Binary (Supreme)",
-			"name": "Speaks Binary (Supreme)",
+			"name": "Langage Binaire (Supreme)",
 			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
 		},
 		{
@@ -2367,7 +2367,7 @@
 		},
 		{
 			"id": "Stalker",
-			"name": "Stalker",
+			"name": "Filature",
 			"description": "<p>Ajoutez [BO] par rang de Filature &agrave; tous vos tests de Coordination et de Discretion.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion</em></p>"
 		},
 		{
@@ -2492,7 +2492,7 @@
 		},
 		{
 			"id": "Swift",
-			"name": "Swift",
+			"name": "Vivacité",
 			"description": "<p>Vous ne subissez pas les malus habituels pour vous d&eacute;placer en terrain difficile.</p>\n<p>&nbsp;</p>\n<p><em>Page 144 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -2572,12 +2572,12 @@
 		},
 		{
 			"id": "Time to Go (Improved)",
-			"name": "Time to Go (Improved)",
+			"name": "Time to Go (Amélioré)",
 			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
 			"id": "Tinkerer",
-			"name": "Tinkerer",
+			"name": "Customisation",
 			"description": "<p>Vous pouvez ajouter 1 emplacement &agrave; un nombre d'objet &eacute;gal &agrave; votre rang en Customization. Chaque objet ne peut &ecirc;tre modifi&eacute; qu'une fois.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
 		},
 		{
@@ -2587,12 +2587,12 @@
 		},
 		{
 			"id": "Toughened",
-			"name": "Toughened",
+			"name": "Endurci",
 			"description": "<p>Augmentez votre seuil de blessure de +2.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Toughened (Improved)",
-			"name": "Toughened (Improved)",
+			"name": "Endurci (Amélioré)",
 			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
 		},
 		{
@@ -2652,12 +2652,12 @@
 		},
 		{
 			"id": "Unrelenting Skeptic",
-			"name": "Unrelenting Skeptic",
+			"name": "On ne me la fait pas",
 			"description": "<p>Lorsque le personnage est cibl&eacute; par un jet tromperie, il ajoute automatiquement autant de [FA] que son rang en vigilance&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizons lointains ou page 31 de&nbsp;</em>Endless Vigil<em>&nbsp;</em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Unrelenting Skeptic (Improved)",
-			"name": "Unrelenting Skeptic (Improved)",
+			"name": "On ne me la fait pas (Amélioré)",
 			"description": "<p>Lorsque le personnage est la cible d'un test de Tromperie qui &eacute;choue, il peut d&eacute;penser 1 point de Destin pour ajouter r&eacute;troactivement [DE] au r&eacute;sultat.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain&nbsp;</em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -2672,18 +2672,18 @@
 		},
 		{
 			"id": "Utility Belt",
-			"name": "Utility Belt",
+			"name": "Ceinture à Gadgets",
 			"description": "<p>D&eacute;pensez 1 point de Destin pour &eacute;x&eacute;cuter une broutille; sortez d'une ceinture &agrave; outil ou d'une sacoche un objet ou une arme (sous certaines restrictions) ne figurant pas sur votre liste d'&eacute;quipement.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 159 de l'Age de la Rebellion ou&nbsp;</em><em>Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Utility Belt (Improved)",
-			"name": "Utility Belt (Improved)",
+			"name": "Ceinture à Gadgets (Amélioré)",
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Utinni!",
-			"name": "Utinni!",
-			"description": "<p>Retirez [SE] par rang d'Utinni! aux tests effectu&eacute;s pour trouver ou r&eacute;cup&eacute;rer des objets ou de l'&eacute;quipement. Ces tests Prennent la moiti&eacute; de leur dur&eacute;e normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
+			"name": "Utinni !",
+			"description": "<p>Retirez [SE] par rang d'Utinni ! aux tests effectu&eacute;s pour trouver ou r&eacute;cup&eacute;rer des objets ou de l'&eacute;quipement. Ces tests Prennent la moiti&eacute; de leur dur&eacute;e normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Vaapad Control",
