@@ -1,6 +1,1950 @@
 {
 	"label": "oggdude.Weapons",
-	"mapping": {
-		"description": "data.description"
-	}
+	"entries": [
+		{
+			"id": "\"Firecaller\" Light Flame Projector",
+			"name": "\"Firecaller\" Light Flame Projector",
+			"description": "[H3]\"Firecaller\" Light Flame Projector[h3]\n      Please see page 44 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - No Disintegrations[h4]"
+		},
+		{
+			"id": "\"Impact\" Repulsor Cannon",
+			"name": "\"Impact\" Repulsor Cannon",
+			"description": "[H3]Nova Design \"Impact\" Repulsor Cannon[h3]\n      Please see page 45 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - No Disintegrations[h4]"
+		},
+		{
+			"id": "\"Peacekeeper\" Stun Baton",
+			"name": "\"Peacekeeper\" Stun Baton",
+			"description": "[H3]Czerka \"Peacekeeper\" Stun Baton[h3]\n      Please see page 48 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - No Disintegrations[h4]"
+		},
+		{
+			"id": "\"Precision-X\" Marksman Rifle",
+			"name": "\"Precision-X\" Marksman Rifle",
+			"description": "[H3]\"Precision-X\" Marksman Rifle[h3]\n      Please see page 44 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - No Disintegrations[h4]<div>When set to stun, range changes to medium. </div>"
+		},
+		{
+			"id": "\"Renegade\" Heavy Blaster Pistol",
+			"name": "\"Renegade\" Heavy Blaster Pistol",
+			"description": "[H3]SoroSuub \"Renegade\" Heavy Blaster Pistol[h3]\n      Please see page 106 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 106 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "\"Subduer-9\" Riot Blaster",
+			"name": "\"Subduer-9\" Riot Blaster",
+			"description": "[H3]\"Subduer-9\" Riot Blaster[h3]\n      Please see page 44 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - No Disintegrations[h4]"
+		},
+		{
+			"id": "1.8 FD Anti-Infantry Autoturret",
+			"name": "1.8 FD Anti-Infantry Autoturret",
+			"description": "[H3]Atgar SpaceDefense 1.8 FD Anti-Infantry Autoturret[h3]\n      Please see page 45 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Forged in Battle[h4]<div>While attached to a suitable power source (such as a base's power grid or a similarly-sized generator), this wweapon loses the Limited Ammo 8 quality. Wiring the weapon into a power source requires several minutes and an [B]Easy ([DI]) Mechanics check[b]. </div>"
+		},
+		{
+			"id": "12 Defender",
+			"name": "12 Defender",
+			"description": "[H3]12 Defender[h3]\n      Please see page 40 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Far Horizons[h4]<div>Add [SETBACK][SETBACK] to Perception and Computers checks to find this weapon on a body.  May not be reloaded. </div>"
+		},
+		{
+			"id": "411 Holdout Blaster",
+			"name": "411 Holdout Blaster",
+			"description": "[H3]Czerka Arms 411 Holdout Blaster[h3]\n      Please see page 43 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fly Casual[h4]<div>Adds [SE] to Perception checks when attempting to locate holdout blaster on a person's body </div>"
+		},
+		{
+			"id": "8-Gauge Scatter Gun",
+			"name": "8-Gauge Scatter Gun",
+			"description": "[H3]Adostic Arms 8-Gauge Scatter Gun[h3]\n      Please see page 44 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Fly Casual[h4]"
+		},
+		{
+			"id": "A280 Heavy Blaster Rifle",
+			"name": "A280 Heavy Blaster Rifle",
+			"description": "[H3]BlasTech A280 Heavy Blaster Rifle[h3]\n      Please see page 43 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Forged in Battle[h4]<div>Reduce the difficulty of Mechanics checks to repair a BlasTech A280 heavy blaster rifle by 1 (to a minimum of [B]Simple [-][b]). </div>"
+		},
+		{
+			"id": "A280-CFE Convertible Heavy Blaster Pistol (Pistol Mode)",
+			"name": "A280-CFE Convertible Heavy Blaster Pistol (Pistol Mode)",
+			"description": "[H3]BlasTech A280-CFE Convertible Heavy Blaster Pistol (Pistol Mode)[h3]\n      Please see page 38 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Cyphers and Masks[h4]<div>May spend a maneuver to convert to and from pistol and rifle mode. </div>"
+		},
+		{
+			"id": "A280-CFE Convertible Heavy Blaster Pistol (Rifle Mode)",
+			"name": "A280-CFE Convertible Heavy Blaster Pistol (Rifle Mode)",
+			"description": "[H3]BlasTech A280-CFE Convertible Heavy Blaster Pistol (Rifle Mode)[h3]\n      Please see page 38 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Cyphers and Masks[h4]<div>May spend a maneuver to convert to and from pistol and rifle mode. </div>"
+		},
+		{
+			"id": "A95 Stingbeam",
+			"name": "A95 Stingbeam",
+			"description": "[H3]Czerka Arms A95 Stingbeam[h3]\n      Please see page 42 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Fly Casual[h4]<div>Add [SE][SE] to a character's Perception checks to find a stingbeam on a person's body. </div>"
+		},
+		{
+			"id": "AB-75 Bo-Rifle",
+			"name": "AB-75 Bo-Rifle",
+			"description": "[H3]AB-75 Bo-Rifle[h3]\n      Please see page 46 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Unlimited Power[h4]<div>As a maneuver, may convert the bo-rifle to melee mode. </div>"
+		},
+		{
+			"id": "ACP Array Gun",
+			"name": "ACP Array Gun",
+			"description": "[H3]ACP Array Gun[h3]\n      Please see page 42 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "ACP Repeater Gun",
+			"name": "ACP Repeater Gun",
+			"description": "[H3]Arakyd Industries ACP Repeater Gun[h3]\n      Please see page 100 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 100 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "AJ-23 Concussive Rifle",
+			"name": "AJ-23 Concussive Rifle",
+			"description": "[H3]Merr-Sonn AJ-23 Concussive Rifle[h3]\n      Please see page 42 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "AO14 \"Aranea\" Net Gun",
+			"name": "AO14 \"Aranea\" Net Gun",
+			"description": "[H3]AO14 \"Aranea\" Net Gun[h3]\n      Please see page 42 of the Enter the Unknown Sourcebook, or page 41 of the Savage Spirits Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 42 - Enter the Unknown[h4][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "AP-M1 Armor Piercing Grenade",
+			"name": "AP-M1 Armor Piercing Grenade",
+			"description": "[H3]AP-M1 Armor Piercing Grenade[h3]\n      Please see page 52 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "ASP-9 \"Vrelt\" Autopistol",
+			"name": "ASP-9 \"Vrelt\" Autopistol",
+			"description": "[H3]ASP-9 \"Vrelt\" Autopistol[h3]\n      Please see page 96 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 96 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Ancient Sword",
+			"name": "Ancient Sword",
+			"description": "[H3]Ancient Sword[h3]\n      Please see page 172 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 172 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Anti-Armor Micro-Rocket",
+			"name": "Anti-Armor Micro-Rocket",
+			"description": "[H3]Anti-Armor Micro-Rocket[h3]\n      Please see page 46 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Anti-Personnel Mine",
+			"name": "Anti-Personnel Mine",
+			"description": "[H3]Anti-Personnel Mine[h3]\n      Please see page 179 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 179 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Anti-Vehicle Mine",
+			"name": "Anti-Vehicle Mine",
+			"description": "[H3]Anti-Vehicle Mine[h3]\n      Please see page 179 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 179 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Arg'garok",
+			"name": "Arg'garok",
+			"description": "[H3]Arg'garok[h3]\n      Please see page 103 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 103 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "Armor Piercing Grenade",
+			"name": "Armor Piercing Grenade",
+			"description": "[H3]Armor-Piercing Grenade[h3]\n      Please see page 179 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 179 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Arquebus",
+			"name": "Arquebus",
+			"description": "[H3]Arquebus[h3]\n      Please see page 47 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Unlimited Power[h4]<div>As a maneuver, wielder may suffer up to 5 strain.  Next attack with arquebus gains Pierce quality with rating equal to strain suffered. </div>"
+		},
+		{
+			"id": "Ascian Throwing Dagger",
+			"name": "Ascian Throwing Dagger",
+			"description": "[H3]Ascian Throwing Dagger[h3]\n      Please see page 45 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Fly Casual[h4]<div>When attacking, do not increase the difficulty of the check for being engaged. </div>"
+		},
+		{
+			"id": "Ashla Staff",
+			"name": "Ashla Staff",
+			"description": "[H3]Ashla Staff[h3]\n      Please see page 49 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 49 - Unlimited Power[h4]<div>When wielder makes a Force power check, may spend 3 strain to add [LI] to result. </div>"
+		},
+		{
+			"id": "Aurateran Boomerang",
+			"name": "Aurateran Boomerang",
+			"description": "[H3]Aurateran Boomerang[h3]\n      Please see page 102 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Nexus of Power[h4]<div>If retrieved, boomerang can be used again. </div><div>May spend [AD] on missed attack to have boomerange return to thrower's hand. </div>"
+		},
+		{
+			"id": "BKX-4 \"Shockwave\" Grenade",
+			"name": "BKX-4 \"Shockwave\" Grenade",
+			"description": "[H3]BKX-4 \"Shockwave\" Grenade[h3]\n      See page 39 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Fully Operational[h4]<div>If Disorient or Knockdown qualities are activated, they affect all characters at short range, even if not damaged. </div>"
+		},
+		{
+			"id": "BR-219 Heavy Blaster Pistol",
+			"name": "BR-219 Heavy Blaster Pistol",
+			"description": "[H3]BR-219 Heavy Blaster Pistol[h3]\n      Please see page 40 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Endless Vigil[h4]<div>GM may spend [TH][TH] to damage weapon one step </div><div>GM may spend [DE] to cause weapon to meltdown and explode, destroying weapon and causing base damage to wielder </div>"
+		},
+		{
+			"id": "BT X-42 Heavy Flame Projector",
+			"name": "BT X-42 Heavy Flame Projector",
+			"description": "[H3]BT X-42 Heavy Flame Projector[h3]\n      Please see page 52 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Rise of the Separatists[h4]<div>GM may spend [TH][TH][TH] to have it overheat and inoperable for three turns. </div><div>GM may spend [DE] to have it explode, dealing full damage to user and Blast damage to anything engaged with user. </div>"
+		},
+		{
+			"id": "Backhand Shock Gloves",
+			"name": "Backhand Shock Gloves",
+			"description": "[H3]Backhand Shock Gloves[h3]\n      Please see page 42 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Far Horizons[h4]"
+		},
+		{
+			"id": "Baradium Charge",
+			"name": "Baradium Charge",
+			"description": "[H3]Baradium Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook, or page 41 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4][H4]Page 41 - Fully Operational[h4]<div>Damage uses Planetary scale, Blast uses Personal scale. [DESPAIR] means it detonates immediately. +50 to critical if Engaged when detonates. </div>"
+		},
+		{
+			"id": "Bardottan Electrolance",
+			"name": "Bardottan Electrolance",
+			"description": "[H3]Bardottan Electrolance[h3]\n      Please see page 103 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 103 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Basic Lightsaber",
+			"name": "Basic Lightsaber",
+			"description": "[H3]Basic Lightsaber[h3]\n      Please see page 176 of the Force and Destiny Core Rulebook, or page 54 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 176 - Force and Destiny Core Rulebook[h4][H4]Page 54 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Basic Lightsaber Hilt",
+			"name": "Basic Lightsaber Hilt",
+			"description": "[H3]Basic Lightsaber Hilt[h3]\n      Please see page 177 of the Force and Destiny Core Rulebook, or page 54 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 177 - Force and Destiny Core Rulebook[h4][H4]Page 54 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Berserker Rifle",
+			"name": "Berserker Rifle",
+			"description": "[H3]Berserker Rifle[h3]\n      Please see page 46 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Blade-Breaker",
+			"name": "Blade-Breaker",
+			"description": "[H3]Blade-Breaker[h3]\n      Please see page 46 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Fly Casual[h4]"
+		},
+		{
+			"id": "Blast Knuckles",
+			"name": "Blast Knuckles",
+			"description": "[H3]Blast Knuckles[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]<div>Cannot deal strain damage - Cannot deal strain damage </div><div>Every successful hit inflicts 1 strain on wielder. </div>"
+		},
+		{
+			"id": "Blaster Carbine",
+			"name": "Blaster Carbine",
+			"description": "[H3]Blaster Carbine[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, page 175 of the Age of Rebellion Core Rulebook, or page 168 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 175 - Age of Rebellion Core Rulebook[h4][H4]Page 168 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Blaster Pistol",
+			"name": "Blaster Pistol",
+			"description": "[H3]Blaster Pistol[h3]\n      Please see page 161 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 161 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Blaster Rifle",
+			"name": "Blaster Rifle",
+			"description": "[H3]Blaster Rifle[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, page 175 of the Age of Rebellion Core Rulebook, or page 168 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 175 - Age of Rebellion Core Rulebook[h4][H4]Page 168 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Blue Shadow Grenade",
+			"name": "Blue Shadow Grenade",
+			"description": "[H3]Blue Shadow Grenade[h3]\n      Please see page 48 of the Unlimited Power sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Unlimited Power[h4]<div>All targets suffering at least 1 wound, or are within medium range without environmental protection, must make a [B]Formidable ([DI][DI][DI][DI][DI]) Resilience check[b].  Target suffers 2 wound and 2 strain per [TH] and a +50 Critical Injury if check failed.  [DE] means they must make check again at start of next turn. </div>"
+		},
+		{
+			"id": "Bola Carbine",
+			"name": "Bola Carbine",
+			"description": "[H3]Bola Carbine[h3]\n      Please see page 104 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Bola/Net",
+			"name": "Bola/Net",
+			"description": "[H3]Bola or Net[h3]\n      Please see page 164 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 164 - Edge of the Empire Core Rulebook[h4]<div>User may spend [TR] on a successful hit so that target may not perform any maneuvers, and the only action the target may perform is a [B]Formidable ([DI][DI][DI][DI][DI]) Athletics check[b]\n        to free himself. </div>"
+		},
+		{
+			"id": "Boonta Blaster",
+			"name": "Boonta Blaster",
+			"description": "[H3]Boonta Blaster[h3]\n      Please see page 100 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 100 - Lords of Nal Hutta[h4]<div>Add [SETBACK] to Perception checks to find a Boonta Blaster on a wearer's body. </div><div>Remove [SETBACK] from the wearer's Deception checks to explain away the Boonta Blaster as purely ornamental or otherwise non-threatening. </div>"
+		},
+		{
+			"id": "Borstel Neuronic Lash",
+			"name": "Borstel Neuronic Lash",
+			"description": "[H3]Borstel Neuronic Lash[h3]\n      Please see page 44 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Bowcaster",
+			"name": "Bowcaster",
+			"description": "[H3]Bowcaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Brass Knuckles",
+			"name": "Brass Knuckles",
+			"description": "[H3]Brass Knuckles[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook, page 180 of the Age of Rebellion Core Rulebook, or page 171 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4][H4]Page 180 - Age of Rebellion Core Rulebook[h4][H4]Page 171 - Force and Destiny Core Rulebook[h4]<div>Add [SETBACK] to Perception checks to find brass knuckles on a person's body. </div>"
+		},
+		{
+			"id": "Broadsaber",
+			"name": "Broadsaber",
+			"description": "[H3]Broadsaber[h3]\nPlease see page 43 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Broadsaber Hilt",
+			"name": "Broadsaber Hilt",
+			"description": "[H3]Broadsaber Hilt[h3]\nPlease see page 43 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Knights of Fate[h4]<div>Additional Damage for Crystal Mod - Damage for Crystal +1 </div>"
+		},
+		{
+			"id": "C-10 \"Dragoneye Reaper\" Heavy Blaster Pistol",
+			"name": "C-10 \"Dragoneye Reaper\" Heavy Blaster Pistol",
+			"description": "[H3]Czerka Arms C-10 \"Dragoneye Reaper\" Heavy Blaster Pistol[h3]\n      Please see page 43 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fly Casual[h4]"
+		},
+		{
+			"id": "C-88 Fragmentation Missile",
+			"name": "C-88 Fragmentation Missile",
+			"description": "[H3]C-88 Fragmentation Missile[h3]\n      Please see page 42 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Dangerous Covenants[h4][H4]Page 46 - Knights of Fate[h4]"
+		},
+		{
+			"id": "C-908 Incendiary Missile",
+			"name": "C-908 Incendiary Missile",
+			"description": "[H3]C-908 Incendiary Missile[h3]\n      Please see page 42 of the Dangerous Covenants Sourcebook, or page 46 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 42 - Dangerous Covenants[h4][H4]Page 46 - Knights of Fate[h4]"
+		},
+		{
+			"id": "CDEF Blaster Pistol",
+			"name": "CDEF Blaster Pistol",
+			"description": "[H3]CDEF Blaster Pistol[h3]\n      Please see page 94 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 94 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "CR-2 Heavy Blaster Pistol",
+			"name": "CR-2 Heavy Blaster Pistol",
+			"description": "[H3]CR-2 Heavy Blaster Pistol[h3]\n      Please see page 96 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 96 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "CR-8 Takedown Rifle",
+			"name": "CR-8 Takedown Rifle",
+			"description": "[H3]Corellian Arms CR-8 Takedown Rifle[h3]\n      Please see page 40 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Savage Spirits[h4]<div>When CR-8 is properly broken down and concealed, add [SE][SE] to Perception checks made to find it on a person. </div>"
+		},
+		{
+			"id": "CS-12 Stun Master",
+			"name": "CS-12 Stun Master",
+			"description": "[H3]SoroSuub CS-12 Stun Master[h3]\n      Please see page 108 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 108 - Strongholds of Resistance[h4]<div>Adds [SE] to Perception checks to find a stun master on an individual. </div>"
+		},
+		{
+			"id": "CS14 \"Ghost\" Light Blaster Pistol",
+			"name": "CS14 \"Ghost\" Light Blaster Pistol",
+			"description": "[H3]BlasTech CS14 \"Ghost\" Light Blaster Pistol[h3]\n      Please see page 38 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Cyphers and Masks[h4]<div>Finding a CS14 on a person requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. </div><div>Finding a CS14 on a person with a scanner requires a [B]Daunting ([DI][DI][DI][DI]) Computers check[b]. </div>"
+		},
+		{
+			"id": "CSPL-12 Projectile Launcher (Frag Grenade)",
+			"name": "CSPL-12 Projectile Launcher (Frag Grenade)",
+			"description": "[H3]CSPL-12 Projectile Launcher (Frag Grenade)[h3]\n      Please see page 47 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Forged in Battle[h4]<div>The GM may spend [DE] from a combat check with this weapon to cause it to jam, detonating the contents, inflicting a hit from the loaded grenade on the wielder and each character at engaged range, and damaging the weapon two steps. The GM may spend additional [DE] to trigger one of the loaded grenade's qualities. </div>"
+		},
+		{
+			"id": "CZ-28 Flamestrike",
+			"name": "CZ-28 Flamestrike",
+			"description": "[H3]CZ-28 Flamestrike[h3]\n      Please see page 45 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Ceremonial Blade",
+			"name": "Ceremonial Blade",
+			"description": "[H3]Ceremonial Blade[h3]\n      Please see page 46 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Desperate Allies[h4]<div>Add [BOOST] when attempting to convince others to allow him to retain his ceremonial blade. </div>"
+		},
+		{
+			"id": "Combat Knife",
+			"name": "Combat Knife",
+			"description": "[H3]Combat Knife[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook, page 181 of the Age of Rebellion Core Rulebook, or page 172 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4][H4]Page 181 - Age of Rebellion Core Rulebook[h4][H4]Page 172 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Contained Energy Axe",
+			"name": "Contained Energy Axe",
+			"description": "[H3]Contained Energy Axe[h3]\nPlease see page 43 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Coral Pike",
+			"name": "Coral Pike",
+			"description": "[H3]Mon Calamari Coral Pike[h3]\n      Please see page 108 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 108 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Corellian Compound Bow",
+			"name": "Corellian Compound Bow",
+			"description": "[H3]Corellian Compound Bow[h3]\n      Please see page 97 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 97 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Corellian Compound Bow (Explosive Tipped)",
+			"name": "Corellian Compound Bow (Explosive Tipped)",
+			"description": "[H3]Corellian Compound Bow (Explosive Tipped)[h3]\n      Please see page 97 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 97 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Corellian Compound Bow (Stun)",
+			"name": "Corellian Compound Bow (Stun)",
+			"description": "[H3]Corellian Compound Bow (Stun)[h3]\n      Please see page 97 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 97 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Corellian Cutlass",
+			"name": "Corellian Cutlass",
+			"description": "[H3]Corellian Cutlass[h3]\n      Please see page 97 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 97 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Cortosis Shield",
+			"name": "Cortosis Shield",
+			"description": "[H3]Cortosis Shield[h3]\n      Please see page 172 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 172 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Cortosis Sword",
+			"name": "Cortosis Sword",
+			"description": "[H3]Cortosis Sword[h3]\n      Please see page 173 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 173 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Crossguard Lightsaber",
+			"name": "Crossguard Lightsaber",
+			"description": "[H3]Crossguard Lightsaber[h3]\n      Please see page 42 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Endless Vigil[h4]<div>May spend [DE] or [TH][TH][TH] on enemy Melee or Lightsaber check to disarm enemy. </div>"
+		},
+		{
+			"id": "Crossguard Lightsaber Hilt",
+			"name": "Crossguard Lightsaber Hilt",
+			"description": "[H3]Crossguard Lightsaber Hilt[h3]\n      Please see page 43 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Endless Vigil[h4]<div>May spend [DE] or [TH][TH][TH] on enemy Melee or Lightsaber check to disarm enemy. </div>"
+		},
+		{
+			"id": "CryoBan Rifle",
+			"name": "CryoBan Rifle",
+			"description": "[H3]Loronar CryoBan Rifle[h3]\n      Please see page 42 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Disciples of Harmony[h4]<div>If armor removes one or more [SE] due to extreme cold, Pierce quality counts as 0. </div><div>When making a melee attack against a target struck by a Loronar CryoBan in the current round, add [BO][BO] to the check. </div>"
+		},
+		{
+			"id": "Cryoban Projector",
+			"name": "Cryoban Projector",
+			"description": "[H3]Taggeco. Cryoban Projector[h3]\n      Please see page 45 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Fly Casual[h4]<div>Can be used to fight fires. Add [BO] to attempts to put out a fire.  Assisted checks add [BO] per character with a Cryoban Projector. </div>"
+		},
+		{
+			"id": "D-24 Inferno Grenade",
+			"name": "D-24 Inferno Grenade",
+			"description": "[H3]D-24 Inferno Grenade[h3]\n      Please see page 46 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "D-29 Repulsor Rifle",
+			"name": "D-29 Repulsor Rifle",
+			"description": "[H3]SakTek D-29 Repulsor Rifle[h3]\n      Please see page 102 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "DC-15 Blaster Rifle",
+			"name": "DC-15 Blaster Rifle",
+			"description": "[H3]DC-15 Blaster Rifle[h3]\n      Please see page 51 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "DC-15A Blaster Carbine",
+			"name": "DC-15A Blaster Carbine",
+			"description": "[H3]DC-15A Blaster Carbine[h3]\n      Please see page 51 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "DC-17 Hand Blaster",
+			"name": "DC-17 Hand Blaster",
+			"description": "[H3]DC-17 Hand Blaster[h3]\n      Please see page 51 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Rise of the Separatists[h4]<div>May run out of ammo on a [TH][TH][TH], as well as a [DE]. </div>"
+		},
+		{
+			"id": "DDC-MR6 Modular Rifle",
+			"name": "DDC-MR6 Modular Rifle",
+			"description": "[H3]DDC-MR6 Modular Rifle[h3]\n      Please see page 44 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Special Modifications[h4]<div>A character may make an [B]Average([DI][DI]) Mechanics check[b] to add or remove an attachment to a DDC-MR6 as an action. </div>"
+		},
+		{
+			"id": "DF-D1 Duo-Flechette Rifle",
+			"name": "DF-D1 Duo-Flechette Rifle",
+			"description": "[H3]Salus DF-D1 Duo-Flechette Rifle[h3]\n      Please see page 106 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 106 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "DH-17 Blaster Carbine",
+			"name": "DH-17 Blaster Carbine",
+			"description": "[H3]DH-17 Blaster Carbine[h3]\n      Please see page 43 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Forged in Battle[h4]"
+		},
+		{
+			"id": "DH-17c Short Carbine",
+			"name": "DH-17c Short Carbine",
+			"description": "[H3]BlasTech DH-17c Short Carbine[h3]\n      See page 39 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Fully Operational[h4]"
+		},
+		{
+			"id": "DH-X Heavy Blaster Rifle",
+			"name": "DH-X Heavy Blaster Rifle",
+			"description": "[H3]DH-X Heavy Blaster Rifle[h3]\n      Please see page 43 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "DL-19C Blaster Pistol",
+			"name": "DL-19C Blaster Pistol",
+			"description": "[H3]BlasTech DL-19C Blaster Pistol[h3]\n      Please see page 44 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Special Modifications[h4]<div>May Select Additional Jury Rigged Option Mod - May select 1 additional Jury Rigged option </div>"
+		},
+		{
+			"id": "DL-7h Heavy Blaster Pistol",
+			"name": "DL-7h Heavy Blaster Pistol",
+			"description": "[H3]DL-7h Heavy Blaster Pistol[h3]\n      Please see page 41 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Dangerous Covenants[h4]<div>[THREAT][THREAT] may cause weapon to run out of ammo. </div>"
+		},
+		{
+			"id": "DLS-12 Heavy Blaster Carbine",
+			"name": "DLS-12 Heavy Blaster Carbine",
+			"description": "[H3]Blastech DLS-12 Heavy Blaster Carbine[h3]\n      Please see page 42 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "DR-45 \"Dragoon\" Cavalry Blaster (Blaster Mode)",
+			"name": "DR-45 \"Dragoon\" Cavalry Blaster (Blaster Mode)",
+			"description": "[H3]DR-45 \"Dragoon\" Cavalry Blaster[h3]\n      Please see page 40 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Stay on Target[h4]"
+		},
+		{
+			"id": "DR-45 \"Dragoon\" Cavalry Blaster (Carbine Mode)",
+			"name": "DR-45 \"Dragoon\" Cavalry Blaster (Carbine Mode)",
+			"description": "[H3]DR-45 \"Dragoon\" Cavalry Blaster (Carbine Mode)[h3]\n      Please see page 40 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Stay on Target[h4]"
+		},
+		{
+			"id": "Defender Sporting Blaster Pistol",
+			"name": "Defender Sporting Blaster Pistol",
+			"description": "[H3]Defender Sporting Blaster Pistol[h3]\n      Please see page 44 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Detonite Charge",
+			"name": "Detonite Charge",
+			"description": "[H3]Detonite Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook, or page 41 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4][H4]Page 41 - Fully Operational[h4]"
+		},
+		{
+			"id": "Diiro",
+			"name": "Diiro",
+			"description": "[H3]Diiro[h3]\n      Please see page 26 of the Chronicles of the Gatekeeper Adventure Module for details.[P]\n      [I]Note: The diiro may only be found on Arbooine.[i][P][H3]Sources:[h3][H4]Page 26 - Chronicles of the Gatekeeper[h4]"
+		},
+		{
+			"id": "Disruptor Pistol",
+			"name": "Disruptor Pistol",
+			"description": "[H3]Disruptor Pistol[h3]\n      Please see page 163 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 163 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]<div>Any Critical Injury results are changed to \"Crippled\", unless result is more grievous </div>"
+		},
+		{
+			"id": "Disruptor Rifle",
+			"name": "Disruptor Rifle",
+			"description": "[H3]Disruptor Rifle[h3]\n      Please see page 163 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 163 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]<div>Any Critical Injury results are changed to \"Crippled\", unless result is more grievous </div>"
+		},
+		{
+			"id": "Double-Bladed Lightsaber",
+			"name": "Double-Bladed Lightsaber",
+			"description": "[H3]Double-Bladed Lightsaber[h3]\n      Please see page 176 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 176 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Double-Bladed Lightsaber Hilt",
+			"name": "Double-Bladed Lightsaber Hilt",
+			"description": "[H3]Double-Bladed Lightsaber Hilt[h3]\n      Please see page 125 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 125 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Double-Bladed Vibrosword",
+			"name": "Double-Bladed Vibrosword",
+			"description": "[H3]Double-Bladed Vibrosword[h3]\nPlease see page 42 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Drall Flashstick",
+			"name": "Drall Flashstick",
+			"description": "[H3]Drall Flashstick[h3]\n      Please see page 98 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 98 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Droid Disabler",
+			"name": "Droid Disabler",
+			"description": "[H3]Felebreck Droid Disabler[h3]\n      Please see page 44 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Fly Casual[h4]"
+		},
+		{
+			"id": "Droid Disruptor",
+			"name": "Droid Disruptor",
+			"description": "[H3]Droid Disruptor[h3]\n      Please see page 104 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Strongholds of Resistance[h4]<div>Organics hit with droid disruptor only receive brief shock and suffer 2 strain. </div>"
+		},
+		{
+			"id": "Dueling Pistol",
+			"name": "Dueling Pistol",
+			"description": "[H3]Dueling Pistol[h3]\n      Please see page 94 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 94 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "E-11S Sniper Rifle",
+			"name": "E-11S Sniper Rifle",
+			"description": "[H3]E-11S Sniper Rifle[h3]\n      Please see page 38 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "E5 Blaster Carbine",
+			"name": "E5 Blaster Carbine",
+			"description": "[H3]E5 Blaster Carbine[h3]\n      Please see page 41 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Stay on Target[h4]"
+		},
+		{
+			"id": "ELG-3A Blaster Pistol",
+			"name": "ELG-3A Blaster Pistol",
+			"description": "[H3]ELG-3A Blaster Pistol[h3]\n      Please see page 44 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Desperate Allies[h4]<div>Add [SETBACK][SETBACK] to Perception checks to find this weapon on a body. </div>"
+		},
+		{
+			"id": "Electromag-Pulse Disruptor",
+			"name": "Electromag-Pulse Disruptor",
+			"description": "[H3]Electromag-Pulse Disruptor[h3]\n      Please see page 44 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Special Modifications[h4]<div>Add [BO][BO] to any check made to sabotage electronics or computers. </div><div>Add [SE] to Perception checks made to find this weapon on a person's body. </div>"
+		},
+		{
+			"id": "Electronet",
+			"name": "Electronet",
+			"description": "[H3]Electronet[h3]\n      Please see page 44 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Electronet Launcher",
+			"name": "Electronet Launcher",
+			"description": "[H3]Electronet Launcher[h3]\n      Please see page 60 of the Friends Like These Adventure Module for details.[P][H3]Sources:[h3][H4]Page 60 - Friends Like These[h4]"
+		},
+		{
+			"id": "Electrostaff",
+			"name": "Electrostaff",
+			"description": "[H3]Electrostaff[h3]\n      Please see page 173 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 173 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Energy Buckler",
+			"name": "Energy Buckler",
+			"description": "[H3]Energy Buckler[h3]\n      Please see page 45 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Keeping the Peace[h4]<div>The GM may spend [DE] to have the energy buckler run out of power and stop functioning until the end of the encounter. </div>"
+		},
+		{
+			"id": "Energy Lance",
+			"name": "Energy Lance",
+			"description": "[H3]Mon Calamari Energy Lance[h3]\n      Please see page 108 of the Strongholds of Resistance Sourcebook, or page 44 of the Savage Spirits Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 108 - Strongholds of Resistance[h4][H4]Page 44 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Energy Slingshot",
+			"name": "Energy Slingshot",
+			"description": "[H3]Energy Slingshot[h3]\n      Please see page 102 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Nexus of Power[h4]<div>Triggering the Disorient quality requires [AD] instead of [AD][AD]. </div>"
+		},
+		{
+			"id": "Entrenching Tool (Improvised)",
+			"name": "Entrenching Tool (Improvised)",
+			"description": "[H3]Entrenching Tool (Improvised)[h3]\n      Please see page 59 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Dangerous Covenants[h4]<div>Does not break due to [DESPAIR] or [THREAT]. </div>"
+		},
+		{
+			"id": "Explorer's Knife",
+			"name": "Explorer's Knife",
+			"description": "[H3]Explorer's Knife[h3]\n      Please see page 43 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Explosive Micro-Rocket",
+			"name": "Explosive Micro-Rocket",
+			"description": "[H3]Explosive Micro-Rocket[h3]\n      Please see page 46 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - No Disintegrations[h4]"
+		},
+		{
+			"id": "FC1 Flechette Launcher (Anti-Infantry)",
+			"name": "FC1 Flechette Launcher (Anti-Infantry)",
+			"description": "[H3]FC1 Flechette Launcher (Anti-Infantry)[h3]\n      Please see page 45 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "FC1 Flechette Launcher (Anti-Vehicle)",
+			"name": "FC1 Flechette Launcher (Anti-Vehicle)",
+			"description": "[H3]FC1 Flechette Launcher (Anti-Vehicle)[h3]\n      Please see page 45 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "FS19 Compound Bow (Broadhead Arrow)",
+			"name": "FS19 Compound Bow (Broadhead Arrow)",
+			"description": "[H3]Field Sports FS19 Compound Bow (Broadhead Arrow)[h3]\n      Please see page 41 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "FS19 Compound Bow (Explosive Tipped Arrow)",
+			"name": "FS19 Compound Bow (Explosive Tipped Arrow)",
+			"description": "[H3]Field Sports FS19 Compound Bow (Explosive Tipped Arrow)[h3]\n      Please see page 41 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "FS19 Compound Bow (Incendiary Arrow)",
+			"name": "FS19 Compound Bow (Incendiary Arrow)",
+			"description": "[H3]Field Sports FS19 Compound Bow (Incendiary Arrow)[h3]\n      Please see page 41 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "FS19 Compound Bow (Net Arrow)",
+			"name": "FS19 Compound Bow (Net Arrow)",
+			"description": "[H3]Field Sports FS19 Compound Bow (Net Arrow)[h3]\n      Please see page 41 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "FS19 Compound Bow (Stun Arrow)",
+			"name": "FS19 Compound Bow (Stun Arrow)",
+			"description": "[H3]Field Sports FS19 Compound Bow (Stun Arrow)[h3]\n      Please see page 41 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "FWG-5 Flechette Pistol",
+			"name": "FWG-5 Flechette Pistol",
+			"description": "[H3]FWG-5 Flechette Pistol[h3]\n      Please see page 44 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Fly Casual[h4]"
+		},
+		{
+			"id": "FWG-7 Flechette Smart Carbine",
+			"name": "FWG-7 Flechette Smart Carbine",
+			"description": "[H3]FWG-7 Flechette Smart Carbine[h3]\nPlease see page 40 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Knights of Fate[h4]"
+		},
+		{
+			"id": "FYR Assault Carbine",
+			"name": "FYR Assault Carbine",
+			"description": "[H3]FYR Assault Carbine[h3]\n      Please see page 45 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Dangerous Covenants[h4]<div>[THREAT][THREAT] may cause weapon to run out of ammo. </div>"
+		},
+		{
+			"id": "Fear Stick",
+			"name": "Fear Stick",
+			"description": "[H3]Fear Stick[h3]\n      Please see page 44 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Disciples of Harmony[h4]<div>Add [SE][SE] to find a fear stick on the owner's body. </div><div>On successful hit, attacker may spend [TR] to force a living target to make a [B]Formidable ([DI][DI][DI][DI][DI]) Fear check[b]. </div>"
+		},
+		{
+			"id": "Flame Projector",
+			"name": "Flame Projector",
+			"description": "[H3]Flame Projector[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, or page 178 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 178 - Age of Rebellion Core Rulebook[h4]<div>When triggering Burn quality, may apply it to any target hit by the attack </div><div>GM may spend [TH][TH] or [DE] to apply the Burn quality to any ally hit by the attack </div>"
+		},
+		{
+			"id": "Flechette Micro-Rocket",
+			"name": "Flechette Micro-Rocket",
+			"description": "[H3]Flechette Micro-Rocket[h3]\n      Please see page 46 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Flex-5 Detonite Tape",
+			"name": "Flex-5 Detonite Tape",
+			"description": "[H3]Flex-5 Detonite Tape[h3]\n      Please see page 41 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Fully Operational[h4]"
+		},
+		{
+			"id": "Force Pike",
+			"name": "Force Pike",
+			"description": "[H3]Force Pike[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook, page 181 of the Age of Rebellion Core Rulebook, or page 174 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4][H4]Page 181 - Age of Rebellion Core Rulebook[h4][H4]Page 174 - Force and Destiny Core Rulebook[h4]<div>When using stun setting, may not benefit from Pierce quality </div>"
+		},
+		{
+			"id": "Frag Grenade",
+			"name": "Frag Grenade",
+			"description": "[H3]Frag Grenade[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 178 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 178 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Fuel-Air Bomb",
+			"name": "Fuel-Air Bomb",
+			"description": "[H3]Fuel-Air Bomb[h3]\n      Please see page 42 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Fully Operational[h4]<div>Concussive rating increases by 1 for each additional charge. </div><div>[DE] on check to set up fuel bomb means it detonates immediately. </div>"
+		},
+		{
+			"id": "Fusion Cutter",
+			"name": "Fusion Cutter",
+			"description": "[H3]Fusion Cutter[h3]\n      Please see page 197 of the Age of Rebellion Core Rulebook.[P][H3]Sources:[h3][H4]Page 197 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "G2 Concussion Grenade",
+			"name": "G2 Concussion Grenade",
+			"description": "[H3]G2 Concussion Grenade[h3]\n      Please see page 46 of the Dangerous Covenants Sourcebook, and page 44 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 46 - Dangerous Covenants[h4][H4]Page 44 - Knights of Fate[h4]<div>Disorient affects all characters in Short range, even if not damaged. </div>"
+		},
+		{
+			"id": "G9-GP Pulse Drill",
+			"name": "G9-GP Pulse Drill",
+			"description": "[H3]G9-GP Pulse Drill[h3]\n    Please see page 43 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "G9-GX Pulse Drill",
+			"name": "G9-GX Pulse Drill",
+			"description": "[H3]G9-GX Pulse Drill[h3]\n      Please see page 139 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 139 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "GALAAR-15 Blaster Carbine",
+			"name": "GALAAR-15 Blaster Carbine",
+			"description": "[H3]GALAAR-15 Blaster Carbine[h3]\n      Please see page 36 of the Friends Like These Adventure Module for details.[P][H3]Sources:[h3][H4]Page 36 - Friends Like These[h4]"
+		},
+		{
+			"id": "GHOVOR-22 Blaster Pistol",
+			"name": "GHOVOR-22 Blaster Pistol",
+			"description": "[H3]GHOVOR-22 Blaster Pistol[h3]\n      Please see page 47 of the Friends Like These Adventure Module for details.[P][H3]Sources:[h3][H4]Page 47 - Friends Like These[h4]"
+		},
+		{
+			"id": "GLX Firelance",
+			"name": "GLX Firelance",
+			"description": "[H3]GLX Firelance Blaster Rifle[h3]\n      Please see page 40 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Gaffi Stick",
+			"name": "Gaffi Stick",
+			"description": "[H3]Gaffi Stick[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4]"
+		},
+		{
+			"id": "Garrote",
+			"name": "Garrote",
+			"description": "[H3]Garrote[h3]\n      Please see page 40 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Cyphers and Masks[h4]<div>A successful brawl attack with a garrote can cause the target to suffocate. </div><div>Target may attempt to break free of a garrote with a successful [B]opposed Brawl vs. Brawl check[b], adding [SE] for each round they've been caught. </div>"
+		},
+		{
+			"id": "Geonosian Blaster Carbine",
+			"name": "Geonosian Blaster Carbine",
+			"description": "[H3]Geonosian Blaster Carbine[h3]\n      Please see page 33 of the Long Arm of the Hutt Bonus Adventure for details.[P][H3]Sources:[h3][H4]Page 33 - Long Arm of the Hutt[h4]"
+		},
+		{
+			"id": "Geonosian Blaster Rifle",
+			"name": "Geonosian Blaster Rifle",
+			"description": "[H3]Geonosian Blaster Rifle[h3]\n      Please see page 33 of the Long Arm of the Hutt Bonus Adventure for details.[P][H3]Sources:[h3][H4]Page 33 - Long Arm of the Hutt[h4]"
+		},
+		{
+			"id": "Geonosian Heavy Blaster Pistol",
+			"name": "Geonosian Heavy Blaster Pistol",
+			"description": "[H3]Geonosian Heavy Blaster Pistol[h3]\n      Please see page 33 of the Long Arm of the Hutt Bonus Adventure for details.[P][H3]Sources:[h3][H4]Page 33 - Long Arm of the Hutt[h4]"
+		},
+		{
+			"id": "Glop Grenade",
+			"name": "Glop Grenade",
+			"description": "[H3]Glop Grenade[h3]\n      Please see page 42 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Enter the Unknown[h4]<div>Target must make an [B]Easy ([DI]) Coordination check[b] to keep the foam from filling breathing passages.  Failure means target suffers from suffocation.,Refilling requires an [B]Easy ([DI]) Ranged Light check[b].  Failure means foam has been ruined.  [TH] with a failure requires user to make an [B]Easy ([DI]) Coordination check[b] to avoid suffocating. </div>"
+		},
+		{
+			"id": "Grapnel-Harpoon Launcher",
+			"name": "Grapnel-Harpoon Launcher",
+			"description": "[H3]Grapnel-Harpoon Launcher[h3]\n      Please see page 45 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - No Disintegrations[h4]<div>As an action, make an [B]Average ([DI][DI]) Ranged (Light) check[b] to secure hook to an object within medium range. </div><div>Once secured, the cord may be reeled in as an action. </div><div>To pull another character aloft, must succeed in an [B]Average ([DI][DI]) Athletics check[b]. </div>"
+		},
+		{
+			"id": "Great Lightsaber",
+			"name": "Great Lightsaber",
+			"description": "[H3]Great Lightsaber[h3]\nPlease see page 44 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Great Lightsaber Hilt",
+			"name": "Great Lightsaber Hilt",
+			"description": "[H3]Great Lightsaber Hilt[h3]\nPlease see page 44 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Knights of Fate[h4]<div>Additional Damage for Crystal Mod - Damage for Crystal +1 </div>"
+		},
+		{
+			"id": "Greff-Timms ATA Pulse-Wave Blaster",
+			"name": "Greff-Timms ATA Pulse-Wave Blaster",
+			"description": "[H3]Greff-Timms ATA Pulse-Wave Blaster[h3]\n      Please see page 100 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 100 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "Guard Shoto",
+			"name": "Guard Shoto",
+			"description": "[H3]Guard Shoto[h3]\n      Please see page 46 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Guard Shoto Hilt",
+			"name": "Guard Shoto Hilt",
+			"description": "[H3]Guard Shoto Hilt[h3]\n      Please see page 46 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Keeping the Peace[h4]<div>Reduced Damage Mod - Damage -1 </div>"
+		},
+		{
+			"id": "Gungan Atlatl",
+			"name": "Gungan Atlatl",
+			"description": "[H3]Gungan Atlatl[h3]\n      Please see page 102 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Nexus of Power[h4]<div>An atlatl must have a supply of plasma balls for ammunition. </div>"
+		},
+		{
+			"id": "Gungan Electropole",
+			"name": "Gungan Electropole",
+			"description": "[H3]Gungan Electropole[h3]\n      Please see page 103 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 103 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Gungan Electropole (thrown)",
+			"name": "Gungan Electropole (thrown)",
+			"description": "[H3]Gungan Electropole[h3]\n      Please see page 103 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 103 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Gungan Personal Energy Shield",
+			"name": "Gungan Personal Energy Shield",
+			"description": "[H3]Gungan Personal Energy Shield[h3]\n      Please see page 103 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 103 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Gungan Plasma Ball",
+			"name": "Gungan Plasma Ball",
+			"description": "[H3]Gungan Plasma Ball[h3]\n      Please see page 102 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Nexus of Power[h4]"
+		},
+		{
+			"id": "H-7 \"Equalizer\" Blaster Pistol",
+			"name": "H-7 \"Equalizer\" Blaster Pistol",
+			"description": "[H3]H-7 \"Equalizer\" Blaster Pistol[h3]\n      Please see page 95 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 95 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "HBt-4 Hunting Blaster",
+			"name": "HBt-4 Hunting Blaster",
+			"description": "[H3]Herloss HBt-4 Hunting Blaster[h3]\n      Please see page 44 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Fly Casual[h4]"
+		},
+		{
+			"id": "HH-50 Heavy Blaster Pistol",
+			"name": "HH-50 Heavy Blaster Pistol",
+			"description": "[H3]HH-50 Heavy Blaster Pistol[h3]\n      Please see page 41 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Stay on Target[h4]"
+		},
+		{
+			"id": "HIC \"Mercy\" Grenade",
+			"name": "HIC \"Mercy\" Grenade",
+			"description": "[H3]Goseia HIC \"Mercy\" Grenade[h3]\n      Please see page 45 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Desperate Allies[h4]<div>A character hit by this grenade must make a [B]Hard ([DI][DI][DI]) Resilience check[b] or become disoriented for 1 round per [THREAT]. Additionally, he has an inaccurate or incomplete memory of the encounter. </div>"
+		},
+		{
+			"id": "HL-27 Light Blaster Pistol",
+			"name": "HL-27 Light Blaster Pistol",
+			"description": "[H3]HL-27 Light Blaster Pistol[h3]\n      Please see page 94 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 94 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "HOB Heavy Repeating Blaster",
+			"name": "HOB Heavy Repeating Blaster",
+			"description": "[H3]HOB Heavy Repeating Blaster[h3]\n      Please see page 44 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Dangerous Covenants[h4]<div>Mechanics Checks to repair gain [BOOST]. </div>"
+		},
+		{
+			"id": "Hand Grinder",
+			"name": "Hand Grinder",
+			"description": "[H3]Hand Grinder[h3]\n      Please see page 47 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Special Modifications[h4]<div>Hand grinders add automatic [AD] to crafting checks that involve shaping large pieces of hardened material. </div>"
+		},
+		{
+			"id": "Heartwood Blaster",
+			"name": "Heartwood Blaster",
+			"description": "[H3]Heartwood Blaster[h3]\n      Please see page 46 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Unlimited Power[h4]<div>May suffer up to Force Rating in strain, adding automatic [AD] for each to next combat check this turn. </div>"
+		},
+		{
+			"id": "Heavy Blaster Pistol",
+			"name": "Heavy Blaster Pistol",
+			"description": "[H3]Heavy Blaster Pistol[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]<div>GM may spend [TH][TH] or [DE] to make heavy blaster pistol run out of ammo </div>"
+		},
+		{
+			"id": "Heavy Blaster Rifle",
+			"name": "Heavy Blaster Rifle",
+			"description": "[H3]Heavy Blaster Rifle[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Heavy Proton Torpedo Launcher",
+			"name": "Heavy Proton Torpedo Launcher",
+			"description": "[H3]Heavy Proton Torpedo Launcher[h3]\nPlease see page 119 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 119 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Heavy Repeating Blaster",
+			"name": "Heavy Repeating Blaster",
+			"description": "[H3]Heavy Repeating Blaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "High-Explosive Missile",
+			"name": "High-Explosive Missile",
+			"description": "[H3]High-Explosive Missile[h3]\nPlease see page 46 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Holdout Blaster",
+			"name": "Holdout Blaster",
+			"description": "[H3]Holdout Blaster[h3]\n      Please see page 161 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 161 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Huntsman Vibrospear",
+			"name": "Huntsman Vibrospear",
+			"description": "[H3]Huntsman Vibrospear[h3]\n      Please see page 43 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "IDX-9 Ion Stunner",
+			"name": "IDX-9 Ion Stunner",
+			"description": "[H3]Tenloss IDX-9 Ion Stunner[h3]\n      Please see page 42 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "IR-5 \"Intimidator\" Blaster Pistol",
+			"name": "IR-5 \"Intimidator\" Blaster Pistol",
+			"description": "[H3]IR-5 \"Intimidator\" Blaster Pistol[h3]\n      Please see page 41 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Imperial Heavy Repeater",
+			"name": "Imperial Heavy Repeater",
+			"description": "[H3]Imperial Heavy Repeater[h3]\n      Please see page 46 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Forged in Battle[h4]<div>As a maneuver, user may prime the weapon to expend all of its ammunition in a single, devastating burst. The next time the weapon is fired this encounter, it counts as having the Blast 7 and Concussive 1 quality. After being discharged this way, the weapon runs out of ammunition. </div>"
+		},
+		{
+			"id": "Incendiary Micro-Rocket",
+			"name": "Incendiary Micro-Rocket",
+			"description": "[H3]Incendiary Micro-Rocket[h3]\n      Please see page 46 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Ion Blaster",
+			"name": "Ion Blaster",
+			"description": "[H3]Ionization Blaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Ion Micro-Rocket",
+			"name": "Ion Micro-Rocket",
+			"description": "[H3]Ion Micro-Rocket[h3]\n      Please see page 47 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Ion Pike",
+			"name": "Ion Pike",
+			"description": "[H3]Ion Pike[h3]\n      Please see page 48 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Ion Thruster Gun",
+			"name": "Ion Thruster Gun",
+			"description": "[H3]Ion Thruster Gun[h3]\n      Please see page 45 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Special Modifications[h4]"
+		},
+		{
+			"id": "J-10 Dual Blaster Cannon",
+			"name": "J-10 Dual Blaster Cannon",
+			"description": "[H3]J-10 Dual Blaster Cannon[h3]\n      Please see page 45 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Forged in Battle[h4]<div>The GM may spend [DE] or [TH][TH] from any combat check made with this weapon to have it overheat; the wielder suffers 2 strain and the weapon becomes damaged one step: from undamaged to Minor, Minor to Moderate, or Moderate to Major. </div>"
+		},
+		{
+			"id": "J-7b Beamdrill",
+			"name": "J-7b Beamdrill",
+			"description": "[H3]J-7b Beamdrill[h3]\n      Please see page 98 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 98 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "KD-30 \"Dissuader\" Pistol",
+			"name": "KD-30 \"Dissuader\" Pistol",
+			"description": "[H3]Kelvarek Consolidated Arms KD-30 \"Dissuader\" Pistol[h3]\n      Please see page 102 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]<div>Target struck by a round from the KD-30 suffers one wound, ignoring soak, at the beginning of his turn for the next two rounds. </div>"
+		},
+		{
+			"id": "KO-2 Heavy Stun Pistol",
+			"name": "KO-2 Heavy Stun Pistol",
+			"description": "[H3]Palandrix KO-2 Heavy Stun Pistol[h3]\n      Please see page 42 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "KS-23 Hammer",
+			"name": "KS-23 Hammer",
+			"description": "[H3]KS-23 Hammer[h3]\n      Please see page 41 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "KWS Mk I Saberdart",
+			"name": "KWS Mk I Saberdart",
+			"description": "[H3]KWS Mk I Saberdart[h3]\n      Please see page 41 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Knockout Grenade",
+			"name": "Knockout Grenade",
+			"description": "[H3]Knockout Grenade[h3]\n      Please see page 45 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Fly Casual[h4]<div>No effect on targets wearing breath masks or without respiratory systems. </div>"
+		},
+		{
+			"id": "Knockout Mine",
+			"name": "Knockout Mine",
+			"description": "[H3]Brennkeyes Syndicate Knockout Mine[h3]\n      Please see page 45 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Kyuzo Energy Bow",
+			"name": "Kyuzo Energy Bow",
+			"description": "[H3]Kyuzo Energy Bow[h3]\n      Please see page 44 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Kyuzo War Shield (Melee)",
+			"name": "Kyuzo War Shield (Melee)",
+			"description": "[H3]Kyuzo War Shield[h3]\n      Please see page 48 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Forged in Battle[h4]<div>User may spend [AD][AD][AD] from any combat check to throw the weapon to cause the shield to ricochet back to their grasp. </div>"
+		},
+		{
+			"id": "Kyuzo War Shield (Thrown)",
+			"name": "Kyuzo War Shield (Thrown)",
+			"description": "[H3]Kyuzo War Shield[h3]\n      Please see page 48 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Forged in Battle[h4]<div>User may spend [AD][AD][AD] from any combat check to throw the weapon to cause the shield to ricochet back to their grasp. </div>"
+		},
+		{
+			"id": "L7 Light Blaster Pistol",
+			"name": "L7 Light Blaster Pistol",
+			"description": "[H3]Liquidsilver L7 Light Blaster Pistol[h3]\n      Please see page 43 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fly Casual[h4]<div>Add [SE][SE] to Perception checks to notice pistol stashed aboard a starship. </div>"
+		},
+		{
+			"id": "L70 Acid Projector",
+			"name": "L70 Acid Projector",
+			"description": "[H3]Tenlos L70 Acid Projector[h3]\n      Please see page 102 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]<div>Burn quality may be activated multiple times, affecting a different target hit by the attack each time. </div><div>GM may spend [THREAT][THREAT] or [DESPAIR] to apply Burn quality to an ally hit by original attack. </div>"
+		},
+		{
+			"id": "LBR-9 Stun Rifle",
+			"name": "LBR-9 Stun Rifle",
+			"description": "[H3]LBR-9 Stun Rifle[h3]\n      Please see page 39 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "LD-1 Target Rifle",
+			"name": "LD-1 Target Rifle",
+			"description": "[H3]LD-1 Target Rifle[h3]\n      Please see page 40 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Endless Vigil[h4]"
+		},
+		{
+			"id": "LJ-40 Concussion Carbine",
+			"name": "LJ-40 Concussion Carbine",
+			"description": "[H3]Arakyd LJ-40 Concussion Carbine[h3]\n      See page 38 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Fully Operational[h4]<div>All [SE] added to a combat check due to the target's cover are removed when using this weapon. </div>"
+		},
+		{
+			"id": "LJ-50 Concussion Rifle",
+			"name": "LJ-50 Concussion Rifle",
+			"description": "[H3]LJ-50 Concussion Rifle[h3]\n      Please see page 47 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Light Blaster Pistol",
+			"name": "Light Blaster Pistol",
+			"description": "[H3]Light Blaster Pistol[h3]\n      Please see page 161 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 161 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Light Repeating Blaster",
+			"name": "Light Repeating Blaster",
+			"description": "[H3]Light Repeating Blaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Lightfoil",
+			"name": "Lightfoil",
+			"description": "[H3]Lightfoil[h3]\nPlease see page 44 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Lightfoil Hilt",
+			"name": "Lightfoil Hilt",
+			"description": "[H3]Lightfoil Hilt[h3]\nPlease see page 44 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Knights of Fate[h4]<div>Reduced Damage for Crystal Mod - Damage for Crystal -1 </div>"
+		},
+		{
+			"id": "Lightning 22 Ion Grenade",
+			"name": "Lightning 22 Ion Grenade",
+			"description": "[H3]Lightning 22 Ion Grenade[h3]\n      Please see page 46 of the Dangerous Covenants Sourcebook, or page 44 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 46 - Dangerous Covenants[h4][H4]Page 44 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Lightsaber",
+			"name": "Lightsaber",
+			"description": "[H3]Lightsaber[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, or page 182 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Lightsaber Pike",
+			"name": "Lightsaber Pike",
+			"description": "[H3]Lightsaber Pike[h3]\n      Please see page 176 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 176 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Lightsaber Pike Hilt",
+			"name": "Lightsaber Pike Hilt",
+			"description": "[H3]Lightsaber Pike Hilt[h3]\n      Please see page 125 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 125 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Lightwhip",
+			"name": "Lightwhip",
+			"description": "[H3]Lightwhip[h3]\n      Please see page 42 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Endless Vigil[h4]<div>May spend [AD][AD] or [TR] to prevent opponent from using Parry to reduce damage. </div>"
+		},
+		{
+			"id": "Long Bow",
+			"name": "Long Bow",
+			"description": "[H3]Long Bow[h3]\n      Please see page 102 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Longeing Whip",
+			"name": "Longeing Whip",
+			"description": "[H3]Longeing Whip[h3]\n      Please see page 41 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Stay on Target[h4]"
+		},
+		{
+			"id": "Lucky Blaster",
+			"name": "Lucky Blaster",
+			"description": "[H3]Lucky Blaster[h3]\n      Please see page 47 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Unlimited Power[h4]<div>When using a maneuver to aim, gain [BO][BO].  Cannot use second maneuver to aim again. </div>"
+		},
+		{
+			"id": "M-300 Hunting Blaster",
+			"name": "M-300 Hunting Blaster",
+			"description": "[H3]BlasTech M-300 Hunting Blaster[h3]\n      Please see page 40 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Savage Spirits[h4]<div>Reduce the difficulty of combat checks made with this weapon by one against targets at long or extreme range. </div>"
+		},
+		{
+			"id": "M3 Bulwark Blast Shield",
+			"name": "M3 Bulwark Blast Shield",
+			"description": "[H3]M3 Bulwark Blast Shield[h3]\n      Please see page 53 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "M8 Combat Knife",
+			"name": "M8 Combat Knife",
+			"description": "[H3]M8 Combat Knife[h3]\n      Please see page 54 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "M9 \"Boomer\" Heavy Pistol",
+			"name": "M9 \"Boomer\" Heavy Pistol",
+			"description": "[H3]Czerka M9 \"Boomer\" Heavy Pistol[h3]\n      See page 39 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Fully Operational[h4]<div>GMs may make this weapon run out of ammo by spending [TH][TH][TH], as well as [DE]. </div>"
+		},
+		{
+			"id": "MMD-18 Molecular Dagger",
+			"name": "MMD-18 Molecular Dagger",
+			"description": "[H3]MMD-18 Molecular Dagger[h3]\n      Please see page 40 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "MR-90 Proton Rifle",
+			"name": "MR-90 Proton Rifle",
+			"description": "[H3]MR-90 Proton Rifle[h3]\nPlease see page 40 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Knights of Fate[h4]"
+		},
+		{
+			"id": "MSW-12 NanoDagger",
+			"name": "MSW-12 NanoDagger",
+			"description": "[H3]Xana Exotic Arms MSW-12 NanoDagger[h3]\n      Please see page 44 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Savage Spirits[h4]<div>May spend [TH][TH][TH] or [DE] from combat checks with this weapon to have it become damaged one step. </div>"
+		},
+		{
+			"id": "Mark V \"Sand Panther\" Hunting Rifle",
+			"name": "Mark V \"Sand Panther\" Hunting Rifle",
+			"description": "[H3]Mark V \"Sand Panther\" Hunting Rifle[h3]\n      Please see page 97 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 97 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Master Lodaka's Lightsaber",
+			"name": "Master Lodaka's Lightsaber",
+			"description": "[H3]Master Lodaka's Lightsaber[h3]\n      Please see page 112 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 112 - Nexus of Power[h4]<div>Attacks made by this lightsaber ignore the Cortosis quality. </div><div>This lightsaber cannot be shut down due to contact with refined Cortosis. </div>"
+		},
+		{
+			"id": "Micro-Rocket Launcher Pistol",
+			"name": "Micro-Rocket Launcher Pistol",
+			"description": "[H3]Micro-Rocket Launcher Pistol[h3]\n      Please see page 47 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - No Disintegrations[h4]<div>Up to three micro-rockets can be loaded into the launcher.  Use the fired rocket's profile, but the launcher's range, if longer. </div>"
+		},
+		{
+			"id": "Military Holdout Blaster",
+			"name": "Military Holdout Blaster",
+			"description": "[H3]Military Holdout Blaster[h3]\n      Please see page 44 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Desperate Allies[h4]<div>Add [SETBACK] to Perception checks to find this weapon on a body. </div><div>Can run out of ammo by spending [THREAT][THREAT][THREAT]. </div>"
+		},
+		{
+			"id": "Mini Thermal Detonator",
+			"name": "Mini Thermal Detonator",
+			"description": "[H3]Mini Thermal Detonator[h3]\n      Please see page 36 of the Under a Black Sun adventure for details.[P][H3]Sources:[h3][H4]Page 36 - Under a Black Sun[h4]"
+		},
+		{
+			"id": "Mini-Torpedo Launcher",
+			"name": "Mini-Torpedo Launcher",
+			"description": "[H3]Mon Cal Defenses Mini-Torpedo Launcher[h3]\n      Please see page 107 of Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]<div>All combat checks to operate outside of water have their difficulty upgraded twice. </div>"
+		},
+		{
+			"id": "Mini-Torpedo, Anti-Personnel",
+			"name": "Mini-Torpedo, Anti-Personnel",
+			"description": "[H3]Mini-Torpedo, Anti-Personnel[h3]\n      Please see page 107 of Strongholds of Resistance Sourcebook for details.\n      [P][I]For use with the Mon Cal Defenses Mini-Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Mini-Torpedo, Armor Piercing",
+			"name": "Mini-Torpedo, Armor Piercing",
+			"description": "[H3]Mini-Torpedo, Armor Piercing[h3]\n      Please see page 107 of Strongholds of Resistance Sourcebook for details.\n      [P][I]For use with the Mon Cal Defenses Mini-Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Mini-Torpedo, Ink",
+			"name": "Mini-Torpedo, Ink",
+			"description": "[H3]Mini-Torpedo, Ink[h3]\n      Please see page 107 of Strongholds of Resistance Sourcebook for details.\n      [P][I]For use with the Mon Cal Defenses Mini-Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]<div>Ink obscures vision and blocks line of sight for up to 4 rounds. </div>"
+		},
+		{
+			"id": "Mini-Torpedo, Ion",
+			"name": "Mini-Torpedo, Ion",
+			"description": "[H3]Mini-Torpedo, Ion[h3]\n      Please see page 107 of Strongholds of Resistance Sourcebook for details.\n      [P][I]For use with the Mon Cal Defenses Mini-Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Mini-Torpedo, Net",
+			"name": "Mini-Torpedo, Net",
+			"description": "[H3]Mini-Torpedo, Net[h3]\n      Please see page 107 of Strongholds of Resistance Sourcebook for details.\n      [P][I]For use with the Mon Cal Defenses Mini-Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Mini-Torpedo, Stun",
+			"name": "Mini-Torpedo, Stun",
+			"description": "[H3]Mini-Torpedo, Stun[h3]\n      Please see page 107 of Strongholds of Resistance Sourcebook for details.\n      [P][I]For use with the Mon Cal Defenses Mini-Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Missile Tube",
+			"name": "Missile Tube",
+			"description": "[H3]Missile Tube[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 178 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 178 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Mk II EMP Grenade",
+			"name": "Mk II EMP Grenade",
+			"description": "[H3]AP-M1 Armor Piercing Grenade[h3]\n      Please see page 53 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Mk VIII Gravitic Mortar Launcher",
+			"name": "Mk VIII Gravitic Mortar Launcher",
+			"description": "[H3]Golan Arms Mk VIII Gravitic Mortar Launcher[h3]\n      See page 39 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Fully Operational[h4]<div>When detonates inside a mine field, triggers every mine within medium range. </div><div>GM may spend [TH][TH] or [DE] to detonate a fraction of the mines within a mine field. </div>"
+		},
+		{
+			"id": "Mk. VIII Vibrosaw",
+			"name": "Mk. VIII Vibrosaw",
+			"description": "[H3]Mk. VIII Vibrosaw[h3]\n      Please see page 43 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Enter the Unknown[h4]<div>[DE] means wielder hits himself with the vibrosaw </div>"
+		},
+		{
+			"id": "Mk.10 Concussion Missile",
+			"name": "Mk.10 Concussion Missile",
+			"description": "[H3]Mk.10 Concussion Missile[h3]\n      Please see page 42 of the Dangerous Covenants Sourcebook, or page 46 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 42 - Dangerous Covenants[h4][H4]Page 46 - Dangerous Covenants[h4]<div>Disorient affects all characters in Short range, even if not damaged.  Concussive affects all Engaged characters, even if not damaged. </div>"
+		},
+		{
+			"id": "Mk.4 Heavy Frag Grenade",
+			"name": "Mk.4 Heavy Frag Grenade",
+			"description": "[H3]Mk.4 Heavy Frag Grenade[h3]\n      Please see page 46 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Model 134a \"Buzzsaw\" Rotary Cannon",
+			"name": "Model 134a \"Buzzsaw\" Rotary Cannon",
+			"description": "[H3]Model 134a \"Buzzsaw\" Rotary Cannon[h3]\nPlease see page 41 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Knights of Fate[h4]<div>May only be fired using the Autofire quality </div><div>GM may spend [DE] or [TH][TH][TH] to have the weapon overheat and jam.  Clearing jam requires a maneuver. </div>"
+		},
+		{
+			"id": "Model 14 \"Stalker\" Vibrospear",
+			"name": "Model 14 \"Stalker\" Vibrospear",
+			"description": "[H3]Mer-Sonn Model 14 \"Stalker\" Vibrospear[h3]\n      Please see page 43 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Savage Spirits[h4]<div>May spend [TH][TH] from any combat check with this weapon to have it produce a loud noise, spooking nearby animals and adding [SE][SE] to user's next Survival check in this area to hunt or track prey. </div>"
+		},
+		{
+			"id": "Model 201 Mortar System",
+			"name": "Model 201 Mortar System",
+			"description": "[H3]Model 201 Mortar System[h3]\n      Please see page 53 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Rise of the Separatists[h4]<div>Can only be used at medium range or higher. </div>"
+		},
+		{
+			"id": "Model 38 Sharpshooter's Rifle",
+			"name": "Model 38 Sharpshooter's Rifle",
+			"description": "[H3]Model 38 Sharpshooter's Rifle[h3]\n      Please see page 40 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Enter the Unknown[h4]<div>If purchased used, loses the Accurate 2 quality until modified with a [B]Hard ([DI][DI][DI]) Mechanics check[b] </div>"
+		},
+		{
+			"id": "Model 38 Sharpshooter's Rifle (Detonator Round)",
+			"name": "Model 38 Sharpshooter's Rifle (Detonator Round)",
+			"description": "[H3]Model 38 Sharpshooter's Rifle (Detonator Round)[h3]\n      Please see page 41 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "Model 4 \"Thunderhead\" Scattergun",
+			"name": "Model 4 \"Thunderhead\" Scattergun",
+			"description": "[H3]Model 4 \"Thunderhead\" Scattergun[h3]\nPlease see page 42 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Model 44 Blaster Pistol",
+			"name": "Model 44 Blaster Pistol",
+			"description": "[H3]Model 44 Blaster Pistol[h3]\n      Please see page 41 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Model 53 \"Quicktrigger\" Blaster Pistol",
+			"name": "Model 53 \"Quicktrigger\" Blaster Pistol",
+			"description": "[H3]Merr-Sonn Model 53 \"Quicktrigger\" Blaster Pistol[h3]\n      Please see page 43 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fly Casual[h4]<div>Reduce the difficulty of Mechanics checks to repair a Model 53 or modify attachments on it by one. </div>"
+		},
+		{
+			"id": "Model 57 \"Homesteader\" Hunting Rifle",
+			"name": "Model 57 \"Homesteader\" Hunting Rifle",
+			"description": "[H3]Czerka Arms Model 57 \"Homesteader\" Hunting Rifle[h3]\n      Please see page 41 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Model 57 \"Homesteader\" Hunting Rifle (Detonator)",
+			"name": "Model 57 \"Homesteader\" Hunting Rifle (Detonator)",
+			"description": "[H3]Czerka Arms Model 57 \"Homesteader\" Hunting Rifle (Detonator)[h3]\n      Please see page 41 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Model 7 Therm-Ax",
+			"name": "Model 7 Therm-Ax",
+			"description": "[H3]Model 7 Therm-Ax[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Model 77 Air Rifle",
+			"name": "Model 77 Air Rifle",
+			"description": "[H3]Model 77 Air Rifle[h3]\n      Please see page 39 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Enter the Unknown[h4]"
+		},
+		{
+			"id": "Model 80 Blaster Pistol",
+			"name": "Model 80 Blaster Pistol",
+			"description": "[H3]Model 80 Blaster Pistol[h3]\n      Please see page 41 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Dangerous Covenants[h4]<div>Time taken to access this weapon cannot be reduced by talents, gear, or other means. </div>"
+		},
+		{
+			"id": "Model C \"Fiver\" Pistol",
+			"name": "Model C \"Fiver\" Pistol",
+			"description": "[H3]Model C \"Fiver\" Pistol[h3]\n      Please see page 45 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Model Q4 Quickfire",
+			"name": "Model Q4 Quickfire",
+			"description": "[H3]Model Q4 Quickfire[h3]\n      Please see page 40 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Far Horizons[h4]<div>Add [SETBACK] to Perception checks to find this weapon on a body.  May not be reloaded. </div>"
+		},
+		{
+			"id": "Model-1 \"Nova Viper\" Blaster Pistol",
+			"name": "Model-1 \"Nova Viper\" Blaster Pistol",
+			"description": "[H3]Raider Arms Model-1 \"Nova Viper\" Blaster Pistol[h3]\n      Please see page 43 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fly Casual[h4]<div>Increase difficulty of Mechanics checks to repair or modify attachments by one. </div>"
+		},
+		{
+			"id": "Molecular Stiletto",
+			"name": "Molecular Stiletto",
+			"description": "[H3]Molecular Stiletto[h3]\n      Please see page 43 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Far Horizons[h4]<div>Add [SETBACK] to Perception checks to find this weapon on a body.  [THREAT][THREAT] or [DESPAIR] damages weapon by one step. </div>"
+		},
+		{
+			"id": "Molten Magnet",
+			"name": "Molten Magnet",
+			"description": "[H3]Molten Magnet[h3]\n      Please see page 48 of the Unlimited Power sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Mon Calamari Battle Baton",
+			"name": "Mon Calamari Battle Baton",
+			"description": "[H3]Mon Calamari Battle Baton[h3]\n      Please see page 105 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 105 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Mon Calamari Spear Blaster (Blaster)",
+			"name": "Mon Calamari Spear Blaster (Blaster)",
+			"description": "[H3]Mon Calamari Spear Blaster[h3]\n      Please see page 106 of the Strongholds of Resistance Sourcebook for details.[P]\n      [I]For spear profile, add the \"Mon Calamari Spear Blaster (Spear) weapon.[i][P][H3]Sources:[h3][H4]Page 106 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Mon Calamari Spear Blaster (Spear)",
+			"name": "Mon Calamari Spear Blaster (Spear)",
+			"description": "[H3]Mon Calamari Spear Blaster[h3]\n      Please see page 106 of the Strongholds of Resistance Sourcebook for details.[P]\n      [I]For blaster profile, add the \"Mon Calamari Spear Blaster (Blaster) weapon.[i][P][H3]Sources:[h3][H4]Page 106 - Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Morgukai Cortosis Staff",
+			"name": "Morgukai Cortosis Staff",
+			"description": "[H3]Morgukai Cortosis Staff[h3]\n      Please see page 104 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "Multi-Goo Gun",
+			"name": "Multi-Goo Gun",
+			"description": "[H3]Multi-Goo Gun[h3]\n      Please see page 45 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Special Modifications[h4]<div>Gain automatic [AD] on [B]Mechanics checks[b] to repair droids, vehicles, or starships. </div>"
+		},
+		{
+			"id": "N-4 Noise Grenade",
+			"name": "N-4 Noise Grenade",
+			"description": "[H3]Merr-Sonn N-4 Noise Grenade[h3]\n      Please see page 44 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Desperate Allies[h4]"
+		},
+		{
+			"id": "NOVA40 Plasma Grenade",
+			"name": "NOVA40 Plasma Grenade",
+			"description": "[H3]NOVA40 Plasma Grenade[h3]\n      Please see page 46 of the Dangerous Covenants Sourcebook, and page 45 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 46 - Dangerous Covenants[h4][H4]Page 45 - Knights of Fate[h4]"
+		},
+		{
+			"id": "NX-14 Needler",
+			"name": "NX-14 Needler",
+			"description": "[H3]NX-14 Needler[h3]\n      Please see page 42 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Endless Vigil[h4]<div>Removes all [SE] added by a personal deflector shield. </div><div>Adds [SE] to Perception checks to find a concealed needler on an individual. </div>"
+		},
+		{
+			"id": "Needle Gloves",
+			"name": "Needle Gloves",
+			"description": "[H3]Needle Gloves[h3]\n      Please see page 46 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Desperate Allies[h4]"
+		},
+		{
+			"id": "Neuronic Whip",
+			"name": "Neuronic Whip",
+			"description": "[H3]Neuronic Whip[h3]\n      Please see page 104 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "Nightsister Energy Bow",
+			"name": "Nightsister Energy Bow",
+			"description": "[H3]Nightsister Energy Bow[h3]\n      Please see page 40 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Nightstinger Blaster Rifle",
+			"name": "Nightstinger Blaster Rifle",
+			"description": "[H3]Xerrol Corp. Nightstinger Blaster Rifle[h3]\n      Please see page 39 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Cyphers and Masks[h4]<div>May switch to stealth mode as a maneuver.  This makes locating shooter by the muzzle blast impossible.  It also adds the Slow Firing 2 quality for the rest of the encounter. </div>"
+		},
+		{
+			"id": "OK-98 Blaster Carbine",
+			"name": "OK-98 Blaster Carbine",
+			"description": "[H3]OK-98 Blaster Carbine[h3]\n      Please see page 43 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Dangerous Covenants[h4]<div>May ignore first [DESPAIR] \"out of ammo\" during combat, or may modify with [B]Easy ([DIFFICULTY]) Mechanics check[b] to add +2 damage.  Modded weapon may explode with [DESPAIR]. </div>"
+		},
+		{
+			"id": "Ouro Blade",
+			"name": "Ouro Blade",
+			"description": "[H3]Ouro Blade[h3]\n      Please see page 50 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - Unlimited Power[h4]<div>After successful combat check, may spend [AD] to inflict automatic hit on target, doing base damage.  May do this multiple times. </div>"
+		},
+		{
+			"id": "Panic Pistol",
+			"name": "Panic Pistol",
+			"description": "[H3]Panic Pistol[h3]\n      Please see page 48 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Unlimited Power[h4]<div>Does not add +1 difficulty with engaged opponent. </div><div>GM may spend [TH][TH] to damage panic pistol. </div>"
+		},
+		{
+			"id": "Parrying Dagger",
+			"name": "Parrying Dagger",
+			"description": "[H3]Parrying Dagger[h3]\n      Please see page 45 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Parrying Vibroblade",
+			"name": "Parrying Vibroblade",
+			"description": "[H3]Parrying Vibroblade[h3]\n      Please see page 45 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Philaxian Phase-Knife",
+			"name": "Philaxian Phase-Knife",
+			"description": "[H3]Philaxian Phase-Knife[h3]\n      Please see page 43 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Endless Vigil[h4]<div>When used with the Saber Throw talent, may spend [AD][AD] or [TR] instead of [FP] to have phase-knife return to the wielder's hand. </div>"
+		},
+		{
+			"id": "Plasma Charge",
+			"name": "Plasma Charge",
+			"description": "[H3]Plasma Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Pocket Blaster Pistol",
+			"name": "Pocket Blaster Pistol",
+			"description": "[H3]Pocket Blaster Pistol[h3]\n      Please see page 96 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 96 - Suns of Fortune[h4]<div>Adds [SE] to Perception checks when attempting to locate holdout blaster on a person's body </div>"
+		},
+		{
+			"id": "Poison Gas Grenade",
+			"name": "Poison Gas Grenade",
+			"description": "[H3]Poison Gas Grenade[h3]\n      Please see page 102 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]<div>May be loaded with 1 dose of neurotoxin, anesthetic, or neuroparalytic, or other suitable toxins. </div><div>Unless outdoors in a windy environment, gas lingers for two rounds, affecting anyone in the cloud. In a poorly ventilated space, gas lingers for five rounds. </div><div>Droids, or characters equipped with sealed suits, breath masks, respirators, or rebreathers, are unaffected. </div>"
+		},
+		{
+			"id": "Proton Grenade",
+			"name": "Proton Grenade",
+			"description": "[H3]Proton Grenade[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4]<div>Variable damage for additional grenades:  +20, +30, +40, +50 (150 max).  After 5, blast radius increased by one band per grenade. </div>"
+		},
+		{
+			"id": "Pulse Cannon",
+			"name": "Pulse Cannon",
+			"description": "[H3]Pulse Cannon[h3]\n      Please see page 43 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Forged in Battle[h4]<div>As a maneuver, a character wielding a pulse cannon may prime the weapon to expend all of its ammunition in a single, devastating shot. The next time the weapon is fired this encounter, it counts as having the Breach 1 and Vicious 3 qualities. After being discharged this way, the weapon runs out of ammunition. </div>"
+		},
+		{
+			"id": "Punch Dagger",
+			"name": "Punch Dagger",
+			"description": "[H3]Punch Dagger[h3]\n      Please see page 46 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Fly Casual[h4]<div>Add [SE][SE] to Perception checks to find on a person's body. </div>"
+		},
+		{
+			"id": "Quillbomb",
+			"name": "Quillbomb",
+			"description": "[H3]Quillbomb[h3]\n      Please see page 48 of the Unlimited Power sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Unlimited Power[h4]"
+		},
+		{
+			"id": "R-88 Supressor Riot Rifle",
+			"name": "R-88 Supressor Riot Rifle",
+			"description": "[H3]R-88 Supressor Riot Rifle[h3]\n      Please see page 40 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Far Horizons[h4]"
+		},
+		{
+			"id": "RGL-318 Rotary Grenade Launcher",
+			"name": "RGL-318 Rotary Grenade Launcher",
+			"description": "[H3]RGL-318 Rotary Grenade Launcher[h3]\nPlease see page 41 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Knights of Fate[h4]"
+		},
+		{
+			"id": "RLR-331 \"Bulldog\" Rocket Rifle",
+			"name": "RLR-331 \"Bulldog\" Rocket Rifle",
+			"description": "[H3]RLR-331 \"Bulldog\" Rocket Rifle[h3]\nPlease see page 41 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Knights of Fate[h4]"
+		},
+		{
+			"id": "RPS-6 Rocket Launcher",
+			"name": "RPS-6 Rocket Launcher",
+			"description": "[H3]RPS-6 Rocket Launcher[h3]\n      Please see page 53 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Rise of the Separatists[h4]<div>When performing the Aim maneuver, add extra [BO] against a silhouette 2 or greater target. </div>"
+		},
+		{
+			"id": "RS01 \"Ripper\" Powersword",
+			"name": "RS01 \"Ripper\" Powersword",
+			"description": "[H3]RS01 \"Ripper\" Powersword[h3]\nPlease see page 43 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Reciprocating Quad Blaster Cannon",
+			"name": "Reciprocating Quad Blaster Cannon",
+			"description": "[H3]Reciprocating Quad Blaster Cannon[h3]\n      Please see page 45 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Forged in Battle[h4]<div>This weapon can only be used in Auto-fire mode. </div><div>The GM may spend [DE] or [TH][TH][TH][TH] from a combat check with this weapon to have the wielder suffer a Critical injury with -50 to the roll, to a minimum of 1. </div>"
+		},
+		{
+			"id": "Redirection Crystal",
+			"name": "Redirection Crystal",
+			"description": "[H3]Redirection Crystal[h3]\n      Please see sidebar on page 39 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Cyphers and Masks[h4]<div>Setting up a redirection crystal requires a [B]Hard ([DI][DI][DI]) Skulduggery check[b]. </div><div>Hitting a redirection crystal requires a [B]Hard ([DI][DI][DI]) Ranged Light[b] or[B]Ranged Heavy check[b]. </div><div>The redirection crystal is destroyed upon use. </div>"
+		},
+		{
+			"id": "Refined Cortosis Gauntlets",
+			"name": "Refined Cortosis Gauntlets",
+			"description": "[H3]Refined Cortosis Gauntlets[h3]\n      Please see page 171 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 171 - Force and Destiny Core Rulebook[h4]<div>When attacked by a lightsaber, [TH][TH][TH] or [DE] may be spent to cause the lightsaber to short out and deactivate after the combat check is resolved. </div><div>When attacking an enemy armed with a lightsaber, [AD][AD][AD] or [TR] may be spent to cause the lightsaber to short out and deactivate after the combat check is resolved. </div>"
+		},
+		{
+			"id": "Refined Cortosis Staff",
+			"name": "Refined Cortosis Staff",
+			"description": "[H3]Refined Cortosis Staff[h3]\n      Please see page 173 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 173 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Relby-K23 Blaster Pistol",
+			"name": "Relby-K23 Blaster Pistol",
+			"description": "[H3]Relby-K23 Blaster Pistol[h3]\n      Please see page 12 of The Jewel of Yavin Adventure Module for details.[P][H3]Sources:[h3][H4]Page 12 - Jewel of Yavin[h4]"
+		},
+		{
+			"id": "Repulsor Gun",
+			"name": "Repulsor Gun",
+			"description": "[H3]Repulsor Gun[h3]\n      Please see page 46 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Special Modifications[h4]<div>Gain automatic [AD] on [B]Mechanics checks[b] to repair droids, vehicles, or starships. </div><div>[TH][TH] or [DE] on a Mechanics or Combat check may be spent to have all of its spray cartridges to run out. </div>"
+		},
+		{
+			"id": "Repulsor Throwing Razor",
+			"name": "Repulsor Throwing Razor",
+			"description": "[H3]Repulsor Throwing Razor[h3]\nPlease see page 41 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Knights of Fate[h4]<div>Character may spend [AD][AD] on a missed attack to have it return to their hands at the beginning of their next turn. </div>"
+		},
+		{
+			"id": "Riot Shield",
+			"name": "Riot Shield",
+			"description": "[H3]Riot Shield[h3]\n      Please see page 42 of the Far Horizons Sourcebook, and page 43 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 42 - Far Horizons[h4][H4]Page 43 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Rivet Gun",
+			"name": "Rivet Gun",
+			"description": "[H3]Rivet Gun[h3]\n      Please see page 46 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Special Modifications[h4]<div>A rivet gun reduces the difficulty of Mechanics checks to repair Critical Hits on vehicles and starships by 1 (to a minimum of [B]Simple [-][b]. </div>"
+		},
+		{
+			"id": "Rodian Cryogen Whip",
+			"name": "Rodian Cryogen Whip",
+			"description": "[H3]Rodian Cryogen Whip[h3]\n      Please see page 45 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Ryyk Blade",
+			"name": "Ryyk Blade",
+			"description": "[H3]Ryyk Blade[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "S-1 Vamblade (Paired)",
+			"name": "S-1 Vamblade (Paired)",
+			"description": "[H3]S-1 Vamblade (Paired)[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]<div>Cannot deal strain damage - Cannot deal strain damage </div>"
+		},
+		{
+			"id": "S-1 Vamblade (Single)",
+			"name": "S-1 Vamblade (Single)",
+			"description": "[H3]S-1 Vamblade (Single)[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]<div>Cannot deal strain damage - Cannot deal strain damage </div>"
+		},
+		{
+			"id": "SE-14c Blaster Pistol",
+			"name": "SE-14c Blaster Pistol",
+			"description": "[H3]BlasTech SE-14c Blaster Pistol[h3]\n      Please see page 42 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Forged in Battle[h4]"
+		},
+		{
+			"id": "SE-14r Light Repeating Blaster",
+			"name": "SE-14r Light Repeating Blaster",
+			"description": "[H3]SE-14r Light Repeating Blaster[h3]\n      Please see page 43 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Dangerous Covenants[h4]<div>[THREAT][THREAT][THREAT] may cause out of ammo. </div>"
+		},
+		{
+			"id": "SH-9 Slugthrower Pistol",
+			"name": "SH-9 Slugthrower Pistol",
+			"description": "[H3]SH-9 Slugthrower Pistol[h3]\n      Please see page 46 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Forged in Battle[h4]<div>Add [SE] to Perception checks to find an SH-9 slugthrower pistol on a person's body. </div><div>Add [SE] to Perception or Vigilance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol. </div>"
+		},
+		{
+			"id": "SHUKUR-05 Light Repeater",
+			"name": "SHUKUR-05 Light Repeater",
+			"description": "[H3]SHUKUR-05 Light Repeater[h3]\n      Please see page 49 of the Friends Like These Adventure Module for details.[P][H3]Sources:[h3][H4]Page 49 - Friends Like These[h4]"
+		},
+		{
+			"id": "SK-44 Plasma Missile",
+			"name": "SK-44 Plasma Missile",
+			"description": "[H3]SK-44 Plasma Missile[h3]\n      Please see page 42 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "SKZ Sporting Blaster Rifle",
+			"name": "SKZ Sporting Blaster Rifle",
+			"description": "[H3]SKZ Sporting Blaster Rifle[h3]\n      Please see page 96 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 96 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "SSB-1 Static Pistol",
+			"name": "SSB-1 Static Pistol",
+			"description": "[H3]SSB-1 Static Pistol[h3]\n      Please see page 45 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Fly Casual[h4]"
+		},
+		{
+			"id": "SSG Mk II Paladin",
+			"name": "SSG Mk II Paladin",
+			"description": "[H3]SSG Mk II Paladin[h3]\n      Please see page 41 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Endless Vigil[h4]"
+		},
+		{
+			"id": "ST-M40 Heavy Repeating Blaster Pistol",
+			"name": "ST-M40 Heavy Repeating Blaster Pistol",
+			"description": "[H3]Merr-Sonn ST-M40 Heavy Repeating Blaster Pistol[h3]\n      Please see page 39 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Cyphers and Masks[h4]<div>GM may spend [TH][TH] or [DE] to cause this weapon to run out of ammo. </div>"
+		},
+		{
+			"id": "SVT-300 Stun Cloak",
+			"name": "SVT-300 Stun Cloak",
+			"description": "[H3]Koromondain SVT-300 Stun Cloak[h3]\n      Please see page 108 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 108 - Strongholds of Resistance[h4]<div>If wielder is hit by a melee or brawl attack, the attacker takes 7 stun damage  This expends one charge of the Limited Ammo quality. </div><div>When all three charges are expended, must wait 3 minutes to recharge </div>"
+		},
+		{
+			"id": "SWE/2 Sonic Rifle",
+			"name": "SWE/2 Sonic Rifle",
+			"description": "[H3]SWE/2 Sonic Rifle[h3]\n      Please see page 40 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Far Horizons[h4]"
+		},
+		{
+			"id": "Sap Gloves",
+			"name": "Sap Gloves",
+			"description": "[H3]Sap Gloves[h3]\n      Please see page 40 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Cyphers and Masks[h4]<div>Spotting sap gloves requires [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. </div>"
+		},
+		{
+			"id": "Security S-5 Heavy Blaster Pistol",
+			"name": "Security S-5 Heavy Blaster Pistol",
+			"description": "[H3]Security S-5 Heavy Blaster Pistol[h3]\n      Please see page 43 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Keeping the Peace[h4]<div>Character may make an [B]Average ([DI][DI]) Ranged (Light) check[b] to secure the grappling hook to an object within medium range. An [B]Average ([DI][DI]) Athletics check[b] may be used to carry another character with him. </div>"
+		},
+		{
+			"id": "Selonian Glaive",
+			"name": "Selonian Glaive",
+			"description": "[H3]Selonian Glaive[h3]\n      Please see page 98 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 98 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Selonian Shard Shooter",
+			"name": "Selonian Shard Shooter",
+			"description": "[H3]Selonian Shard Shooter[h3]\n      Please see page 97 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 97 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Semblan Obsidian Dagger",
+			"name": "Semblan Obsidian Dagger",
+			"description": "[H3]Semblan Obsidian Dagger[h3]\n      Please see page 50 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - Unlimited Power[h4]<div>When recovering strain at end of encounter, Vurk may heal one additional strain when holding a Semblan dagger. </div>"
+		},
+		{
+			"id": "Shaped Charge",
+			"name": "Shaped Charge",
+			"description": "[H3]Shaped Charge[h3]\n      Please see page 42 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Fully Operational[h4]<div>Breach and Vicious ratings increases by 1 for each additional charge. </div>"
+		},
+		{
+			"id": "Shaped Thermal Grenade",
+			"name": "Shaped Thermal Grenade",
+			"description": "[H3]Shaped Thermal Grenade[h3]\n      Please see page 47 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Shield Gauntlet",
+			"name": "Shield Gauntlet",
+			"description": "[H3]Shield Gauntlet[h3]\n      Please see page 44 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Shistavanen Combat Utility Vibroblade",
+			"name": "Shistavanen Combat Utility Vibroblade",
+			"description": "[H3]Shistavanen Combat Utility Vibroblade[h3]\n      Please see page 48 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Forged in Battle[h4]<div>The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to \"heal\" droids, but adds [SE] to such checks. </div>"
+		},
+		{
+			"id": "Shock Boots",
+			"name": "Shock Boots",
+			"description": "[H3]Shock Boots[h3]\n      Please see page 45 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Fly Casual[h4]<div>Add [SE] to a Perception checks to notice they are a weapon. </div>"
+		},
+		{
+			"id": "Shock Gloves",
+			"name": "Shock Gloves",
+			"description": "[H3]Shock Gloves[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook, page 180 of the Age of Rebellion Core Rulebook, or page 171 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4][H4]Page 180 - Age of Rebellion Core Rulebook[h4][H4]Page 171 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Shock Whip",
+			"name": "Shock Whip",
+			"description": "[H3]Shock Whip[h3]\n      Please see page 60 of the Friends Like These Adventure Module for details.[P][H3]Sources:[h3][H4]Page 60 - Friends Like These[h4]"
+		},
+		{
+			"id": "Shockprod Staff",
+			"name": "Shockprod Staff",
+			"description": "[H3]Shockprod Staff[h3]\nPlease see page 43 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Shoto",
+			"name": "Shoto",
+			"description": "[H3]Shoto[h3]\n      Please see page 177 of the Force and Destiny Core Rulebook, or page 54 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 177 - Force and Destiny Core Rulebook[h4][H4]Page 54 - Rise of the Separatists[h4]<div>Reduced Damage Mod - Damage -1 </div>"
+		},
+		{
+			"id": "Shoto Hilt",
+			"name": "Shoto Hilt",
+			"description": "[H3]Shoto Hilt[h3]\n      Please see page 177 of the Force and Destiny Core Rulebook, or page 54 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 177 - Force and Destiny Core Rulebook[h4][H4]Page 54 - Rise of the Separatists[h4]<div>Reduced Damage Mod - Damage -1 </div>"
+		},
+		{
+			"id": "Site-145 Replica Blaster Pistol",
+			"name": "Site-145 Replica Blaster Pistol",
+			"description": "[H3]Site-145 Replica Blaster Pistol[h3]\n      Please see page 43 of the Keeping the Peace sourcebook for details.\n      [P][I]The HP for this weapon should be used to attach a Force-attuned resonator attachment only.[i][P][H3]Sources:[h3][H4]Page 43 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Sith Shield",
+			"name": "Sith Shield",
+			"description": "[H3]Sith Shield[h3]\n      Please see page 45 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Keeping the Peace[h4]<div>When hit, may commit [FO] as OOT Incidental.  As action, may uncommit all [FO] and make a Force power check with that many [FO], taking 1 Conflict per [FO]. May spend [FP] to inflict 1 wound and 1 strain, ignoring soak, on each character within short range. </div>"
+		},
+		{
+			"id": "Slugthrower Pistol",
+			"name": "Slugthrower Pistol",
+			"description": "[H3]Slugthrower Pistol[h3]\n      Please see page 164 of the Edge of the Empire Core Rulebook, page 177 of the Age of Rebellion Core Rulebook, or page 169 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 164 - Edge of the Empire Core Rulebook[h4][H4]Page 177 - Age of Rebellion Core Rulebook[h4][H4]Page 169 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Slugthrower Rifle",
+			"name": "Slugthrower Rifle",
+			"description": "[H3]Slugthrower Rifle[h3]\n      Please see page 164 of the Edge of the Empire Core Rulebook, page 177 of the Age of Rebellion Core Rulebook, or page 169 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 164 - Edge of the Empire Core Rulebook[h4][H4]Page 177 - Age of Rebellion Core Rulebook[h4][H4]Page 169 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Snap Baton",
+			"name": "Snap Baton",
+			"description": "[H3]Snap Baton[h3]\n      Please see page 45 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Sonic Grenade",
+			"name": "Sonic Grenade",
+			"description": "[H3]Sonic Grenade[h3]\nPlease see page 45 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Sorosuub \"Persuader\" Shock Prod",
+			"name": "Sorosuub \"Persuader\" Shock Prod",
+			"description": "[H3]Sorosuub \"Persuader\" Shock Prod[h3]\n      Please see page 41 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Stay on Target[h4]"
+		},
+		{
+			"id": "Spore Stun Grenade",
+			"name": "Spore Stun Grenade",
+			"description": "[H3]Speizoc Arms Spore Stun Grenade[h3]\n      Please see page 43 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Spore/B Stun Grenade",
+			"name": "Spore/B Stun Grenade",
+			"description": "[H3]Spore/B Stun Grenade[h3]\n      Please see page 107 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 107 - Strongholds of Resistance[h4]<div>The first time a character hit by this grenade (even if he suffers no damage) must roll a single [CH]. As long as the character doesn't roll a\n        [DE], he is affected normally.  If he rolls a [DE], he immediately suffers 6 strain and begins to suffocate.  A [B]Hard ([DI][DI][DI]) Medicine check[b] is required to stop the subject from suffocating. </div>"
+		},
+		{
+			"id": "Spray Foam Grenade",
+			"name": "Spray Foam Grenade",
+			"description": "[H3]Tenloss Spray Foam Grenade[h3]\n      Please see page 43 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Disciples of Harmony[h4]<div>Ensnare quality automatically activates if grenade hits, with no need to spend [AD]. </div>"
+		},
+		{
+			"id": "Spray Rifle",
+			"name": "Spray Rifle",
+			"description": "[H3]Loronar Spray Rifle[h3]\n      Please see page 43 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Staff of Office",
+			"name": "Staff of Office",
+			"description": "[H3]Staff of Office[h3]\n      Please see page 46 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Desperate Allies[h4]<div>Add [BOOST][BOOST] when attempting to convince others to allow him to retain his staff of office. </div>"
+		},
+		{
+			"id": "Stealth Vibroknife",
+			"name": "Stealth Vibroknife",
+			"description": "[H3]Stealth Vibroknife[h3]\n      Please see page 46 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Desperate Allies[h4]<div>Add [SETBACK][SETBACK] to Perception checks to find a stealth vibroknife on a person's body. </div>"
+		},
+		{
+			"id": "Stealth-2VX Palm Shooter",
+			"name": "Stealth-2VX Palm Shooter",
+			"description": "[H3]Prax Arms Stealth-2VX Palm Shooter[h3]\n      Please see page 102 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]<div>Add [SETBACK][SETBACK] to Perception checks to find a Stealth-2VX Palm Shooter on a wearer's body. </div>"
+		},
+		{
+			"id": "Stokhli Spray Stick",
+			"name": "Stokhli Spray Stick",
+			"description": "[H3]Stokhli Spray Stick[h3]\n      Please see page 41 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Far Horizons[h4]"
+		},
+		{
+			"id": "Stun Baton",
+			"name": "Stun Baton",
+			"description": "[H3]Stun Baton[h3]\n      Please see page 43 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Far Horizons[h4]"
+		},
+		{
+			"id": "Stun Club",
+			"name": "Stun Club",
+			"description": "[H3]Stun Club[h3]\n      Please see page 13 of The Jewel of Yavin Adventure Module for details.[P][H3]Sources:[h3][H4]Page 13 - Jewel of Yavin[h4]"
+		},
+		{
+			"id": "Stun Grenade",
+			"name": "Stun Grenade",
+			"description": "[H3]Stun Grenade[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 179 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 179 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Styanax Lance",
+			"name": "Styanax Lance",
+			"description": "[H3]Styanax Lance[h3]\n      Please see page 97 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 97 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Sword Cane",
+			"name": "Sword Cane",
+			"description": "[H3]Sword Cane[h3]\n      Please see page 47 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Desperate Allies[h4]<div>Add [SETBACK] to Perception checks to determine that a sword cane is actually a lethal weapon. </div>"
+		},
+		{
+			"id": "T-7 Ion Disruptor",
+			"name": "T-7 Ion Disruptor",
+			"description": "[H3]T-7 Ion Disruptor[h3]\n      Please see page 44 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Forged in Battle[h4]<div>Whenever a living target is hit with a T-7 ion disruptor, any Crititcal Injury results in a \"Crippled\" effect unless the roll on the Critical Injury table would result in a more grievous injury. </div><div>Whenever a vehicle or starship is hit with a T-7 ion distruptor, any Critical Hit results in a \"Component Hit\" effect, unless the roll on the Critical Hit table would result in a more serious effect. </div>"
+		},
+		{
+			"id": "TT24 Holdout Blaster",
+			"name": "TT24 Holdout Blaster",
+			"description": "[H3]TT24 Holdout Pistol[h3]\n      Please see page 26 of the Beyond the Rim Adventure Module for details.[P][H3]Sources:[h3][H4]Page 26 - Beyond the Rim[h4]"
+		},
+		{
+			"id": "TZ-97 \"Zapper\" Shock Baton",
+			"name": "TZ-97 \"Zapper\" Shock Baton",
+			"description": "[H3]TZ-97 \"Zapper\" Shock Baton[h3]\n      Please see page 54 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Tangle Gun",
+			"name": "Tangle Gun",
+			"description": "[H3]Tangle Gun[h3]\n      Please see page 41 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Far Horizons[h4]"
+		},
+		{
+			"id": "Temple Guard Lightsaber Pike",
+			"name": "Temple Guard Lightsaber Pike",
+			"description": "[H3]Temple Guard Lightsaber Pike[h3]\n      Please see page 46 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Temple Guard Lightsaber Pike Hilt",
+			"name": "Temple Guard Lightsaber Pike Hilt",
+			"description": "[H3]Temple Guard Lightsaber Pike Hilt[h3]\n      Please see page 46 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Thermal Cutter",
+			"name": "Thermal Cutter",
+			"description": "[H3]Thermal Cutter[h3]\n      Please see page 105 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 105 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Thermal Detonator",
+			"name": "Thermal Detonator",
+			"description": "[H3]Thermal Detonator[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 180 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 180 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]<div>Any [DE] on check means detonator exploded prematurely.  User takes full damage unless an additional maneuver can be performed.  If so, user takes Blast damage. </div>"
+		},
+		{
+			"id": "Thunderbolt Shock Prod",
+			"name": "Thunderbolt Shock Prod",
+			"description": "[H3]Thunderbolt Shock Prod[h3]\n      Please see page 43 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Far Horizons[h4]"
+		},
+		{
+			"id": "Trailbreaker Poleaxe",
+			"name": "Trailbreaker Poleaxe",
+			"description": "[H3]LaserHone Trailbreaker Poleaxe[h3]\n      Please see page 43 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Training Lightsaber",
+			"name": "Training Lightsaber",
+			"description": "[H3]Training Lightsaber[h3]\n      Please see page 178 of the Force and Destiny Core Rulebook, or page 54 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 178 - Force and Destiny Core Rulebook[h4][H4]Page 54 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Training Stick",
+			"name": "Training Stick",
+			"description": "[H3]Training Stick[h3]\n      Please see page 104 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Truncheon",
+			"name": "Truncheon",
+			"description": "[H3]Truncheon[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 174 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 174 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Tuskbeast Pike",
+			"name": "Tuskbeast Pike",
+			"description": "[H3]Tuskbeast Pike[h3]\n      Please see page 104 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "VES-700 Pulse Rifle",
+			"name": "VES-700 Pulse Rifle",
+			"description": "[H3]Corondexx VES-700 Pulse Rifle[h3]\n      Please see page 44 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Fly Casual[h4]"
+		},
+		{
+			"id": "VX \"Czerhander\" Vibro-Greatsword",
+			"name": "VX \"Czerhander\" Vibro-Greatsword",
+			"description": "[H3]VX \"Czerhander\" Vibro-Greatsword[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "VX \"Sidewinder\" Repeating Blaster",
+			"name": "VX \"Sidewinder\" Repeating Blaster",
+			"description": "[H3]VX \"Sidewinder\" Repeating Blaster[h3]\n      Please see page 43 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Vac Attack Mk-127 Concealable Disc Launcher (Arc Mode)",
+			"name": "Vac Attack Mk-127 Concealable Disc Launcher (Arc Mode)",
+			"description": "[H3]Vacutech Combine Vac Attack Mk-127 Concealable Disc Launcher (Arc Mode)[h3]\n      Please see page 39 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Cyphers and Masks[h4]<div>May spend a maneuver to change to or from single-line mode and arc mode. </div><div>If two are worn on each wrist, may be fired as a single weapon with the Linked 1 quality. </div><div>Noticing an individual wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b]. </div>"
+		},
+		{
+			"id": "Vac Attack Mk-127 Concealable Disc Launcher (Single-Line Mode)",
+			"name": "Vac Attack Mk-127 Concealable Disc Launcher (Single-Line Mode)",
+			"description": "[H3]Vacutech Combine Vac Attack Mk-127 Concealable Disc Launcher (Single-Line Mode)[h3]\n      Please see page 39 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 39 - Cyphers and Masks[h4]<div>May spend a maneuver to change to or from single-line mode and arc mode. </div><div>If two are worn on each wrist, may be fired as a single weapon with the Linked 1 quality. </div><div>Noticing an individual wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b]. </div>"
+		},
+		{
+			"id": "Variable Holdout Blaster",
+			"name": "Variable Holdout Blaster",
+			"description": "[H3]Variable Holdout Blaster[h3]\n      Please see page 104 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Strongholds of Resistance[h4]<div>Anyone searching an individual carrying a concealed variable holdout blaster adds [SETBACK] to their Perception checks. </div><div>Wielder must choose a power setting between 1 and 7.  This is the amount of damage a successful shot will inflict, and is also the amount of ammo expended. </div>"
+		},
+		{
+			"id": "Verpine Heavy Shatter Rifle",
+			"name": "Verpine Heavy Shatter Rifle",
+			"description": "[H3]Verpine Heavy Shatter Rifle[h3]\n      Please see page 106 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 106 - Strongholds of Resistance[h4]<div>Any combat check that generates [TH][TH] or [DE] damages weapon by one step </div>"
+		},
+		{
+			"id": "Verpine Shatter Pistol",
+			"name": "Verpine Shatter Pistol",
+			"description": "[H3]Verpine Shatter Pistol[h3]\n      Please see page 106 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 106 - Strongholds of Resistance[h4]<div>Any combat check that generates [TH][TH] or [DE] damages weapon by one step </div>"
+		},
+		{
+			"id": "Verpine Shatter Rifle",
+			"name": "Verpine Shatter Rifle",
+			"description": "[H3]Verpine Shatter Rifle[h3]\n      Please see page 106 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 106 - Strongholds of Resistance[h4]<div>Any combat check that generates [TH][TH] or [DE] damages weapon by one step </div>"
+		},
+		{
+			"id": "Vibro-Glaive",
+			"name": "Vibro-Glaive",
+			"description": "[H3]Beastmaster's Vibro-Glaive[h3]\n      Please see page 103 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 103 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "Vibro-Machete",
+			"name": "Vibro-Machete",
+			"description": "[H3]Vibro-Machete[h3]\n      Please see page 43 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Vibro-ax",
+			"name": "Vibro-ax",
+			"description": "[H3]Vibro-Ax[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 175 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 175 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Vibroknife",
+			"name": "Vibroknife",
+			"description": "[H3]Vibroknife[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 174 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 174 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Vibroknucklers",
+			"name": "Vibroknucklers",
+			"description": "[H3]Vibroknucklers[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]<div>Cannot deal strain damage - Cannot deal strain damage </div><div>Add [SETBACK] to attempts to locate a concealed vibroknuckler. </div>"
+		},
+		{
+			"id": "Vibrorapier",
+			"name": "Vibrorapier",
+			"description": "[H3]Vibrorapier[h3]\n      Please see page 46 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Fly Casual[h4]"
+		},
+		{
+			"id": "Vibrosword",
+			"name": "Vibrosword",
+			"description": "[H3]Vibrosword[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 175 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 175 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Vodran Hunting Rifle",
+			"name": "Vodran Hunting Rifle",
+			"description": "[H3]Vodran Hunting Rifle[h3]\n      Please see page 102 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "Voss Warspear",
+			"name": "Voss Warspear",
+			"description": "[H3]Voss Warspear[h3]\n      Please see page 104 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Voss Warspear (thrown)",
+			"name": "Voss Warspear (thrown)",
+			"description": "[H3]Voss Warspear[h3]\n      Please see page 104 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Nexus of Power[h4]"
+		},
+		{
+			"id": "WP-19 Incendiary Grenade",
+			"name": "WP-19 Incendiary Grenade",
+			"description": "[H3]Merr-Sonn WP-19 Incendiary Grenade[h3]\n      See page 40 of the Fully Operational Sourcebook, or page 45 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 40 - Fully Operational[h4][H4]Page 45 - Knights of Fate[h4]"
+		},
+		{
+			"id": "WW-41 CryoBan Grenade",
+			"name": "WW-41 CryoBan Grenade",
+			"description": "[H3]Merr-Sonn WW-41 CryoBan Grenade[h3]\n      See page 40 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Fully Operational[h4]<div>If using to put out a fire, CryoBan grenade adds [BO] to the attempt. </div>"
+		},
+		{
+			"id": "Weequay Blaster Lance",
+			"name": "Weequay Blaster Lance",
+			"description": "[H3]Weequay Blaster Lance[h3]\n      Please see page 100 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 100 - Lords of Nal Hutta[h4]"
+		},
+		{
+			"id": "Weik Greatsword",
+			"name": "Weik Greatsword",
+			"description": "[H3]Weik Greatsword[h3]\n      Please see page 104 of the Nexus of Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 104 - Nexus of Power[h4]"
+		},
+		{
+			"id": "Welding Rod",
+			"name": "Welding Rod",
+			"description": "[H3]Welding Rod[h3]\n      Please see page 47 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Special Modifications[h4]<div>Welding rods add automatic [AD] to Mechanics checks to repair droids, vehicles, and starships. </div><div>[DE] may be used to inflict a Critical Injury on user. </div>"
+		},
+		{
+			"id": "Wipe-3 Data-Purge Grenade",
+			"name": "Wipe-3 Data-Purge Grenade",
+			"description": "[H3]SoroSuub Wipe-3 Data-Purge Grenade[h3]\n      Please see page 45 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Desperate Allies[h4]<div>Computers hit by this grenade lose all programming and data. </div><div>A droid hit by this grenade must make a [B]Hard ([DI][DI][DI]) Resilience check[b] or suffer 1 strain plus 1 strain per [FAILURE]. [DESPAIR] or [THREAT][THREAT][THREAT] can cause memory loss, at GM discretion. </div>"
+		},
+		{
+			"id": "Wrist Blaster",
+			"name": "Wrist Blaster",
+			"description": "[H3]Wrist Blaster[h3]\n      Please see page 40 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Cyphers and Masks[h4]<div>Noticing an individual wearing one of these weapons requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. </div><div>[TH][TH][TH] or [DE] may be used to cause the weapon to burn the wielder, causing 3 wound. </div>"
+		},
+		{
+			"id": "XL-2 \"Flashfire\" Blaster Pistol",
+			"name": "XL-2 \"Flashfire\" Blaster Pistol",
+			"description": "[H3]XL-2 \"Flashfire\" Blaster Pistol[h3]\n      Please see page 95 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 95 - Suns of Fortune[h4]"
+		},
+		{
+			"id": "Z-6 Rotary Blaster Cannon",
+			"name": "Z-6 Rotary Blaster Cannon",
+			"description": "[H3]Z-6 Rotary Blaster Cannon[h3]\n      Please see page 44 of the Forged in Battle Sourcebook, or page 52 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 44 - Forged in Battle[h4][H4]Page 52 - Rise of the Separatists[h4]<div>This weapon can only be used in Auto-fire mode. </div><div>The GM may spend [DE] or [TH][TH] from any combat check made with this weapon to have it overheat; the wielder suffers 2 strain and the weapon becomes damaged one step: from undamaged to Minor, Minor to Moderate, or Moderate to Major. </div>"
+		},
+		{
+			"id": "Z50 Grenade Launcher",
+			"name": "Z50 Grenade Launcher",
+			"description": "[H3]Z50 Grenade Launcher[h3]\n      Please see page 42 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 42 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Z6 Riot Baton",
+			"name": "Z6 Riot Baton",
+			"description": "[H3]Z6 Riot Baton[h3]\n      Please see page 44 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "aKraB Clip-Point Vibrodagger",
+			"name": "aKraB Clip-Point Vibrodagger",
+			"description": "[H3]aKraB Clip-Point Vibrodagger[h3]\n      Please see page 48 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Forged in Battle[h4]"
+		},
+		{
+			"id": "x-30 Lancer",
+			"name": "x-30 Lancer",
+			"description": "[H3]x-30 Lancer[h3]\n      Please see page 38 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 38 - Enter the Unknown[h4]"
+		}
+	]
 }

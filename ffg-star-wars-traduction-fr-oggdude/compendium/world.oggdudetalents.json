@@ -532,7 +532,7 @@
 		{
 			"id": "Defensive Circle",
 			"name": "Cercle Défensif",
-			"description": "Entreprenez la manoeuvre Cercle défensif. Effectuez un test de Sabre laser Difficile ([Di][Di][Di]). Le personnage, plus un allié à portée courte par [SU], gagne X en défense jusqu'au début du tour suivant. X étant égal à 1 + 1 par [AV][AV]."
+			"description": "Entreprenez la manoeuvre Cercle défensif. Effectuez un test de Sabre laser Difficile ([Di][Di][Di]). Le personnage, plus un allié à portée courte par [SU], gagne X en défense jusqu'au début du tour suivant. X étant égal à 1 + 1 par [AD][AD]."
 		},
 		{
 			"id": "Defensive Driving",
@@ -1377,7 +1377,7 @@
 		{
 			"id": "Learning Opportunity",
 			"name": "Opportunité d'apprentissage",
-			"description": "Une fois par tour, si le personnage rate son jet, il peut dépenser [AV][AV][AV] pour améliorer son prochain jet une fois. Page 40 du livre the Rise of the Separatists pour plus de détails."
+			"description": "Une fois par tour, si le personnage rate son jet, il peut dépenser [AD][AD][AD] pour améliorer son prochain jet une fois. Page 40 du livre the Rise of the Separatists pour plus de détails."
 		},
 		{
 			"id": "Let's Ride",
