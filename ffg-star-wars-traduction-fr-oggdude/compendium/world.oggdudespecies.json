@@ -241,8 +241,8 @@
 		},
 		{
 			"id": "Human",
-			"name": "Human",
-			"description": "[H4]Humans[h4]\n    Please see page 48 of the Edge of the Empire Core Rulebook, page 57 of the Age of Rebellion Core Rulebook, or page 55 of the Force and Destiny Core Rulebook, for details.<h4>Abilities</h4><p>Additional Non-Career Skills : Humans start the game with one rank in two different non-career\n          skills of their choice.</p>[P][H3]Sources:[h3][H4]Page 48 - Edge of the Empire Core Rulebook[h4][H4]Page 57 - Age of Rebellion Core Rulebook[h4][H4]Page 55 - Force and Destiny Core Rulebook[h4]"
+			"name": "Humain",
+			"description": "<h2>Humain</h2>\n<p><strong>Soci&eacute;t&eacute;</strong> : l'ambition des humains et la comp&eacute;tition qu'ils se livrent ont scind&eacute; leur esp&egrave;ce en de nombreuses soci&eacute;t&eacute;s. Les humains vivent sous tous les syst&egrave;mes politiques possibles, du f&eacute;odalisme &agrave; la th&eacute;ocratie en passant par la d&eacute;mocratie et l'autocratie, leur technologie &eacute;tant elle aussi arriv&eacute;e &agrave; divers stades suivant les r&eacute;gions de la galaxie.</p>\n<p><strong>Monde natal</strong> : Les humains seraient appraus quelque part dans les Mondes du Noyau, peut &ecirc;tre sur Coruscant.</p>\n<p><strong>Langue</strong>&nbsp; : La principale langue qui lie les humains est le basic, mais chaque soci&eacute;t&eacute; a son propre dialecte, et parfois m&ecirc;me un sous-language.</p>\n<p><strong>La vie dans la bordure</strong> : Les humains jouent presque tous les r&ocirc;les et occupent tous les emplois possibles dans la zone.</p>\n<p>&nbsp;</p>\n<p>Page 48 de Force et Destin&eacute;e ou page 55 de L'Ere de la R&eacute;bellion pour plus de d&eacute;tails</p>"
 		},
 		{
 			"id": "Hutt",
