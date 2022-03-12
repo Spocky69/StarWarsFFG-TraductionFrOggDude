@@ -2063,8 +2063,8 @@
 		},
 		{
 			"id": "Raquor Venom",
-			"name": "Raquor Venom",
-			"description": "[H3]Raquor Venom[h3]\n      Please see page 109 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 109 - Lords of Nal Hutta[h4]<div>[B]Daunting ([DI][DI][DI][DI]) Resilience Check[b].  Fail:  Staggers for 2 rounds.  Each [THREAT] inflicts 2 strain. [DESPAIR]: Immobilizes for 2 rounds. </div>"
+			"name": "Venin de Raquor",
+			"description": "C'est un puissant inhibateur enzymatique aux effets paralysants. Réussir un test de résistance [DI][DI][DI][DI]. En cas d'échec, ce poison inflige étourdi (p218 Aux Confins de l'Empire) à la victime pendant 2 rounds. Chaque [DE] inflige 2 points de stress. Un [TH] immobilise la cible pendant 2 rounds."
 		},
 		{
 			"id": "Ration Pack",

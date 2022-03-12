@@ -1,6 +1,1730 @@
 {
 	"label": "oggdude.ItemAttachments",
-	"mapping": {
-		"description": "data.description"
-	}
+	"entries": [
+		{
+			"id": "\"Accu-Strike\" Integrated Targeting Computer",
+			"name": "\"Accu-Strike\" Integrated Targeting Computer",
+			"description": "[H3]\"Accu-Strike\" Integrated Targeting Computer[h3]\n      Please see page 54 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Add [BOOST] to all Ranged attacks at long or extreme range. </div>"
+		},
+		{
+			"id": "\"Bantha's Eye\" Laser Sight",
+			"name": "\"Bantha's Eye\" Laser Sight",
+			"description": "[H3]\"Bantha's Eye\" Laser Sight[h3]\n      Please see page 52 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Add Advantage to Successful Check Mod - Add One [ADVANTAGE] to Successful Check </div>"
+		},
+		{
+			"id": "\"Final Word\" Secondary Missile System",
+			"name": "\"Final Word\" Secondary Missile System",
+			"description": "[H3]\"Final Word\" Secondary Missile System[h3]\n      Please see page 52 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Enables weapon to fire rockets, using missile's profile. </div><div>Cumbersome Quality - Cumbersome {0} Compte 2</div><div>Increases Encumbrance Mod - Increase Encumbrance by 1 Compte 3</div>"
+		},
+		{
+			"id": "(AD-1S) Cargo Pod",
+			"name": "(AD-1S) Cargo Pod",
+			"description": "[H3]Cargo Pod for AD-1S[h3]\nPlease see page 62 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Special Modifications[h4]<h3>Base Mods</h3><div>Increases Encumbrance Capacity Mod - Increase Encumbrance Capacity by 1 Compte 50</div>"
+		},
+		{
+			"id": "(AD-1S) Fine-Tuned Microthrusters",
+			"name": "(AD-1S) Fine-Tuned Microthrusters",
+			"description": "[H3]Fine-Tuned Microthrusters for AD-1S[h3]\nPlease see page 63 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Special Modifications[h4]<h3>Base Mods</h3><div>Increases Handling Mod - Increases Handling by 1 </div>"
+		},
+		{
+			"id": "(AD-1S) Hyperdrive Class 4 Module",
+			"name": "(AD-1S) Hyperdrive Class 4 Module",
+			"description": "[H3]Hyperdrive Class 4 Module for AD-1S[h3]\nPlease see page 63 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Special Modifications[h4]<h3>Base Mods</h3><div>Add Class 4 Hyperdrive Mod - Add Class 4 Hyperdrive </div><div>Add astromech droid socket. </div>"
+		},
+		{
+			"id": "(AD-1S) Hyperdrive Class 8 Module",
+			"name": "(AD-1S) Hyperdrive Class 8 Module",
+			"description": "[H3]Hyperdrive Class 8 Module for AD-1S[h3]\nPlease see page 63 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Special Modifications[h4]<h3>Base Mods</h3><div>Add Class 8 Hyperdrive Mod - Add Class 8 Hyperdrive </div><div>Add astromech droid socket. </div>"
+		},
+		{
+			"id": "(AD-1S) Shield Generator Module",
+			"name": "(AD-1S) Shield Generator Module",
+			"description": "[H3]Shield Generator Module  forAD-1S[h3]\nPlease see page 63 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Special Modifications[h4]<h3>Base Mods</h3><div>Increase Defense Zone Mod - Increases Defense Zone by 1 </div>"
+		},
+		{
+			"id": "(AD-1S) Sublight Boost Thrusters",
+			"name": "(AD-1S) Sublight Boost Thrusters",
+			"description": "[H3]Sublight Boost Thrusters for AD-1S[h3]\nPlease see page 63 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Special Modifications[h4]<h3>Base Mods</h3><div>Increase Speed Mod - Increase Speed by 1 </div><div>Decreases Handling Mod - Decreases Handling by 1 </div>"
+		},
+		{
+			"id": "ANQ 3.6 Tracking Computer",
+			"name": "ANQ 3.6 Tracking Computer",
+			"description": "[H3]ANQ 3.6 Tracking Computer[h3]\n      Please see page 60 of the Enter the Unknown Sourcebook for details.<h3>Base Mods</h3><div>Choose one target and make [B]Average ([DI][DI]) Computers check[b].  If successful, combat checks against target are upgraded once. [SU][SU][SU] or [TR] allows additional target. </div>"
+		},
+		{
+			"id": "AX-108 \"Ground Buzzer\" Surface-Defense Blaster Cannon",
+			"name": "AX-108 \"Ground Buzzer\" Surface-Defense Blaster Cannon",
+			"description": "[H3]AX-108 \"Ground Buzzer\" Surface-Defense Blaster Cannon[h3]\n      Please see page 62 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Fly Casual[h4]<h3>Base Mods</h3><div>Adds one AX-108 Surface Defense Blaster Cannon weapon </div><div>Can fire automatically with a Ranged (Heavy) skill of 2 and an Agility of 0 </div>"
+		},
+		{
+			"id": "Additional Cars",
+			"name": "Additional Cars",
+			"description": "[H3]Additional Cars[h3]\n      Please see page 60 of the Unlimited Power Sourcebook for details.\n      [P][I]Note:  For each additional car, select one of each type of optional mod.  Up to 10 additional cars can be added in this way.[i][P][H3]Sources:[h3][H4]Page 60 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Advanced Subspace Encryption Array",
+			"name": "Advanced Subspace Encryption Array",
+			"description": "[H3]Advanced Subspace Encryption Array[h3]\n      Please see page 65 of the Desperate Allies Sourcebook for details.<h3>Base Mods</h3><div>Only the intended recipient can detect a transmission  sent with this attachment without a [B]Hard ([DI][DI][DI]) Computers check[b]. </div><div>Upgrade the difficulty of any checks to intercept or decipher transmissions made from this attachment once. </div>"
+		},
+		{
+			"id": "Advanced Targeting Array",
+			"name": "Advanced Targeting Array",
+			"description": "[H3]Advanced Targeting Array[h3]\n      Please see page 269 of the Edge of the Empire Core Rulebook, page 286 of the Age of Rebellion Core Rulebook, or page 269 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 269 - Edge of the Empire Core Rulebook[h4][H4]Page 286 - Age of Rebellion Core Rulebook[h4][H4]Page 269 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Upgrade ability of Gunnery checks Mod - Upgrade ability of Gunnery checks by 1 </div>"
+		},
+		{
+			"id": "All-Terrain Legs",
+			"name": "All-Terrain Legs",
+			"description": "[H3]All-Terrain Legs[h3]\nPlease see page 65 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Special Modifications[h4]<h3>Base Mods</h3><div>As a maneuver, pilot may shift in or out of walker mode.  In walker mode, pilot uses Piloting (Planetary) and speed is reduced to 2. </div>"
+		},
+		{
+			"id": "Amphibious Modification",
+			"name": "Amphibious Modification",
+			"description": "[H3]Amphibious Modification[h3]\nPlease see page 57 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Special Modifications[h4]<h3>Base Mods</h3><div>Provides up to five hours of oxygen in submersive or airless environments.  Does not protect against vacuum. </div><div>Removes [SE] from physical checks due to underwater conditions. </div>"
+		},
+		{
+			"id": "Amphibious Modification",
+			"name": "Amphibious Modification",
+			"description": "[H3]Amphibious Modification[h3]\nPlease see page 65 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Special Modifications[h4]<h3>Base Mods</h3><div>Vehicle can operate underwater without penalty. </div>"
+		},
+		{
+			"id": "Armor Insert",
+			"name": "Armor Insert",
+			"description": "[H4]Armor Insert[h4]\n      Please see page 57 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Set Soak Mod - Set Soak value </div><div>Set Defense Mod - Set Defense value </div><div>Armor inserts can be noticed by making an [B]Average ([DI][DI]) Perception check[b]. </div>"
+		},
+		{
+			"id": "Armor Spikes",
+			"name": "Armor Spikes",
+			"description": "[H3]Armor Spikes[h3]\n      Please see page 56 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Increases Encumbrance Mod - Increase Encumbrance by 1 Compte 2</div><div>When wearer suffers a hit from a Melee, Brawl, or Lightsaber combat check, may spend [TH][TH][TH] or [DE] to inflict one hit for 6 damage on attacker. </div>"
+		},
+		{
+			"id": "Armored Computer Core",
+			"name": "Armored Computer Core",
+			"description": "[H3]Armored Computer Core[h3]\n      Please see page 60 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Fully Operational[h4]<h3>Base Mods</h3><div>Incorporates a computer core that records flight and system data and backs up any logs or records entered into the ship's computer. </div><div>Computer core remains intact even if the ship suffers a \"Vaporized\" Critical Hit. </div>"
+		},
+		{
+			"id": "Ascension Gun",
+			"name": "Ascension Gun",
+			"description": "[H3]Ascension Gun[h3]\n      Please see page 61 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>User may fire  ascension gun at an anchor point within medium range with an [B]Easy ([DI]) Ranged Light[b] or [B]Coordination check[b], adding [SE] for precise placement.  May asend one range band every round. </div>"
+		},
+		{
+			"id": "Astrogation Droid Brain",
+			"name": "Astrogation Droid Brain",
+			"description": "[H3]Astrogation Droid Brain[h3]\n      Please see page 62 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Fly Casual[h4]<h3>Base Mods</h3><div>Adds a Droid Brain with Astrogation Skill 2 and Intellect 0 </div>"
+		},
+		{
+			"id": "Astromech Droid Socket",
+			"name": "Astromech Droid Socket",
+			"description": "[H3]Astromech Droid Socket[h3]\n      Please see page 63 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Stay on Target[h4]<h3>Base Mods</h3><div>Allows starship to link to an astromech droid via SCOMP </div>"
+		},
+		{
+			"id": "Augmented Buffer",
+			"name": "Augmented Buffer",
+			"description": "[H3]Augmented Buffer[h3]\n      Please see page 47 of The Jewel of Yavin Adventure Module for details.[P][H3]Sources:[h3][H4]Page 47 - Jewel of Yavin[h4]<h3>Base Mods</h3><div>Increases System Strain Mod - Increases System Strain by 1 </div>"
+		},
+		{
+			"id": "Augmented Spin Barrel",
+			"name": "Augmented Spin Barrel",
+			"description": "[H3]Augmented Spin Barrel[h3]\n      Please see page 188 of the Edge of the Empire Core Rulebook, or page 200 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 188 - Edge of the Empire Core Rulebook[h4][H4]Page 200 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div><div>Add [SETBACK] to all Mechanics checks when performing\n          maintenance on this weapon. </div>"
+		},
+		{
+			"id": "Augmented Vibro-Motor",
+			"name": "Augmented Vibro-Motor",
+			"description": "[H3]Augmented Vibro-Motor[h3]\n      Please see page 61 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div><div>Cumbersome Quality - Cumbersome {0} Compte 3</div>"
+		},
+		{
+			"id": "Automated Weapon Mounting",
+			"name": "Automated Weapon Mounting",
+			"description": "[H3]Automated Weapon Mounting[h3]\n      See page 53 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Fully Operational[h4]<h3>Base Mods</h3><div>Mount Weapon up to Encumbrance 3 Mod - Mount Weapon up to Encumbrance 3 </div><div>Once per encounter, may spend maneuver to make a combat action with mounted weapon.  Difficulty of check is upgraded once. </div>"
+		},
+		{
+			"id": "Autopilot Droid Brain",
+			"name": "Autopilot Droid Brain",
+			"description": "[H3]Autopilot Droid Brain[h3]\n      Please see page 62 of the Fly Casual Sourcebook, or page 61 of the Fully Operational Sourceboook, for details.[P][H3]Sources:[h3][H4]Page 62 - Fly Casual[h4][H4]Page 61 - Fully Operational[h4]<h3>Base Mods</h3><div>Adds a Droid Brain with Piloting Skills 2 and Agility 0 </div><div>May summon vehicle via a beckon call. </div>"
+		},
+		{
+			"id": "Balanced Barrel",
+			"name": "Balanced Barrel",
+			"description": "[H3]Balanced Barrel[h3]\nPlease see page 46 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Special Modifications[h4]<h3>Base Mods</h3><div>Additional Range Mod - Increases weapon's range by one Range Band </div>"
+		},
+		{
+			"id": "Balanced Hilt",
+			"name": "Balanced Hilt",
+			"description": "[H3]Balanced Hilt[h3]\n      Please see page 188 of the Edge of the Empire Core Rulebook, or page 200 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 188 - Edge of the Empire Core Rulebook[h4][H4]Page 200 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Accurate Quality - Accurate {0} </div>"
+		},
+		{
+			"id": "Barab Ingot",
+			"name": "Barab Ingot",
+			"description": "[H3]Barab Ingot[h3]\n      Please see page 196 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 196 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 8</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 3</div><div>Breach Quality - Breach {0} </div><div>Burn Quality - Burn {0} </div><div>Sunder Quality - Sunder </div>"
+		},
+		{
+			"id": "Beam Splitter",
+			"name": "Beam Splitter",
+			"description": "[H3]Beam Splitter[h3]\n      Please see page 51 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Forged in Battle[h4]<h3>Base Mods</h3><div>Blast Quality - Blast {0} </div><div>Reduced Range Mod - Decreases weapon's range by one Range Band </div>"
+		},
+		{
+			"id": "Bio-Support Dispenser",
+			"name": "Bio-Support Dispenser",
+			"description": "[H3]Bio-Support Dispenser[h3]\n      Please see page 64 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>When healing strain at end of encounter, also heal 1 wound. </div><div>First time wounds exceed threshold in an encounter, armor automatically applies a stimpack. </div>"
+		},
+		{
+			"id": "Biofeedback System",
+			"name": "Biofeedback System",
+			"description": "[H3]Biofeedback System[h3]\n      Please see page 200 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 200 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Strain Mod - Increases user's strain by one Compte 4</div>"
+		},
+		{
+			"id": "Bipod Mount",
+			"name": "Bipod Mount",
+			"description": "[H3]Bipod Mount[h3]\n      Please see page 188 of the Edge of the Empire Core Rulebook, page 200 of the Age of Rebellion Core Rulebook, or page 192 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 188 - Edge of the Empire Core Rulebook[h4][H4]Page 200 - Age of Rebellion Core Rulebook[h4][H4]Page 192 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Blade Drain",
+			"name": "Blade Drain",
+			"description": "[H3]Blade Drain[h3]\n      Please see page 50 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - Disciples of Harmony[h4]<h3>Base Mods</h3><div>When making a combat check targeting an opponent with a lightsaber, character may spend [TR] to reduce opponent's lightsaber's base damage by one for remainder of encounter. </div><div>[TH][TH][TH] causes blade to collapse.  Cannot be reignited until character's next turn. </div>"
+		},
+		{
+			"id": "Blaster Actuating Module",
+			"name": "Blaster Actuating Module",
+			"description": "[H3]Blaster Actuating Module[h3]\n      Please see page 188 of the Edge of the Empire Core Rulebook, or page 200 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 188 - Edge of the Empire Core Rulebook[h4][H4]Page 200 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div><div>Add Setback Mod - Add [SETBACK] to all attack checks when using this weapon </div>"
+		},
+		{
+			"id": "Blaster Energy Dampener",
+			"name": "Blaster Energy Dampener",
+			"description": "[H3]Blaster Energy Dampener[h3]\n      Please see page 194 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 194 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Increases the difficulty of checks made to detect this weapon's fire by one </div><div>Reduced Damage Mod - Damage -1 </div>"
+		},
+		{
+			"id": "Blaster Suppressor",
+			"name": "Blaster Suppressor",
+			"description": "[H3]Blaster Suppressor[h3]\n      Please see page 106 of the Lords of Nal Hutta Sourcebook, and page 110 of the Strongholds of Resistance Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 106 - Lords of Nal Hutta[h4][H4]Page 110 - Strongholds of Resistance[h4]<h3>Base Mods</h3><div>Adds [SETBACK][SETBACK] to Perception or Vigilance checks made to locate a concealed shooter firing silenced blaster. </div>"
+		},
+		{
+			"id": "Boot Blade",
+			"name": "Boot Blade",
+			"description": "[H4]Boot Blade[h4]\n      Please see page 57 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Provides wearer with a retractable fighting blade </div>"
+		},
+		{
+			"id": "Bowcaster Accelerator Enhancement",
+			"name": "Bowcaster Accelerator Enhancement",
+			"description": "[H3]Bowcaster Accellerator Enhancement[h3]\n      Please see page 189 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 189 - Edge of the Empire Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div>"
+		},
+		{
+			"id": "Bowcaster Re-Cocker",
+			"name": "Bowcaster Re-Cocker",
+			"description": "[H3]Bowcaster Re-Cocker[h3]\n      Please see page 189 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 189 - Edge of the Empire Core Rulebook[h4]<h3>Base Mods</h3><div>Removes reloading maneuver requirement from bowcaster. </div>"
+		},
+		{
+			"id": "Briefing Auditorium",
+			"name": "Briefing Auditorium",
+			"description": "[H3]Briefing Auditorium[h3]\n      Please see page 58 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Lead by Example[h4]<h3>Base Mods</h3><div>Characters briefed in this auditorium prior to a mission remove [SE] due to known mission conditions from skill checks for the duration of the mission. </div>"
+		},
+		{
+			"id": "Built-In Blaster Sight",
+			"name": "Built-In Blaster Sight",
+			"description": "[H3]Built-In Blaster Sight[h3]\n      Please see page 51 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Forged in Battle[h4]<h3>Base Mods</h3><div>Remove [SE] added by the Called Shot use of the Aim maneuver from Ranged Light and Ranged Heavy checks. </div>"
+		},
+		{
+			"id": "Cermonial Adornment",
+			"name": "Cermonial Adornment",
+			"description": "[H3]Cermonial Adornment[h3]\n      Please see page 65 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Removes [SE][SE] from social skill checks due to wearing armor in socially inappropriate situations. </div>"
+		},
+		{
+			"id": "Civilian Vehicle Retrofit",
+			"name": "Civilian Vehicle Retrofit",
+			"description": "[H3]Civilian Vehicle Retrofit[h3]\n      Please see page 74 of the Fully Operational Sourcebook for details.\n      [P][I]Note:  This attachment contains several custom effects that degrade the vehicle's performance.  These are included as optional \n      mods.  Talk with your GM about which degradation to choose for your vehicle.[i][P][H3]Sources:[h3][H4]Page 74 - Fully Operational[h4]<h3>Base Mods</h3><div>Add Hard Points Mod - Add One Hard Point </div>"
+		},
+		{
+			"id": "Cloaked Smuggling Compartments",
+			"name": "Cloaked Smuggling Compartments",
+			"description": "[H3]Cloaked Smuggling Compartments[h3]\n      Please see page 63 of the Fly Casual Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 63 - Fly Casual[h4]<h3>Base Mods</h3><div>Convert 25 encumbrance capacity to smuggling compartment Mod - Convert 25 encumbrance capacity to smuggling compartment </div><div>Increases difficulty of checks made to find compartment by 3. </div>"
+		},
+		{
+			"id": "Cloaking Device",
+			"name": "Cloaking Device",
+			"description": "[H4]Cloaking Device[h4]\n      Please see page 62 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>May activate/deactivate cloaking device with a maneuver </div><div>Must make a [B]Daunting ([DI][DI][DI][DI]) Perception[b] or [B]Vigilance check[b] to spot a cloaked ship </div><div>Cloaked ship has speed reduced by half (rounded up) and cannot use active sensors, comms, or weapons </div>"
+		},
+		{
+			"id": "Clone Firing Key",
+			"name": "Clone Firing Key",
+			"description": "[H3]Clone Firing Key[h3]\n      Please see page 61 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>This weapon functions only in the hands of a clone. </div>"
+		},
+		{
+			"id": "Collision Avoidance System",
+			"name": "Collision Avoidance System",
+			"description": "[H3]Collision Avoidance System[h3]\n      Please see page 58 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Endless Vigil[h4]<h3>Base Mods</h3><div>Reduce silhouette by 1 for purposes of determining difficulty of Piloting checks. </div>"
+		},
+		{
+			"id": "Combat Plating",
+			"name": "Combat Plating",
+			"description": "[H3]Combat Plating[h3]\n      Please see page 83 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 83 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes armor to 3 and handling to -3 </div><div>Sets Armor Value When Crafting Mod - Sets Armor Value Compte 3</div><div>Sets Handling When Crafting Mod - Sets Handling When Crafting </div>"
+		},
+		{
+			"id": "Combat Tested",
+			"name": "Combat Tested",
+			"description": "[H3]Combat Tested[h3]\n      Please see page 62 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Comlink Bug",
+			"name": "Comlink Bug",
+			"description": "[H4]Comlink Bug[h4]\n      Please see page 59 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Broadcasts all incoming and outgoing signals from a comlink to a remote listener at medium range </div>"
+		},
+		{
+			"id": "Comms Unit",
+			"name": "Comms Unit",
+			"description": "[H3]Comms Unit[h3]\n      Please see page 55 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Forged in Battle[h4]<h3>Base Mods</h3><div>May route communications up to long range on the planetary scale. </div><div>Adds [SE][SE] to checks made to unscramble the unit's signal. </div>"
+		},
+		{
+			"id": "Componentization",
+			"name": "Componentization",
+			"description": "[H4]Componentization[h4]\n      Please see page 56 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Allows a weapon to be broken into pieces and disguised as other items.  A character must make a [B]Formidable ([DI][DI][DI][DI][DI]) Mechanics[b] or [B]Skulduggery check[b] to deduce the items are weapon parts. </div>"
+		},
+		{
+			"id": "Concealed Climbing Cord",
+			"name": "Concealed Climbing Cord",
+			"description": "[H4]Concealed Climbing Cord[h4]\n      Please see page 59 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Grants user a length of climbing cord with grappling hook.  This counts as the Right Tool for the Job for climbing and repelling. </div>"
+		},
+		{
+			"id": "Containment Field",
+			"name": "Containment Field",
+			"description": "[H3]Containment Field[h3]\n      Please see page 64 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]<h3>Base Mods</h3><div>Can hold one Silhouette 1 creature.  Creature can see, hear, and speak, but cannot move. </div><div>Operator can attack prisoner.  Prisoner must make a [B]Hard ([DI][DI][DI]) Resilience check[b] and suffers 1 damage per [FA] and one [TH] may be used to inflict 1 strain. </div>"
+		},
+		{
+			"id": "Corrupted Crystal",
+			"name": "Corrupted Crystal",
+			"description": "[H3]Corrupted Crystal[h3]\n      Please see page 52 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Disciples of Harmony[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Vicious Quality - Vicious {0} Compte 2</div><div>When character wielding this lightsaber makes a Force check, add [DA] to the check </div><div>When wielder's Morality rises to 70 or more, [DA] is no longer added to Force checks, and the crystal loses the Vicious quality </div>"
+		},
+		{
+			"id": "Cortosis Forging",
+			"name": "Cortosis Forging",
+			"description": "[H3]Cortosis Forging[h3]\n      Please see page 62 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Cortosis Quality - Cortosis </div>"
+		},
+		{
+			"id": "Cortosis Weave",
+			"name": "Cortosis Weave",
+			"description": "[H3]Cortosis Weave[h3]\n      Please see page 194 of the Edge of the Empire Core Rulebook, or page 205 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 194 - Edge of the Empire Core Rulebook[h4][H4]Page 205 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Cortosis Quality - Cortosis </div>"
+		},
+		{
+			"id": "Cracked Crystal",
+			"name": "Cracked Crystal",
+			"description": "[H3]Cracked Crystal[h3]\n      Please see page 52 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Disciples of Harmony[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 3</div><div>Breach Quality - Breach {0} Compte 2</div><div>Sunder Quality - Sunder </div><div>Vicious Quality - Vicious {0} </div><div>If a combat check results in a [DE], GM may cause crystal to shatter. </div>"
+		},
+		{
+			"id": "Cracked Jedha Crystal",
+			"name": "Cracked Jedha Crystal",
+			"description": "[H4]Cracked Jedha Crystal[h4]\n      Please see page 48 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Knights of Fate[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 3</div><div>Breach Quality - Breach {0} </div><div>Inaccurate Quality - Inaccurate {0} Compte 2</div><div>Sunder Quality - Sunder </div><div>Vicious Quality - Vicious {0} </div>"
+		},
+		{
+			"id": "Curved Hilt",
+			"name": "Curved Hilt",
+			"description": "[H3]Curved Hilt[h3]\n      Please see page 196 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 196 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Adds automatic [ADVANTAGE] to successful Lightsaber combat checks when engaged with a single opponent. </div>"
+		},
+		{
+			"id": "Custom Fit",
+			"name": "Custom Fit",
+			"description": "[H3]Custom Fit[h3]\nPlease see page 57 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Special Modifications[h4]"
+		},
+		{
+			"id": "Custom Grip",
+			"name": "Custom Grip",
+			"description": "[H3]Custom Grip[h3]\nPlease see page 54 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Special Modifications[h4]<h3>Base Mods</h3><div>Remove Setback Mod - Remove [SETBACK] from all attack checks when using this weapon </div><div>Anyone other than owner adds [SE][SE] to combat checks using this weapon. </div>"
+		},
+		{
+			"id": "Cyclic Crystal Array",
+			"name": "Cyclic Crystal Array",
+			"description": "[H3]Cyclic Crystal Array[h3]\n      Please see page 53 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Add Additional Crystal with no HP Cost Mod - Add additional crystal with no HP cost </div><div>When lightsaber is ignited, may choose which active crystal to use.  If already ignited, activating another crystal requires a maneuver. </div>"
+		},
+		{
+			"id": "Dai Bendu Lessons",
+			"name": "Dai Bendu Lessons",
+			"description": "[H3]Dai Bendu Lessons[h3]\n      Please see page 52 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Damping Emitter",
+			"name": "Damping Emitter",
+			"description": "[H3]Damping Emitter[h3]\n      Please see page 51 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Endless Vigil[h4]<h3>Base Mods</h3><div>As a maneuver, may adjust lightsaber to deal Stun damage.  Decrease damage by 2, increase critical rating by 1, lose Breach quality </div>"
+		},
+		{
+			"id": "Dantari Crystal",
+			"name": "Dantari Crystal",
+			"description": "[H3]Dantari Crystal[h3]\nPlease see page 196 of the Force and Destiny Core Rulebook for details.<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>When making a Force power check as part of a combat check, may spend [FORCEPOINT] to recover 2 strain. </div>"
+		},
+		{
+			"id": "Dart Gun",
+			"name": "Dart Gun",
+			"description": "[H4]Dart Gun[h4]\n      Please see page 59 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Enables the item to fire a single dart </div>"
+		},
+		{
+			"id": "Data Link",
+			"name": "Data Link",
+			"description": "[H3]Data Link[h3]\n      Please see page 43 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fully Operational[h4]<h3>Base Mods</h3><div>Allows wearer to control a single EOD remote. Compte 3</div>"
+		},
+		{
+			"id": "Decoy Buoy",
+			"name": "Decoy Buoy",
+			"description": "[H3]Decoy Buoy[h3]\nPlease see page 65 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Special Modifications[h4]<h3>Base Mods</h3><div>Buoy may be jettisoned as an action. </div><div>Buoy can be programmed with a specific transponder code with a [B]Hard ([DI][DI][DI]) Computers check[b]. </div><div>Buoy can be set to transmit a distress signal or other data. </div><div>A character operating ship sensors must make a [B]Hard ([DI][DI][DI]) Computers check[b] to identify that the buoy is not an actual ship. </div><div>After being jettisoned, buoy no longer counts as being attached to the ship until it is reattached. </div>"
+		},
+		{
+			"id": "Deflective Plating",
+			"name": "Deflective Plating",
+			"description": "[H3]Deflective Plating[h3]\n      Please see page 83 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 83 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes armor to 2 and handling to -2 </div><div>Sets Armor Value When Crafting Mod - Sets Armor Value Compte 2</div><div>Sets Handling When Crafting Mod - Sets Handling When Crafting </div>"
+		},
+		{
+			"id": "Dragite Gem",
+			"name": "Dragite Gem",
+			"description": "[H3]Dragite Gem[h3]\n      Please see page 196 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 196 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 3</div><div>Breach Quality - Breach {0} </div><div>Disorient Quality - Disorient {0} </div><div>Sunder Quality - Sunder </div>"
+		},
+		{
+			"id": "Droid Brain Defense System",
+			"name": "Droid Brain Defense System",
+			"description": "[H3]Droid Brain Defense System[h3]\n      See page 53 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Fully Operational[h4]<h3>Base Mods</h3><div>Increase Defense Mod - Increases Defense value by 1 </div>"
+		},
+		{
+			"id": "Droid Brain Detonator",
+			"name": "Droid Brain Detonator",
+			"description": "[H3]Droid Brain Detonator[h3]\n      See page 51 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Fully Operational[h4]<h3>Base Mods</h3><div>Explosive's detonator is controlled by a droid brain that can activate under any predetermined circumstance. </div>"
+		},
+		{
+			"id": "Droid Targeting System",
+			"name": "Droid Targeting System",
+			"description": "[H3]Droid Targeting System[h3]\n      See page 51 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Fully Operational[h4]"
+		},
+		{
+			"id": "Dual-Phase Modification",
+			"name": "Dual-Phase Modification",
+			"description": "[H3]Dual-Phase Modification[h3]\n      Please see page 197 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 197 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>May change blade length once per encounter as an incidental.  Next attack that turn ignores target's melee defense. </div>"
+		},
+		{
+			"id": "Electron Baffled Engine",
+			"name": "Electron Baffled Engine",
+			"description": "[H3]Electron Baffled Engine[h3]\n      Please see page 81 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 81 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes speed to 2, defense to 0/0/0/2, and system strain to 5 x Silhouette </div><div>Sets Speed When Crafting Mod - Sets Speed When Crafting Compte 2</div><div>Sets System Strain When Crafting to Silhouette Mod - Sets System Strain When Crafting to Silhouette Compte 5</div><div>Sets Forward Defense When Crafting Mod - Sets Forward Defense When Crafting </div><div>Sets Aft Defense When Crafting Mod - Sets Aft Defense When Crafting Compte 2</div><div>Sets Starboard Defense When Crafting Mod - Sets Starboard Defense When Crafting </div><div>Sets Port Defense When Crafting Mod - Sets Port Defense When Crafting </div>"
+		},
+		{
+			"id": "Electronic Counter-Countermeasures Suite",
+			"name": "Electronic Counter-Countermeasures Suite",
+			"description": "[H3]Electronic Counter-Countermeasures Suite[h3]\n      Please see page 59 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Lead by Example[h4]<h3>Base Mods</h3><div>Make a [B]Hard ([DI][DI][DI]) Computers check[b] to cancel all effects of an electronic countermeasures suite. </div>"
+		},
+		{
+			"id": "Electronic Countermeasures Suite",
+			"name": "Electronic Countermeasures Suite",
+			"description": "[H3]Electronic Countermeasures Suite[h3]\n      Please see page 269 of the Edge of the Empire Core Rulebook, page 286 of the Age of Rebellion Core Rulebook, or page 269 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 269 - Edge of the Empire Core Rulebook[h4][H4]Page 286 - Age of Rebellion Core Rulebook[h4][H4]Page 269 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Blocks sensors within range, counting the ship's silhouette as one smaller when being fired upon. </div><div>Immediately notifies all ships in a star system or within 100 kilometers if planetside to the ship or vehicle's existence. </div>"
+		},
+		{
+			"id": "Electronic Countermeasures Suite (Custom)",
+			"name": "Electronic Countermeasures Suite (Custom)",
+			"description": "[H3]Electronic Countermeasures Suite (Custom)[h3]\n      Please see page 118 of the Strongholds of Resistance Sourcebook for details.\n      [P][I]This is an optional no-cost attachment for the Tallanx-Class Stealth Fighter and the Darvro-Class Light Freighter.[i][P][H3]Sources:[h3][H4]Page 118 - Strongholds of Resistance[h4]<h3>Base Mods</h3><div>Blocks sensors within range, counting the ship's silhouette as one smaller when being fired upon. </div><div>Immediately notifies all ships in a star system or within 100 kilometers if planetside to the ship or vehicle's existence. </div>"
+		},
+		{
+			"id": "Electronic Sighting System",
+			"name": "Electronic Sighting System",
+			"description": "[H3]Electronic Sighting System[h3]\n      Please see page 110 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 110 - Strongholds of Resistance[h4]<h3>Base Mods</h3><div>Allows shooter to aim as an incidental once per round at short range.  Decreases the difficulty of Perception checks to locate the shooter in low light conditions by 1. </div>"
+		},
+		{
+			"id": "Encrypted Computer",
+			"name": "Encrypted Computer",
+			"description": "[H3]Encrypted Computer[h3]\nPlease see page 65 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Special Modifications[h4]<h3>Base Mods</h3><div>Upgrade difficulty of all Computers checks made to slice the ship's computer system once. </div>"
+		},
+		{
+			"id": "Energy Dispersion System",
+			"name": "Energy Dispersion System",
+			"description": "[H3]Energy Dispersion System[h3]\n      Please see page 201 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 201 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>When reducing strain damage by soak, count soak as two higher </div>"
+		},
+		{
+			"id": "Energy Overclock Setting",
+			"name": "Energy Overclock Setting",
+			"description": "[H3]Energy Overclock Setting[h3]\n      Please see page 53 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Once per turn, spend a maneuver to add Vicious +3 to weapon until end of round.  [TH][TH][TH] or [DE] causes weapon to cease functioning until end of encounter. </div>"
+		},
+		{
+			"id": "Engine Boost System",
+			"name": "Engine Boost System",
+			"description": "[H3]Engine Boost System[h3]\n      Please see page 58 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Endless Vigil[h4]<h3>Base Mods</h3><div>Increase Speed Mod - Increase Speed by 1 </div><div>Decreases System Strain Mod - Decreases System Strain by 1 </div>"
+		},
+		{
+			"id": "Engine Ring Stabilizer",
+			"name": "Engine Ring Stabilizer",
+			"description": "[H3]Engine Ring Stabilizer[h3]\n      Please see page 82 of the [B]Mask of the Pirate Queen[b] adventure module for details.[P][H3]Sources:[h3][H4]Page 82 - Mask of the Pirate Queen[h4]<h3>Base Mods</h3><div>Increases Handling Mod - Increases Handling by 1 Compte 2</div>"
+		},
+		{
+			"id": "Engineering Access",
+			"name": "Engineering Access",
+			"description": "[H3]Engineering Access[h3]\n      Please see page 61 of the Enter the Unknown Sourcebook for details.<h3>Base Mods</h3><div>Anyone working on internal systems, such as power systems, hyperdrive, computers, sensors, gain [BOOST] to Mechanics and Computer checks due to the ease of reaching such typically hidden systems. </div>"
+		},
+		{
+			"id": "Enhanced Carbon-Durasteel Armor",
+			"name": "Enhanced Carbon-Durasteel Armor",
+			"description": "[H3]Enhanced Carbon-Durasteel Armor[h3]\n      Please see page 269 of the Edge of the Empire Core Rulebook, or page 286 of the Age of Rebellion Core Rulebook, or page 269 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 269 - Edge of the Empire Core Rulebook[h4][H4]Page 286 - Age of Rebellion Core Rulebook[h4][H4]Page 269 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Increase Armor Mod - Increases Armor value by 1 </div><div>Decreases Handling Mod - Decreases Handling by 1 </div>"
+		},
+		{
+			"id": "Enhanced Hyperspace Shields",
+			"name": "Enhanced Hyperspace Shields",
+			"description": "[H3]Enhanced Hyperspace Shields[h3]\n      Please see page 66 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 66 - Special Modifications[h4]<h3>Base Mods</h3><div>Downgrade difficulty of Astrogation checks made to navigate the ship through hyperspace once. </div>"
+		},
+		{
+			"id": "Enhanced Optics Suite",
+			"name": "Enhanced Optics Suite",
+			"description": "[H3]Enhanced Optics Suite[h3]\n      Please see page 194 of the Edge of the Empire Core Rulebook, or page 206 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 194 - Edge of the Empire Core Rulebook[h4][H4]Page 206 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Removes up to [SETBACK][SETBACK] added to all Perception,\n          Vigilance, and combat skill checks\n          due to darkness, smoke, or other environmental effects\n          that obscure vision. </div>"
+		},
+		{
+			"id": "Enhanced Prison Lockup",
+			"name": "Enhanced Prison Lockup",
+			"description": "[H3]Enhanced Prison Lockup[h3]\n      Please see page 64 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]<h3>Base Mods</h3><div>Full incarceration and security suite for 2 prisoners. </div>"
+		},
+		{
+			"id": "Enhanced Repulsorlift",
+			"name": "Enhanced Repulsorlift",
+			"description": "[H3]Enhanced Repulsorlift[h3]\nPlease see page 65 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Special Modifications[h4]<h3>Base Mods</h3><div>Increase Speed Mod - Increase Speed by 1 </div><div>Decreases Handling Mod - Decreases Handling by 1 </div>"
+		},
+		{
+			"id": "Enhanced XCiter",
+			"name": "Enhanced XCiter",
+			"description": "[H3]Enhanced XCiter[h3]\nPlease see page 54 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Special Modifications[h4]<h3>Base Mods</h3><div>Decrease Critical Mod - Decreases the weapon's Crit Rating by 1 to a minimum of 1 </div><div>GM may spend [DE][DE] to cause blaster to explode, destroying blaster and inflicting automatic Critical Injury on wielder. </div>"
+		},
+		{
+			"id": "Environmental Adaption Kit",
+			"name": "Environmental Adaption Kit",
+			"description": "[H3]Environmental Adaption Kit[h3]\n      Please see page 50 of the Savage Spirits Sourcebook for details.[P]\n      [I]Note: If this kit is for a specific environment, rename the kit to specify the environment.[i][P][H3]Sources:[h3][H4]Page 50 - Savage Spirits[h4]<h3>Base Mods</h3><div>Prevents a weapon from breaking down as a result of a specific type of environment. </div>"
+		},
+		{
+			"id": "Environmental Simulators",
+			"name": "Environmental Simulators",
+			"description": "[H3]Environmental Simulators[h3]\n      Please see page 64 of the Desperate Allies Sourcebook for details.<h3>Base Mods</h3><div>Can replicate up to three different planetary environments, one at a time.  When making Charm or Negotiation checks against members of species native to replicated environment, add an automatic [AD][AD] to pool. </div>"
+		},
+		{
+			"id": "Etaan Crystal",
+			"name": "Etaan Crystal",
+			"description": "[H3]Etaan Crystal[h3]\n      Please see page 52 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Endless Vigil[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>If wielder uses the Improved Reflect talent to inflict an automatic hit, increase damage by 2. </div>"
+		},
+		{
+			"id": "Expanded-Capacity Holds",
+			"name": "Expanded-Capacity Holds",
+			"description": "[H3]Expanded-Capacity Holds[h3]\n      Please see page 83 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 83 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes armor to 1 and handling to -2, and adds 25 to encumbrance capacity and passenger capacity </div><div>Sets Armor Value When Crafting Mod - Sets Armor Value </div><div>Sets Handling When Crafting Mod - Sets Handling When Crafting </div><div>Increases Encumbrance Capacity When Crafting Mod - Increase Encumbrance Capacity When Crafting by 1 Compte 25</div><div>Increase Passenger Capacity When Crafting Mod - Increase Passenger Capacity When Crafting by 1 Compte 25</div>"
+		},
+		{
+			"id": "Extended Hilt",
+			"name": "Extended Hilt",
+			"description": "[H3]Extended Hilt[h3]\n      Please see page 197 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 197 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div>"
+		},
+		{
+			"id": "Filed Front Sight",
+			"name": "Filed Front Sight",
+			"description": "[H3]Filed Front Sight[h3]\n      Please see page 190 of the Edge of the Empire Core Rulebook, or page 201 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 190 - Edge of the Empire Core Rulebook[h4][H4]Page 201 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Increases the difficulty of combat checks to hit targets at\n          ranges beyond Short range by one. </div>"
+		},
+		{
+			"id": "Flickerphase Blade",
+			"name": "Flickerphase Blade",
+			"description": "[H4]Flickerphase Blade[h4]\n      Please see page 48 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Knights of Fate[h4]<h3>Base Mods</h3><div>Reduced Damage Mod - Damage -1 Compte 2</div><div>Inaccurate Quality - Inaccurate {0} </div><div>Target cannot  use the Parry incidental to reduce the damage of an attack by this weapon </div>"
+		},
+		{
+			"id": "Fogger Smoke Generator",
+			"name": "Fogger Smoke Generator",
+			"description": "[H3]Fogger Smoke Generator[h3]\n      Please see page 61 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Provides concealment that adds [SETBACK][SETBACK][SETBACK]. </div>"
+		},
+		{
+			"id": "Force-Attuned Resonator",
+			"name": "Force-Attuned Resonator",
+			"description": "[H3]Force-Attuned Resonator[h3]\n      Please see page 54 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Must possess Force Rating 1+ to operate this weapon. </div>"
+		},
+		{
+			"id": "Forearm Grip",
+			"name": "Forearm Grip",
+			"description": "[H3]Forearm Grip[h3]\n      Please see page 190 of the Edge of the Empire Core Rulebook, or page 201 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 190 - Edge of the Empire Core Rulebook[h4][H4]Page 201 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Decreases the additional difficulty of making Ranged (Heavy)\n          checks with this weapon while engaged to an\n          additional [DIFFICULTY] (rather than [DIFFICULTY][DIFFICULTY]). </div>"
+		},
+		{
+			"id": "Foreign Debris Ejector",
+			"name": "Foreign Debris Ejector",
+			"description": "[H3]Foreign Debris Ejector[h3]\n      Please see page 58 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Endless Vigil[h4]<h3>Base Mods</h3><div>Ejects debris into the air behind podracer.  Any racer within close range and behind must make a [B]Hard ([DI][DI][DI]) Piloting (Planetary) check[b] to avoid debris.  Failure reduces speed by 1 for 2 rounds, plus 1 round per [TH].  [TH][TH][TH] or [DE] can inflict Critical Hit on target vehicle. </div><div>May only be used once per race. </div>"
+		},
+		{
+			"id": "Fusial Thrust Engine",
+			"name": "Fusial Thrust Engine",
+			"description": "[H3]Fusial Thrust Engine[h3]\n      Please see page 82 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 82 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes speed to 3, defense to 1/0/0/0, and system strain to 4 x Silhouette </div><div>Sets Speed When Crafting Mod - Sets Speed When Crafting Compte 3</div><div>Sets System Strain When Crafting to Silhouette Mod - Sets System Strain When Crafting to Silhouette Compte 4</div><div>Sets Forward Defense When Crafting Mod - Sets Forward Defense When Crafting </div><div>Sets Aft Defense When Crafting Mod - Sets Aft Defense When Crafting </div><div>Sets Starboard Defense When Crafting Mod - Sets Starboard Defense When Crafting </div><div>Sets Port Defense When Crafting Mod - Sets Port Defense When Crafting </div>"
+		},
+		{
+			"id": "Fusion Shunt",
+			"name": "Fusion Shunt",
+			"description": "[H3]Fusion Shunt[h3]\n      Please see page 63 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Activating fusion shunt requires a maneuver.  All combat checks suffer [TH][TH][TH] when shunt is activated. </div><div>Lightsaber's Breach quality increases by 1 when shunt is active. </div>"
+		},
+		{
+			"id": "Galven Pattern Resequencing",
+			"name": "Galven Pattern Resequencing",
+			"description": "[H3]Galven Pattern Resequencing[h3]\n      Please see page 51 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Forged in Battle[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div><div>Add Threat to Check Mod - Add One [THREAT] to Check Compte 2</div>"
+		},
+		{
+			"id": "Gene Lock",
+			"name": "Gene Lock",
+			"description": "[H3]Gene Lock[h3]\n      Please see page 51 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Weapon functions only in the hands of its authorized user. </div>"
+		},
+		{
+			"id": "Ghostfire Crystal",
+			"name": "Ghostfire Crystal",
+			"description": "[H3]Ghostfire Crystal[h3]\n      Please see page 53 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Endless Vigil[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Wielder may spend [AD][AD][AD][AD] or [TR] to prevent the target from using the Parry talent to reduce damage from this attack. </div>"
+		},
+		{
+			"id": "Gimmellian Stealth Device",
+			"name": "Gimmellian Stealth Device",
+			"description": "[H3]Gimmellian Stealth Device[h3]\n      Please see page 118 of the Strongholds of Resistance Sourcebook for details.\n      [P][I]This is an optional no-cost attachment for the Tallanx-Class Stealth Fighter and the Darvro-Class Light Freighter.[i][P][H3]Sources:[h3][H4]Page 118 - Strongholds of Resistance[h4]<h3>Base Mods</h3><div>Reduces range band of enemy ships' passive sensors by 1 (to a minimum of close range) for detecting the Tallanx. </div><div>All power for shields and weapons must be rerouted to device for it to work.  Rerouting takes one action. </div>"
+		},
+		{
+			"id": "Gravity Mine Launcher",
+			"name": "Gravity Mine Launcher",
+			"description": "[H3]Gravity Mine Launcher[h3]\n      Please see page 64 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - Stay on Target[h4]<h3>Base Mods</h3><div>Allows vehicle to deploy gravity mines within close range </div>"
+		},
+		{
+			"id": "Grenade Cling",
+			"name": "Grenade Cling",
+			"description": "[H3]Grenade Cling[h3]\n      See page 52 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Fully Operational[h4]<h3>Base Mods</h3><div>Grenade immediately adheres to its target and requires an [B]Average ([DI][DI]) Athletics check[b] to remove. </div>"
+		},
+		{
+			"id": "Gunnery Droid Brain",
+			"name": "Gunnery Droid Brain",
+			"description": "[H3]Gunnery Droid Brain[h3]\nPlease see page 66 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 66 - Special Modifications[h4]<h3>Base Mods</h3><div>Add a droid brain with Gunnery 2 and Agility 0. </div>"
+		},
+		{
+			"id": "Gyrostabilizer",
+			"name": "Gyrostabilizer",
+			"description": "[H3]Gyrostabilizer[h3]\nPlease see page 54 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Special Modifications[h4]"
+		},
+		{
+			"id": "H9 Pistol Grip",
+			"name": "H9 Pistol Grip",
+			"description": "[H3]H9 Pistol Grip[h3]\n      Please see page 52 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Weapon's skill changes to Ranged-Light Mod - Weapon's skill changes to Ranged-Light </div><div>Add [SETBACK] to any combat check made when firing one-handed. </div><div>Reduce Range to Medium Mod - Reduces weapon's range to Medium, if longer </div>"
+		},
+		{
+			"id": "Handling Upgrades",
+			"name": "Handling Upgrades",
+			"description": "[H3]Handling Upgrades[h3]\n      Please see page 59 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Endless Vigil[h4]<h3>Base Mods</h3><div>Increases Handling Mod - Increases Handling by 1 </div>"
+		},
+		{
+			"id": "Hardened",
+			"name": "Hardened",
+			"description": "[H3]Hardened[h3]\n      Please see page 56 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Prevents deactivation of power armor by electromagnetic or ion weapons. </div>"
+		},
+		{
+			"id": "Hardened Circuits",
+			"name": "Hardened Circuits",
+			"description": "[H3]Hardened Circuits[h3]\n      Please see page 64 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - Stay on Target[h4]<h3>Base Mods</h3><div>Increases System Strain Mod - Increases System Strain by 1 Compte 2</div>"
+		},
+		{
+			"id": "Heating System",
+			"name": "Heating System",
+			"description": "[H3]Heating System[h3]\n      Please see page 194 of the Edge of the Empire Core Rulebook, page 206 of the Age of Rebellion Core Rulebook, or page 201 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 194 - Edge of the Empire Core Rulebook[h4][H4]Page 206 - Age of Rebellion Core Rulebook[h4][H4]Page 201 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Reduces the difficulty of Resilience checks made\n          to resist the effects extreme cold by one.\n          Removes up to [SETBACK][SETBACK] added to checks\n          due to extreme cold. </div>"
+		},
+		{
+			"id": "Helmet Comlink",
+			"name": "Helmet Comlink",
+			"description": "[H3]Helmet Comlink[h3]\n      Please see page 140 of the Force and Destiny Beta Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Beta Rulebook[h4]<h3>Base Mods</h3><div>A long-range comlink is integrated into the helmet </div>"
+		},
+		{
+			"id": "Hidden Compartment",
+			"name": "Hidden Compartment",
+			"description": "[H4]Hidden Compartment[h4]\n      Please see page 59 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Adds a small hidden compartment to a personal item.  Finding compartment requires a [B]Hard ([DI][DI][DI]) Perception check[b]. </div>"
+		},
+		{
+			"id": "High-Output Ion Turbine",
+			"name": "High-Output Ion Turbine",
+			"description": "[H3]High-Output Ion Turbine[h3]\n      Please see page 271 of the Edge of the Empire Core Rulebook, page 286 of the Age of Rebellion Core Rulebook, or page 269 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 271 - Edge of the Empire Core Rulebook[h4][H4]Page 286 - Age of Rebellion Core Rulebook[h4][H4]Page 269 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Increase Speed Mod - Increase Speed by 1 </div><div>Decreases System Strain Mod - Decreases System Strain by 1 </div>"
+		},
+		{
+			"id": "High-Output Repulsor Coils",
+			"name": "High-Output Repulsor Coils",
+			"description": "[H3]High-Output Repulsor Coils[h3]\n      Please see page 59 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Endless Vigil[h4]<h3>Base Mods</h3><div>Increase Altitude by 50 Mod - Increases Altitude by 50 </div>"
+		},
+		{
+			"id": "High-Performance Repulsor Cluster",
+			"name": "High-Performance Repulsor Cluster",
+			"description": "[H3]High-Performance Repulsor Cluster[h3]\n      Please see page 82 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 82 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes speed to 4, defense to 1/1/1/1, and system strain to 5 x Silhouette </div><div>Sets Speed When Crafting Mod - Sets Speed When Crafting Compte 4</div><div>Sets System Strain When Crafting to Silhouette Mod - Sets System Strain When Crafting to Silhouette Compte 5</div><div>Sets Forward Defense When Crafting Mod - Sets Forward Defense When Crafting </div><div>Sets Aft Defense When Crafting Mod - Sets Aft Defense When Crafting </div><div>Sets Starboard Defense When Crafting Mod - Sets Starboard Defense When Crafting </div><div>Sets Port Defense When Crafting Mod - Sets Port Defense When Crafting </div>"
+		},
+		{
+			"id": "Hilt Masking Kit",
+			"name": "Hilt Masking Kit",
+			"description": "[H3]Hilt Masking Kit[h3]\n      Please see page 50 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - Disciples of Harmony[h4]<h3>Base Mods</h3><div>Adds [FA][FA] to any attempt to find or identify the lightsaber as a lightsaber. </div>"
+		},
+		{
+			"id": "Holo Converter",
+			"name": "Holo Converter",
+			"description": "[H4]Holo Converter[h4]\n      Please see page 60 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Allows user to create up to four different holographic alter egos within holographic projector </div>"
+		},
+		{
+			"id": "Holo-Tank",
+			"name": "Holo-Tank",
+			"description": "[H3]Holo-Tank[h3]\n      Please see page 59 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Lead by Example[h4]<h3>Base Mods</h3><div>Characters utilizing a holo-tank may always use Cool or Knowledge (Warfare)  when making Initiative checks. </div>"
+		},
+		{
+			"id": "Holographic Shell",
+			"name": "Holographic Shell",
+			"description": "[H4]Holographic Shell[h4]\n      Please see page 63 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Provides ship with holographic disguise.  A [B]Daunting ([DI][DI][DI][DI]) Perception check[b] is required to see through disguise at a distance.  Physical examination immediate detects the disguise. </div>"
+		},
+		{
+			"id": "Holonet Pirate Array",
+			"name": "Holonet Pirate Array",
+			"description": "[H3]Holonet Pirate Array[h3]\n      Please see page 65 of the Desperate Allies Sourcebook for details.<h3>Base Mods</h3><div>Transmissions sent with this attachment can reach any facility that has access to interstellar communications.  Transmissions can be intercepted with a [B]Hard ([DI][DI][DI]) Computers check[b], provided someone is aware of the transmission. </div>"
+		},
+		{
+			"id": "Hull/Keel Reinforcement",
+			"name": "Hull/Keel Reinforcement",
+			"description": "[H3]Hull/Keel Reinforcement[h3]\n      Please see page 64 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - Stay on Target[h4]<h3>Base Mods</h3><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 2</div>"
+		},
+		{
+			"id": "Hunting Barrel",
+			"name": "Hunting Barrel",
+			"description": "[H3]Hunting Barrel[h3]\n      Please see page 50 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - Savage Spirits[h4]<h3>Base Mods</h3><div>Additional Range Mod - Increases weapon's range by one Range Band </div><div>Cumbersome Quality - Cumbersome {0} Compte 2</div><div>Increases Encumbrance Mod - Increase Encumbrance by 1 </div>"
+		},
+		{
+			"id": "Hush Kit",
+			"name": "Hush Kit",
+			"description": "[H4]Hush Kit[h4]\n      Please see page 63 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Adds [SE][SE] to all checks to detect this ship audibly in atmosphere </div>"
+		},
+		{
+			"id": "Hydraulic Control Circuits",
+			"name": "Hydraulic Control Circuits",
+			"description": "[H3]Hydraulic Control Circuits[h3]\n      Please see page 270 of the Edge of the Empire Core Rulebook, page 286 of the Age of Rebellion Core Rulebook, or page 270 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 270 - Edge of the Empire Core Rulebook[h4][H4]Page 286 - Age of Rebellion Core Rulebook[h4][H4]Page 270 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Half damage from weapons with Ion quality </div><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Decreases System Strain Mod - Decreases System Strain by 1 </div>"
+		},
+		{
+			"id": "Hyperdrive Generator",
+			"name": "Hyperdrive Generator",
+			"description": "[H3]Hyperdrive Generator[h3]\n      Please see page 271 of the Edge of the Empire Core Rulebook, page 286 of the Age of Rebellion Core Rulebook, or page 270 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 271 - Edge of the Empire Core Rulebook[h4][H4]Page 286 - Age of Rebellion Core Rulebook[h4][H4]Page 270 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Decreases Hyperdrive Class by 1, to a minimum of 1 Mod - Decreases Hyperdrive Class by 1 </div>"
+		},
+		{
+			"id": "Hyperdrive Module Class 4",
+			"name": "Hyperdrive Module Class 4",
+			"description": "[H3]Hyperdrive Module Class 4[h3]\n      Please see page 82 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 82 - Fully Operational[h4]<h3>Base Mods</h3><div>Add Class 4 Hyperdrive Mod - Add Class 4 Hyperdrive </div>"
+		},
+		{
+			"id": "Hyperdrive Module Class 8",
+			"name": "Hyperdrive Module Class 8",
+			"description": "[H3]Hyperdrive Module Class 8[h3]\n      Please see page 82 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 82 - Fully Operational[h4]<h3>Base Mods</h3><div>Add Class 8 Hyperdrive Mod - Add Class 8 Hyperdrive </div>"
+		},
+		{
+			"id": "Ilum Crystal",
+			"name": "Ilum Crystal",
+			"description": "[H3]Ilum Crystal[h3]\n      Please see page 197 of the Force and Destiny Core Rulebook, or page 63 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 197 - Force and Destiny Core Rulebook[h4][H4]Page 63 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div>"
+		},
+		{
+			"id": "In-Helmet Scanner",
+			"name": "In-Helmet Scanner",
+			"description": "[H3]In-Helmet Scanner[h3]\n      Please see page 201 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 201 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Adds a general purpose scanner\n          to the user’s helmet. The scanner allows the user to\n          remove [SETBACK] imposed on any checks due to darkness\n          or environmental conditions such as smoke or fog. It\n          also allows the user to detect heat sources and motion\n          within medium range. </div>"
+		},
+		{
+			"id": "Insulated Firing Mechanism",
+			"name": "Insulated Firing Mechanism",
+			"description": "[H3]Insulated Firing Mechanism[h3]\n      Please see page 62 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Increases [AD] or [TH] cost of any effect that damages the weapon (such as Sunder) by one. </div><div>Prepare Quality - Prepare {0} </div><div>Repairs to the weapon cost half as much. </div>"
+		},
+		{
+			"id": "Integrated Ascension Gear",
+			"name": "Integrated Ascension Gear",
+			"description": "[H3]Integrated Ascension Gear[h3]\nPlease see page 57 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Special Modifications[h4]<h3>Base Mods</h3><div>As an action, may make an [B]Average ([DI][DI]) Ranged (Light) check[b] to secure grappling hook to an object within medium range and reel in cord. </div><div>May pull another character aloft by making an [B]Easy ([DI]) Athletics check[b]. </div>"
+		},
+		{
+			"id": "Integrated Holsters",
+			"name": "Integrated Holsters",
+			"description": "[H3]Integrated Holsters[h3]\n      Please see page 52 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - No Disintegrations[h4]<h3>Base Mods</h3><div>Hoster Weapon up to Encumbrance 3 Mod - Holster Weapon up to Encumbrance 3 Compte 2</div>"
+		},
+		{
+			"id": "Integrated Illuminator",
+			"name": "Integrated Illuminator",
+			"description": "[H3]Integrated Illuminator[h3]\n      Please see page 54 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Removes up to [SE][SE] due to darkness on targets within short range. </div>"
+		},
+		{
+			"id": "Integrated Load-Bearing Gear",
+			"name": "Integrated Load-Bearing Gear",
+			"description": "[H3]Integrated Load-Bearing Gear[h3]\n      Please see page 43 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fully Operational[h4]<h3>Base Mods</h3><div>Decreases Encumbrance Mod - Decrease Encumbrance by 1 Compte 3</div>"
+		},
+		{
+			"id": "Integrated Scanner",
+			"name": "Integrated Scanner",
+			"description": "[H3]Integrated Scanner[h3]\nPlease see page 54 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Special Modifications[h4]<h3>Base Mods</h3><div>Weapon incorporates a general-purpose scanner. </div><div>Wielder adds automatic [AD][AD] to Initiative checks while weapon is drawn. </div>"
+		},
+		{
+			"id": "Integrated Slicer Gear",
+			"name": "Integrated Slicer Gear",
+			"description": "[H3]Integrated Slicer Gear[h3]\nPlease see page 58 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Special Modifications[h4]<h3>Base Mods</h3><div>Counts as having Slicer Gear.  Can be controlled by gesture or voice. </div>"
+		},
+		{
+			"id": "Interior Broadcast Suite",
+			"name": "Interior Broadcast Suite",
+			"description": "[H3]Interior Broadcast Suite[h3]\n      Please see page 63 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Fly Casual[h4]<h3>Base Mods</h3><div>Increases the strain threshold of each crewmember by 1 </div>"
+		},
+		{
+			"id": "Ion Drive Array",
+			"name": "Ion Drive Array",
+			"description": "[H3]Ion Drive Array[h3]\n      Please see page 82 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 82 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes speed to 4, defense to 0/0/0/0, and system strain to 2 x Silhouette </div><div>Sets Speed When Crafting Mod - Sets Speed When Crafting Compte 4</div><div>Sets System Strain When Crafting to Silhouette Mod - Sets System Strain When Crafting to Silhouette Compte 2</div><div>Sets Forward Defense When Crafting Mod - Sets Forward Defense When Crafting </div><div>Sets Aft Defense When Crafting Mod - Sets Aft Defense When Crafting </div><div>Sets Starboard Defense When Crafting Mod - Sets Starboard Defense When Crafting </div><div>Sets Port Defense When Crafting Mod - Sets Port Defense When Crafting </div>"
+		},
+		{
+			"id": "Ion Shielding",
+			"name": "Ion Shielding",
+			"description": "[H3]Ion Shielding[h3]\nPlease see page 58 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Special Modifications[h4]<h3>Base Mods</h3><div>Increase soak by 3 against weapons with Ion quality. </div>"
+		},
+		{
+			"id": "Ion Turbine Engine",
+			"name": "Ion Turbine Engine",
+			"description": "[H3]Ion Turbine Engine[h3]\n      Please see page 82 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 82 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes speed to 1, defense to 1/0/0/0, and system strain to 10 x Silhouette </div><div>Sets Speed When Crafting Mod - Sets Speed When Crafting </div><div>Sets System Strain When Crafting to Silhouette Mod - Sets System Strain When Crafting to Silhouette Compte 10</div><div>Sets Forward Defense When Crafting Mod - Sets Forward Defense When Crafting </div><div>Sets Aft Defense When Crafting Mod - Sets Aft Defense When Crafting </div><div>Sets Starboard Defense When Crafting Mod - Sets Starboard Defense When Crafting </div><div>Sets Port Defense When Crafting Mod - Sets Port Defense When Crafting </div>"
+		},
+		{
+			"id": "Ionizing Emitter Matrix",
+			"name": "Ionizing Emitter Matrix",
+			"description": "[H3]Ionizing Emitter Matrix[h3]\n      Please see page 63 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Damage +2 versus droids and vehicles. </div><div>Damage -1 versus organic and other targets. </div>"
+		},
+		{
+			"id": "Ionizing Focusing Coils",
+			"name": "Ionizing Focusing Coils",
+			"description": "[H3]Ionizing Focusing Coils[h3]\n      Please see page 62 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Increases damage by +2 versus droids. </div><div>Opponents may spend [TH][TH] or [DE] to damage weapon by one step. </div>"
+		},
+		{
+			"id": "Jump Boots",
+			"name": "Jump Boots",
+			"description": "[H4]Jump Boots[h4]\n      Please see page 58 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Reduces difficulty of Athletics checks made to jump or over obstacles by 1 </div>"
+		},
+		{
+			"id": "Jury Rigged (Armor)",
+			"name": "Jury Rigged (Armor)",
+			"description": "[H3]Jury Rigged (Armor)[h3]\n      Please see page 138 of the Edge of the Empire Core Rulebook, or page 150 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Jury Rigged (Weapon)",
+			"name": "Jury Rigged (Weapon)",
+			"description": "[H3]Jury Rigged (Weapon)[h3]\n      Please see page 138 of the Edge of the Empire Core Rulebook, or page 150 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Kiirium Coating",
+			"name": "Kiirium Coating",
+			"description": "[H3]Kiirium Coating[h3]\n      Please see page 56 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Keeping the Peace[h4]<h3>Base Mods</h3><div>+1 soak vs. blaster and flame attacks </div>"
+		},
+		{
+			"id": "Kimber Stone",
+			"name": "Kimber Stone",
+			"description": "[H3]Kimber Stone[h3]\n      Please see page 55 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 9</div><div>Base Critical Rating Mod - Changes Critical Rating </div><div>Stun Damage Quality - Stun Damage </div>"
+		},
+		{
+			"id": "Krayt Dragon Pearl",
+			"name": "Krayt Dragon Pearl",
+			"description": "[H3]Krayt Dragon Pearl[h3]\n      Please see page 199 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 199 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 9</div><div>Base Critical Rating Mod - Changes Critical Rating </div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Vicious Quality - Vicious {0} </div>"
+		},
+		{
+			"id": "Lasan Chronicles Lessons",
+			"name": "Lasan Chronicles Lessons",
+			"description": "[H3]Lasan Chronicles Bonuses[h3]\n      Please see page 52 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Laser Focusing Array",
+			"name": "Laser Focusing Array",
+			"description": "[H3]Laser Focusing Array[h3]\nPlease see page 66 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 66 - Special Modifications[h4]<h3>Base Mods</h3><div>Add automatic [AD] to combat checks made with the ship's laser cannons and turbolasers. </div>"
+		},
+		{
+			"id": "Lightly Armored Hull",
+			"name": "Lightly Armored Hull",
+			"description": "[H3]Lightly Armored Hull[h3]\n      Please see page 83 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 83 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes armor to 1 and handling to -1 </div><div>Sets Armor Value When Crafting Mod - Sets Armor Value </div><div>Sets Handling When Crafting Mod - Sets Handling When Crafting </div>"
+		},
+		{
+			"id": "Lightsaber Hilt Construction Modifications",
+			"name": "Lightsaber Hilt Construction Modifications",
+			"description": "[H3]Lightsaber Hilt Construction Modifications[h3]\n      Use this attachment to reflect the results of a lightsaber hilt construction check, as required.[P]\n      Please see page 23 of the Force and Destiny Game Master's Kit Adventure Module for details.[P][H3]Sources:[h3][H4]Page 23 - Force and Destiny Game Master's Kit[h4]"
+		},
+		{
+			"id": "Lightweight Frame",
+			"name": "Lightweight Frame",
+			"description": "[H4]Lightweight Frame[h4]\n      Please see page 56 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Decreases Encumbrance Mod - Decrease Encumbrance by 1 </div>"
+		},
+		{
+			"id": "Lorrdian Gemstone",
+			"name": "Lorrdian Gemstone",
+			"description": "[H3]Lorrdian Gemstone[h3]\n      Please see page 199 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 199 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Defensive Quality - Defensive {0} </div><div>Sunder Quality - Sunder </div>"
+		},
+		{
+			"id": "Low-Friction Coating",
+			"name": "Low-Friction Coating",
+			"description": "[H3]Low-Friction Coating[h3]\n      Please see page 56 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Increase Melee Defense Mod - Increases Melee Defense value by 1 </div><div>Add [SE][SE] to Mechanics checks to modify of maintain armor. </div>"
+		},
+		{
+			"id": "Luxury Passenger Compartments",
+			"name": "Luxury Passenger Compartments",
+			"description": "[H3]Luxury Passenger Compartments[h3]\n      Please see page 65 of the Desperate Allies Sourcebook for details.<h3>Base Mods</h3><div>Add [BO] to all Charm, Deception, and Negotiation checks made against passengers within the vehicle.  Checks made against passengers who are accustomed to opulence and luxury have up to [SE][SE] removed instead. </div>"
+		},
+		{
+			"id": "MB-7 \"Ranger\" Range Finder",
+			"name": "MB-7 \"Ranger\" Range Finder",
+			"description": "[H3]MB-7 \"Ranger\" Range Finder[h3]\n      Please see page 54 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Magnetic Weapon Tether",
+			"name": "Magnetic Weapon Tether",
+			"description": "[H3]Magnetic Weapon Tether[h3]\n      Please see page 54 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Wielder may recover engaged weapon as incidental. </div>"
+		},
+		{
+			"id": "Maneuvering Thrusters",
+			"name": "Maneuvering Thrusters",
+			"description": "[H3]Maneuvering Thrusters[h3]\n      Please see page 47 of The Jewel of Yavin Adventure Module for details.[P][H3]Sources:[h3][H4]Page 47 - Jewel of Yavin[h4]<h3>Base Mods</h3><div>Increases Handling Mod - Increases Handling by 1 </div>"
+		},
+		{
+			"id": "Marked-Target Firing Lock",
+			"name": "Marked-Target Firing Lock",
+			"description": "[H3]Marked-Target Firing Lock[h3]\n      Please see page 51 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - No Disintegrations[h4]<h3>Base Mods</h3><div>Cancel Threat from Check Mod - Cancel One [THREAT] from Check </div>"
+		},
+		{
+			"id": "Marksman Barrel",
+			"name": "Marksman Barrel",
+			"description": "[H3]Marksman Barrel[h3]\n      Please see page 190 of the Edge of the Empire Core Rulebook, or page 202 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 190 - Edge of the Empire Core Rulebook[h4][H4]Page 202 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Range Mod - Increases weapon's range by one Range Band </div><div>Cumbersome Quality - Cumbersome {0} Compte 2</div>"
+		},
+		{
+			"id": "Mephite Crystal",
+			"name": "Mephite Crystal",
+			"description": "[H3]Mephite Crystal[h3]\n      Please see page 200 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 200 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 8</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Force-sensitive characters using Force powers to sense their surroundings automatically detect a lightsaber using a mephite crystal if it is within the range of the power. </div>"
+		},
+		{
+			"id": "Micro-Rocket Armor Mounting",
+			"name": "Micro-Rocket Armor Mounting",
+			"description": "[H3]Micro-Rocket Armor Mounting[h3]\n      Please see page 52 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - No Disintegrations[h4]<h3>Base Mods</h3><div>Enables armor to fire loaded micro-rockets. </div>"
+		},
+		{
+			"id": "Minelayer",
+			"name": "Minelayer",
+			"description": "[H3]Minelayer[h3]\n      Please see page 64 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]<h3>Base Mods</h3><div>Allows vehicle to carry a number of space mines equal to its silhouette. </div><div>Pilot or gunner may make an [B]Average ([DI][DI]) Mechanics check[b] to deploy a mine anywhere within close range. </div>"
+		},
+		{
+			"id": "Mk. III Modular Backpack Accessory Pouch",
+			"name": "Mk. III Modular Backpack Accessory Pouch",
+			"description": "[H3]Mk. III Modular Backpack Accessory Pouch[h3]\n      Please see page 46 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Savage Spirits[h4]<h3>Base Mods</h3><div>Increases Encumbrance Threshold Mod - Increase Encumbrance Threshold by 1 </div>"
+		},
+		{
+			"id": "Mk. IV Modular Backpack Accessory Pouch",
+			"name": "Mk. IV Modular Backpack Accessory Pouch",
+			"description": "[H3]Mk. IV Modular Backpack Accessory Pouch[h3]\n      Please see page 51 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Enter the Unknown[h4]<h3>Base Mods</h3><div>Increases Encumbrance Threshold Mod - Increase Encumbrance Threshold by 1 </div>"
+		},
+		{
+			"id": "Mobile Listening Post",
+			"name": "Mobile Listening Post",
+			"description": "[H4]Mobile Listening Post[h4]\n      Please see page 63 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Additional Sensor Range Mod - Increase vehicle's sensor range by one Range Band </div><div>Provides extra audio, video, and holographic capabilities </div>"
+		},
+		{
+			"id": "Model 2 Wrist Mount",
+			"name": "Model 2 Wrist Mount",
+			"description": "[H3]Model 2 Wrist Mount[h3]\n      Please see page 52 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Weapon can be worn on the wrist, freeing user's hands. </div>"
+		},
+		{
+			"id": "Mono-Molecular Edge",
+			"name": "Mono-Molecular Edge",
+			"description": "[H3]Mono-Molecular Edge[h3]\n      Please see page 190 of the Edge of the Empire Core Rulebook, page 202 of the Age of Rebellion Core Rulebook, or page 194 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 190 - Edge of the Empire Core Rulebook[h4][H4]Page 202 - Age of Rebellion Core Rulebook[h4][H4]Page 194 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Decrease Critical Mod - Decreases the weapon's Crit Rating by 1 to a minimum of 1 </div>"
+		},
+		{
+			"id": "Motion Tracker",
+			"name": "Motion Tracker",
+			"description": "[H3]Motion Tracker[h3]\n      Please see page 50 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - Savage Spirits[h4]<h3>Base Mods</h3><div>Remove [SE] due to target movement or use of Guarded Stance. </div>"
+		},
+		{
+			"id": "Multi-Band Comlink",
+			"name": "Multi-Band Comlink",
+			"description": "[H3]Multi-Band Comlink[h3]\n      Please see page 53 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>A long range comlink is integrated into helmet. </div>"
+		},
+		{
+			"id": "Multi-Optic Sight",
+			"name": "Multi-Optic Sight",
+			"description": "[H3]Multi-Optic Sight[h3]\n      Please see page 191 of the Edge of the Empire Core Rulebook, page 202 of the Age of Rebellion Core Rulebook, or page 51 of the Savage Spirits Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 191 - Edge of the Empire Core Rulebook[h4][H4]Page 202 - Age of Rebellion Core Rulebook[h4][H4]Page 51 - Savage Spirits[h4]<h3>Base Mods</h3><div>Removes up to [SETBACK][SETBACK]  on any checks\n          to use this weapon due to smoke, darkness, or other\n          environmental conditions that obstruct vision. </div>"
+		},
+		{
+			"id": "Night Vision Scope",
+			"name": "Night Vision Scope",
+			"description": "[H3]Night Vision Scope[h3]\n      Please see page 194 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 194 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Remove up to [SETBACK][SETBACK] on any checks to use this weapon due to darkness </div>"
+		},
+		{
+			"id": "Nightshadow Coating",
+			"name": "Nightshadow Coating",
+			"description": "[H3]Nightshadow Coating[h3]\n      Please see page 63 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Fly Casual[h4]<h3>Base Mods</h3><div>Reduces range of enemy ship's passive sensors by 1 (minimum of close range) for detecting a vessel with nightshadow coating. </div>"
+		},
+		{
+			"id": "Nishalorite Stone",
+			"name": "Nishalorite Stone",
+			"description": "[H3]Nishalorite Stone[h3]\n      Please see page 52 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Savage Spirits[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 3</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Add automatic [AD] to checks made to location position, navigate terrain, or find power sources or active technology. </div>"
+		},
+		{
+			"id": "OmniScan 3 Integrated Scanner",
+			"name": "OmniScan 3 Integrated Scanner",
+			"description": "[H3]OmniScan 3 Integrated Scanner[h3]\n      Please see page 54 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Built-in general purpose scanner </div><div>Adds [BOOST] to Perception checks to detect movement or hidden enemies. </div>"
+		},
+		{
+			"id": "Onboard Amenities Unit",
+			"name": "Onboard Amenities Unit",
+			"description": "[H3]Onboard Amenities Unit[h3]\n      Please see page 63 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Fly Casual[h4]<h3>Base Mods</h3><div>Upgrades ability of Charm, Deception, and Negotiation checks while aboard once. </div>"
+		},
+		{
+			"id": "Optical Camouflage System",
+			"name": "Optical Camouflage System",
+			"description": "[H3]Optical Camouflage System[h3]\n      Please see page 195 of the Edge of the Empire Core Rulebook, page 206 of the Age of Rebellion Core Rulebook, or page 51 of the Savage Spirits Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 195 - Edge of the Empire Core Rulebook[h4][H4]Page 206 - Age of Rebellion Core Rulebook[h4][H4]Page 51 - Savage Spirits[h4]"
+		},
+		{
+			"id": "Optimized Energy Cell",
+			"name": "Optimized Energy Cell",
+			"description": "[H3]Optimized Energy Cell[h3]\nPlease see page 54 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Special Modifications[h4]<h3>Base Mods</h3><div>When GM spends [DE] or [TH] to cause the weapon to run out of ammo, it requires an additional [TH]. </div>"
+		},
+		{
+			"id": "Ordnance Impeller",
+			"name": "Ordnance Impeller",
+			"description": "[H3]Ordnance Impeller[h3]\n      See page 52 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Fully Operational[h4]<h3>Base Mods</h3><div>Explosive can move overland at the rate of a character on foot. </div><div>Includes a holocam and remote-control unit, allowing for movement and detonation from up to extreme range. </div><div>Skill checks to operate device uses either Computers or Piloting (Planetary). </div>"
+		},
+		{
+			"id": "Overcharge Valve",
+			"name": "Overcharge Valve",
+			"description": "[H3]Overcharge Valve[h3]\n      Please see page 51 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Fly Casual[h4]<h3>Base Mods</h3><div>As incidental, weapon gains Prepare 1 quality and +4 damage for next attack.  After firing, weapon runs out of ammo. </div>"
+		},
+		{
+			"id": "Overcharged Actuating Module",
+			"name": "Overcharged Actuating Module",
+			"description": "[H3]Overcharged Actuating Module[h3]\nPlease see page 55 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Special Modifications[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div><div>GM may spend [TH][TH] to damage weapon by one step. </div>"
+		},
+		{
+			"id": "Overcharged Ion Engines",
+			"name": "Overcharged Ion Engines",
+			"description": "[H3]Overcharged Ion Engines[h3]\nPlease see page 66 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 66 - Special Modifications[h4]<h3>Base Mods</h3><div>Increase Speed Mod - Increase Speed by 1 </div><div>Decreases Handling Mod - Decreases Handling by 1 </div>"
+		},
+		{
+			"id": "Overcharged Power Cell",
+			"name": "Overcharged Power Cell",
+			"description": "[H3]Overcharged Power Cell[h3]\n      Please see page 51 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Endless Vigil[h4]<h3>Base Mods</h3><div>Wielder can spend [AD] from combat checks to increase damage by 1.  GM can spend [TH][TH] to decrease damage by 1. </div>"
+		},
+		{
+			"id": "Overcharged Shields",
+			"name": "Overcharged Shields",
+			"description": "[H3]Overcharged Shields[h3]\n      Please see page 61 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Fully Operational[h4]<h3>Base Mods</h3><div>Once per encounter, can make an [B]Average([DI][DI]) Mechanics check[b] to overcharge shields, adding 2 to all defense zones for 1 round + 1 round per [AD].  If [TH][TH] or [DE] is rolled, shields burn out and stop working until repaired. </div>"
+		},
+		{
+			"id": "Oversized External Weapons Mount",
+			"name": "Oversized External Weapons Mount",
+			"description": "[H3]Oversized External Weapons Mount[h3]\n      Please see page 60 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Vehicle can carry a weapon for craft 1 silhouette larger Mod - Vehicle can carry a weapon for craft 1 silhouette larger </div><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Decreases System Strain Mod - Decreases System Strain by 1 Compte 4</div>"
+		},
+		{
+			"id": "Oxygen Unit",
+			"name": "Oxygen Unit",
+			"description": "[H3]Oxygen Unit[h3]\n      Please see page 55 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Forged in Battle[h4]<h3>Base Mods</h3><div>Adds additional twelve hours of oxygen when connected to any rebreather, breath mask, or sealed suit. </div>"
+		},
+		{
+			"id": "Paired Weapons",
+			"name": "Paired Weapons",
+			"description": "[H3]Paired Weapons[h3]\n      Please see page 51 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Fly Casual[h4]<h3>Base Mods</h3><div>Reduce [AD] required to hit with second weapon when two-weapon fighting by 1. </div>"
+		},
+		{
+			"id": "Pannier Modular Cargo Handling System",
+			"name": "Pannier Modular Cargo Handling System",
+			"description": "[H3]Pannier Modular Cargo Handling System[h3]\n      Please see page 46 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Savage Spirits[h4]<h3>Base Mods</h3><div>Increases Encumbrance Threshold by 3 Mod - Increase Encumbrance Threshold by 3 Compte 2</div>"
+		},
+		{
+			"id": "Paramilitary Airspeeder",
+			"name": "Paramilitary Airspeeder",
+			"description": "[H3]Paramilitary Airspeeder[h3]\n      Converts an airspeeder to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Armor Mod - Increases Armor value by 1 Compte 2</div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 2</div><div>Decreases System Strain Mod - Decreases System Strain by 1 </div><div>Adds a forward light blaster cannon </div>"
+		},
+		{
+			"id": "Paramilitary Bulk Transport",
+			"name": "Paramilitary Bulk Transport",
+			"description": "[H3]Paramilitary Bulk Transport[h3]\n      Converts a bulk transport to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Defense Zone Mod - Increases Defense Zone by 1 Compte 2</div><div>Increase Armor Mod - Increases Armor value by 1 Compte 2</div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 5</div><div>Decreases System Strain Mod - Decreases System Strain by 1 Compte 5</div><div>Adds two heavy laser cannon turrets </div>"
+		},
+		{
+			"id": "Paramilitary Cloud Car",
+			"name": "Paramilitary Cloud Car",
+			"description": "[H3]Paramilitary Cloud Car[h3]\n      Converts a cloud car to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Armor Mod - Increases Armor value by 1 </div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 </div><div>Adds a forward light auto-blaster </div>"
+		},
+		{
+			"id": "Paramilitary Landspeeder",
+			"name": "Paramilitary Landspeeder",
+			"description": "[H3]Paramilitary Landspeeder[h3]\n      Converts a landspeeder to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Armor Mod - Increases Armor value by 1 Compte 3</div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 2</div><div>Decreases System Strain Mod - Decreases System Strain by 1 </div><div>Adds a medium laser turret </div>"
+		},
+		{
+			"id": "Paramilitary Light Freighter",
+			"name": "Paramilitary Light Freighter",
+			"description": "[H3]Paramilitary Light Freighter[h3]\n      Converts a light freighter to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Defense Zone Mod - Increases Defense Zone by 1 </div><div>Increase Armor Mod - Increases Armor value by 1 </div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 2</div><div>Decreases System Strain Mod - Decreases System Strain by 1 Compte 2</div><div>Adds two quad laser cannon turrets </div>"
+		},
+		{
+			"id": "Paramilitary Medium Transport",
+			"name": "Paramilitary Medium Transport",
+			"description": "[H3]Paramilitary Medium Transport[h3]\n      Converts a medium transport to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Increase Defense Zone Mod - Increases Defense Zone by 1 </div><div>Increase Armor Mod - Increases Armor value by 1 Compte 2</div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 3</div><div>Decreases System Strain Mod - Decreases System Strain by 1 Compte 2</div><div>Adds two medium laser cannon turrets </div>"
+		},
+		{
+			"id": "Paramilitary Shuttle",
+			"name": "Paramilitary Shuttle",
+			"description": "[H3]Paramilitary Shuttle[h3]\n      Converts a shuttle to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Defense Zone Mod - Increases Defense Zone by 1 Compte 2</div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 2</div><div>Decreases System Strain Mod - Decreases System Strain by 1 Compte 3</div><div>Adds two twin light laser cannon turrets </div>"
+		},
+		{
+			"id": "Paramilitary Speeder Bike/Swoop",
+			"name": "Paramilitary Speeder Bike/Swoop",
+			"description": "[H3]Paramilitary Speeder Bike/Swoop[h3]\n      Converts a speeder bike or swoop to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 </div><div>Decreases System Strain Mod - Decreases System Strain by 1 </div><div>Adds a forward light repeating blaster </div>"
+		},
+		{
+			"id": "Paramilitary Walker",
+			"name": "Paramilitary Walker",
+			"description": "[H3]Paramilitary Walker[h3]\n      Converts a walker to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Armor Mod - Increases Armor value by 1 Compte 2</div><div>Decreases System Strain Mod - Decreases System Strain by 1 Compte 2</div><div>Adds a forward medium laser cannon </div>"
+		},
+		{
+			"id": "Paramilitary Wheeled/Tracked",
+			"name": "Paramilitary Wheeled/Tracked",
+			"description": "[H3]Paramilitary Wheeled/Tracked[h3]\n      Converts a wheeled or tracked vehicle to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 </div><div>Increase Armor Mod - Increases Armor value by 1 Compte 3</div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 2</div><div>Decreases System Strain Mod - Decreases System Strain by 1 </div><div>Adds a medium laser cannon turret </div>"
+		},
+		{
+			"id": "Paramilitary Yacht",
+			"name": "Paramilitary Yacht",
+			"description": "[H3]Paramilitary Yacht[h3]\n      Converts a yacht to a paramilitary vehicle.  Please see page 71 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 71 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Increase Defense Zone Mod - Increases Defense Zone by 1 </div><div>Increase Hull Trauma Mod - Increases Hull Trauma by 1 Compte 2</div><div>Decreases System Strain Mod - Decreases System Strain by 1 Compte 5</div><div>Adds two forward light laser cannons and one aft light laser cannon </div>"
+		},
+		{
+			"id": "Passive Foliage Suit",
+			"name": "Passive Foliage Suit",
+			"description": "[H3]Passive Foliage Suit[h3]\n      Please see page 51 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Savage Spirits[h4]<h3>Base Mods</h3><div>Add [SE] to Perception or Vigilance checks made to detect a character wearing this armor in appropriate environment. </div>"
+		},
+		{
+			"id": "Physical Countermeasures",
+			"name": "Physical Countermeasures",
+			"description": "[H3]Physical Countermeasures[h3]\n      Please see page 64 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - Stay on Target[h4]<h3>Base Mods</h3><div>Adds [SETBACK] to all Gunnery checks made using misiles, rockets, or torpedoes targeting the starship. </div>"
+		},
+		{
+			"id": "Physiological Enhancement System",
+			"name": "Physiological Enhancement System",
+			"description": "[H3]Physiological Enhancement System[h3]\n      Please see page 65 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Reduce strain suffered involuntarily by 1, to minimum of 1. </div>"
+		},
+		{
+			"id": "Pistol Hilt",
+			"name": "Pistol Hilt",
+			"description": "[H3]Pistol Hilt[h3]\n      Please see page 52 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Endless Vigil[h4]<h3>Base Mods</h3><div>Includes a built-in blaster pistol. </div>"
+		},
+		{
+			"id": "Plasma Drill",
+			"name": "Plasma Drill",
+			"description": "[H3]Plasma Drill[h3]\n      Please see page 61 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Fully Operational[h4]<h3>Base Mods</h3><div>Decreases Handling Mod - Decreases Handling by 1 Compte 2</div><div>Can tunnel through solid rock and most metals at speed 1. </div><div>May be employed as a weapon. </div>"
+		},
+		{
+			"id": "Podracer Control Cables",
+			"name": "Podracer Control Cables",
+			"description": "[H3]Podracer Control Cables[h3]\n      Please see page 60 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Endless Vigil[h4]<h3>Base Mods</h3><div>Sets Handling Mod - Sets Handling </div>"
+		},
+		{
+			"id": "Podracer Ejection System",
+			"name": "Podracer Ejection System",
+			"description": "[H3]Podracer Ejection System[h3]\n      Please see page 58 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Endless Vigil[h4]<h3>Base Mods</h3><div>To eject, make an [B]Average ([DI][DI]) Piloting (Planetary) check[b] as an out-of-turn incidental.  On success, pilot is ejected unharmed.  On failure, pilot suffers vehicle speed in strain, plus one Critical Injury.  GM can spend [TH][TH] or [DE] to cause wounds to be suffered instead. </div>"
+		},
+		{
+			"id": "Podracer Engines (pair)",
+			"name": "Podracer Engines (pair)",
+			"description": "[H3]Podracer Engine (pair)[h3]\n      Please see page 60 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Endless Vigil[h4]<h3>Base Mods</h3><div>Sets Speed Mod - Sets Speed Compte 4</div>"
+		},
+		{
+			"id": "Podracer Shield Generator",
+			"name": "Podracer Shield Generator",
+			"description": "[H3]Podracer Shield Generator[h3]\n      Please see page 59 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Endless Vigil[h4]<h3>Base Mods</h3><div>Sets Forward Defense Mod - Sets Forward Defense </div>"
+		},
+		{
+			"id": "Poison Reservoir",
+			"name": "Poison Reservoir",
+			"description": "[H3]Poison Reservoir[h3]\nPlease see page 105 of the Lords of Nal Hutta Sourcebook for details.<h3>Base Mods</h3><div>Allows user to store one dose of neurotoxin, anesthetic, neuroparalytic, or similar toxins. </div>"
+		},
+		{
+			"id": "Pommel Cap",
+			"name": "Pommel Cap",
+			"description": "[H3]Pommel Cap[h3]\n      Please see page 51 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Disciples of Harmony[h4]<h3>Base Mods</h3><div>Stun Quality - Stun {0} Compte 2</div>"
+		},
+		{
+			"id": "Power Unit",
+			"name": "Power Unit",
+			"description": "[H3]Power Unit[h3]\n      Please see page 55 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Forged in Battle[h4]<h3>Base Mods</h3><div>May recharge a depleted piece of equipment as an action, or a droid or larger piece of machinery in two hours. </div><div>Once per encounter, wearer may ignore an \"out of ammo\" [DE] result in the same manner as an Extra Reload. </div>"
+		},
+		{
+			"id": "Predictive Targeting Array",
+			"name": "Predictive Targeting Array",
+			"description": "[H3]Predictive Targeting Array[h3]\n      Please see page 143 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 143 - Suns of Fortune[h4]<h3>Base Mods</h3><div>When making auto-fire attack, do not increase difficulty by 1. </div>"
+		},
+		{
+			"id": "Pressurized Gas Cartridge",
+			"name": "Pressurized Gas Cartridge",
+			"description": "[H3]Pressurized Gas Cartridge[h3]\nPlease see page 45 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Special Modifications[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 5</div>"
+		},
+		{
+			"id": "Proximity Detonator",
+			"name": "Proximity Detonator",
+			"description": "[H3]Proximity Detonator[h3]\n      See page 52 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Fully Operational[h4]<h3>Base Mods</h3><div>Weapon detonates when a silhouette 1 or higher creature comes within short or engaged range, as determined when placed. </div>"
+		},
+		{
+			"id": "Pseudo-Cloaking Device",
+			"name": "Pseudo-Cloaking Device",
+			"description": "[H3]Pseudo-Cloaking Device[h3]\nPlease see page 66 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 66 - Special Modifications[h4]<h3>Base Mods</h3><div>Increase the difficulty of checks to detect the ship with sensors by two. </div><div>Upgrade the difficulty of all combat checks once against the ship at Short range or further. </div>"
+		},
+		{
+			"id": "Quick Shed",
+			"name": "Quick Shed",
+			"description": "[H3]Quick Shed[h3]\n      Please see page 57 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Keeping the Peace[h4]<h3>Base Mods</h3><div>As a maneuver, wearer by shed the armor.  Armor must be reassembled before donning again, requiring several minutes and an [B]Average ([DI][DI]) Mechanics check[b]. </div>"
+		},
+		{
+			"id": "Radiation Shielding",
+			"name": "Radiation Shielding",
+			"description": "[H3]Radiation Shielding[h3]\nPlease see page 58 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Special Modifications[h4]<h3>Base Mods</h3><div>Add [BO][BO] to Resilience checks to resist radiation. </div>"
+		},
+		{
+			"id": "Ram Attachment",
+			"name": "Ram Attachment",
+			"description": "[H3]Ram Attachment[h3]\n      Please see page 65 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Stay on Target[h4]<h3>Base Mods</h3><div>Treats the starship or vehicle's defense as 2 higher when instigating a collision. </div>"
+		},
+		{
+			"id": "Rapid Cargo Evacuation Chute",
+			"name": "Rapid Cargo Evacuation Chute",
+			"description": "[H3]Rapid Cargo Evacuation Chute[h3]\n      Please see page 63 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Fly Casual[h4]<h3>Base Mods</h3><div>Make an [B]Average ([DI][DI]) Mechanics check[b] as an action while in the cockpit or cargo bay to eject everything currently stored in the cargo hold. </div>"
+		},
+		{
+			"id": "Rapid-Recharge XCiter",
+			"name": "Rapid-Recharge XCiter",
+			"description": "[H3]Rapid-Recharge XCiter[h3]\nPlease see page 55 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Special Modifications[h4]<h3>Base Mods</h3><div>Auto-Fire Quality - Auto Fire </div><div>Inaccurate Quality - Inaccurate {0} Compte 3</div>"
+		},
+		{
+			"id": "Reactive Plating",
+			"name": "Reactive Plating",
+			"description": "[H3]Reactive Plating[h3]\n      Please see page 57 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Keeping the Peace[h4]<h3>Base Mods</h3><div>First time wearer is hit each encounter, reduce damage by 10.  After, armor suffers minor damage and must be repaired to function again. </div>"
+		},
+		{
+			"id": "Reflec Adaptive Skin",
+			"name": "Reflec Adaptive Skin",
+			"description": "[H4]Reflec Adaptive Skin[h4]\n      Please see page 58 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Cyphers and Masks[h4]"
+		},
+		{
+			"id": "Reflec Shadowskin",
+			"name": "Reflec Shadowskin",
+			"description": "[H3]Reflec Shadowskin[h3]\n      Please see page 57 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Reflex Grip",
+			"name": "Reflex Grip",
+			"description": "[H3]Reflex Grip[h3]\n      Please see page 52 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Endless Vigil[h4]<h3>Base Mods</h3><div>When lightsaber is used to Parry or Reflect, suffer 1 additional strain, but count Parry and Reflect ranks as 1 higher. </div>"
+		},
+		{
+			"id": "Reinforced Armor Plating",
+			"name": "Reinforced Armor Plating",
+			"description": "[H3]Reinforced Armor Plating[h3]\n      Please see page 61 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Fully Operational[h4]<h3>Base Mods</h3><div>Increase Armor Mod - Increases Armor value by 1 Compte 2</div><div>Decreases Handling Mod - Decreases Handling by 1 </div>"
+		},
+		{
+			"id": "Reinforced Engine Cowlings",
+			"name": "Reinforced Engine Cowlings",
+			"description": "[H3]Reinforced Engine Cowlings[h3]\n      Please see page 59 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Endless Vigil[h4]<h3>Base Mods</h3><div>Reduce Critical Hit result from collision by 20 </div>"
+		},
+		{
+			"id": "Reinforced Gauntlets",
+			"name": "Reinforced Gauntlets",
+			"description": "[H3]Reinforced Gauntlets[h3]\nPlease see page 58 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Special Modifications[h4]<h3>Base Mods</h3><div>May use gauntlets as a melee weapon. </div>"
+		},
+		{
+			"id": "Reinforced Magnetic Shielding",
+			"name": "Reinforced Magnetic Shielding",
+			"description": "[H4]Reinforced Magnetic Shielding[h4]\n      Please see page 48 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Knights of Fate[h4]<h3>Base Mods</h3><div>Concussive Quality - Concussive {0} </div><div>Knockdown Quality - Knockdown </div><div>Pierce Quality - Pierce {0} </div>"
+		},
+		{
+			"id": "Reinforced Shield Generator",
+			"name": "Reinforced Shield Generator",
+			"description": "[H3]Reinforced Shield Generator[h3]\n      Please see page 270 of the Edge of the Empire Core Rulebook, page 287 of the Age of Rebellion Core Rulebook, or page 270 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 270 - Edge of the Empire Core Rulebook[h4][H4]Page 287 - Age of Rebellion Core Rulebook[h4][H4]Page 270 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Increase Defense Zone Mod - Increases Defense Zone by 1 </div>"
+		},
+		{
+			"id": "Removed Safety Features",
+			"name": "Removed Safety Features",
+			"description": "[H3]Removed Safety Features[h3]\nPlease see page 55 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Special Modifications[h4]<h3>Base Mods</h3><div>Adds [BO] to first combat check during an encounter. </div><div>GM may spend [TH][TH] to cause misfire.  Weapon runs out of ammo and inflicts 4 strain on wielder. </div>"
+		},
+		{
+			"id": "Replusor-Assisted Lifting",
+			"name": "Replusor-Assisted Lifting",
+			"description": "[H3]Replusor-Assisted Lifting[h3]\n      Please see page 52 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - No Disintegrations[h4]<h3>Base Mods</h3><div>Increases Brawn for Determining Encumbrance Threshold Mod - Increase Brawn for Determining Encumbrance Threshold by 1 Compte 5</div>"
+		},
+		{
+			"id": "Repulsor Pack",
+			"name": "Repulsor Pack",
+			"description": "[H3]Repulsor Pack[h3]\n      See page 53 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Fully Operational[h4]<h3>Base Mods</h3><div>Allows user to function as vehicle:  Speed 1, Handling -1, System Strain 2, Silhouette same as user. </div><div>Pack can only travel in atmosphere up to 75 meters in altitude. </div><div>Operator uses Coordination skil for any relevant checks. </div>"
+		},
+		{
+			"id": "Repulsorlift Boost",
+			"name": "Repulsorlift Boost",
+			"description": "[H3]Repulsorlift Boost[h3]\n      Please see page 62 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Fully Operational[h4]<h3>Base Mods</h3><div>Once per encounter as an incidental, vehicle may suffer 2 system strain to double maximum altitute (or gain 100 meters, whichever is lower) and increase max speed by 1 for 1 round. </div>"
+		},
+		{
+			"id": "Repulsorlift Enhancement",
+			"name": "Repulsorlift Enhancement",
+			"description": "[H3]Repulsorlift Enhancement[h3]\n      Please see page 47 of The Jewel of Yavin Adventure Module for details.[P][H3]Sources:[h3][H4]Page 47 - Jewel of Yavin[h4]<h3>Base Mods</h3><div>As a maneuver, suffer 1 system strain to add +1 maximum speed for one round. </div>"
+		},
+		{
+			"id": "Retractable Garrote",
+			"name": "Retractable Garrote",
+			"description": "[H4]Retractable Garrote[h4]\n      Please see page 60 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Adds retractable garrote to item </div>"
+		},
+		{
+			"id": "Retractable Weapon System",
+			"name": "Retractable Weapon System",
+			"description": "[H4]Retractable Weapon System[h4]\n      Please see page 63 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Retractable Weapon System - Retractable Weapon System </div><div>Discovering hidden weapon requires a [B]Hard ([DI][DI][DI]) Perception check[b] and thorough search of vehicle </div>"
+		},
+		{
+			"id": "Retrofitted Hangar Bay",
+			"name": "Retrofitted Hangar Bay",
+			"description": "[H3]Retrofitted Hangar Bay[h3]\n      Please see page 271 of the Edge of the Empire Core Rulebook, page 287 of the Age of Rebellion Core Rulebook, or page 270 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 271 - Edge of the Empire Core Rulebook[h4][H4]Page 287 - Age of Rebellion Core Rulebook[h4][H4]Page 270 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Retrofits Hangar Bay Mod - Retrofits Hangar Bay </div>"
+		},
+		{
+			"id": "Reverse Engineering",
+			"name": "Reverse Engineering",
+			"description": "[H3]Reverse Engineering[h3]\n      Please see page 71 of the Fully Operational Sourcebook for details.\n      [P][I]Note:  Use this attachment on weapons when you select the \"Reverse Engineering\" result from the chart on page 71.[i][P][H3]Sources:[h3][H4]Page 71 - Fully Operational[h4]<h3>Base Mods</h3><div>Add Hard Points Mod - Add One Hard Point </div>"
+		},
+		{
+			"id": "Reverse Engineering",
+			"name": "Reverse Engineering",
+			"description": "[H3]Reverse Engineering[h3]\n      Please see page 71 of the Fully Operational Sourcebook for details.\n      [P][I]Note:  Use this attachment on gear when you select the \"Reverse Engineering\" result from the chart on page 71.[i][P][H3]Sources:[h3][H4]Page 71 - Fully Operational[h4]<h3>Base Mods</h3><div>Add Hard Points Mod - Add One Hard Point </div>"
+		},
+		{
+			"id": "Reverse Engineering",
+			"name": "Reverse Engineering",
+			"description": "[H3]Reverse Engineering[h3]\n      Please see page 71 of the Fully Operational Sourcebook for details.\n      [P][I]Note:  Use this attachment on armor when you select the \"Reverse Engineering\" result from the chart on page 71.[i][P][H3]Sources:[h3][H4]Page 71 - Fully Operational[h4]<h3>Base Mods</h3><div>Add Hard Points Mod - Add One Hard Point </div>"
+		},
+		{
+			"id": "Reverse Engineering",
+			"name": "Reverse Engineering",
+			"description": "[H3]Reverse Engineering[h3]\n      Please see page 71 of the Fully Operational Sourcebook for details.\n      [P][I]Note:  Use this attachment on vehicles when you select the \"Reverse Engineering\" result from the chart on page 71.[i][P][H3]Sources:[h3][H4]Page 71 - Fully Operational[h4]<h3>Base Mods</h3><div>Add Hard Points Mod - Add One Hard Point </div>"
+		},
+		{
+			"id": "Riding Tack",
+			"name": "Riding Tack",
+			"description": "[H3]Riding Tack[h3]\n      Please see page 47 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Savage Spirits[h4]<h3>Base Mods</h3><div>Characters may ride beast without suffering bareback riding penalties. </div>"
+		},
+		{
+			"id": "Rocket Guidance System",
+			"name": "Rocket Guidance System",
+			"description": "[H3]Rocket Guidance System[h3]\n      Please see page 47 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - No Disintegrations[h4]<h3>Base Mods</h3><div>Guided Quality - Guided {0} Compte 2</div>"
+		},
+		{
+			"id": "Saddlebags",
+			"name": "Saddlebags",
+			"description": "[H3]Saddlebags[h3]\n      Please see page 47 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - Savage Spirits[h4]<h3>Base Mods</h3><div>Increases Encumbrance Threshold Mod - Increase Encumbrance Threshold by 1 Compte 4</div>"
+		},
+		{
+			"id": "Sapith Gem",
+			"name": "Sapith Gem",
+			"description": "[H3]Sapith Gem[h3]\n      Please see page 200 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 200 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div>"
+		},
+		{
+			"id": "Scanner-Proof Hardware",
+			"name": "Scanner-Proof Hardware",
+			"description": "[H4]Scanner-Proof Hardware[h4]\n      Please see page 57 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Weapon cannot be detected by standard weapon-detecting technologies.  Advanced scanner operators must make a [B]Hard ([DI][DI][DI]) Computers check[b] to find the weaopn. </div><div>GM may spend [TH][TH] or [DE] on a combat check to cause major damage to weapon, making it inoperable. </div>"
+		},
+		{
+			"id": "Scannerweave",
+			"name": "Scannerweave",
+			"description": "[H4]Scannerweave[h4]\n      Please see page 58 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Upgrades ability of all opposed Stealth checks made against sensor and scanner operators once </div>"
+		},
+		{
+			"id": "Secondary Ion Blaster",
+			"name": "Secondary Ion Blaster",
+			"description": "[H3]Secondary Ion Blaster[h3]\nPlease see page 56 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Special Modifications[h4]<h3>Base Mods</h3><div>Adds an ion blaster to the weapon. </div><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Secondary Transponder",
+			"name": "Secondary Transponder",
+			"description": "[H3]Secondary Transponder[h3]\nPlease see page 67 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 67 - Special Modifications[h4]<h3>Base Mods</h3><div>Crew can switch to the secondary transponder as an action, making an [B]Average ([DI][DI]) Computers check[b]. </div><div>An observer who scans the ship can detect discrepancies indicating the presence of a secondary transponder with a [B]Daunting ([DI][DI][DI][DI]) Computers check[b]. </div>"
+		},
+		{
+			"id": "Security Measures",
+			"name": "Security Measures",
+			"description": "[H3]Security Measures[h3]\nPlease see page 67 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 67 - Special Modifications[h4]<h3>Base Mods</h3><div>Upgrade the difficulty Computers and Skulduggery checks made to gain unauthorized access to the ship twice. </div>"
+		},
+		{
+			"id": "Seeker Crystal",
+			"name": "Seeker Crystal",
+			"description": "[H3]Seeker Crystal[h3]\n      Please see page 53 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Disciples of Harmony[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Force-sensitive wielders my add [AD][AD] to Perception or Vigilance checks to detect a hidden being within short range. </div>"
+		},
+		{
+			"id": "Self-Destruct System",
+			"name": "Self-Destruct System",
+			"description": "[H4]Self-Destruct System[h4]\n      Please see page 60 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Adds a single-use explosive self-destruct system to item dealing 5 damage to all characters within engaged range. </div>"
+		},
+		{
+			"id": "Self-Repair Systems",
+			"name": "Self-Repair Systems",
+			"description": "[H3]Self-Repair Systems[h3]\nPlease see page 58 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Special Modifications[h4]<h3>Base Mods</h3><div>Once per encounter as a maneuver, can have armor attempt to repair itself or assist in a repair.  Counts as Intellect 2 and Mechanics 2 ([PR][PR]). </div><div>There is no cost to repair armor, whether using the automatic feature, or personally repairing. </div>"
+		},
+		{
+			"id": "Sensor Baffler",
+			"name": "Sensor Baffler",
+			"description": "[H3]Sensor Baffler[h3]\n      Please see page 62 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 62 - Fully Operational[h4]<h3>Base Mods</h3><div>When active, upgrade difficulty of checks to determine vehicle's location using sensors twice. </div>"
+		},
+		{
+			"id": "Sensor Shunt",
+			"name": "Sensor Shunt",
+			"description": "[H4]Sensor Shunt[h4]\n      Please see page 63 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Increase difficulty of checks to detect vehicle using passive sensors by 2 and active sensors by 1 while travelling at speed 3 or lower </div>"
+		},
+		{
+			"id": "Sensor Unit",
+			"name": "Sensor Unit",
+			"description": "[H3]Sensor Unit[h3]\n      Please see page 55 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Serrated Edge",
+			"name": "Serrated Edge",
+			"description": "[H3]Serrated Edge[h3]\n      Please see page 191 of the Edge of the Empire Core Rulebook, page 203 of the Age of Rebellion Core Rulebook, or page 194 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 191 - Edge of the Empire Core Rulebook[h4][H4]Page 203 - Age of Rebellion Core Rulebook[h4][H4]Page 194 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Vicious Quality - Vicious {0} </div>"
+		},
+		{
+			"id": "Set Trigger",
+			"name": "Set Trigger",
+			"description": "[H3]Set Trigger[h3]\n      Please see page 51 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Fly Casual[h4]<h3>Base Mods</h3><div>Automatic [SU][TH] to the first combat check made with this weapon each encounter. </div>"
+		},
+		{
+			"id": "Shadowsheath",
+			"name": "Shadowsheath",
+			"description": "[H3]Shadowsheath[h3]\n      Please see page 194 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 194 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Increases the difficulty of any checks made to detect the sheath or the weapon it holds by two </div>"
+		},
+		{
+			"id": "Shaped Nozzle",
+			"name": "Shaped Nozzle",
+			"description": "[H3]Shaped Nozzle[h3]\nPlease see page 45 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Special Modifications[h4]"
+		},
+		{
+			"id": "Shield Discharge Pack",
+			"name": "Shield Discharge Pack",
+			"description": "[H3]Shield Discharge Pack[h3]\n      Please see page 54 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Keeping the Peace[h4]<h3>Base Mods</h3><div>When wielder suffers hit from Melee, Brawl, or Lightsaber combat check, may spend [TH][TH] or [DE] to cause attacker to suffer 3 strain, ignoring soak. </div>"
+		},
+		{
+			"id": "Shien Reverse Grip Customization",
+			"name": "Shien Reverse Grip Customization",
+			"description": "[H3]Shien Reverse Grip Customization[h3]\n      Please see page 52 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Shock Pulse Emitter",
+			"name": "Shock Pulse Emitter",
+			"description": "[H3]Shock Pulse Emitter[h3]\n      Please see page 51 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - No Disintegrations[h4]<h3>Base Mods</h3><div>Stun Quality - Stun {0} Compte 2</div>"
+		},
+		{
+			"id": "Shortened Barrel",
+			"name": "Shortened Barrel",
+			"description": "[H3]Shortened Barrel[h3]\n      Please see page 191 of the Edge of the Empire Core Rulebook, or page 203 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 191 - Edge of the Empire Core Rulebook[h4][H4]Page 203 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Reduces the difficulty of checks made to conceal\n          this weapon by 1. </div><div>Reduced Range Mod - Decreases weapon's range by one Range Band </div>"
+		},
+		{
+			"id": "Single Ion Coil",
+			"name": "Single Ion Coil",
+			"description": "[H3]Single Ion Coil[h3]\n      Please see page 81 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 81 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes speed to 1, defense to 0/0/0/0, and system strain to 3 x Silhouette </div><div>Sets Speed When Crafting Mod - Sets Speed When Crafting </div><div>Sets System Strain When Crafting to Silhouette Mod - Sets System Strain When Crafting to Silhouette Compte 3</div><div>Sets Forward Defense When Crafting Mod - Sets Forward Defense When Crafting </div><div>Sets Aft Defense When Crafting Mod - Sets Aft Defense When Crafting </div><div>Sets Starboard Defense When Crafting Mod - Sets Starboard Defense When Crafting </div><div>Sets Port Defense When Crafting Mod - Sets Port Defense When Crafting </div>"
+		},
+		{
+			"id": "Slave Circuit",
+			"name": "Slave Circuit",
+			"description": "[H3]Slave Circuit[h3]\n      Please see page 65 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Stay on Target[h4]<h3>Base Mods</h3><div>Allows a ship or vehicle to be activated or deactivated by remote control. </div>"
+		},
+		{
+			"id": "Sleek Carapace",
+			"name": "Sleek Carapace",
+			"description": "[H3]Sleek Carapace[h3]\n      Please see page 82 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 82 - Fully Operational[h4]<h3>Base Mods</h3><div>Changes armor to 0 and handling to +2 </div><div>Sets Armor Value When Crafting Mod - Sets Armor Value </div><div>Sets Handling When Crafting Mod - Sets Handling When Crafting Compte 2</div>"
+		},
+		{
+			"id": "Slicing Computer",
+			"name": "Slicing Computer",
+			"description": "[H3]Slicing Computer[h3]\nPlease see page 67 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 67 - Special Modifications[h4]<h3>Base Mods</h3><div>Counts as slicer gear that can be used by one passenger. </div><div>Add automatic [AD] to Computers checks made to slice enemy ships' systems. </div>"
+		},
+		{
+			"id": "Slugthrower Suppressor",
+			"name": "Slugthrower Suppressor",
+			"description": "[H3]Slugthrower Suppressor[h3]\n      Please see page 51 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Savage Spirits[h4]<h3>Base Mods</h3><div>Adds [SE][SE] to Perception or Vigilance checks made to locate a concealed shooter firing a silenced slugthrower. </div>"
+		},
+		{
+			"id": "SmartMed 2000 Integrated Med-Systems",
+			"name": "SmartMed 2000 Integrated Med-Systems",
+			"description": "[H3]SmartMed 2000 Integrated Med-Systems[h3]\n      Please see page 53 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Once per session, may apply stimpack as incidental. </div><div>All Medicine checks made to heal wearer gain [BOOST]. </div><div>Increases Encumbrance Mod - Increase Encumbrance by 1 </div>"
+		},
+		{
+			"id": "SmartTranq",
+			"name": "SmartTranq",
+			"description": "[H3]SmartTranq[h3]\n      Please see page 40 of the Enter the Unknown Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Enter the Unknown[h4]<h3>Base Mods</h3><div>Upon hit, target must make [B]Average ([DIFFICULTY][DIFFICULTY]) Resilience check[b].  If fail, target takes 5 strain, plus 2 strain per [THREAT].  GM may use [DESPAIR] to make target check again next round at increased difficulty. </div>"
+		},
+		{
+			"id": "Smuggling Compartments",
+			"name": "Smuggling Compartments",
+			"description": "[H3]Smuggling Compartments[h3]\n      Please see page 270 of the Edge of the Empire Core Rulebook, or page 271 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 270 - Edge of the Empire Core Rulebook[h4][H4]Page 271 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Convert 25 encumbrance capacity to smuggling compartment Mod - Convert 25 encumbrance capacity to smuggling compartment </div>"
+		},
+		{
+			"id": "Solari Crystal",
+			"name": "Solari Crystal",
+			"description": "[H3]Solari Crystal[h3]\n      Please see page 53 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Disciples of Harmony[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 7</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Defensive Quality - Defensive {0} </div><div>Reduce strain from Reflect incidental by 1. </div><div>Crystal ceases to function if wielder's Morality is reduced below 50. </div>"
+		},
+		{
+			"id": "Sonic Scope",
+			"name": "Sonic Scope",
+			"description": "[H3]Sonic Scope[h3]\nPlease see page 56 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Special Modifications[h4]<h3>Base Mods</h3><div>May observe and target enemies who are completely hidden by solid objects. </div>"
+		},
+		{
+			"id": "Sorian Crystal",
+			"name": "Sorian Crystal",
+			"description": "[H3]Sorian Crystal[h3]\n      Please see page 55 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 3</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>When used with the Parry talent, add [BO] to next combat check made against attacker before the end of the next round. </div>"
+		},
+		{
+			"id": "Space Slug Abilities",
+			"name": "Space Slug Abilities",
+			"description": "[H3]Space Slug Abilities[h3][P][H3]Sources:[h3][H4]Strongholds of Resistance[h4]<h3>Base Mods</h3><div>When rolling for initiative, or attacking with its Insatiable Maw, a space slug rolls a [B]Coordination skill check[b], counting as having Coordination 3 and Agility 1 ([PR][AB][AB]). </div><div>A starship of silhouette 5 or lower attacked by a space slug, regardless of whether or not the attack hit, must make a [B]Hard ([DI][DI][DI]) Piloting (Space) check[b] to avoid  being swallowed.  If swallowed, ship suffers 10 hull trauma daily from being digested. </div><div>The stomach of an space slug is also generally home to mynocks, which will waste no time attacking a swallowed starship. </div>"
+		},
+		{
+			"id": "Spread Barrel",
+			"name": "Spread Barrel",
+			"description": "[H3]Spread Barrel[h3]\n      Please see page 191 of the Edge of the Empire Core Rulebook, or page 203 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 191 - Edge of the Empire Core Rulebook[h4][H4]Page 203 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Reduced Range Mod - Decreases weapon's range by one Range Band </div><div>Blast Quality - Blast {0} Compte 4</div>"
+		},
+		{
+			"id": "Spy Droid Brain",
+			"name": "Spy Droid Brain",
+			"description": "[H3]Spy Droid Brain[h3]\n      Please see page 74 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 74 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Adds a Droid Brain with Computers 3, Perception 3, and Stealth 3. </div>"
+		},
+		{
+			"id": "Squad Tactical Systems",
+			"name": "Squad Tactical Systems",
+			"description": "[H3]Squad Tactical Systems[h3]\n      Please see page 65 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 65 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Add [BO] to Perception and Vigilance checks while within medium range of one or more allies also using armor with this attachment. </div><div>Includes integrated comlink. </div>"
+		},
+		{
+			"id": "Staged Rocket Booster",
+			"name": "Staged Rocket Booster",
+			"description": "[H3]Staged Rocket Booster[h3]\n      Please see page 47 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 47 - No Disintegrations[h4]<h3>Base Mods</h3><div>Additional Range Mod - Increases weapon's range by one Range Band </div><div>Inaccurate Quality - Inaccurate {0} Compte 2</div>"
+		},
+		{
+			"id": "Starhawk Sidecar",
+			"name": "Starhawk Sidecar",
+			"description": "[H3]Starhawk Sidecar[h3]\n      Please see page 53 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Fly Casual[h4]<h3>Base Mods</h3><div>Increases Encumbrance Capacity Mod - Increase Encumbrance Capacity by 1 Compte 10</div><div>Increase Passenger Capacity Mod - Increase Passenger Capacity by 1 </div>"
+		},
+		{
+			"id": "Stealth Field Generator",
+			"name": "Stealth Field Generator",
+			"description": "[H4]Stealth Field Generator[h4]\n      Please see page 58 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Upgrades difficulty of all opposed Perception checks to spot wearer once </div>"
+		},
+		{
+			"id": "Storage Unit",
+			"name": "Storage Unit",
+			"description": "[H3]Storage Unit[h3]\n      Please see page 55 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Forged in Battle[h4]<h3>Base Mods</h3><div>Increases Encumbrance Threshold Mod - Increase Encumbrance Threshold by 1 Compte 3</div>"
+		},
+		{
+			"id": "Strength Enhancing System",
+			"name": "Strength Enhancing System",
+			"description": "[H3]Strength Enhancing System[h3]\n      Please see page 194 of the Edge of the Empire Core Rulebook, or page 206 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 194 - Edge of the Empire Core Rulebook[h4][H4]Page 206 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Stripped Down",
+			"name": "Stripped Down",
+			"description": "[H3]Stripped Down[h3]\nPlease see page 56 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Special Modifications[h4]<h3>Base Mods</h3><div>Decreases Encumbrance Mod - Decrease Encumbrance by 1 </div><div>Add [SE] to Perception checks to find the weapon when hidden. </div>"
+		},
+		{
+			"id": "Stun Blaster Attachment",
+			"name": "Stun Blaster Attachment",
+			"description": "[H3]Stun Blaster Attachment[h3]\n      Please see page 51 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Stun Matrix",
+			"name": "Stun Matrix",
+			"description": "[H3]Stun Matrix[h3]\n      Please see page 57 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Increases Encumbrance Mod - Increase Encumbrance by 1 </div><div>When suffering hit from Melee, Brawl, or Lightsaber combat check, may spend [TH][TH] or [DE] to disorient attacker for 2 rounds. </div>"
+		},
+		{
+			"id": "Stun Pulse",
+			"name": "Stun Pulse",
+			"description": "[H3]Stun Pulse[h3]\n      Please see page 194 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 194 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Stun Quality - Stun {0} Compte 2</div>"
+		},
+		{
+			"id": "Stun-Only Blaster Modification",
+			"name": "Stun-Only Blaster Modification",
+			"description": "[H3]Stun-Only Blaster Modification[h3]\n      Add this attachment to any blaster pistol or carbine to make it stun-only.  A blaster with this modification costs half the normal price.[P][H3]Sources:[h3][H4]Page 160 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Stun Damage Quality - Stun Damage </div><div>Item is Half Price Mod - Item costs half its asking price </div>"
+		},
+		{
+			"id": "Subminiature Holocam",
+			"name": "Subminiature Holocam",
+			"description": "[H4]Subminiature Holocam[h4]\n      Please see page 60 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Allows user to take still images and record holos unobtrusively </div>"
+		},
+		{
+			"id": "Superior Armor Customization",
+			"name": "Superior Armor Customization",
+			"description": "[H3]Superior Armor Customization[h3]\n      Please see page 195 of the Edge of the Empire Core Rulebook, page 206 of the Age of Rebellion Core Rulebook, or page 201 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 195 - Edge of the Empire Core Rulebook[h4][H4]Page 206 - Age of Rebellion Core Rulebook[h4][H4]Page 201 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Superior Quality - Superior </div>"
+		},
+		{
+			"id": "Superior Hilt Personalization",
+			"name": "Superior Hilt Personalization",
+			"description": "[H3]Superior Hilt Personalization[h3]\n      Please see page 200 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 200 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Superior Quality - Superior </div>"
+		},
+		{
+			"id": "Superior Weapon Customization",
+			"name": "Superior Weapon Customization",
+			"description": "[H3]Superior Weapon Customization[h3]\n      Please see page 191 of the Edge of the Empire Core Rulebook, page 203 of the Age of Rebellion Core Rulebook, or page 194 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 191 - Edge of the Empire Core Rulebook[h4][H4]Page 203 - Age of Rebellion Core Rulebook[h4][H4]Page 194 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Superior Quality - Superior </div>"
+		},
+		{
+			"id": "Swoop Speed Modification",
+			"name": "Swoop Speed Modification",
+			"description": "[H3]Swoop Speed Modification[h3]\n      Boosts the engines of a swoop and also removes excess weight from the chassis.[P][H3]Sources:[h3][H4]Suns of Fortune[h4]<h3>Base Mods</h3><div>Increase Speed Mod - Increase Speed by 1 </div><div>Decrease Hull Trauma Mod - Decreases Hull Trauma by 1 </div>"
+		},
+		{
+			"id": "T9 Stinger Assault Boarding Tube",
+			"name": "T9 Stinger Assault Boarding Tube",
+			"description": "[H3]T9 Stinger Assault Boarding Tube[h3]\n      Please see page 61 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 61 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>May cut a hole in a docked craft's hull or airlock. </div>"
+		},
+		{
+			"id": "Tactical Command, Control, and Communications Suite",
+			"name": "Tactical Command, Control, and Communications Suite",
+			"description": "[H3]Tactical Command, Control, and Communications Suite[h3]\n      Please see page 59 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Lead by Example[h4]<h3>Base Mods</h3><div>While active, a force commander in the vehicle upgrades the ability of all Mass Combat checks once </div>"
+		},
+		{
+			"id": "Tainted Nightsister Crystal",
+			"name": "Tainted Nightsister Crystal",
+			"description": "[H3]Tainted Nightsister Crystal[h3]\n      Please see page 55 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Unlimited Power[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Disorient Quality - Disorient {0} Compte 3</div><div>Sunder Quality - Sunder </div><div>Vicious Quality - Vicious {0} </div>"
+		},
+		{
+			"id": "Telescopic Optical Sight",
+			"name": "Telescopic Optical Sight",
+			"description": "[H3]Telescopic Optical Sight[h3]\n      Please see page 192 of the Edge of the Empire Core Rulebook, page 203 of the Age of Rebellion Core Rulebook, or page 195 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 192 - Edge of the Empire Core Rulebook[h4][H4]Page 203 - Age of Rebellion Core Rulebook[h4][H4]Page 195 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Decrease Long and Extreme Range Difficulty Mod - Decrease the difficulty of combat checks at long and extreme range. </div>"
+		},
+		{
+			"id": "Temperature Control Unit",
+			"name": "Temperature Control Unit",
+			"description": "[H3]Temperature Control Unit[h3]\n      Please see page 55 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Forged in Battle[h4]<h3>Base Mods</h3><div>Removes up to [SE][SE] from checks to resist extreme heat or cold. </div>"
+		},
+		{
+			"id": "Theater Command and Control System",
+			"name": "Theater Command and Control System",
+			"description": "[H3]Theater Command and Control System[h3]\n      Please see page 59 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 59 - Lead by Example[h4]<h3>Base Mods</h3><div>While active, force commander on the bridge upgrades the ability of all Mass Combat checks twice </div>"
+		},
+		{
+			"id": "Thermal Shielding System",
+			"name": "Thermal Shielding System",
+			"description": "[H3]Thermal Shielding System[h3]\n      Please see page 194 of the Edge of the Empire Core Rulebook, page 207 of the Age of Rebellion Core Rulebook, or page 201 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 194 - Edge of the Empire Core Rulebook[h4][H4]Page 207 - Age of Rebellion Core Rulebook[h4][H4]Page 201 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Reduces the difficulty of Resilience checks made\n          to resist the effects of fire and extreme heat by one.\n          Removes up to [SETBACK][SETBACK] added to checks\n          due to extreme heat or fire. </div>"
+		},
+		{
+			"id": "Thisspiasian Stabilizing Coils",
+			"name": "Thisspiasian Stabilizing Coils",
+			"description": "[H3]Thisspiasian Stabilizing Coils[h3]\n      Please see page 54 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Unlimited Power[h4]<h3>Base Mods</h3><div>Remove Setback Mod - Remove [SETBACK] from all attack checks when using this weapon </div>"
+		},
+		{
+			"id": "Tholothian Heartwood Hilt",
+			"name": "Tholothian Heartwood Hilt",
+			"description": "[H3]Tholothian Heartwood Hilt[h3]\n      Please see page 54 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Unlimited Power[h4]<h3>Base Mods</h3><div>Increases Encumbrance Mod - Increase Encumbrance by 1 </div><div>Add Success to Check Mod - Add One [SU] to Check Compte 2</div><div>GM may spend [TH][TH][TH][TH] or [DE] to damage weapon by one step </div>"
+		},
+		{
+			"id": "Thontiin Crystal",
+			"name": "Thontiin Crystal",
+			"description": "[H3]Thontiin Crystal[h3]\n      Please see page 63 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>Once per encounter, ignore effects of an [B]Easy ([DI])[b] Critical Injury. </div>"
+		},
+		{
+			"id": "Threat Monitor",
+			"name": "Threat Monitor",
+			"description": "[H3]Threat Monitor[h3]\n      Please see page 106 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 106 - Lords of Nal Hutta[h4]<h3>Base Mods</h3><div>Add Advantage to Initiative Check Mod - Add One [ADVANTAGE] to Initiative Check </div>"
+		},
+		{
+			"id": "Top-Loading Magazine",
+			"name": "Top-Loading Magazine",
+			"description": "[H3]Top-Loading Magazine[h3]\nPlease see page 46 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Special Modifications[h4]"
+		},
+		{
+			"id": "Tracking System",
+			"name": "Tracking System",
+			"description": "[H3]Tracking System[h3]\n      Please see page 52 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - No Disintegrations[h4]<h3>Base Mods</h3><div>As a maneuver, may designate a target for tracking.  Only one target may be designated at a time. </div><div>Upgrade the ability of checks to track a designated target once. </div>"
+		},
+		{
+			"id": "Training Lightsaber Emitter",
+			"name": "Training Lightsaber Emitter",
+			"description": "[H3]Training Lightsaber Emitter[h3]\n      Please see page 200 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 200 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating </div><div>Stun Damage Quality - Stun Damage </div>"
+		},
+		{
+			"id": "Tripod Mount",
+			"name": "Tripod Mount",
+			"description": "[H3]Tripod Mount[h3]\n      Please see page 193 of the Edge of the Empire Core Rulebook, page 204 of the Age of Rebellion Core Rulebook, or page 195 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 193 - Edge of the Empire Core Rulebook[h4][H4]Page 204 - Age of Rebellion Core Rulebook[h4][H4]Page 195 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Under-Barrel Flame Projector",
+			"name": "Under-Barrel Flame Projector",
+			"description": "[H3]Under-Barrel Flame Projector[h3]\n      Please see page 192 of the Edge of the Empire Core Rulebook, or page 204 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 192 - Edge of the Empire Core Rulebook[h4][H4]Page 204 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Adds a flame projector to the weapon. </div><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Under-Barrel Grapnel Launcher",
+			"name": "Under-Barrel Grapnel Launcher",
+			"description": "[H3]Under-Barrel Grapnel Launcher[h3]\nPlease see page 56 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Special Modifications[h4]<h3>Base Mods</h3><div>As an action, may make an [B]Average ([DI][DI]) Ranged (Light) check[b] to secure grappling hook to an object within medium range and reel in cord. </div><div>May pull another character aloft by making an [B]Average ([DI][DI]) Athletics check[b]. </div>"
+		},
+		{
+			"id": "Under-Barrel Grenade Launcher",
+			"name": "Under-Barrel Grenade Launcher",
+			"description": "[H3]Under-Barrel Grenade Launcher[h3]\n      Please see page 191 of the Edge of the Empire Core Rulebook, or page 205 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 191 - Edge of the Empire Core Rulebook[h4][H4]Page 205 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Weapon can fire grenades using the grenade profile, Ranged (Heavy) skill, and has Medium range. </div><div>Cumbersome Quality - Cumbersome {0} Compte 2</div><div>Increases Encumbrance Mod - Increase Encumbrance by 1 Compte 2</div><div>Limited Ammo Quality - Limited Ammo {0} </div>"
+		},
+		{
+			"id": "Under-Barrel Micro-Rocket Rack",
+			"name": "Under-Barrel Micro-Rocket Rack",
+			"description": "[H3]Under-Barrel Micro-Rocket Rack[h3]\n      Please see page 51 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - No Disintegrations[h4]<h3>Base Mods</h3><div>Enables weapon to fire loaded micro-rockets. </div><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Underslung Scattergun",
+			"name": "Underslung Scattergun",
+			"description": "[H3]Underslung Scattergun[h3]\n      Please see page 51 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Fly Casual[h4]<h3>Base Mods</h3><div>Adds a scattergun to the weapon. </div><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Unstable Kyber Crystal",
+			"name": "Unstable Kyber Crystal",
+			"description": "[H3]Unstable Kyber Crystal[h3]\n      Please see page 55 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Unlimited Power[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 6</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} </div><div>Sunder Quality - Sunder </div><div>May spend maneuver to increase Force rating by 1.  Persists until extra [FO] is used to fuel a Force power. </div><div>GM may spend [TH][TH][TH][TH] or [DE] to cause lightsaber to sputter and fail.  Lightsaber cannot be reignited for one hour. </div>"
+		},
+		{
+			"id": "Upgraded Comms Array",
+			"name": "Upgraded Comms Array",
+			"description": "[H3]Upgraded Comms Array[h3]\n      Please see page 287 of the Age of Rebellion Core Rulebook, or page 271 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 287 - Age of Rebellion Core Rulebook[h4][H4]Page 271 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Comms Range Mod - Increase vehicle's communications range by one Range Band </div>"
+		},
+		{
+			"id": "Upgraded Firepower",
+			"name": "Upgraded Firepower",
+			"description": "[H3]Upgraded Firepower[h3]\n      Please see page 48 of The Jewel of Yavin Adventure Module for details.[P][H3]Sources:[h3][H4]Page 48 - Jewel of Yavin[h4]<h3>Base Mods</h3><div>Increase damage of weapon system by one Mod - Increase damage of weapon system by one </div>"
+		},
+		{
+			"id": "Utility Arm",
+			"name": "Utility Arm",
+			"description": "[H3]Utility Arm[h3]\n      See page 53 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Fully Operational[h4]<h3>Base Mods</h3><div>Provides character with an additional mechanical arm that can function as one of the character's normal limbs. </div>"
+		},
+		{
+			"id": "VX Hands-Free Weapon",
+			"name": "VX Hands-Free Weapon",
+			"description": "[H3]VX Hands-Free Weapon[h3]\n      Please see page 53 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 53 - Dangerous Covenants[h4]<h3>Base Mods</h3><div>Mount Ranged Weapon up to Encumbrance 4 Mod - Mount Ranged Weapon up to Encumbrance 4 </div><div>User can aim and fire mmounted weapon without using hands. </div>"
+		},
+		{
+			"id": "Vacuum Sealed",
+			"name": "Vacuum Sealed",
+			"description": "[H3]Vacuum Sealed[h3]\n      Please see page 195 of the Edge of the Empire Core Rulebook, page 207 of the Age of Rebellion Core Rulebook, or page 57 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 195 - Edge of the Empire Core Rulebook[h4][H4]Page 207 - Age of Rebellion Core Rulebook[h4][H4]Page 57 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Allows the user to ignore the effects of\n          vacuum or poisonous atmospheric environments\n          for up to 10 minutes. </div><div>Sealed Mod - Armor is Sealed </div>"
+		},
+		{
+			"id": "Vaksai Modification Package",
+			"name": "Vaksai Modification Package",
+			"description": "[H3]Vaksai Modification Package[h3]\n      Please see page 60 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 60 - No Disintegrations[h4]<h3>Base Mods</h3><div>Sets Armor Mod - Sets Armor value Compte 3</div><div>Sets Handling Mod - Sets Handling </div><div>Sets Aft Defense Mod - Sets Aft Defense </div>"
+		},
+		{
+			"id": "Varpeline Crystal",
+			"name": "Varpeline Crystal",
+			"description": "[H3]Varpeline Crystal[h3]\n      Please see page 52 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Savage Spirits[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 8</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 3</div><div>Breach Quality - Breach {0} </div><div>Vicious Quality - Vicious {0} </div><div>Sunder Quality - Sunder </div><div>When spending [TR] to inflict Critical Injury, may spend additional [TR] to automatically inflict Maimed Critical Injury. </div>"
+		},
+		{
+			"id": "Vibro-Bayonet",
+			"name": "Vibro-Bayonet",
+			"description": "[H3]Vibro-Bayonet[h3]\nPlease see page 56 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 56 - Special Modifications[h4]<h3>Base Mods</h3><div>Adds a vibro-bayonet to the weapon </div>"
+		},
+		{
+			"id": "Walking Stick Hilt Disguise",
+			"name": "Walking Stick Hilt Disguise",
+			"description": "[H3]Walking Stick Hilt Disguise[h3]\n      Please see page 55 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Unlimited Power[h4]<h3>Base Mods</h3><div>Inaccurate Quality - Inaccurate {0} </div><div>Unless ignited, lightsaber is indistinguishable from ordinary walking stick.  Must pass [B]Formidable ([DI][DI][DI][DI][DI]) Perception[b] or [B]Vigilance check[b] to notice. </div>"
+		},
+		{
+			"id": "Water Reclamation Suit",
+			"name": "Water Reclamation Suit",
+			"description": "[H3]Water Reclamation Suit[h3]\n      Please see page 52 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Savage Spirits[h4]<h3>Base Mods</h3><div>Upgrades ability of Resiliance and Survival checks made in dry or hot environments due to scarcity of water twice. </div>"
+		},
+		{
+			"id": "Weapon Harness",
+			"name": "Weapon Harness",
+			"description": "[H3]Weapon Harness[h3]\n      Please see page 193 of the Edge of the Empire Core Rulebook, or page 205 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 193 - Edge of the Empire Core Rulebook[h4][H4]Page 205 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Weapon Signature Reduction",
+			"name": "Weapon Signature Reduction",
+			"description": "[H3]Weapon Signature Reduction[h3]\n      Please see page 110 of the Strongholds of Resistance Sourcebook for details.[P][H3]Sources:[h3][H4]Page 110 - Strongholds of Resistance[h4]<h3>Base Mods</h3><div>Increase the difficulty checks using scanners to search for this weapon by 2.  Add [SE] to all Mechanics checks to perform maintenance on this weapon. </div>"
+		},
+		{
+			"id": "Weapon Sling",
+			"name": "Weapon Sling",
+			"description": "[H3]Weapon Sling[h3]\n      Please see page 193 of the Edge of the Empire Core Rulebook, page 205 of the Age of Rebellion Core Rulebook, or page 195 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 193 - Edge of the Empire Core Rulebook[h4][H4]Page 205 - Age of Rebellion Core Rulebook[h4][H4]Page 195 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Cumbersome Quality - Cumbersome {0} </div>"
+		},
+		{
+			"id": "Weighted Head",
+			"name": "Weighted Head",
+			"description": "[H3]Weighted Head[h3]\n      Please see page 193 of the Edge of the Empire Core Rulebook, page 205 of the Age of Rebellion Core Rulebook, or page 195 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 193 - Edge of the Empire Core Rulebook[h4][H4]Page 205 - Age of Rebellion Core Rulebook[h4][H4]Page 195 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div>"
+		},
+		{
+			"id": "Whisperthrust Engine",
+			"name": "Whisperthrust Engine",
+			"description": "[H3]Whisperthrust Engine[h3]\n      Please see page 63 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Fly Casual[h4]<h3>Base Mods</h3><div>Increases the difficulty of checks to detect this vessel by two while it is traveling at speed 3 or lower. </div>"
+		},
+		{
+			"id": "XCiter Overcharge",
+			"name": "XCiter Overcharge",
+			"description": "[H4]XCiter Overcharge[h4]\n      Please see page 57 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>As an incidental, may overcharge blaster.  Weapon gets the Prepare 1 quality and damge of next attack is increased by 4.  Weapon then runs out of ammo. </div><div>GM may spend [TH][TH][TH] or [DE] from a combat check involving an overcharged shot to cause weapon to explode and deal full damage to shooter. </div>"
+		},
+		{
+			"id": "XV-09 Chemical Restraint Harness",
+			"name": "XV-09 Chemical Restraint Harness",
+			"description": "[H3]XV-09 Chemical Restraint Harness[h3]\n      Please see page 44 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Stay on Target[h4]<h3>Base Mods</h3><div>Pacified beasts gain [BOOST] to any [B]Displine Checks[b]. </div>"
+		},
+		{
+			"id": "Zophis Crystal",
+			"name": "Zophis Crystal",
+			"description": "[H3]Thontiin Crystal[h3]\n      Please see page 64 of the Rise of the Separatists Sourcebook for details.[P][H3]Sources:[h3][H4]Page 64 - Rise of the Separatists[h4]<h3>Base Mods</h3><div>Base Damage Mod - Changes Base Damage Compte 8</div><div>Base Critical Rating Mod - Changes Critical Rating Compte 2</div><div>Breach Quality - Breach {0} Compte 2</div><div>Sunder Quality - Sunder </div><div>Vicious Quality - Vicious {0} </div><div>When Sunder quality is activated, damage suffered is increased by one step. </div><div>[TH][TH][TH] or [DE] may be spent to disable the weapon until the wielder's next turn. </div>"
+		}
+	]
 }

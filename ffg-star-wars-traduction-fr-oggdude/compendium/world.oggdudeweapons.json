@@ -218,8 +218,8 @@
 		},
 		{
 			"id": "Blaster Pistol",
-			"name": "Blaster Pistol",
-			"description": "[H3]Blaster Pistol[h3]\n      Please see page 161 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 161 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]"
+			"name": "Pistolet Blaster",
+			"description": "La plupart des aventuriers utilisent un pistolet blaster standard. Ces armes produisent de bonnes décharges, ont une portée convenable et restent suffisamment légères pour être portées en permanence."
 		},
 		{
 			"id": "Blaster Rifle",
@@ -258,8 +258,8 @@
 		},
 		{
 			"id": "Brass Knuckles",
-			"name": "Brass Knuckles",
-			"description": "[H3]Brass Knuckles[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook, page 180 of the Age of Rebellion Core Rulebook, or page 171 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4][H4]Page 180 - Age of Rebellion Core Rulebook[h4][H4]Page 171 - Force and Destiny Core Rulebook[h4]<div>Add [SETBACK] to Perception checks to find brass knuckles on a person's body. </div>"
+			"name": "Coup-de-Poing",
+			"description": "Le plus grand avantage des coups-de-poing en métal est sans doute leur discretion. Ils sont très facile à cacher au fond d'une poche, par exemple. Lorsqu'un personnage en fouille un autre à la recherche d'une de ces armes, ajoutez un dé [SE] à son test de Perception."
 		},
 		{
 			"id": "Broadsaber",
@@ -328,8 +328,8 @@
 		},
 		{
 			"id": "Combat Knife",
-			"name": "Combat Knife",
-			"description": "[H3]Combat Knife[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook, page 181 of the Age of Rebellion Core Rulebook, or page 172 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4][H4]Page 181 - Age of Rebellion Core Rulebook[h4][H4]Page 172 - Force and Destiny Core Rulebook[h4]"
+			"name": "Couteau de Combat",
+			"description": "Les guerriers les plus sanguinaires adorent taillader et éventrer leur adversaires à coup de couteau. En arborer un ouvertement peut être stigmatisant en bonne compagnie, ou au contraire, apporter de la prestance dans les bas-fonds où règnent les truands."
 		},
 		{
 			"id": "Contained Energy Axe",
@@ -473,8 +473,8 @@
 		},
 		{
 			"id": "Detonite Charge",
-			"name": "Detonite Charge",
-			"description": "[H3]Detonite Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook, or page 41 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4][H4]Page 41 - Fully Operational[h4]"
+			"name": "Charge de Détonite",
+			"description": "La détonite est un puissant explosif employé pour les travaux de démolition et de sabotage. Une charge n'est pas conçue pour une utilisation au combat. Elle est en revanche souvent employée pour piéger le site d'un affrontement afin de déstabiliser l'ennemi. Il faut un mécanisme déclencheur pour activer la détonite et chaque charge est livrée avec une amorce que l'on fait exploser par l'intermédiaire d'un comlink ou d'un minuteur (compte à rebours pouvant aller d'1s à 1h."
 		},
 		{
 			"id": "Diiro",
@@ -668,8 +668,8 @@
 		},
 		{
 			"id": "Frag Grenade",
-			"name": "Frag Grenade",
-			"description": "[H3]Frag Grenade[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 178 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 178 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]"
+			"name": "Grenade à Fragmentation",
+			"description": "Une grenade à fragmentation peut être réglée pour exploser à l'impact ou à retardement. Dans ce second cas, le système doit être activé au moyen d'une action. La minuterie dure ensuite de 1 à 3 rounds. Enfin, certaines grenades sont aussi équipées d'un dispositif de l'homme mort : un détonateur à pression qui déclenche l'explosion dès qu'il est relaché. <p>\n</p>Les grenades à fragmentation sont très efficaces contre les cibles sans armure mais beaucoup moins dès que l'armure est plus solide."
 		},
 		{
 			"id": "Fuel-Air Bomb",
@@ -713,8 +713,8 @@
 		},
 		{
 			"id": "Gaffi Stick",
-			"name": "Gaffi Stick",
-			"description": "[H3]Gaffi Stick[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Bâton Gaderffii",
+			"description": "Les gaderffiis sont des armes qui se manient à deux mains.<p>\n</p>Derrière leur apparence rudimentaire, les bâtons Gaderffii sont aussi bien conçus que versatiles : ce sont des merveilles qui peuvent au besoin servir de poignard ou de gourdin. En plus, ce sont aussi des bâtons de marches d'une aide inestimable sur les terres arides."
 		},
 		{
 			"id": "Garrote",
@@ -838,13 +838,13 @@
 		},
 		{
 			"id": "Heavy Blaster Pistol",
-			"name": "Heavy Blaster Pistol",
-			"description": "[H3]Heavy Blaster Pistol[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]<div>GM may spend [TH][TH] or [DE] to make heavy blaster pistol run out of ammo </div>"
+			"name": "Pistolet Blaster Lourd",
+			"description": "En dépensant [DE][DE][DE] ou [TH] l'arme peut tomber à court de munitions(cf. p159 du livre Aux Confins de l'Empire). Les pistolets blasters lourds sont encombrants, peu discrets et ils ne tirent pas très loin, mais elles sont intimidantes et capables de faire de gros trous. Leur seul véritable inconvénient est leur autonomie réduite."
 		},
 		{
 			"id": "Heavy Blaster Rifle",
-			"name": "Heavy Blaster Rifle",
-			"description": "[H3]Heavy Blaster Rifle[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Fusil Blaster Lourd",
+			"description": "Les fusils blaster lourds utilisent des gaz accélérateurs rares, une technologie Xciter de pointe et des cristaux à large prisme. ils sont conçus pour projeter des décharges surpuissantes sur des cibles lourdement blindées."
 		},
 		{
 			"id": "Heavy Proton Torpedo Launcher",
@@ -853,8 +853,8 @@
 		},
 		{
 			"id": "Heavy Repeating Blaster",
-			"name": "Heavy Repeating Blaster",
-			"description": "[H3]Heavy Repeating Blaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Blaster Lourd à Répétition",
+			"description": "A moins de se retrouver entre les mains d'une force de la nature, les blasters lourds à répétition sont inutilisables tant qu'ils n'ont pas été mis en place. Il faut consacrer 3 actions à leur déploiement. Le trépied dont ils sont équipés est identique à celui décrit p193 du livre Aux Confins de l'Empire. Il est inclus dans le prix de l'arme.<p>\n</p>Ces armes meurtrières sont des pièces d'artillerie à part entière, ils doivent être installés sur un trépied, reliés à un générateur portable et il faut une équipe de deux hommes pour les manier. Le premier servant tire tandis que l'autre s'occupe des générateurs et des couplages d'énergie."
 		},
 		{
 			"id": "High-Explosive Missile",
@@ -863,8 +863,8 @@
 		},
 		{
 			"id": "Holdout Blaster",
-			"name": "Holdout Blaster",
-			"description": "[H3]Holdout Blaster[h3]\n      Please see page 161 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 161 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]"
+			"name": "Pistolet Blaster de Poche",
+			"description": "Lorsqu'un personnage en fouille un autre à la recherche d'une de ces armes, ajouter un dé [SE] à son test de perception. Ce sont de petits blasters faciles à cacher. Leur canon court et leur poids réduits nuisent plus à leur portée qu'à leur puissance."
 		},
 		{
 			"id": "Huntsman Vibrospear",
@@ -998,8 +998,8 @@
 		},
 		{
 			"id": "Light Blaster Pistol",
-			"name": "Light Blaster Pistol",
-			"description": "[H3]Light Blaster Pistol[h3]\n      Please see page 161 of the Edge of the Empire Core Rulebook, page 174 of the Age of Rebellion Core Rulebook, or page 167 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 161 - Edge of the Empire Core Rulebook[h4][H4]Page 174 - Age of Rebellion Core Rulebook[h4][H4]Page 167 - Force and Destiny Core Rulebook[h4]"
+			"name": "Pistolet Blaster Léger",
+			"description": "Arme de petite taille, ayant un bon compromis entre puissance et discretion."
 		},
 		{
 			"id": "Light Repeating Blaster",
@@ -1213,8 +1213,8 @@
 		},
 		{
 			"id": "Model 44 Blaster Pistol",
-			"name": "Model 44 Blaster Pistol",
-			"description": "[H3]Model 44 Blaster Pistol[h3]\n      Please see page 41 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Dangerous Covenants[h4]"
+			"name": "Pistolet Blaster Model 44",
+			"description": "C'est une arme fiable et très pratique. Particulièrement adapté aux combats à bord de vaisseaux où il fera moins de casse qu'un fusil blaster."
 		},
 		{
 			"id": "Model 53 \"Quicktrigger\" Blaster Pistol",
@@ -1703,8 +1703,8 @@
 		},
 		{
 			"id": "Stun Grenade",
-			"name": "Stun Grenade",
-			"description": "[H3]Stun Grenade[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 179 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 179 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]"
+			"name": "Grenade Etourdissante",
+			"description": "Ces explosifs étourdissent leurs cibles grâce à des vibrations soniques, des ondes de choc, et bien d'autres dispositifs.<p>\n</p> Tout comme les grenades à fragmentation, elles peuvent être réglées pour exploser à l'impact ou activées en début d'action pour sauter dans les 3 rounds. En revanche, elles n'ont que très rarement un détonateur à pression."
 		},
 		{
 			"id": "Styanax Lance",
@@ -1778,8 +1778,8 @@
 		},
 		{
 			"id": "Truncheon",
-			"name": "Truncheon",
-			"description": "[H3]Truncheon[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 174 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 174 - Force and Destiny Core Rulebook[h4]"
+			"name": "Matraque",
+			"description": "Les matraques peuvent être fabriquées en métal, bois, os ou n'importe quoi d'autre. En règle générale, les lieux civilisés les ont toujours préférées aux armes mortelles."
 		},
 		{
 			"id": "Tuskbeast Pike",
@@ -1843,13 +1843,13 @@
 		},
 		{
 			"id": "Vibro-ax",
-			"name": "Vibro-ax",
-			"description": "[H3]Vibro-Ax[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 175 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 175 - Force and Destiny Core Rulebook[h4]"
+			"name": "Vibrohache",
+			"description": "Une vibrohache se manie à deux mains. Les vibrohaches causent des dégâts énormes, des entailles profondes et des blessures atroces. C'est pour cette raison que ces armes sanguinaires ont autant de chances de provoquer une blessure critique."
 		},
 		{
 			"id": "Vibroknife",
-			"name": "Vibroknife",
-			"description": "[H3]Vibroknife[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 174 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 174 - Force and Destiny Core Rulebook[h4]"
+			"name": "Vibrolame",
+			"description": "Un dispositif installé dans le manche fait vibrer la lame à très haute fréquence et la transforme en véritable scie miniature"
 		},
 		{
 			"id": "Vibroknucklers",
@@ -1863,8 +1863,8 @@
 		},
 		{
 			"id": "Vibrosword",
-			"name": "Vibrosword",
-			"description": "[H3]Vibrosword[h3]\n      Please see page 167 of the Edge of the Empire Core Rulebook, page 182 of the Age of Rebellion Core Rulebook, or page 175 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 167 - Edge of the Empire Core Rulebook[h4][H4]Page 182 - Age of Rebellion Core Rulebook[h4][H4]Page 175 - Force and Destiny Core Rulebook[h4]"
+			"name": "Vibroépée",
+			"description": "Les vribroépées utilisent des vibrations ultrasoniques qui les rendent capable de trancher presque n'importe quoi."
 		},
 		{
 			"id": "Vodran Hunting Rifle",
