@@ -417,7 +417,7 @@
 		{
 			"id": "Comm Jammer",
 			"name": "Brouilleur",
-			"description": "Les brouilleurs servent chaque fois que quelqu'un veut communiquer et que quelqu'un d'autre souhaite l'en empêcher. Ils sont capables d'interrompre des liaisons proches. Le Miradyne 'Déluge' fait partie des modèles les plus anciens, un appareil pas trop encombrant capable de brouiller les fréquences standards de comlinks sur environ 250m. On peut également concentrer ses effets sur une cible unique (un immeuble par exemple) ou les étendre sur une surface de 3kms.<p>/n<\p> POur déjouer les interférences d'un brouilleur, il faut réussir un test d'informatique dont la difficulté dépend de la puissance de l'appareil. Plus il est proche et performant, plus l'entreprise est délicate. Le fameux 'Déluge' impose ainsi un test moyen [DI][DI] qui devient plus difficile si l'on s'approche de la source."
+			"description": "Les brouilleurs servent chaque fois que quelqu'un veut communiquer et que quelqu'un d'autre souhaite l'en empêcher. Ils sont capables d'interrompre des liaisons proches. Le Miradyne 'Déluge' fait partie des modèles les plus anciens, un appareil pas trop encombrant capable de brouiller les fréquences standards de comlinks sur environ 250m. On peut également concentrer ses effets sur une cible unique (un immeuble par exemple) ou les étendre sur une surface de 3kms.<p>/n</p> POur déjouer les interférences d'un brouilleur, il faut réussir un test d'informatique dont la difficulté dépend de la puissance de l'appareil. Plus il est proche et performant, plus l'entreprise est délicate. Le fameux 'Déluge' impose ainsi un test moyen [DI][DI] qui devient plus difficile si l'on s'approche de la source."
 		},
 		{
 			"id": "Comm Scrambler",
