@@ -213,8 +213,8 @@
 		},
 		{
 			"id": "Blaster Carbine",
-			"name": "Blaster Carbine",
-			"description": "[H3]Blaster Carbine[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, page 175 of the Age of Rebellion Core Rulebook, or page 168 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 175 - Age of Rebellion Core Rulebook[h4][H4]Page 168 - Force and Destiny Core Rulebook[h4]"
+			"name": "Fusil / Carabine Blaster",
+			"description": "Les fusils (ou carabines) blaster sont les armes standards des soldats et des forces de sécurités. Equipés de longs canons et de cellules énergétique à grande capacité, ils ont une meilleur portée que les pistolets et tirent des décharges plus puissantes"
 		},
 		{
 			"id": "Blaster Pistol",
@@ -1003,8 +1003,8 @@
 		},
 		{
 			"id": "Light Repeating Blaster",
-			"name": "Light Repeating Blaster",
-			"description": "[H3]Light Repeating Blaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Blaster à Répétition Léger",
+			"description": "Utilisés par les militaires comme par les mercenaires, les blasters à répétition légers servent à soutenir les unités d'assauts au sol. Capable de produire un feu nourri, se cont des armes conçues pour blesser et éliminer l'infanterie légère. Habituellement, ceux sur qui elles se déchaînent se jettent à terre à la simple vue de la grêle de lumière de leurs tirs en rafale."
 		},
 		{
 			"id": "Lightfoil",
