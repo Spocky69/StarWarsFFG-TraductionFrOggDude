@@ -1,5 +1,8 @@
 {
 	"label": "oggdude.Weapons",
+	"mapping": {
+		"description": "data.description"
+	},
 	"entries": [
 		{
 			"id": "\"Firecaller\" Light Flame Projector",
@@ -214,17 +217,17 @@
 		{
 			"id": "Blaster Carbine",
 			"name": "Fusil / Carabine Blaster",
-			"description": "Les fusils (ou carabines) blaster sont les armes standards des soldats et des forces de sécurités. Equipés de longs canons et de cellules énergétique à grande capacité, ils ont une meilleur portée que les pistolets et tirent des décharges plus puissantes"
+			"description": "Les fusils (ou carabines) blaster sont les armes standards des soldats et des forces de sécurités. Equipés de longs canons et de cellules énergétique à grande capacité, ils ont une meilleur portée que les pistolets et tirent des décharges plus puissantes.<p>\nPage 163 du livre Aux confins de l'Empire ou page 175 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Blaster Pistol",
 			"name": "Pistolet Blaster",
-			"description": "La plupart des aventuriers utilisent un pistolet blaster standard. Ces armes produisent de bonnes décharges, ont une portée convenable et restent suffisamment légères pour être portées en permanence."
+			"description": "La plupart des aventuriers utilisent un pistolet blaster standard. Ces armes produisent de bonnes décharges, ont une portée convenable et restent suffisamment légères pour être portées en permanence.<p>\nPage 162 du livre Aux confins de l'Empire ou page 175 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Blaster Rifle",
-			"name": "Blaster Rifle",
-			"description": "[H3]Blaster Rifle[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, page 175 of the Age of Rebellion Core Rulebook, or page 168 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 175 - Age of Rebellion Core Rulebook[h4][H4]Page 168 - Force and Destiny Core Rulebook[h4]"
+			"name": "Fusil Blaster",
+			"description": "Maintes fois éprouvé, le fusil blaster est le seul rival du pistolet blaster en terme d'omniprésence et de polyvalence à travers toute la galaxie. Dans sa version la plus simple le fusil blaster est de grande taille, semi-automatique et doté d'une longue portée. Il associe précision, distance et puissance de feu. Bien que la possession des fusils blaster ne soit que peu réglementée, il est interdit aux civils de s'en procurer.<p>\nPage 163 du livre Aux confins de l'Empire ou page 175 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Blue Shadow Grenade",
@@ -259,7 +262,7 @@
 		{
 			"id": "Brass Knuckles",
 			"name": "Coup-de-Poing",
-			"description": "Le plus grand avantage des coups-de-poing en métal est sans doute leur discretion. Ils sont très facile à cacher au fond d'une poche, par exemple. Lorsqu'un personnage en fouille un autre à la recherche d'une de ces armes, ajoutez un dé [SE] à son test de Perception."
+			"description": "Le plus grand avantage des coups-de-poing en métal est sans doute leur discretion. Ils sont très facile à cacher au fond d'une poche, par exemple. Lorsqu'un personnage en fouille un autre à la recherche d'une de ces armes, ajoutez un dé [SE] à son test de Perception.<p>\nPage 167 du livre Aux confins de l'Empire ou page 181 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Broadsaber",
@@ -329,7 +332,7 @@
 		{
 			"id": "Combat Knife",
 			"name": "Couteau de Combat",
-			"description": "Les guerriers les plus sanguinaires adorent taillader et éventrer leur adversaires à coup de couteau. En arborer un ouvertement peut être stigmatisant en bonne compagnie, ou au contraire, apporter de la prestance dans les bas-fonds où règnent les truands."
+			"description": "Les guerriers les plus sanguinaires adorent taillader et éventrer leur adversaires à coup de couteau. En arborer un ouvertement peut être stigmatisant en bonne compagnie, ou au contraire, apporter de la prestance dans les bas-fonds où règnent les truands.<p>\nPage 167 du livre Aux confins de l'Empire ou page 182 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Contained Energy Axe",
@@ -669,7 +672,7 @@
 		{
 			"id": "Frag Grenade",
 			"name": "Grenade à Fragmentation",
-			"description": "Une grenade à fragmentation peut être réglée pour exploser à l'impact ou à retardement. Dans ce second cas, le système doit être activé au moyen d'une action. La minuterie dure ensuite de 1 à 3 rounds. Enfin, certaines grenades sont aussi équipées d'un dispositif de l'homme mort : un détonateur à pression qui déclenche l'explosion dès qu'il est relaché. <p>\n</p>Les grenades à fragmentation sont très efficaces contre les cibles sans armure mais beaucoup moins dès que l'armure est plus solide."
+			"description": "Une grenade à fragmentation peut être réglée pour exploser à l'impact ou à retardement. Dans ce second cas, le système doit être activé au moyen d'une action. La minuterie dure ensuite de 1 à 3 rounds. Enfin, certaines grenades sont aussi équipées d'un dispositif de l'homme mort : un détonateur à pression qui déclenche l'explosion dès qu'il est relaché. <p>\n</p>Les grenades à fragmentation sont très efficaces contre les cibles sans armure mais beaucoup moins dès que l'armure est plus solide.<p>\nPage 166 du livre Aux confins de l'Empire ou page 179 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Fuel-Air Bomb",
@@ -714,7 +717,7 @@
 		{
 			"id": "Gaffi Stick",
 			"name": "Bâton Gaderffii",
-			"description": "Les gaderffiis sont des armes qui se manient à deux mains.<p>\n</p>Derrière leur apparence rudimentaire, les bâtons Gaderffii sont aussi bien conçus que versatiles : ce sont des merveilles qui peuvent au besoin servir de poignard ou de gourdin. En plus, ce sont aussi des bâtons de marches d'une aide inestimable sur les terres arides."
+			"description": "Les gaderffiis sont des armes qui se manient à deux mains.<p>\n</p>Derrière leur apparence rudimentaire, les bâtons Gaderffii sont aussi bien conçus que versatiles : ce sont des merveilles qui peuvent au besoin servir de poignard ou de gourdin. En plus, ce sont aussi des bâtons de marches d'une aide inestimable sur les terres arides.<p>\nPage 167 du livre Aux confins de l'Empire pour plus de détails.</p>"
 		},
 		{
 			"id": "Garrote",
@@ -839,12 +842,12 @@
 		{
 			"id": "Heavy Blaster Pistol",
 			"name": "Pistolet Blaster Lourd",
-			"description": "En dépensant [DE][DE][DE] ou [TH] l'arme peut tomber à court de munitions(cf. p159 du livre Aux Confins de l'Empire). Les pistolets blasters lourds sont encombrants, peu discrets et ils ne tirent pas très loin, mais elles sont intimidantes et capables de faire de gros trous. Leur seul véritable inconvénient est leur autonomie réduite."
+			"description": "En dépensant [DE][DE][DE] ou [TH] l'arme peut tomber à court de munitions(cf. p159 du livre Aux Confins de l'Empire). Les pistolets blasters lourds sont encombrants, peu discrets et ils ne tirent pas très loin, mais elles sont intimidantes et capables de faire de gros trous. Leur seul véritable inconvénient est leur autonomie réduite.<p>\nPage 163 du livre Aux confins de l'Empire ou page 175 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Heavy Blaster Rifle",
 			"name": "Fusil Blaster Lourd",
-			"description": "Les fusils blaster lourds utilisent des gaz accélérateurs rares, une technologie Xciter de pointe et des cristaux à large prisme. ils sont conçus pour projeter des décharges surpuissantes sur des cibles lourdement blindées."
+			"description": "Les fusils blaster lourds utilisent des gaz accélérateurs rares, une technologie Xciter de pointe et des cristaux à large prisme. ils sont conçus pour projeter des décharges surpuissantes sur des cibles lourdement blindées.<p>\nPage 163 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Heavy Proton Torpedo Launcher",
@@ -854,7 +857,7 @@
 		{
 			"id": "Heavy Repeating Blaster",
 			"name": "Blaster Lourd à Répétition",
-			"description": "A moins de se retrouver entre les mains d'une force de la nature, les blasters lourds à répétition sont inutilisables tant qu'ils n'ont pas été mis en place. Il faut consacrer 3 actions à leur déploiement. Le trépied dont ils sont équipés est identique à celui décrit p193 du livre Aux Confins de l'Empire. Il est inclus dans le prix de l'arme.<p>\n</p>Ces armes meurtrières sont des pièces d'artillerie à part entière, ils doivent être installés sur un trépied, reliés à un générateur portable et il faut une équipe de deux hommes pour les manier. Le premier servant tire tandis que l'autre s'occupe des générateurs et des couplages d'énergie."
+			"description": "A moins de se retrouver entre les mains d'une force de la nature, les blasters lourds à répétition sont inutilisables tant qu'ils n'ont pas été mis en place. Il faut consacrer 3 actions à leur déploiement. Le trépied dont ils sont équipés est identique à celui décrit p193 du livre Aux Confins de l'Empire. Il est inclus dans le prix de l'arme.<p>\n</p>Ces armes meurtrières sont des pièces d'artillerie à part entière, ils doivent être installés sur un trépied, reliés à un générateur portable et il faut une équipe de deux hommes pour les manier. Le premier servant tire tandis que l'autre s'occupe des générateurs et des couplages d'énergie.<p>\nPage 164 du livre Aux confins de l'Empire ou page 177 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "High-Explosive Missile",
@@ -864,7 +867,7 @@
 		{
 			"id": "Holdout Blaster",
 			"name": "Pistolet Blaster de Poche",
-			"description": "Lorsqu'un personnage en fouille un autre à la recherche d'une de ces armes, ajouter un dé [SE] à son test de perception. Ce sont de petits blasters faciles à cacher. Leur canon court et leur poids réduits nuisent plus à leur portée qu'à leur puissance."
+			"description": "Lorsqu'un personnage en fouille un autre à la recherche d'une de ces armes, ajouter un dé [SE] à son test de perception. Ce sont de petits blasters faciles à cacher. Leur canon court et leur poids réduits nuisent plus à leur portée qu'à leur puissance.<p>\nPage 162 du livre Aux confins de l'Empire ou page 174 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Huntsman Vibrospear",
@@ -999,12 +1002,12 @@
 		{
 			"id": "Light Blaster Pistol",
 			"name": "Pistolet Blaster Léger",
-			"description": "Arme de petite taille, ayant un bon compromis entre puissance et discretion."
+			"description": "Arme de petite taille, ayant un bon compromis entre puissance et discretion.<p>\nPage 162 du livre Aux confins de l'Empire ou page 175 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Light Repeating Blaster",
-			"name": "Blaster à Répétition Léger",
-			"description": "Utilisés par les militaires comme par les mercenaires, les blasters à répétition légers servent à soutenir les unités d'assauts au sol. Capable de produire un feu nourri, se cont des armes conçues pour blesser et éliminer l'infanterie légère. Habituellement, ceux sur qui elles se déchaînent se jettent à terre à la simple vue de la grêle de lumière de leurs tirs en rafale."
+			"name": "Blaster Léger à Répétition ",
+			"description": "Utilisés par les militaires comme par les mercenaires, les blasters à répétition légers servent à soutenir les unités d'assauts au sol. Capable de produire un feu nourri, se cont des armes conçues pour blesser et éliminer l'infanterie légère. Habituellement, ceux sur qui elles se déchaînent se jettent à terre à la simple vue de la grêle de lumière de leurs tirs en rafale.<p>\nPage 164 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Lightfoil",
@@ -1704,7 +1707,7 @@
 		{
 			"id": "Stun Grenade",
 			"name": "Grenade Etourdissante",
-			"description": "Ces explosifs étourdissent leurs cibles grâce à des vibrations soniques, des ondes de choc, et bien d'autres dispositifs.<p>\n</p> Tout comme les grenades à fragmentation, elles peuvent être réglées pour exploser à l'impact ou activées en début d'action pour sauter dans les 3 rounds. En revanche, elles n'ont que très rarement un détonateur à pression."
+			"description": "Ces explosifs étourdissent leurs cibles grâce à des vibrations soniques, des ondes de choc, et bien d'autres dispositifs.<p>\n</p> Tout comme les grenades à fragmentation, elles peuvent être réglées pour exploser à l'impact ou activées en début d'action pour sauter dans les 3 rounds. En revanche, elles n'ont que très rarement un détonateur à pression.<p>\nPage 166 du livre Aux confins de l'Empire ou page 180 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Styanax Lance",
@@ -1779,7 +1782,7 @@
 		{
 			"id": "Truncheon",
 			"name": "Matraque",
-			"description": "Les matraques peuvent être fabriquées en métal, bois, os ou n'importe quoi d'autre. En règle générale, les lieux civilisés les ont toujours préférées aux armes mortelles."
+			"description": "Les matraques peuvent être fabriquées en métal, bois, os ou n'importe quoi d'autre. En règle générale, les lieux civilisés les ont toujours préférées aux armes mortelles.<p>\nPage 168 du livre Aux confins de l'Empire ou page 183 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Tuskbeast Pike",
@@ -1844,12 +1847,12 @@
 		{
 			"id": "Vibro-ax",
 			"name": "Vibrohache",
-			"description": "Une vibrohache se manie à deux mains. Les vibrohaches causent des dégâts énormes, des entailles profondes et des blessures atroces. C'est pour cette raison que ces armes sanguinaires ont autant de chances de provoquer une blessure critique."
+			"description": "Une vibrohache se manie à deux mains. Les vibrohaches causent des dégâts énormes, des entailles profondes et des blessures atroces. C'est pour cette raison que ces armes sanguinaires ont autant de chances de provoquer une blessure critique.<p>\nPage 168 du livre Aux confins de l'Empire ou page 183 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Vibroknife",
 			"name": "Vibrolame",
-			"description": "Un dispositif installé dans le manche fait vibrer la lame à très haute fréquence et la transforme en véritable scie miniature"
+			"description": "Un dispositif installé dans le manche fait vibrer la lame à très haute fréquence et la transforme en véritable scie miniature.<p>\nPage 168 du livre Aux confins de l'Empire ou page 183 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Vibroknucklers",
@@ -1864,7 +1867,7 @@
 		{
 			"id": "Vibrosword",
 			"name": "Vibroépée",
-			"description": "Les vribroépées utilisent des vibrations ultrasoniques qui les rendent capable de trancher presque n'importe quoi."
+			"description": "Les vribroépées utilisent des vibrations ultrasoniques qui les rendent capable de trancher presque n'importe quoi.<p>\nPage 169 du livre Aux confins de l'Empire ou page 184 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Vodran Hunting Rifle",

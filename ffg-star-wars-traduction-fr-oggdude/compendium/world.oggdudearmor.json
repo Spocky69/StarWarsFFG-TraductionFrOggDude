@@ -1,5 +1,8 @@
 {
 	"label": "oggdude.Armor",
+	"mapping": {
+		"description": "data.description"
+	},
 	"entries": [
 		{
 			"id": "\"Gundark\" Scav-Suit",

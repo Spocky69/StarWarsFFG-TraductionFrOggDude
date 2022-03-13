@@ -1,5 +1,8 @@
 {
 	"label": "oggdude.Gear",
+	"mapping": {
+		"description": "data.description"
+	},
 	"entries": [
 		{
 			"id": "\"Breaker\" Heavy Hydrospanner",
@@ -209,7 +212,7 @@
 		{
 			"id": "Backpack",
 			"name": "Sac à dos",
-			"description": "Les sac à dos augmentent de 4 points le seuil d'encombrement d'un PJ."
+			"description": "Les sac à dos augmentent de 4 points le seuil d'encombrement d'un PJ.<p>\nPage 182 du livre Aux confins de l'Empire ou page 197 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Bacta (full tank)",
@@ -254,7 +257,7 @@
 		{
 			"id": "Binders",
 			"name": "Menottes",
-			"description": "Pour se défaire d'une paire de menottes, il faut faire preuves d'une grande adresse ou d'une force incroyable et donc réussir un test d'Athlétisme ou de Coordination [DI][DI][DI][DI]."
+			"description": "Pour se défaire d'une paire de menottes, il faut faire preuves d'une grande adresse ou d'une force incroyable et donc réussir un test d'Athlétisme ou de Coordination [DI][DI][DI][DI].<p>\nPage 180 du livre Aux confins de l'Empire ou page 195 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Biofeedback Regulator",
@@ -404,7 +407,7 @@
 		{
 			"id": "Comlink (handheld)",
 			"name": "Comlink (A main)",
-			"description": "Les comlinks sont monnaie courante dans la galaxie. Il en existe de toutes formes et de toutes sortes et il est facile d'en trouver un adapté à la situation ou à la morphologie de l'utilisateur. Les comlinks permettent d'assurer une liaison entre deux individus ou un petit groupe, mais certains modèles avancés peuvent donner accès à des réseaux de communications entiers. En règle générale, les comlinks individuels prennent la forme de cylindres tenant dans une main et sont capables d'émettre jusqu'en orbite basse. Certains modèles sont même directement intégrés dans des casques ou des pièces d'armures."
+			"description": "Les comlinks sont monnaie courante dans la galaxie. Il en existe de toutes formes et de toutes sortes et il est facile d'en trouver un adapté à la situation ou à la morphologie de l'utilisateur. Les comlinks permettent d'assurer une liaison entre deux individus ou un petit groupe, mais certains modèles avancés peuvent donner accès à des réseaux de communications entiers. En règle générale, les comlinks individuels prennent la forme de cylindres tenant dans une main et sont capables d'émettre jusqu'en orbite basse. Certains modèles sont même directement intégrés dans des casques ou des pièces d'armures.<p>\nPage 172 du livre Aux confins de l'Empire ou page 187 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Comlink (long range)",
@@ -624,7 +627,7 @@
 		{
 			"id": "Datapad",
 			"name": "Datapad",
-			"description": "Les datapads servent à enregistrer, stocker, organiser et consulter tous les types de données, du texte de base, aux enregistrements holographiques. ils sont équipés d'un écran d'affichage et se manie à une ou deux mains. Un code ou un cryptage est souvent présent pour protéger les données."
+			"description": "Les datapads servent à enregistrer, stocker, organiser et consulter tous les types de données, du texte de base, aux enregistrements holographiques. ils sont équipés d'un écran d'affichage et se manie à une ou deux mains. Un code ou un cryptage est souvent présent pour protéger les données.<p>\nPage 182 du livre Aux confins de l'Empire ou page 197 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Dataspike",
@@ -764,7 +767,7 @@
 		{
 			"id": "Electrobinoculars",
 			"name": "Electrojumelles",
-			"description": "Les électrojumelles permettent de voir normalement lorsque la lumière est très faible ou très intense, et peuvent zoomer sur une dizaine de kilomètres. Les personnages qui les utilisent ignorent un dé [SE] imposé par la distance et les mauvaises conditions de lumières.<p>\n</p>Les électrojumelles peuvent revêtir différentes formes et tailles. Tout dépend de l'espèce qui s'en sert et du rôle qui leur est dédié. Le modèle TD2.3S de Neuro-Saav permet, par exemple, d'effectuer des zooms importants aussi bien que des plans panoramiques. Ces jumelles fonctionnent également dans la quasi obscurité avec leur mode imagerie thermique et, pour les versions les plus chères, une fonction enregistrement et rediffusion est disponible. Elles indiquent presque toujours en surimpression la distance, l'altitude, et la vitesse des objets en mouvement."
+			"description": "Les électrojumelles permettent de voir normalement lorsque la lumière est très faible ou très intense, et peuvent zoomer sur une dizaine de kilomètres. Les personnages qui les utilisent ignorent un dé [SE] imposé par la distance et les mauvaises conditions de lumières.<p>\n</p>Les électrojumelles peuvent revêtir différentes formes et tailles. Tout dépend de l'espèce qui s'en sert et du rôle qui leur est dédié. Le modèle TD2.3S de Neuro-Saav permet, par exemple, d'effectuer des zooms importants aussi bien que des plans panoramiques. Ces jumelles fonctionnent également dans la quasi obscurité avec leur mode imagerie thermique et, pour les versions les plus chères, une fonction enregistrement et rediffusion est disponible. Elles indiquent presque toujours en surimpression la distance, l'altitude, et la vitesse des objets en mouvement.<p>\nPage 176 du livre Aux confins de l'Empire ou page 191 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Electronic Lock Breaker",
@@ -778,8 +781,8 @@
 		},
 		{
 			"id": "Emergency Medpac",
-			"name": "Emergency Medpac",
-			"description": "[H3]Emergency Medpac[h3]\n      Please see page 176 of the Edge of the Empire Core Rulebook, page 192 of the Age of Rebellion Core Rulebook, or page 185 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 176 - Edge of the Empire Core Rulebook[h4][H4]Page 192 - Age of Rebellion Core Rulebook[h4][H4]Page 185 - Force and Destiny Core Rulebook[h4]"
+			"name": "Médipack de Secours",
+			"description": "Lorsqu'un personnage utilise un médipack de secours, il effectue ses tests de Médecine sans malus (cf. p232) du livre Aux Confins de l'Empire. Un médipack de secours standard contient entre autre fournitures des bandages et des pansements, des patchs de bacta, du matériel médical de base (seringues, scalpels, forceps, coagulants et applicateurs de chair synthétique).  <p>\nPage 178 du livre Aux confins de l'Empire ou page 193 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Emergency Repair Patch",
@@ -1609,7 +1612,7 @@
 		{
 			"id": "Macrobinoculars",
 			"name": "Macrojumelles",
-			"description": "Plus simples que les électrojumelles, les macrojumelles permettent de discerner des objets lointains grâce à des systèmes optiques basiques. Du fait que moins de pièces risque de tomber en panne, elles sont aussi beaucoup plus fiables que leurs homologues électroniques. En revanche, elles n'ont aucun moyen d'améliorer l'image ni de pallier le manque de lumière. Les modèles de macrojumelles sont innombrables, mais les différences sont le plus souvent cosmétiques."
+			"description": "Plus simples que les électrojumelles, les macrojumelles permettent de discerner des objets lointains grâce à des systèmes optiques basiques. Du fait que moins de pièces risque de tomber en panne, elles sont aussi beaucoup plus fiables que leurs homologues électroniques. En revanche, elles n'ont aucun moyen d'améliorer l'image ni de pallier le manque de lumière. Les modèles de macrojumelles sont innombrables, mais les différences sont le plus souvent cosmétiques.<p>\nPage 176 du livre Aux confins de l'Empire pour plus de détails.</p>"
 		},
 		{
 			"id": "Magna-Lock Safe",
@@ -1693,8 +1696,8 @@
 		},
 		{
 			"id": "Medpac",
-			"name": "Medpac",
-			"description": "[H3]Medpac[h3]\n      Please see page 177 of the Edge of the Empire Core Rulebook, or page 192 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 177 - Edge of the Empire Core Rulebook[h4][H4]Page 192 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Medipack",
+			"description": "Lorsqu'un personnage se sert d'une de ces trousses pour soigner un blessé, il effectue ses tests de Médecine sans malus (cf. p219) et bénéficie d'un dé [BO]. De plus ils permettent l'utilisation d'un stimpack par scène. Ils renferment assez de matériel pour réaliser des opérations chirurgicales d'urgence, de meilleurs appareils de diagnostic, des nutriments de synthèse capables de survenir aux besoins alimentaires fondamentaux, des sprays pour immobiliser les fractures, des médicaments antiradiations et des remèdes contre les poisons biologiques. <p>\nPage 178 du livre Aux confins de l'Empire ou page 193 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Mem-Stik",
@@ -2249,7 +2252,7 @@
 		{
 			"id": "Scanner Goggles",
 			"name": "Jumelles Scanner",
-			"description": "Plus simples que les électrojumelles et plus complexes que les macrojumelles, les jumelles scanner mêlent imagerie thermique et systèmes d'amplification de lumière. Faciles à utiliser d'une seule main, elles sont populaires parmi les bandits et appréciées au combat."
+			"description": "Plus simples que les électrojumelles et plus complexes que les macrojumelles, les jumelles scanner mêlent imagerie thermique et systèmes d'amplification de lumière. Faciles à utiliser d'une seule main, elles sont populaires parmi les bandits et appréciées au combat.<p>\nPage 177 du livre Aux confins de l'Empire pour plus de détails.</p>"
 		},
 		{
 			"id": "Scout 5 Field Goggles",
@@ -2364,7 +2367,7 @@
 		{
 			"id": "Slicer Gear",
 			"name": "Matériel de Slicer",
-			"description": "Les slicers sont capables de prendre le controle des ordinateurs. Chaque matériel de Slicer est différent. Ils sont équipés des meilleurs logiciels pour tracer, décrypter et compiler les données, parfois acoompagné de faux créditssticks qui permettent d'accéder aux ressources monétaires des autres."
+			"description": "Les slicers sont capables de prendre le controle des ordinateurs. Chaque matériel de Slicer est différent. Ils sont équipés des meilleurs logiciels pour tracer, décrypter et compiler les données, parfois acoompagné de faux créditssticks qui permettent d'accéder aux ressources monétaires des autres.<p>\nPage 180 du livre Aux confins de l'Empire ou page 196 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Slicewire",
@@ -2444,7 +2447,7 @@
 		{
 			"id": "Stimpack",
 			"name": "Stimpack",
-			"description": "[H3]Stimpack[h3]\n      Please see page 177 of the Edge of the Empire Core Rulebook, page 193 of the Age of Rebellion Core Rulebook, or page 186 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 177 - Edge of the Empire Core Rulebook[h4][H4]Page 193 - Age of Rebellion Core Rulebook[h4][H4]Page 186 - Force and Destiny Core Rulebook[h4]<div>Heals 5 wounds. </div>"
+			"description": "Il faut dépenser une Manoeuvre pour s'injecter un stimpack ou en injecter à autrui. Un stimpack soigne 5 blessures, moins 1 blessure pour chaque utilisation après la première. A partir du sixième stimpack utilisé dans la journée, ils n'ont plus d'effet. Il faut une journée complète après la dernière utilisation pour ne plus avoir de substance active dans le corps. Les stimpack sont des tubes auto-injecteurs remplis d'antibiotiques, de Bacta et d'antidouleurs. Ce sont des dispositif d'urgence conçus pour servir dans le feu de l'action. <p>\nPage 178 du livre Aux confins de l'Empire ou page 193 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Stimstick",
@@ -2659,7 +2662,7 @@
 		{
 			"id": "Tool Kit",
 			"name": "Trousse à Outils",
-			"description": "Un personnage équipé d'une trousse à outils peut effectuer tous les tests de Mécanique nécessaire à une réparation et soigner les droïdes. Elles referment beaucoup d'outils différents : Marteaux, hydrocompresseurs, repolarisateurs de coupleurs d'énergie, bouchons d'entrave, scies à fusion, matériel de soudure laser et sonique, câble et pièces de rechange en tous genre, calibreurs de puissance, lunettes et gants de protection, etc."
+			"description": "Un personnage équipé d'une trousse à outils peut effectuer tous les tests de Mécanique nécessaire à une réparation et soigner les droïdes. Elles referment beaucoup d'outils différents : Marteaux, hydrocompresseurs, repolarisateurs de coupleurs d'énergie, bouchons d'entrave, scies à fusion, matériel de soudure laser et sonique, câble et pièces de rechange en tous genre, calibreurs de puissance, lunettes et gants de protection, etc.<p>\nPage 183 du livre Aux confins de l'Empire ou page 198 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Toxin Detector",
@@ -2694,7 +2697,7 @@
 		{
 			"id": "Utility Belt",
 			"name": "Ceinture Multi-usage",
-			"description": "Une ceinture multi-usages augmente le seuil d'encombrement de 1 point. Elles permettent à leur porteur d'avoir accès à leurs outils tout en restant en mouvement."
+			"description": "Une ceinture multi-usages augmente le seuil d'encombrement de 1 point. Elles permettent à leur porteur d'avoir accès à leurs outils tout en restant en mouvement.<p>\nPage 185 du livre Aux confins de l'Empire ou page 199 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Uxibeast",

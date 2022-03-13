@@ -1,5 +1,8 @@
 {
 	"label": "oggdude.ItemAttachments",
+	"mapping": {
+		"description": "data.description"
+	},
 	"entries": [
 		{
 			"id": "\"Accu-Strike\" Integrated Targeting Computer",
