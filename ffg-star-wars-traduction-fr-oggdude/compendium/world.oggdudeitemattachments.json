@@ -721,8 +721,8 @@
 		},
 		{
 			"id": "Integrated Illuminator",
-			"name": "Integrated Illuminator",
-			"description": "[H3]Integrated Illuminator[h3]\n      Please see page 54 of the Keeping the Peace sourcebook for details.[P][H3]Sources:[h3][H4]Page 54 - Keeping the Peace[h4]<h3>Base Mods</h3><div>Removes up to [SE][SE] due to darkness on targets within short range. </div>"
+			"name": "Projecteur Intégré",
+			"description": "Effets : Retire [SE][SE] dus à l'obscurité à tous les tests visant à utiliser cette arme contre des cibles à courte portée.<p>\n</p>Mods : fait passer la portée d'éclairage à moyenne [1], Attribut d'objet (désorientation+1)[2].<p>\n</p>Petite lumière intégrée à l'arme, semblable à de nombreux égards à un bâton luisant de puissante intensité, sur toute la longueur du canon d'une arme à distance. En plus d'éclairer les endroits sombres, ces projecteurs à haute puissance offrent la possibilité d'aveugler les ennemis. Toutes les armes intégrés peuvent bénéficier de l'atout.<p>\nPage 54 du livre Les Garants de la Paix pour plus de détails.</p>"
 		},
 		{
 			"id": "Integrated Load-Bearing Gear",
@@ -737,7 +737,7 @@
 		{
 			"id": "Integrated Slicer Gear",
 			"name": "Integrated Slicer Gear",
-			"description": "[H3]Integrated Slicer Gear[h3]\nPlease see page 58 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 58 - Special Modifications[h4]<h3>Base Mods</h3><div>Counts as having Slicer Gear.  Can be controlled by gesture or voice. </div>"
+			"description": "Effets : Compte comme des outils de slicer, Peut être manipuler par la voix ou par les gestes. Ajoute [SE] à toutes personnes essayant d'ientifier le slicer.<p>\n</p>Les images sont intégré à une visiaire holographique et les outils de slicer directement intégré dans les gants. Peut être appliqué à toutes les armures.<p>\nPage 58 du livre Special Modifications pour plus de détails.</p>"
 		},
 		{
 			"id": "Interior Broadcast Suite",

@@ -306,8 +306,8 @@
 		},
 		{
 			"id": "Mandalorian Armor",
-			"name": "Mandalorian Armor",
-			"description": "[H3]Mandalorian Armor[h3]\n      Please see page 50 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - No Disintegrations[h4]"
+			"name": "Armure Mandalorienne",
+			"description": "Toutes les armures mandaloriennes possède un comlink intégré et sont hermétiques au vide. Chaque armure est souvent hautement personnalisée pour correspondre totalement au style de combat de son propriétaire.<p>\nPage 50 du livre No Disintegrations ou p57 Collapse of the Republic pour plus de détails.</p>"
 		},
 		{
 			"id": "Mechanic's Utility Suit",
