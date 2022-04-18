@@ -2,5 +2,407 @@
 	"label": "oggdude.VehicleWeapons",
 	"mapping": {
 		"description": "data.description"
-	}
+	},
+	"entries": [
+		{
+			"id": "Alternating-Fire Concussion Missile Launcher",
+			"name": "Alternating-Fire Concussion Missile Launcher",
+			"description": "[H3]Alternating-Fire Concussion Missile Launcher[h3]\n\nThe more common and less powerful of the two types of shipboard ordnance, concussion missiles are found on all manner of spacecraft, from tiny starfighters to capital ships. Roughly a meter long, a concussion missile employs special warheads, combining a hardened durasteel penetrator that uses kinetic force to pierce through a ship's armor and a shaped high-explosive charge that causes damage through both explosive force and concussive shock. Concussion missiles are primarily anti-fighter weapons, used to quickly deal crippling damage to starfighters and patrol boats, although they perform well against larger targets as well.[P][H3]Sources:[h3][H4]Stay on Target[h4]"
+		},
+		{
+			"id": "Anti-Air Rockets",
+			"name": "Roquettes Anti-Air",
+			"description": "[H3]Anti-Air Rockets[h3][P][H3]Sources:[h3][H4]Page 62 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Anti-Personnel Laser",
+			"name": "Laser anti-infanterie",
+			"description": "[H3]Anti-Personnel Laser[h3][P][H3]Sources:[h3][H4]Page 62 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Assault Concussion Missile Launcher",
+			"name": "Assault Concussion Missile Launcher",
+			"description": "[H3]Assault Concussion Missile Launcher[h3]\n\nThe assault concussion missile is a capital ship grade concussion missile in use by capital ships. Exponentially more powerful than smaller versions commonly used on starfighters, these heavy missiles are primarily used for planetary bombardment and anti-capital ship duty.\n\n[P]A standard assault concussion missile could severely damage a capital ship, with rarely more than a handful being needed to destroy a target completely.[P][H3]Sources:[h3][H4]Age of Rebellion Beta Rulebook[h4]"
+		},
+		{
+			"id": "Auto-Blaster",
+			"name": "Autoblaster",
+			"description": "Les Autoblasters sont des variantes de canon blaster bénéficiant d'une cadence de tir améliorée. Grâce à leur technologie Xciter sophistiquée et à leurs modules actuateurs hautement spécialisés, ces armes peuvent atteindre une impressionnante vitesse de rotation et déverser une grêle de décharges énergétiques dévastatrices d'une simple pression de la détente.[h4]Page 228 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Battleship Ion Cannon",
+			"name": "Canon à Ion de Navire de Guerre",
+			"description": "[H3]Battleship Ion Cannon[h3]\n\nIon weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges.[P][H3]Sources:[h3][H4]Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Beam Cannon",
+			"name": "Canon à Faisceau Laser",
+			"description": "[H3]Taim & Bak KB-50A Beam Cannon[h3]\nSome Sabers were equipped with beam cannon turrets in place of the standard twin medium laser cannons. Beam cannons are specially tuned laser weapons with a high output and long dwell time. They fire continuous beams of energy at a target for roughly three seconds, and then require a few seconds to recharge before firing again. These weapons hit incredibly hard, can punch through light and medium armor with ease, and have a nasty tendency to set targets on fire.\n[P]Sabers equipped with KB-50a beam cannons are used in heavy support roles, providing cover fire for more lightly armed Saber platoons and squads of infantry during advances and assaults.\n[P]A turret-mounted KB-50a Beam Cannon has the following profile: (Fire Arc All; Damage 7; Critical 3: Range (Medium); Breach 2, Burn 2, Slow-Firing 2, Vicious 1).[P][H3]Sources:[h3][H4]Page 54 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Beamdrill",
+			"name": "Foreuse laser",
+			"description": "[H3]Beamdrill[h3]\n\nBeamdrills are high powered, precision mining tools that use intense pulses of energy to mine minerals such as nova crystals and other ores.[P][H3]Sources:[h3][H4]Suns of Fortune[h4]"
+		},
+		{
+			"id": "Caltrop-5 Chaff Gun",
+			"name": "Caltrop-5 Chaff Gun",
+			"description": "[H3]Arakyd Industries Caltrop-5 Chaff Gun[h3]\nThe Caltrop-5 by Arakyd Industries is ostensibly a physical countermeasures system that uses clouds of alloy splinters to spoof sensors. When activated, the Caltrop-5 fires a canister that bursts after a set distance, creating a massive, glittering cloud of durasteel shrapnel that confounds missile guidance systems and makes vessels using them difficult to target. The chaff cloud also makes a frightfully potent anti-ship weapon, as discovered by Jadthu-class pilots during the Battle of Haruun Kat when fast-moving vulture droid starfighters were chewed up by clouds of Caltrop-5 chaff.\n[P]As a physical countermeasures system, the Caltrop-5 upgrades the difficulty of all Gunnery checks and checks triggered by the Guided quality made using missiles, rockets, or torpedoes targeting the starship once.\n[P]In addition, it upgrades the difficulty of Piloting checks for other ships within close range once. [DE] on a Piloting check may be spent to inflict a Critical Hit on that pilot's ship.[P][H3]Sources:[h3][H4]Page 60 - Knights of Fate[h4]<div>Upgrade the difficulty of all Gunnery checks and checks triggered by the Guided quality made using missiles, rockets, or torpedoes targeting the starship once. </div><div>Upgrade the difficulty of Piloting checks for other ships within close range once. </div><div>[DE] on a Piloting check may be spent to inflict a Critical Hit on that pilot's ship. </div>"
+		},
+		{
+			"id": "Cluster Bomb Launcher",
+			"name": "Cluster Bomb Launcher",
+			"description": "[H3]Cluster Bomb Launcher[h3][P][H3]Sources:[h3][H4]Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Composite Laser Weapon",
+			"name": "Composite Laser Weapon",
+			"description": "[H3]Composite Laser Weapon[h3]\nQuarrie has designed a unique fire-linking system that draws power from all weapon systems-along with the shields, engines, and numerous other systems by accident-to create an ersatz energy weapon he calls the composite laser weapon, or CLW. Although wildly unstable and prone to knocking half the ship’s systems offline when used, the CLW provides the Blade Wing with a weapon equal to light turbolaser in power and armor-piercing capabilities. Using the CLW is always a risk, and it was deleted from the B-wing before that ship went into production.[P][H3]Sources:[h3][H4]Page 125 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Concussion Grenade Launcher",
+			"name": "Grenades à Concussion",
+			"description": "Les grenades à concussion sont principalement utilisées à l'échelle individuelle, encore que de nombreux véhicules militaires terrestres disposent de lance-grenades employant des variantes antipersonnel ou antichar plus imposantes. Les grenades à concussion sont des armes balistiques de portée relativement réduite et elles s'avèrent donc parfaitement inutiles dans les combats spatiaux.[h4]Page 228 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Concussion Mine",
+			"name": "Concussion Mine",
+			"description": "[H3]Concussion Mine[h3]\nTypically deployed as anti-fighter measures, concussion mines use a potent explosve to creat a powerful shockwave capable of cracking open the toughest hulls.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Concussion Missile (Mini)",
+			"name": "Concussion Missile (Mini)",
+			"description": "[H3]Concussion Missile (Mini)[h3]\n\nA scaled-down missile for use in the mini-missile tube and banks mounted to vehicles of silhouette 2 or 3. See [B]Table 2-8[b] for specific types.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Concussion Missile Launcher",
+			"name": "Lance missiles à Concussion",
+			"description": "Le lance-missiles est la pièce d'artillerie la moins puissante et la plus répandue. Toutes sortes de vaisseaux en sont pourvus, des plus petits chasseurs aux plus monstrueux cuirassés. Longs d'environ un mètre, les missiles à concussion disposent d'une ogive spéciale alliant une tête ultrapénétrante en duracier, qui emploie la force cinétique pour percer le blindage des appareils, à une puissante charge directionnelle qui inflige des dégâts explosifs à l'impact. Avant tout conçus pour lutter contre les vaisseaux monoplaces, ces projectiles sont capables de mettre hors d'état de nuire n'importe quel chasseur ou patrouilleur, mais ils s'en tirent aussi relativement bien contre les bâtiments de plus grande envergure. Les Missiles à Concussion supplémentaires coûtent 500 crédits pièce et sont illégaux (I)[h4]Page 228 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Connor Net Mine",
+			"name": "Connor Net Mine",
+			"description": "[H3]Connor Net Mine[h3]\nDesigned to envelop and ionize a single ship, Conner nets have been known to catch even skilled pilots off-guard.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Decoy Missile",
+			"name": "Decoy Missile",
+			"description": "[H3]Decoy Missile[h3]\n\nThis decoy missile, once launched, broadcasts an electromagnetic signature that draws off enemy missiles. To fire a decoy, make an [B]Easy ([DI]) Computers check[b]. If successful, any attacks against the ship firing the decoy using weapons with the Guided quality upgrade their difficulty by one (plus an additional upgrade for every additional [AD][AD]) while the decoy is active (one round per Vf). If a weapon with the Guided quality misses the target ship but generates [AD][AD][AD] or [TR], they hit the decoy instead; ending the effect.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Electromagnetic Harpoon",
+			"name": "Electromagnetic Harpoon",
+			"description": "[H3]Electromagnetic Harpoon[h3]\n\nMounted in a remote-operated turret aft of the cockpit, the T-47's electromagnetic harpoon was designed with towing in mind. Controlled by the speeder's systems operator, or by the pilot in a pinch, the harpoon consists of a pneumatic cannon that launches a short durasteel rod connected to a few dozen yards of high-tensile braided cable. The rod is tipped with a powerful electromagnetic disc that receives its power through the harpoon's cable, which is in turn connected to a powerful winch located in the hull beneath the cannon. While not a weapon per se, the harpoon can be used to knock down personnel or droids, move obstacles, ensnare large creatures or vehicles, and generally create havoc, hence its Knockdown and Ensnare qualities."
+		},
+		{
+			"id": "Electromagnetic Tow Cable Launcher",
+			"name": "Electromagnetic Tow Cable Launcher",
+			"description": "[H3]Electromagnetic Tow Cable Launcher[h3]\nWhile capital ships can rely on tractor beams to ensnare and immobilize targets, these weapons are not generally an option for smaller vessels and ground vehicles. For such vehicles, the closest approximation is often the tow cable launcher. This catchall term encompasses a number of different devices with similar function. The most common models incorporate an electromagnetic grapple and a length of durasteel cable fired by a hydraulic launcher.\n[P]Although these launchers were originally designed as tools rather than weapons, a number of desperate or inventive pilots have made use of these grapple launchers in combat over the years. Members of the Rebel Alliance are accustomed to making do with whatever tools they have at their disposal, and a number of non-combat vehicles sporting tow cables have seen use in battle. In fact, some commanders find the tactical uses for these tools versatile enough to specifically request their addition to combat vehicles.[P][H3]Sources:[h3][H4]Page 62 - Fully Operational[h4]<div>When Ensare quantity is activated, target vehicle's pilot must make an [B]Average ([DI][DI]) Piloting check[b] to free vehicle.  If target is at least 1 silhouette lower than attacker, [TH][TH] on failed check will draw target 1 range band closer to attacker. </div>"
+		},
+		{
+			"id": "Firecracker Mine",
+			"name": "Firecracker Mine",
+			"description": "[H3]Firecracker Mine[h3]\nDeployed in groups, firecracker mines emit intense bursts of light, noise, and radiation when they explode. This suppresses sensors and comms of any ship within range, making these mines excellent for offensive and defensive purposes.\n[P]When a vessel is struck by a firecracker mine each of its crew and occupants suffers the disoriented condition (see page 218 of the [B]Edge of the Empire[b] Core Rulebook) for 3 rounds.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]<div>When a vessel is struck by a firecracker mine, each occupant is disoriented for three rounds. </div>"
+		},
+		{
+			"id": "Grappler 213 Tactical Tractor Beam",
+			"name": "Grappler 213 Tactical Tractor Beam",
+			"description": "[H3]Grappler 213 Tactical Tractor Beam[h3]\n\nA tactical tractor beam is a relatively small and low powered tractor beam system. While not strong enough to control an enemy craft's movement while it is able to maneuver, the tactical tractor beam can slow it down, reduce its maneuverability and disrupt its attacks. Some pilots find these devices provide an invaluable edge in dogfighting, but others believe the distraction they cause is more trouble than benefit.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]<div>Enemies caught in the tractor beam add [SETBACK][SETBACK] to all Piloting checks and attacks, and suffer 1 system strain when performing Accelerate/Decelerate, Fly/Drive, or Punch It maneuvers. </div>"
+		},
+		{
+			"id": "Gravity Mine",
+			"name": "Gravity Mine",
+			"description": "[H3]Gravity Mine[h3]\nGravity mines are another non-lethal type of mine designed to interfere with a ship's systems rather than destroy it, When they detonate, gravity mines release a powerful localized gravitic field bubble out to long range. Gravity mines are typically deployed around space stations and other sensitive areas, and are often used along with orbital weapon emplacements.\n[P]After the mine detonates, it creates a gravitic bubble out to long range; ships cannot enter hyperspace until they use the recuired maneuvers to travel beyond the bubble.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]<div>Creates a gravitic bubble, preventing all ships within long range from entering hyperspace. </div>"
+		},
+		{
+			"id": "Heavy Beamdrill",
+			"name": "Heavy Beamdrill",
+			"description": "[H3]Heavy Beamdrill[h3]\n\nBeamdrills are high powered, precision mining tools that use intense pulses of energy to mine minerals such as nova crystals and other ores.[P][H3]Sources:[h3][H4]Suns of Fortune[h4]"
+		},
+		{
+			"id": "Heavy Blaster Cannon",
+			"name": "Heavy Blaster Cannon",
+			"description": "[H3]Heavy Blaster Cannon[h3]\n\nKnown colloquially as \"flash cannons,\" blaster cannons are heavy, crew-served versions of the common personal blaster. Although they are less powerful than laser cannons, blaster cannons are highly effective against infantry and light vehicles and are typically found mounted to atmospheric vehicles or smaller spaceships. Blaster cannons come in several versions of varying power."
+		},
+		{
+			"id": "Heavy Flak Cannon",
+			"name": "Heavy Flak Cannon",
+			"description": "[H3]Heavy Flak Cannon[h3]\n\nThe concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.[P][H3]Sources:[h3][H4]Stay on Target[h4]"
+		},
+		{
+			"id": "Heavy Ion Blaster",
+			"name": "Heavy Ion Blaster",
+			"description": "[H3]Heavy Ion Blaster[h3]\nIon weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges.[P][H3]Sources:[h3][H4]Page 127 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Heavy Ion Cannon",
+			"name": "Heavy Ion Cannon",
+			"description": "[H3]Heavy Ion Cannon[h3]\n\nIon weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges."
+		},
+		{
+			"id": "Heavy Laser Cannon",
+			"name": "Canon Laser Lourd",
+			"description": "Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blasters en raison de leur précision et leur puissance, les canons laser peuvent s'employer seuls être couplés au sein d'une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s'en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d'armement.[h4]Page 229 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Heavy Mass Driver",
+			"name": "Heavy Mass Driver",
+			"description": "[H3]Heavy Mass Driver[h3]\nThis big cannon throws a solid durasteel penetrator at hypersonic speeds over extreme distances and, with proper targeting data, can hit targets beyond visual range.[P][H3]Sources:[h3][H4]Page 56 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Heavy Proton Torpedo Launcher",
+			"name": "Heavy Proton Torpedo Launcher",
+			"description": "[H3]Heavy Proton Torpedo Launcher[h3][P][H3]Sources:[h3][H4]Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Heavy Tractor Beam",
+			"name": "Heavy Tractor Beam",
+			"description": "[H3]Heavy Tractor Beam[h3]\n\nTractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding."
+		},
+		{
+			"id": "Heavy Turbolaser",
+			"name": "Turbolaser Lourd",
+			"description": "Ces immenses armes de gros calibre, incroyablement gourmandes en énéergie, sont les plus imposantes dont un vaisseau puisse être doté. Les turbolasers peuvent transpercer d'un coup les boucliers, le blindage et la coque d'un appareil ; les variantes légères suffisent à détruire les petits vaisseaux, tandis que les plus lourdes peuvent mettre à mal les défenses des croiseurs les plus imposants. Ces armes ne sont cepedant pas sans inconvénient : elles consomment notamment des quantités phénoménales d'énergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal à suivre et à atteindre les petites cibles rapides comme les chasseurs. [h4]Page 228 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Hunter Killer Concussion Missile Launcher",
+			"name": "Hunter Killer Concussion Missile Launcher",
+			"description": "[H3]Hunter Killer Concussion Missile Launcher[h3]\n\nA concussion missile is a short-range, winged or wingless anti-vehicle missile generally deployed by starship or vehicle mounted launchers. There are a wide range of concussion missiles, varying in speed, maneuverability, and destructive capability.[P][H3]Sources:[h3][H4]Suns of Fortune[h4]"
+		},
+		{
+			"id": "Ion Mine",
+			"name": "Ion Mine",
+			"description": "[H3]Ion Mine[h3]\nVery popular among bounty hunters and law enforcement agencies, ion mines use a powerful ion warhead to disable a ship rather than outright destroy it. This allows the vessel and its crew to be easily recovered for capture or questioning.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]"
+		},
+		{
+			"id": "Ion Torpedo",
+			"name": "Ion Torpedo",
+			"description": "[H3]Ion Torpedo[h3]\n[P][I]For use with the Ion Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 62 - Fully Operational[h4]"
+		},
+		{
+			"id": "Ion Torpedo Launcher",
+			"name": "Ion Torpedo Launcher",
+			"description": "[H3]Ion Torpedo Launcher[h3]\nThe rarely seen ion torpedo fills a specialized niche that a great many ship commanders and engineers overlook. Lacking the destructive potential of proton torpedoes while inflicting more substantial physical damage than other ion weapons, the ion torpedo might provide the perfect solution for a captain who wishes to end a battle quickly but still take the enemy vessel (mostly) intact.\n[P]An ion torpedo is designed to release a powerful energy pulse only after puncturing a ship's hull. Consequently, powerful deflector shields or thick armor can greatly mitigate the weapon's effectiveness. Still, a well-placed ion torpedo can hamstring nearly any ship, ensuring that this specialized ordnance sees continued use by the Alliance, particularly on sensitive missions to disable or capture experimental Imperial vessels.\n[P]Additional ion torpedoes cost 400 credits for a set of four.[P][H3]Sources:[h3][H4]Page 62 - Fully Operational[h4]"
+		},
+		{
+			"id": "Jammer Missile",
+			"name": "Jammer Missile",
+			"description": "[H3]Jammer Missile[h3]\n\nThis countermeasure follows but does not attempt to impact the target vehicle. Instead, it fires a jamming beam at the vehicle (see Jamming Beam, below) If the initial combat check is successful, the missile follows the target at close range for one round per [SU]. The missile adds [SE][SE] to the target's [B]Gunnery, Piloting, and Computers checks[b] (when the pilot is scanning with sensors). The missile's limited fuel means it self-destructs after 3 rounds. The missile can be shot down, but it has a silhouette of 1. Any damage destroys it.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Jammer Missile (Mini)",
+			"name": "Jammer Missile (Mini)",
+			"description": "[H3]Jammer Missile (Mini)[h3]\n\nThis countermeasure follows but does not attempt to impact the target vehicle. Instead, it fires a jamming beam at the vehicle (see Jamming Beam, below) If the initial combat check is successful, the missile follows the target at close range for one round per [SU]. The missile adds [SE][SE] to the target's [B]Gunnery, Piloting, and Computers checks[b] (when the pilot is scanning with sensors). The missile's limited fuel means it self-destructs after 3 rounds. The missile can be shot down, but it has a silhouette of 1. Any damage destroys it.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Laser Cannon",
+			"name": "Canon Laser",
+			"description": "Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blasters en raison de leur précision et leur puissance, les canons laser peuvent s'employer seuls être couplés au sein d'une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s'en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d'armement.[h4]Page 229 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Light Blaster Cannon",
+			"name": "Canon Blaster Léger",
+			"description": "Aussi connu sous le nom de canon flash, les conon blaster légers sont des versions plus lourdes des blasters personnels. ils doivent être manipulé par des opérateurs. Ils sont moins puissants que les canons laser mais ils sont très efficaces contre l'infanterie. Ils sont souvent montés sur de petits véhicules comme des airspeeders ou de petits vaisseaux. Les canons blaster existent dans une large gamme de puissance. "
+		},
+		{
+			"id": "Light Flak Cannon",
+			"name": "Canon léger Flak",
+			"description": "[H3]Light Flak Cannon[h3]\n\nThe concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.[P][H3]Sources:[h3][H4]Stay on Target[h4]"
+		},
+		{
+			"id": "Light Ion Cannon",
+			"name": "Canon à ion Léger",
+			"description": "[H3]Light Ion Cannon[h3]\n\nIon weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges."
+		},
+		{
+			"id": "Light Laser Cannon",
+			"name": "Canon Laser Léger",
+			"description": "Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blasters en raison de leur précision et leur puissance, les canons laser peuvent s'employer seuls être couplés au sein d'une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s'en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d'armement.[h4]Page 229 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Light Repeating Blaster",
+			"name": "Light Repeating Blaster",
+			"description": "[H3]Light Repeating Blaster[h3]\n\nLight repeaters are support weapons for military and mercenary units. They feature a high rate of fire and are designed to suppress and injure unarmored personnel. The hail of \"light\" produced by these rapid-firing weapons is often enough to force enemies to ground. \n\n[BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster.[P][H3]Sources:[h3][H4]Page 53 - Knights of Fate[h4][H4]Page 122 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Light Repeating Blaster",
+			"name": "Light Repeating Blaster",
+			"description": "[H3]Light Repeating Blaster[h3]\n\nLight repeaters are support weapons for military and mercenary units. They feature a high rate of fire and are designed to suppress and injure unarmored personnel. The hail of \"light\" produced by these rapid-firing weapons is often enough to force enemies to ground. \n\n[BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Light Repeating Blaster",
+			"name": "Light Repeating Blaster",
+			"description": "[H3]Light Repeating Blaster[h3]\n\nLight repeaters are support weapons for military and mercenary units. They feature a high rate of fire and are designed to suppress and injure unarmored personnel. The hail of \"light\" produced by these rapid-firing weapons is often enough to force enemies to ground. \n\n[BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster.[P][H3]Sources:[h3][H4]Page 127 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Light Suppression Cannon",
+			"name": "Light Suppression Cannon",
+			"description": "[H3]Light Suppression Cannon[h3]\n\nA smaller cannon used for Light Suppression.[P][H3]Sources:[h3][H4]Far Horizons[h4]"
+		},
+		{
+			"id": "Light Tractor Beam",
+			"name": "Light Tractor Beam",
+			"description": "[H3]Light Tractor Beam[h3]\n\nTractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding."
+		},
+		{
+			"id": "Light Tractor Beam Coupler",
+			"name": "Light Tractor Beam Coupler",
+			"description": "[H3]Light Tractor Beam Coupler[h3][P][H3]Sources:[h3][H4]Fly Casual[h4]"
+		},
+		{
+			"id": "Light Turbolaser",
+			"name": "Turbolaser Léger",
+			"description": "Ces immenses armes de gros calibre, incroyablement gourmandes en énéergie, sont les plus imposantes dont un vaisseau puisse être doté. Les turbolasers peuvent transpercer d'un coup les boucliers, le blindage et la coque d'un appareil ; les variantes légères suffisent à détruire les petits vaisseaux, tandis que les plus lourdes peuvent mettre à mal les défenses des croiseurs les plus imposants. Ces armes ne sont cepedant pas sans inconvénient : elles consomment notamment des quantités phénoménales d'énergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal à suivre et à atteindre les petites cibles rapides comme les chasseurs. [h4]Page 228 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Long-Barrelled Ion Cannon",
+			"name": "Long-Barrelled Ion Cannon",
+			"description": "[H3]Long-Barrelled Ion Cannon[h3][P][H3]Sources:[h3][H4]Page 53 - Lead by Example[h4]"
+		},
+		{
+			"id": "Long-Nosed Laser Cannon",
+			"name": "Long-Nosed Laser Cannon",
+			"description": "[H3]Long-Nosed Laser Cannon[h3]\n\nThe standard anti-ship weapon mounted to starships, laser cannons are found on nearly every class of ship from the smallest starfighter to the mightiest capital ship. Preferred over blaster cannons for their damage and accuracy, laser cannons can be paired in batteries or mounted separately. Light and medium laser cannons are often found on starfighters and freighters. Heavy laser cannons are mounted to capital ships as secondary weapons to deal with smaller ships. Lasers are also often mounted to military ground vehicles.[P][H3]Sources:[h3][H4]Suns of Fortune[h4]"
+		},
+		{
+			"id": "MM-XT Mini-Missile Tube",
+			"name": "MM-XT Mini-Missile Tube",
+			"description": "[H3]MM-XT Mini-Missile Tube[h3]\n\nThe mini-missile tube is a single-shot compact missile launcher designed for use on smaller vehicles, such as speeder bikes, landspeeders and smaller airspeeders. It may carry a variety of missile types (see [B]Table 2-8: Specialized Missiles and Rockets for Vehicles[b]), which are typically about a half-meter or less in length. The tube faces a single firing arc, though a turret mount is also available. It may be installed on any non-starship vehicle of silhouette size 2 or greater.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Mass Driver Missile Launchers",
+			"name": "Mass Driver Missile Launchers",
+			"description": "[H3]Mass Driver Missile Launchers[h3]\n\nA mass driver is a type of projectile cannon. They inflict damage by hurling projectiles at high velocities, which imparts kinetic energy and force to the target upon impact. Damage is thus a result of the mass of the projectile and its velocity.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Mass Driver Missile Launchers",
+			"name": "Mass Driver Missile Launchers",
+			"description": "[H3]Mass Driver Missile Launchers[h3]\n\nA mass driver is a type of projectile cannon. They inflict damage by hurling projectiles at high velocities, which imparts kinetic energy and force to the target upon impact. Damage is thus a result of the mass of the projectile and its velocity.[P][H3]Sources:[h3][H4]Page 54 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Mass-Driver Cannon",
+			"name": "Mass-Driver Cannon",
+			"description": "[H3]Mass-Driver Cannon[h3][P][H3]Sources:[h3][H4]Page 57 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Medium Flak Cannon",
+			"name": "Medium Flak Cannon",
+			"description": "[H3]Medium Flak Cannon[h3]\n\nThe concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.[P][H3]Sources:[h3][H4]Stay on Target[h4]"
+		},
+		{
+			"id": "Medium Ion Cannon",
+			"name": "Medium Ion Cannon",
+			"description": "[H3]Medium Ion Cannon[h3]\n\nIon weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges."
+		},
+		{
+			"id": "Medium Laser Cannon",
+			"name": "Canon Laser Moyen",
+			"description": "Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blasters en raison de leur précision et leur puissance, les canons laser peuvent s'employer seuls être couplés au sein d'une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s'en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d'armement.[h4]Page 229 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Medium Tractor Beam",
+			"name": "Medium Tractor Beam",
+			"description": "[H3]Medium Tractor Beam[h3]\n\nTractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding."
+		},
+		{
+			"id": "Medium Turbolaser",
+			"name": "Turbolaser Moyen",
+			"description": "Ces immenses armes de gros calibre, incroyablement gourmandes en énéergie, sont les plus imposantes dont un vaisseau puisse être doté. Les turbolasers peuvent transpercer d'un coup les boucliers, le blindage et la coque d'un appareil ; les variantes légères suffisent à détruire les petits vaisseaux, tandis que les plus lourdes peuvent mettre à mal les défenses des croiseurs les plus imposants. Ces armes ne sont cepedant pas sans inconvénient : elles consomment notamment des quantités phénoménales d'énergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal à suivre et à atteindre les petites cibles rapides comme les chasseurs. [h4]Page 228 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Mini-Missile Pack",
+			"name": "Mini-Missile Pack",
+			"description": "[H3]Mini-Missile Pack[h3]\n\nThe missile bank launcher is a self-contained missile battery that holds eight to ten missiles designed to fire as a group or cluster. The bank fires half of its payload at a time. The missiles or rockets are designed to fire in a spread pattern. They depend on quantity far more than the accuracy of the individual weapons. The Arakyd Missile Pack typically faces a specific firing arc, selected at the time of installation. A turret-mounted variation requires an additional hard point. Standard missile banks may be mounted to vehicles of silhouette 2 or greater. Mini-missile variants may be mounted to a vehicle of silhouette 2.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]<div>Ajoute un dé bleu - Add [BOOST] to all attack checks when using this weapon Compte 2</div><div>Each [SUCCESS] on attack check adds 2 damage. </div>"
+		},
+		{
+			"id": "Mini-Rocket Launcher",
+			"name": "Mini-Rocket Launcher",
+			"description": "[H3]Mini-Rocket Launcher[h3]\n\nA scaled-down missile for use in the mini-missile tube and banks mounted to vehicles of silhouette 2 or 3. See [B]Table 2-8[b] for specific types.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]<div>Ajoute un dé noir - Add [SETBACK] to all attack checks when using this weapon </div>"
+		},
+		{
+			"id": "Missile Pack",
+			"name": "Missile Pack",
+			"description": "[H3]Missile Pack[h3]\n\nThe missile bank launcher is a self-contained missile battery that holds eight to ten missiles designed to fire as a group or cluster. The bank fires half of its payload at a time. The missiles or rockets are designed to fire in a spread pattern. They depend on quantity far more than the accuracy of the individual weapons. The Arakyd Missile Pack typically faces a specific firing arc, selected at the time of installation. A turret-mounted variation requires an additional hard point. Standard missile banks may be mounted to vehicles of silhouette 2 or greater. Mini-missile variants may be mounted to a vehicle of silhouette 2.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]<div>Ajoute un dé bleu - Add [BOOST] to all attack checks when using this weapon Compte 2</div><div>Each [SUCCESS] on attack check adds 2 damage. </div>"
+		},
+		{
+			"id": "Point Defense Laser Cannon",
+			"name": "Point Defense Laser Cannon",
+			"description": "[H3]Point Defense Laser Cannon[h3]\n\nA point-defense cannon is a kind of fast-tracking starship emplacement, typically laser cannons or ion cannons, that are used to defend large starships against smaller starfighters. Point-defense cannons are also used to defend against missiles.[P][H3]Sources:[h3][H4]Age of Rebellion Beta Rulebook[h4]"
+		},
+		{
+			"id": "Proton Bomb Bay",
+			"name": "Proton Bomb Bay",
+			"description": "[H3]Proton Bomb Bay[h3]\n\nThe proton bomb is a large energy explosive device used in space combat and orbital bombardment. They are most effective against fixed or slow moving targets such as fortifications, space stations, and capital ships. These energy weapons often emit the signature blue \"glow\" of proton torpedoes.[P][H3]Sources:[h3][H4]Stay on Target[h4]"
+		},
+		{
+			"id": "Proton Bomb Release Chute",
+			"name": "Proton Bomb Release Chute",
+			"description": "[H3]Proton Bomb Release Chute[h3]\n\nThe proton bomb is a large energy explosive device used in space combat and orbital bombardment. They are most effective against fixed or slow moving targets such as fortifications, space stations, and capital ships. These energy weapons often emit the signature blue \"glow\" of proton torpedoes.[P][H3]Sources:[h3][H4]Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Proton Torpedo Launcher",
+			"name": "Proton Torpedo Launcher",
+			"description": "Les torpilles à protons sont des projectiles hautement sophistiqués, typiquement utilisés par les chasseurs et les patrouilleurs. Pourvues d'une tête conique et trapue, elles sont plus encombrantes et imposantes que les missiles à concussion, ce qui veut dire qu'il n'est pas possible d'en mettre autant dans un lanceur. L'ogive est activée au moyen d'une charge explosive de Nergon-14, libérant une dangereuse masse irradiante de protons. Ces torpilles sont conçues pour endommager et détruire les bâtiments de grande taille comme les transports lourds ou les vaisseaux amiraux, et elles permettent aux appareils de moindre envergure, comme les chasseurs et les patrouilleurs, de s'attaquer à bien plus gros qu'eux. Les torpillles supplémentaires coûtent 750 crédits pièces et sont illégales(I)[h4]Page 230 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Quad Laser Cannon",
+			"name": "Canon Quad-Laser",
+			"description": "Le quad-laser est une arme spécialement conçue pour lutter contre les chasseurs. Il se compose de quatre canons laser de petit calibre, qui sont actionnés au moyen d'un seul mécanisme de mise à feu et contrôlés par un ordinateur de visée sophistiqué. Chaque pression sur la gâchette déclenche quatre tirs, dont la puissance est suffisamment considérable pour détruire les chasseurs et les patrouilleurs les plus robustes. [h4]Page 228 Aux Confins de l'Empire[h4]"
+		},
+		{
+			"id": "Repeating Ion Cannon",
+			"name": "Repeating Ion Cannon",
+			"description": "[H3]Repeating Ion Cannon[h3]\nAlthough the repeating cannon is less powerful than other ion weapons, its high rate of fire can provide a great advantage when employed against close formations of starfighters or the point defense systems of capital ships. While each pulse carries a lesser charge, the overall energy requirements of a repeating ion cannon rival or exceed even the most powerful traditional ion cannons. As a perhaps ironic result, after ignoring an Engineer's warnings, a number of captains have found their own ship drifting helplessly alongside the disabled enemy, its systems overloaded and drained.[P][H3]Sources:[h3][H4]Page 63 - Fully Operational[h4]"
+		},
+		{
+			"id": "Rotary Repeating Blaster Cannon",
+			"name": "Rotary Repeating Blaster Cannon",
+			"description": "[H3]Rotary Repeating Blaster Cannon[h3]\n\nThe rotary blaster cannon, is a blaster cannon used by the Grand Army of the Republic during the Clone Wars.[P][H3]Sources:[h3][H4]Onslaught at Arda I[h4]"
+		},
+		{
+			"id": "Seeker Mine",
+			"name": "Seeker Mine",
+			"description": "[H3]Seeker Mine[h3]\nSeeker mines couple a powerful explosive charge with a simple guidance and drive system to make an incredibly lethal piece of ordnance. When a ship enters their sensor range, seeker mines activate and pursue their target.\n[P]If the pilot of a ship targeted by a seeker mine succeeds on the [B]Piloting (Space) check[b], the character who set the mine may spend [SE][SE] from the check to force the pilot to repeat that check with the difficulty reduced by 1 (to a minimum of [B]Simple (-)[b]) at the beginning of his next turn, with the standard consequences for failure.[P][H3]Sources:[h3][H4]Page 64 - No Disintegrations[h4]<div>Character who set mine can spend [TH][TH] from target pilot's [B]Piloting (Space) check[b] to force the pilot to repeat the check at one less difficulty. </div>"
+		},
+		{
+			"id": "Superlaser",
+			"name": "Superlaser",
+			"description": "[H3]Superlaser[h3]\nThe Mk I Superlaser developed for the Death Star is the most powerful weapon in the galaxy. Utilizing the unique energy-focusing qualities of refined kyber crystals and powered by four huge animatter generators, this weapon has the ability to completely destroy planets with a single blast.\n[P]The superlaser has no damage or critical rating, yet deals damage. Its destructive power is on such a level that it transcends mere numbers. When the Death Star fires its superlaser, everything in its path is utterly destroyed. Even when using the energy from a single reactor, it can crater cities and devastate huge swaths of a planet's surface.\n[P]The damage that this massive weapon can dish out is more narrative that mechanical. If the players ever encounter the Death Star and see the superlaser in action, the Game Master should describe ships burning to ash as it they were paper, whole worlds obliterated in the blink of an eye, shockwaves and strange localized hyperspace anomalies, and other terrible consequences. Force-sensitives, for example, might become disoriented from the death cries of an entire city's population. If the Player Characters are ever targeted by the Death Star's superlaser, the Game Master should find a way to allow them to escape what would be certain death, perhaps by making suitably heroic Piloting (Space) checks or spending Destiny Points.[P][H3]Sources:[h3][H4]Page 32 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Termite Torpedo",
+			"name": "Termite Torpedo",
+			"description": "[H3]Termite Torpedo[h3]\n[P][I]For use with the Termite Torpedo Launcher[i][P][H3]Sources:[h3][H4]Page 63 - Fully Operational[h4]<div>After vehicle is hit by a termite torpedo, for remainder of encounter, whenever crew performs a check, attacker can spend [TH][TH] to have ship suffer 2 hull trauma or system strain, and can spend [DE] to inflict a Critical Hit.  As an action, crew aboard attacked ship may perform a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b] to repress effect for 1 round. </div>"
+		},
+		{
+			"id": "Termite Torpedo Launcher",
+			"name": "Termite Torpedo Launcher",
+			"description": "[H3]Termite Torpedo Launcher[h3]\nAlthough unlikely to inflict significant damage upon initial impact, termite torpedoes are nonetheless among the most hated and feared weapons in the galaxy. Each torpedo houses dozens to hundreds of small, barely intelligent droids, variously known as termites, dismantlers, disassemblers, and a number of less savory names. After impact, the torpedo breaks open to release the droids. They scurry in all directions across the ship and use their laser cutters, magclaws, ion clamps, and other tools to burrow through the hull and attack ship systems. In short order, the droids can spread throughout a ship.\n[P]It can take weeks to clear an infestation-if the vessel survives that long. Many engineers serving with the Alliance (or aboard pirate crews) despise these weapons, as they make salvage difficult or downright impossible. On top of this, unsubstantiated rumors persist of termite droids lying dormant in salvaged systems, only to emerge and infect any vessel that inherits the affected parts.\n[P]Additional termite torpedoes cost 900 credits for a set of three.[P][H3]Sources:[h3][H4]Page 63 - Fully Operational[h4]<div>After vehicle is hit by a termite torpedo, for remainder of encounter, whenever crew performs a check, attacker can spend [TH][TH] to have ship suffer 2 hull trauma or system strain, and can spend [DE] to inflict a Critical Hit.  As an action, crew aboard attacked ship may perform a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b] to repress effect for 1 round. </div>"
+		},
+		{
+			"id": "Torpedo Launcher",
+			"name": "Torpedo Launcher",
+			"description": "[H3]Torpedo Launcher[h3][P][H3]Sources:[h3][H4]Strongholds of Resistance[h4]"
+		},
+		{
+			"id": "Unguided Rocket",
+			"name": "Unguided Rocket",
+			"description": "[H3]Unguided Rocket[h3]\n\nA cheap, simple rocket with minimal guidance and stabilization systems. They are installed more often on vehicles than starships. Attackers add a [SE] to their [B]Gunnery skill checks[b] when using unguided rockets.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "Unguided Rocket (Mini)",
+			"name": "Unguided Rocket (Mini)",
+			"description": "[H3]Unguided Rocket (Mini)[h3]\n\nA cheap, simple rocket with minimal guidance and stabilization systems. They are installed more often on vehicles than starships. Attackers add a [SE] to their [B]Gunnery skill checks[b] when using unguided rockets.[P][H3]Sources:[h3][H4]Dangerous Covenants[h4]"
+		},
+		{
+			"id": "VL-6 Warhead Launcher System",
+			"name": "VL-6 Warhead Launcher System",
+			"description": "[H3]VL-6 Warhead Launcher System[h3]\n\nThe VL-6 warhead launcher is a missile launcher developed by Krupx Munitions and installed aboard Kuat Drive Yards escort carriers.[P][H3]Sources:[h3][H4]Stay on Target[h4]"
+		},
+		{
+			"id": "XX-23 S-Thread Tracer",
+			"name": "XX-23 S-Thread Tracer",
+			"description": "[H3]XX-23 S-Thread Tracer[h3]\nThis missile contains a device allowing the target's movements to be tracked regardless of where it travels, including through hyperspace.\n[P]After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxy until the tracer is removed.[P][H3]Sources:[h3][H4]Page 64 - Dawn of Rebellion[h4]<div>After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxt until the tracer is removed. </div>"
+		}
+	]
 }

@@ -1,0 +1,813 @@
+{
+	"label": "oggdude.Vehicles.Planetary",
+	"mapping": {
+		"biography": "data.biography"
+	},
+	"entries": [
+		{
+			"id": "1-L Imperial-Series Repulsor Tank",
+			"name": "1-L Imperial-Series Repulsor Tank",
+			"biography": "<h3>1-L Imperial-Series Repulsor Tank</h3>\nPlease see page 50 of the Stay on Target Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 50 - Stay on Target</h4>"
+		},
+		{
+			"id": "610-AVA \"Dart\" Speeder Bike",
+			"name": "610-AVA \"Dart\" Speeder Bike",
+			"biography": "<h3>610-AVA \"Dart\" Speeder Bike</h3>\nPlease see page 53 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Savage Spirits</h4>"
+		},
+		{
+			"id": "64-Y Swift 3 Repulsorsled",
+			"name": "64-Y Swift 3 Repulsorsled",
+			"biography": "<h3>64-Y Swift 3 Repulsorsled</h3>\nPlease see page 53 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Savage Spirits</h4>"
+		},
+		{
+			"id": "85-XS Odyssey Heavy Speeder Bike",
+			"name": "85-XS Odyssey Heavy Speeder Bike",
+			"biography": "<h3>85-XS Odyssey Heavy Speeder Bike</h3>\n    Please see page 255 of the Force and Destiny Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 255 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "88-R \"Nightscreamer\" Speeder Bike",
+			"name": "88-R \"Nightscreamer\" Speeder Bike",
+			"biography": "<h3>88-R \"Nightscreamer\" Speeder Bike</h3>\nPlease see page 53 of the Knights of Fate Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Knights of Fate</h4>"
+		},
+		{
+			"id": "8880 Luxury Landspeeder",
+			"name": "8880 Luxury Landspeeder",
+			"biography": "<h3>8880 Luxury Landspeeder</h3>\nPlease see page 59 of the Desperate Allies Sourcebook for details."
+		},
+		{
+			"id": "9400 Grand Wanderer",
+			"name": "9400 Grand Wanderer",
+			"biography": "<h3>Ubrikkian Industries 9400 Grand Wanderer</h3>\nPlease see page 57 of the Unlimited Power Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 57 - Unlimited Power</h4>"
+		},
+		{
+			"id": "A-11 Model III \"Burrower\"",
+			"name": "A-11 Model III \"Burrower\"",
+			"biography": "<h3>A-11 Model III \"Burrower\"</h3>\n    Please see page 106 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 106 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "A-19 \"Iron Crawler\" Armored Transport",
+			"name": "A-19 \"Iron Crawler\" Armored Transport",
+			"biography": "<h3>A-19 \"Iron Crawler\" Armored Transport</h3>\n    Please see page 106 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 106 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "A-A3 Dray Light Speeder Truck",
+			"name": "A-A3 Dray Light Speeder Truck",
+			"biography": "<h3>A-A3 Dray Light Speeder Truck</h3>\n    Please see page 255 of the Force and Destiny Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 255 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "A-A5m Emergency Response Vehicle",
+			"name": "A-A5m Emergency Response Vehicle",
+			"biography": "<h3>A-A5m Emergency Response Vehicle</h3>\nPlease see page 58 of the Disciples of Harmony Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Disciples of Harmony</h4>"
+		},
+		{
+			"id": "A-A8 BackCountry Speeder Truck",
+			"name": "A-A8 BackCountry Speeder Truck",
+			"biography": "<h3>A-A8 BackCountry Speeder Truck</h3>\nPlease see page 54 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 54 - Savage Spirits</h4>"
+		},
+		{
+			"id": "AA-70 Observation and Command Speeder",
+			"name": "AA-70 Observation and Command Speeder",
+			"biography": "<h3>AA-70 Observation and Command Speeder</h3>\nPlease see page 50 of the Lead by Example Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 50 - Keeping the Peace</h4>"
+		},
+		{
+			"id": "AAT-1 Hover Tank",
+			"name": "AAT-1 Hover Tank",
+			"biography": "<h3>AAT-1 Hover Tank</h3>\nPlease see page 66 of the Rise of the Separatists Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 66 - Rise of the Separatists</h4>"
+		},
+		{
+			"id": "AT-CE Combat Excavator",
+			"name": "AT-CE Combat Excavator",
+			"biography": "<h3>AT-CE Combat Excavator</h3>\nPlease see page 55 of the Fully Operational Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Fully Operational</h4>"
+		},
+		{
+			"id": "AT-EST Exploration and Survey Walker",
+			"name": "AT-EST Exploration and Survey Walker",
+			"biography": "<h3>AT-EST Exploration and Survey Walker</h3>\n      Please see page 253 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 253 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "AT-FRC Force Reconnaissance Walker",
+			"name": "AT-FRC Force Reconnaissance Walker",
+			"biography": "<h3>AT-FRC Force Reconnaissance Walker</h3>\nPlease see page 51 of the Lead by Example Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 51 - Lead by Example</h4>"
+		},
+		{
+			"id": "AT-HCT",
+			"name": "AT-HCT",
+			"biography": "<h3>AT-HCT</h3>\n    Please see page 256 of the Force and Destiny Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 256 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "AT-TE All Terrain Tactical Enforcer",
+			"name": "AT-TE All Terrain Tactical Enforcer",
+			"biography": "<h3>All Terrain Tactical Enforcer</h3>\nPlease see page 57 of the Forged in Battle Sourcebook, or page 69 of the Rise of the Separatists Sourcebook, for details.<p><h3>Sources:</p></h3><h4>Page 57 - Forged in Battle</h4><h4>Page 69 - Rise of the Separatists</h4>"
+		},
+		{
+			"id": "AV-21 Landspeeder",
+			"name": "AV-21 Landspeeder",
+			"biography": "<h3>AV-21 Landspeeder</h3>\nPlease see page 50 of the Stay on Target Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 50 - Stay on Target</h4>"
+		},
+		{
+			"id": "Airspeeder",
+			"name": "Airspeeder",
+			"biography": "<h3>Airspeeder</h3>\n      Please see page 248 of the Edge of the Empire Core Rulebook, or page 254 of the Force and Destiny Core Rulebook, for details.<p><h3>Sources:</p></h3><h4>Page 248 - Edge of the Empire Core Rulebook</h4><h4>Page 254 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "All Terrain Armored Transport",
+			"name": "All Terrain Armored Transport",
+			"biography": "<h3>All Terrain Armored Transport</h3>\n    Please see page 264 of the Age of Rebellion Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 264 - Age of Rebellion Core Rulebook</h4>"
+		},
+		{
+			"id": "All Terrain Attack Pod",
+			"name": "All Terrain Attack Pod",
+			"biography": "[H4]All Terrain Attack Pod[h3]\nPlease see page 55 of the Knights of Fate Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 55 - Knights of Fate</h4>"
+		},
+		{
+			"id": "All Terrain Riot Control Transport",
+			"name": "All Terrain Riot Control Transport",
+			"biography": "<h3>All Terrain Riot Control Transport</h3>\nPlease see page 53 of the Far Horizons Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Far Horizons</h4>"
+		},
+		{
+			"id": "All Terrain Scout Transport",
+			"name": "All Terrain Scout Transport",
+			"biography": "<h3>All Terrain Scout Transport</h3>\n    Please see page 265 of the Age of Rebellion Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 265 - Age of Rebellion Core Rulebook</h4>"
+		},
+		{
+			"id": "All-Terrain Anti-Aircraft (Flak Cannon)",
+			"name": "All-Terrain Anti-Aircraft (Flak Cannon)",
+			"biography": "<h3>All-Terrain Anti-Aircraft (Flak Cannon)</h3>\nPlease see page 49 of the Stay on Target Sourcebook for details."
+		},
+		{
+			"id": "All-Terrain Anti-Aircraft (Missiles)",
+			"name": "All-Terrain Anti-Aircraft (Missiles)",
+			"biography": "<h3>All-Terrain Anti-Aircraft (Missiles)</h3>\n    Please see page 49 of the Stay on Target Sourcebook for details."
+		},
+		{
+			"id": "All-Terrain Exploration Transport",
+			"name": "All-Terrain Exploration Transport",
+			"biography": "<h3>All-Terrain Exploration Transport</h3>\nPlease see page 56 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Savage Spirits</h4>"
+		},
+		{
+			"id": "All-Terrain Personal Transport",
+			"name": "All-Terrain Personal Transport",
+			"biography": "<h3>All-Terrain Personal Transport</h3>\n      Please see page 252 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 252 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "All-Terrain Reconnaissance Transport",
+			"name": "All-Terrain Reconnaissance Transport",
+			"biography": "<h3>All-Terrain Reconnaissance Transport</h3>\nPlease see page 56 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Savage Spirits</h4>"
+		},
+		{
+			"id": "Alliance T-47 Airspeeder",
+			"name": "Alliance T-47 Airspeeder",
+			"biography": "<h3>Alliance T-47 Airspeeder</h3>\n      Please see page 249 of the Age of Rebellion Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Age of Rebellion Core Rulebook</h4>"
+		},
+		{
+			"id": "Aquaspeeder",
+			"name": "Aquaspeeder",
+			"biography": "<h3>Aquaspeeder</h3>\nPlease see page 58 of the Unlimited Power Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Unlimited Power</h4>"
+		},
+		{
+			"id": "Aratech 57-D Speeder Bike",
+			"name": "Aratech 57-D Speeder Bike",
+			"biography": "<h3>Aratech 57-D Speeder Bike</h3>\n    Please see page 58 of the Enter the Unknown Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Enter the Unknown</h4>"
+		},
+		{
+			"id": "Aratech 74-Z Speeder Bike",
+			"name": "Aratech 74-Z Speeder Bike",
+			"biography": "<h3>Aratech 74-Z Speeder Bike</h3>\n      Please see page 250 of the Edge of the Empire Core Rulebook, or page 263 of the Age of Rebellion Core Rulebook, for details.<p><h3>Sources:</p></h3><h4>Page 250 - Edge of the Empire Core Rulebook</h4><h4>Page 263 - Age of Rebellion Core Rulebook</h4>"
+		},
+		{
+			"id": "Aratech R82 Jump Boots",
+			"name": "Aratech R82 Jump Boots",
+			"biography": "<h3>Aratech R82 Jump Boots</h3>\nPlease see page 115 of the Strongholds of Resistance Sourcebook for details."
+		},
+		{
+			"id": "Armored Drop Suit",
+			"name": "Armored Drop Suit",
+			"biography": "<h3>Armored Drop Suit</h3>\nPlease see page 49 of the No Disintegrations Sourcebook for details.\n<p><span class='italic'>Note:  This is the vehicle version of the Armored Drop Suit armor.</p></span><p><h3>Sources:</p></h3><h4>Page 49 - No Disintegrations</h4>"
+		},
+		{
+			"id": "Arrow 7 Airspeeder",
+			"name": "Arrow 7 Airspeeder",
+			"biography": "<h3>Arrow 7 Airspeeder</h3>\n    Please see page 87 of the Jewel of Yavin Adventure Module for details.<p><h3>Sources:</p></h3><h4>Page 87 - Jewel of Yavin</h4>"
+		},
+		{
+			"id": "Arrow-23 Landspeeder",
+			"name": "Arrow-23 Landspeeder",
+			"biography": "<h3>Arrow-23 Landspeeder</h3>\nPlease see page 58 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Forged in Battle</h4>"
+		},
+		{
+			"id": "Ascendant Personal Stealth Flyer",
+			"name": "Ascendant Personal Stealth Flyer",
+			"biography": "<h3>Ascendant Personal Stealth Flyer</h3>\nPlease see page 57 of the Disciples of Harmony Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 57 - Disciples of Harmony</h4>"
+		},
+		{
+			"id": "BR.549 FasTrak High-Altitude Scout Speeder",
+			"name": "BR.549 FasTrak High-Altitude Scout Speeder",
+			"biography": "<h3>BR.549 FasTrak High-Altitude Scout Speeder</h3>\nPlease see page 53 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Savage Spirits</h4>"
+		},
+		{
+			"id": "BT310 Quadra",
+			"name": "BT310 Quadra",
+			"biography": "<h3>BT310 Quadra</h3>\nPlease see page 54 of the Endless Vigil Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 54 - Endless Vigil</h4>"
+		},
+		{
+			"id": "Bantha-II Cargo Skiff",
+			"name": "Bantha-II Cargo Skiff",
+			"biography": "<h3>Ubrikkian Industries Bantha-II Cargo Skiff</h3>\nPlease see page 112 of the Lords of Nal Hutta Sourcebook for details."
+		},
+		{
+			"id": "Bongo Submarine",
+			"name": "Bongo Submarine",
+			"biography": "<h3>Gungan Bongo Submarine</h3>\nPlease see page 59 of the Unlimited Power Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Unlimited Power</h4>"
+		},
+		{
+			"id": "C-B7 \"Interceptor\"",
+			"name": "C-B7 \"Interceptor\"",
+			"biography": "<h3>Arlen-Dempler C-B7 \"Interceptor\"</h3>\nPlease see page 61 of the Cyphers and Masks Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 61 - Cyphers and Masks</h4>"
+		},
+		{
+			"id": "CAV-11 \"Condor\" Airspeeder",
+			"name": "CAV-11 \"Condor\" Airspeeder",
+			"biography": "<h3>CAV-11 \"Condor\" Airspeeder</h3>\n    Please see page 104 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 104 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "CK-6 Swoop",
+			"name": "CK-6 Swoop",
+			"biography": "<h3>CK-6 Swoop</h3>\nPlease see page 67 of the Rise of the Separatists Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 67 - Rise of the Separatists</h4>"
+		},
+		{
+			"id": "CMC Digger Crawler",
+			"name": "CMC Digger Crawler",
+			"biography": "<h3>CMC Digger Crawler</h3>\n      Please see page 251 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 251 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "CR-17 Incendia III",
+			"name": "CR-17 Incendia III",
+			"biography": "<h3>CR-17 Incendia III</h3>\nPlease see page 56 of the Endless Vigil Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Endless Vigil</h4>"
+		},
+		{
+			"id": "Cargohopper 102 Cargo Lifter",
+			"name": "Cargohopper 102 Cargo Lifter",
+			"biography": "<h3>Taggeco. Cargohopper 102 Cargo Lifter</h3>\n      Please see page 52 of the Fly Casual Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 52 - Fly Casual</h4>"
+		},
+		{
+			"id": "Cat's Eye Multipurpose Sensor Suite",
+			"name": "Cat's Eye Multipurpose Sensor Suite",
+			"biography": "<h3>CryonCorp Mk. I Cat's Eye Multipurpose Sensor Suite</h3>\nPlease see page 46 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 46 - Lead by Example</h4>"
+		},
+		{
+			"id": "D-22 \"Screamer\" Speeder Bike",
+			"name": "D-22 \"Screamer\" Speeder Bike",
+			"biography": "<h3>CEC D-22 \"Screamer\" Speeder Bike</h3>\n    Please see page 104 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 104 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "D-4 Mobile Defense Platform",
+			"name": "D-4 Mobile Defense Platform",
+			"biography": "<h3>D-4 Mobile Defense Platform</h3>\nPlease see page 58 of the Keeping the Peace sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Keeping the Peace</h4>"
+		},
+		{
+			"id": "D-45 Projection Platform",
+			"name": "D-45 Projection Platform",
+			"biography": "<h3>D-45 Projection Platform</h3>\nPlease see page 58 of the Keeping the Peace sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Keeping the Peace</h4>"
+		},
+		{
+			"id": "DF.11 Anti-Infantry Battery",
+			"name": "DF.11 Anti-Infantry Battery",
+			"biography": "<h3>DF.11 Anti-Infantry Battery</h3>\nPlease see page 48 of the Lead by Example Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 48 - Lead by Example</h4>"
+		},
+		{
+			"id": "Dustcrawler",
+			"name": "Dustcrawler",
+			"biography": "<h3>Tagge Dustcrawler</h3>\nPlease see page 60 of the Unlimited Power Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 60 - Unlimited Power</h4>"
+		},
+		{
+			"id": "Explorer Submersible",
+			"name": "Explorer Submersible",
+			"biography": "<h3>Hydrospeare Corp Explorer Submersible</h3>\nPlease see page 116 of the Strongholds of Resistance Sourcebook for details."
+		},
+		{
+			"id": "FG 8T8-T",
+			"name": "FG 8T8-T",
+			"biography": "<h3>FG 8T8-T</h3>\nPlease see page 56 of the Endless Vigil Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Endless Vigil</h4>"
+		},
+		{
+			"id": "Flasherfish Personal Watercraft",
+			"name": "Flasherfish Personal Watercraft",
+			"biography": "<h3>Flasherfish Personal Watercraft</h3>\nPlease see page 57 of the Disciples of Harmony Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 57 - Disciples of Harmony</h4>"
+		},
+		{
+			"id": "Foot Speeder",
+			"name": "Foot Speeder",
+			"biography": "<h3>Foot Speeder</h3>\nPlease see page 62 of the Endless Vigil Sourcebook for details.<p><span class='italic'>Note: This vehicle is also included as an inventory gear item.</p></span><p><h3>Sources:</p></h3><h4>Page 50 - Endless Vigil</h4>"
+		},
+		{
+			"id": "G35 \"Silver Cloud\" Airspeeder",
+			"name": "G35 \"Silver Cloud\" Airspeeder",
+			"biography": "<h3>G35 \"Silver Cloud\" Airspeeder</h3>\n    Please see page 104 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 104 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "GPE-3130",
+			"name": "GPE-3130",
+			"biography": "<h3>GPE-3130</h3>\nPlease see page 56 of the Endless Vigil Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Endless Vigil</h4>"
+		},
+		{
+			"id": "Gallis-Tech 48 Roller",
+			"name": "Gallis-Tech 48 Roller",
+			"biography": "<h3>Gallis-Tech 48 Roller</h3>\n    Please see page 256 of the Force and Destiny Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 256 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "Groundcar",
+			"name": "Groundcar",
+			"biography": "<h3>Groundcar</h3>\n    Please see page 256 of the Force and Destiny Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 256 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "Guardian 5E Personal Defense Speeder",
+			"name": "Guardian 5E Personal Defense Speeder",
+			"biography": "<h3>Guardian 5E Personal Defense Speeder</h3>\n    Please see page 63 of the Dangerous Covenants Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 63 - Dangerous Covenants</h4>"
+		},
+		{
+			"id": "Guardian E2 Escape Speeder Bike",
+			"name": "Guardian E2 Escape Speeder Bike",
+			"biography": "<h3>Guardian E2 Escape Speeder Bike</h3>\n    Please see page 63 of the Dangerous Covenants Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 63 - Dangerous Covenants</h4>"
+		},
+		{
+			"id": "HA-5 Aerial Retreat",
+			"name": "HA-5 Aerial Retreat",
+			"biography": "<h3>HA-5 Aerial Retreat</h3>\nPlease see page 60 of the Desperate Allies Sourcebook for details.-"
+		},
+		{
+			"id": "HAET-221 Transport",
+			"name": "HAET-221 Transport",
+			"biography": "<h3>HAET-221 Transport</h3>\nPlease see page 63 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 63 - Forged in Battle</h4>"
+		},
+		{
+			"id": "HAVr A9 Floating Fortress",
+			"name": "HAVr A9 Floating Fortress",
+			"biography": "<h3>HAVr A9 Floating Fortress</h3>\nPlease see page 59 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Forged in Battle</h4>"
+		},
+		{
+			"id": "HSP-10 Pursuit Airspeeder",
+			"name": "HSP-10 Pursuit Airspeeder",
+			"biography": "<h3>HSP-10 Pursuit Airspeeder</h3>\n      Please see page 52 of the Fly Casual Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 52 - Fly Casual</h4>"
+		},
+		{
+			"id": "Hauler Air Skiff",
+			"name": "Hauler Air Skiff",
+			"biography": "<h3>Ubrikkian Industries Hauler Air Skiff</h3>\nPlease see page 57 of the Unlimited Power Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 57 - Unlimited Power</h4>"
+		},
+		{
+			"id": "Heat Sink Power Generator",
+			"name": "Heat Sink Power Generator",
+			"biography": "<h3>AlderaanMotors Heat Sink Power Generator</h3>\nPlease see page 46 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 46 - Lead by Example</h4>"
+		},
+		{
+			"id": "Hunchback Construction Strider",
+			"name": "Hunchback Construction Strider",
+			"biography": "<h3>Hunchback Construction Strider</h3><p><h3>Sources:</p></h3><h4>Far Horizons</h4>"
+		},
+		{
+			"id": "Hutt Repulsorsled",
+			"name": "Hutt Repulsorsled",
+			"biography": "<h3>SakTek HF-2 Hutt Repulsorsled (Hutt Floater)</h3>\nPlease see page 113 of the Lords of Nal Hutta Sourcebook for details."
+		},
+		{
+			"id": "Hyperfoil 1000-XTC (Airspeeder)",
+			"name": "Hyperfoil 1000-XTC (Airspeeder)",
+			"biography": "<h3>Hyperfoil 1000-XTC (Airspeeder)</h3>\nPlease see page 60 of the Desperate Allies Sourcebook for details."
+		},
+		{
+			"id": "Hyperfoil 1000-XTC (Landspeeder)",
+			"name": "Hyperfoil 1000-XTC (Landspeeder)",
+			"biography": "<h3>Hyperfoil 1000-XTC (Landspeeder)</h3>\n      Please see page 52 of the Fly Casual Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 52 - Fly Casual</h4>"
+		},
+		{
+			"id": "I-C2 Civil-Industrial Droid",
+			"name": "I-C2 Civil-Industrial Droid",
+			"biography": "<h3>I-C2 Civil-Industrial Droid</h3>\nPlease see page 53 of the Far Horizons Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Far Horizons</h4>"
+		},
+		{
+			"id": "I-C4a Combat Construction Droid",
+			"name": "I-C4a Combat Construction Droid",
+			"biography": "<h3>I-C4a Combat Construction Droid</h3>\nPlease see page 56 of the Fully Operational Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Fully Operational</h4>"
+		},
+		{
+			"id": "IG-227 Hailfire Tank",
+			"name": "IG-227 Hailfire Tank",
+			"biography": "<h3>IG-227 Hailfire Tank</h3>\nPlease see page 68 of the Rise of the Separatists Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 68 - Rise of the Separatists</h4>"
+		},
+		{
+			"id": "IML-2C Aquatic Scout Ship",
+			"name": "IML-2C Aquatic Scout Ship",
+			"biography": "<h3>IML-2C Aquatic Scout Ship</h3>\nPlease see page 58 of the Disciples of Harmony Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Disciples of Harmony</h4>"
+		},
+		{
+			"id": "Imperial Dropship Transport",
+			"name": "Imperial Dropship Transport",
+			"biography": "<h3>Imperial Dropship Transport</h3>\nPlease see page 63 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 63 - Forged in Battle</h4>"
+		},
+		{
+			"id": "Imperial Floating Fortress",
+			"name": "Imperial Floating Fortress",
+			"biography": "<h3>Imperial Floating Fortress</h3>\nPlease see page 85 of the Friends Like These Adventure Module for details.<p><h3>Sources:</p></h3><h4>Page 85 - Friends Like These</h4>"
+		},
+		{
+			"id": "Imperial Troop Transport",
+			"name": "Imperial Troop Transport",
+			"biography": "<h3>Imperial Troop Transport</h3>\nPlease see page 59 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Forged in Battle</h4>"
+		},
+		{
+			"id": "Incom T-16 Skyhopper",
+			"name": "Incom T-16 Skyhopper",
+			"biography": "<h3>Incom T-16 Skyhopper</h3>\n      Please see page 248 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 248 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "Incom T-47 Airspeeder",
+			"name": "Incom T-47 Airspeeder",
+			"biography": "<h3>Incom T-47 Airspeeder</h3>\n      Please see page 249 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "Invader AA-9 Assault Airspeeder",
+			"name": "Invader AA-9 Assault Airspeeder",
+			"biography": "<h3>Invader AA-9 Assault Airspeeder</h3>\n    Please see page 63 of the Dangerous Covenants Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 63 - Dangerous Covenants</h4>"
+		},
+		{
+			"id": "J-15 Rapid Service Speeder",
+			"name": "J-15 Rapid Service Speeder",
+			"biography": "<h3>SoroSuub J-15 Rapid Service Speeder</h3>\nPlease see page 61 of the Special Modifications Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 61 - Special Modifications</h4>"
+		},
+		{
+			"id": "Jawa Salvage Skiff",
+			"name": "Jawa Salvage Skiff",
+			"biography": "<h3>Jawa Salvage Skiff</h3>\n    Please see page 87 of the Beyond the Rim Adventure Module for details.<p><h3>Sources:</p></h3><h4>Page 87 - Beyond the Rim</h4>"
+		},
+		{
+			"id": "Jet Pack",
+			"name": "Jet Pack",
+			"biography": "<h3>Jet Pack</h3>\nPlease see page 181 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 181 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "Joben T-85 Speeder Bik",
+			"name": "Joben T-85 Speeder Bik",
+			"biography": "<h3>Joben T-85 Speeder Bik</h3>\nPlease see page 54 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 54 - Savage Spirits</h4>"
+		},
+		{
+			"id": "KRI-80 Portable Store",
+			"name": "KRI-80 Portable Store",
+			"biography": "<h3>SoroSuub KRI-80 Portable Store</h3>\nPlease see page 60 of the Special Modifications Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 60 - Special Modifications</h4>"
+		},
+		{
+			"id": "KV 9T9-B Wasp",
+			"name": "KV 9T9-B Wasp",
+			"biography": "<h3>KV 9T9-B Wasp</h3>\nPlease see page 57 of the Endless Vigil Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 57 - Endless Vigil</h4>"
+		},
+		{
+			"id": "KV Swoop",
+			"name": "KV Swoop",
+			"biography": "<h3>KV Swoop</h3>\n    Please see page 58 of the Enter the Unknown Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Enter the Unknown</h4>"
+		},
+		{
+			"id": "Keelkana-Class Attack Submersible",
+			"name": "Keelkana-Class Attack Submersible",
+			"biography": "<h3>Mon Calamari Keelkana-Class Attack Submersible</h3>\nPlease see page 117 of the Strongholds of Resistance Sourcebook for details."
+		},
+		{
+			"id": "LAAT/c Carrier Transport",
+			"name": "LAAT/c Carrier Transport",
+			"biography": "<h3>LAAT/I Carrier Transport</h3>\n    Please see page 61 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 61 - Forged in Battle</h4>"
+		},
+		{
+			"id": "LAAT/i Infantry Transport",
+			"name": "LAAT/i Infantry Transport",
+			"biography": "<h3>LAAT/i Infantry Transport</h3>\n    Please see page 61 of the Forged in Battle Sourcebook, or page 67 of the Rise of the Separatists Sourcebook, for details.<p><h3>Sources:</p></h3><h4>Page 61 - Forged in Battle</h4><h4>Page 67 - Rise of the Separatists</h4>"
+		},
+		{
+			"id": "LAVR QH-7 Chariot Command Speeder",
+			"name": "LAVR QH-7 Chariot Command Speeder",
+			"biography": "<h3>LAVR QH-7 Chariot Command Speeder</h3>\nPlease see page 51 of the Lead by Example Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 51 - Lead by Example</h4>"
+		},
+		{
+			"id": "LM002 Bloodhound Survey Vehicle",
+			"name": "LM002 Bloodhound Survey Vehicle",
+			"biography": "<h3>LM002 Bloodhound Survey Vehicle</h3>\nPlease see page 55 of the Savage Spirits Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 55 - Savage Spirits</h4>"
+		},
+		{
+			"id": "Luxury-Class Sail Barge",
+			"name": "Luxury-Class Sail Barge",
+			"biography": "<h3>Ubrikkian Industries Luxury-Class Sail Barge</h3>\nPlease see page 112 of the Lords of Nal Hutta Sourcebook for details."
+		},
+		{
+			"id": "MC-2 Moble Command Speeder",
+			"name": "MC-2 Moble Command Speeder",
+			"biography": "<h3>MC-2 Moble Command Speeder</h3>\n    Please see page 64 of the Dangerous Covenants Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 64 - Dangerous Covenants</h4>"
+		},
+		{
+			"id": "MEV2 \"Dug Digger\"",
+			"name": "MEV2 \"Dug Digger\"",
+			"biography": "<h3>MEV2 \"Dug Digger\"</h3>\n    Please see page 107 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 107 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "MSP100 Pteropter Hover Pod",
+			"name": "MSP100 Pteropter Hover Pod",
+			"biography": "<h3>MSP100 Pteropter Hover Pod</h3>\n  Please see page 54 of the Onslaught at Arda I Adventure Module for details."
+		},
+		{
+			"id": "Mauler Tactical Responder",
+			"name": "Mauler Tactical Responder",
+			"biography": "<h3>Mauler Tactical Responder</h3>\nPlease see page 51 of the Far Horizons Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 51 - Far Horizons</h4>"
+		},
+		{
+			"id": "Mobquet Flare-S Swoop",
+			"name": "Mobquet Flare-S Swoop",
+			"biography": "<h3>Mobquet Flare-S Swoop</h3>\n      Please see page 250 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 250 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "Mobquet Flare-V Swoop",
+			"name": "Mobquet Flare-V Swoop",
+			"biography": "<h3>Mobquet Flare-V Swoop</h3>\n      Please see page 58 of the Chronicles of the Gatekeeper Adventure for details.<p><h3>Sources:</p></h3><h4>Page 58 - Chronicles of the Gatekeeper</h4>"
+		},
+		{
+			"id": "Model 90 Ranger",
+			"name": "Model 90 Ranger",
+			"biography": "<h3>Model 90 Ranger</h3>\nPlease see page 56 of the No Disintegrations Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - No Disintegrations</h4>"
+		},
+		{
+			"id": "Modular Barracks",
+			"name": "Modular Barracks",
+			"biography": "<h3>MilBar F-221 Modular Barracks</h3>\nPlease see page 48 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 48 - Lead by Example</h4>"
+		},
+		{
+			"id": "Modular Command Center",
+			"name": "Modular Command Center",
+			"biography": "<h3>Com C-52 Modular Command Center</h3>\nPlease see page 48 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 48 - Lead by Example</h4>"
+		},
+		{
+			"id": "Modular Hangar",
+			"name": "Modular Hangar",
+			"biography": "<h3>HNG F-104 Modular Hangar</h3>\nPlease see page 48 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 48 - Lead by Example</h4>"
+		},
+		{
+			"id": "Modular Motor Pool",
+			"name": "Modular Motor Pool",
+			"biography": "<h3>Fac L-120 Modular Motor Pool</h3>\nPlease see page 48 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 48 - Lead by Example</h4>"
+		},
+		{
+			"id": "Modular Reinforced Bunker",
+			"name": "Modular Reinforced Bunker",
+			"biography": "<h3>BKR B-70 Modular Reinforced Bunker</h3>\nPlease see page 48 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 48 - Lead by Example</h4>"
+		},
+		{
+			"id": "Multi Troop Transport",
+			"name": "Multi Troop Transport",
+			"biography": "<h3>Multi Troop Transport</h3>\nPlease see page 68 of the Rise of the Separatists Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 68 - Rise of the Separatists</h4>"
+		},
+		{
+			"id": "Nebulon-Q Racing Swoop",
+			"name": "Nebulon-Q Racing Swoop",
+			"biography": "<h3>Nebulon-Q Racing Swoop</h3>\nPlease see page 51 of the Stay on Target Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 51 - Stay on Target</h4>"
+		},
+		{
+			"id": "Needle Ne-4 Cloud Car Interceptor",
+			"name": "Needle Ne-4 Cloud Car Interceptor",
+			"biography": "<h3>Needle Ne-4 Cloud Car Interceptor</h3>\n    Please see page 64 of the Dangerous Covenants Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 64 - Dangerous Covenants</h4>"
+		},
+		{
+			"id": "Nyalsan II Planetary Shield Generator",
+			"name": "Nyalsan II Planetary Shield Generator",
+			"biography": "<h3>Nyalsan II Planetary Shield Generator</h3>\nPlease see page 47 of the Lead by Example Sourcebook for details.\n<p><span class='italic'>Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary \"vehicle\" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.</p></span><p><h3>Sources:</p></h3><h4>Page 47 - Lead by Example</h4>"
+		},
+		{
+			"id": "Oduran Luxury Landspeeder",
+			"name": "Oduran Luxury Landspeeder",
+			"biography": "<h3>Oduran Luxury Landspeeder</h3>\nPlease see page 59 of the Disciples of Harmony Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Disciples of Harmony</h4>"
+		},
+		{
+			"id": "P-Tower Light Anti-Vehicle Battery",
+			"name": "P-Tower Light Anti-Vehicle Battery",
+			"biography": "<h3>1.4 FD P-Tower Light Anti-Vehicle Battery</h3>\nPlease see page 46 of the Lead by Example Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 46 - Lead by Example</h4>"
+		},
+		{
+			"id": "PTB-625 Heavy Bomber",
+			"name": "PTB-625 Heavy Bomber",
+			"biography": "<h3>PTB-625 Heavy Bomber</h3>\nPlease see page 51 of the Stay on Target Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 51 - Stay on Target</h4>"
+		},
+		{
+			"id": "Panther Police Interceptor",
+			"name": "Panther Police Interceptor",
+			"biography": "<h3>Panther Police Interceptor</h3>\nPlease see page 52 of the Far Horizons Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 52 - Far Horizons</h4>"
+		},
+		{
+			"id": "Passenger Landspeeder",
+			"name": "Passenger Landspeeder",
+			"biography": "<h3>Passenger Landspeeder</h3>\n    Please see page 254 of the Force and Destiny Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 254 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "Personnel Carrier",
+			"name": "Personnel Carrier",
+			"biography": "<h3>Personnel Carrier</h3>\n      Please see page 252 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 252 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "Plug-F Mammoth",
+			"name": "Plug-F Mammoth",
+			"biography": "<h3>Collor Pondrat Plug-F Mammoth</h3>\nPlease see page 55 of the Endless Vigil Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 55 - Endless Vigil</h4>"
+		},
+		{
+			"id": "Podracer Cockpit",
+			"name": "Podracer Cockpit",
+			"biography": "<h3>Podracer Cockpit</h3>\nPlease see page 60 of the Endless Vigil Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 61 - Endless Vigil</h4>"
+		},
+		{
+			"id": "Pongeeta-Class Swamp Speeder",
+			"name": "Pongeeta-Class Swamp Speeder",
+			"biography": "<h3>Ubrikkian Industries Pongeeta-Class Swamp Speeder</h3>\nPlease see page 113 of the Lords of Nal Hutta Sourcebook for details."
+		},
+		{
+			"id": "R-444 Imperial Sky Swooper",
+			"name": "R-444 Imperial Sky Swooper",
+			"biography": "<h3>Nen-Carvon R-444 Imperial Sky Swooper</h3>\nPlease see page 116 of the Strongholds of Resistance Sourcebook for details."
+		},
+		{
+			"id": "RTT-04 Armored Troop Transport",
+			"name": "RTT-04 Armored Troop Transport",
+			"biography": "<h3>RTT-04 Armored Troop Transport</h3>\nPlease see page 55 of the Knights of Fate Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 55 - Knights of Fate</h4>"
+		},
+		{
+			"id": "RX-200 \"Falchion\" Ion Tank",
+			"name": "RX-200 \"Falchion\" Ion Tank",
+			"biography": "<h3>RX-200 \"Falchion\" Ion Tank</h3>\nPlease see page 53 of the Knights of Fate Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Knights of Fate</h4>"
+		},
+		{
+			"id": "Rocket Boots",
+			"name": "Rocket Boots",
+			"biography": "<h3>Rocket Boots</h3>\nPlease see page 53 of the No Disintegrations Sourcebook for details.\n<p><span class='italic'>Note:  This is the vehicle profile of the rocket boots gear item.</p></span><p><h3>Sources:</p></h3><h4>Page 53 - No Disintegrations</h4>"
+		},
+		{
+			"id": "Rufescent Cargo Hauler",
+			"name": "Rufescent Cargo Hauler",
+			"biography": "<h3><span class='italic'>Rufescent</span> Cargo Hauler</h3>\nPlease see page 59 of the Keeping the Peace sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Keeping the Peace</h4>"
+		},
+		{
+			"id": "Rush Troop Transport Speeder",
+			"name": "Rush Troop Transport Speeder",
+			"biography": "<h3>Rush Troop Transport Speeder</h3>\n    Please see page 63 of the Dangerous Covenants Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 63 - Dangerous Covenants</h4>"
+		},
+		{
+			"id": "S-5 \"Flashfury\" Swoop",
+			"name": "S-5 \"Flashfury\" Swoop",
+			"biography": "<h3>S-5 \"Flashfury\" Swoop</h3>\n    Please see page 105 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 105 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "S-K2 \"Skywing\" Personal Speeder",
+			"name": "S-K2 \"Skywing\" Personal Speeder",
+			"biography": "<h3>S-K2 \"Skywing\" Personal Speeder</h3>\nPlease see page 53 of the Knights of Fate Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Knights of Fate</h4>"
+		},
+		{
+			"id": "SC2-M Repulsor Tank",
+			"name": "SC2-M Repulsor Tank",
+			"biography": "<h3>SC2-M Repulsor Tank</h3>\nPlease see page 60 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 60 - Forged in Battle</h4>"
+		},
+		{
+			"id": "SCS-19 \"Sentinel\" Armored Landspeeder",
+			"name": "SCS-19 \"Sentinel\" Armored Landspeeder",
+			"biography": "<h3>SCS-19 \"Sentinel\" Armored Landspeeder</h3>\nPlease see page 54 of the Knights of Fate Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 54 - Knights of Fate</h4>"
+		},
+		{
+			"id": "SU-40 High-Performance Airspeeder",
+			"name": "SU-40 High-Performance Airspeeder",
+			"biography": "<h3>SU-40 High-Performance Airspeeder</h3>\nPlease see page 51 of the Stay on Target Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 51 - Stay on Target</h4>"
+		},
+		{
+			"id": "SU-42RS Flashblind Aerial Reconnaissance Airspeeder",
+			"name": "SU-42RS Flashblind Aerial Reconnaissance Airspeeder",
+			"biography": "<h3>SU-42RS Flashblind Aerial Reconnaissance Airspeeder</h3>\nPlease see page 50 of the Lead by Example Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 50 - Lead by Example</h4>"
+		},
+		{
+			"id": "Seraph \"Flash Speeder\"",
+			"name": "Seraph \"Flash Speeder\"",
+			"biography": "<h3>Seraph \"Flash Speeder\"</h3>\n    Please see page 105 of the Suns of Fortune Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 105 - Suns of Fortune</h4>"
+		},
+		{
+			"id": "Starhawk Speeder Bike",
+			"name": "Starhawk Speeder Bike",
+			"biography": "<h3>Starhawk Speeder Bike</h3>\n      Please see page 53 of the Fly Casual Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Fly Casual</h4>"
+		},
+		{
+			"id": "Storm IV Cloud Car",
+			"name": "Storm IV Cloud Car",
+			"biography": "<h3>Storm IV Cloud Car</h3>\n      Please see page 248 of the Edge of the Empire Core Rulebook, or page 262 of the Age of Rebellion Core Rulebook, for details.<p><h3>Sources:</p></h3><h4>Page 248 - Edge of the Empire Core Rulebook</h4><h4>Page 262 - Age of Rebellion Core Rulebook</h4>"
+		},
+		{
+			"id": "Sunrunner ZX Landspeeder",
+			"name": "Sunrunner ZX Landspeeder",
+			"biography": "<h3>Sunrunner ZX Landspeeder</h3>\n      Please see page 53 of the Fly Casual Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 53 - Fly Casual</h4>"
+		},
+		{
+			"id": "Superflare/Modified Flare-S Swoop",
+			"name": "Superflare/Modified Flare-S Swoop",
+			"biography": "<h3>Superflare/Modified Flare-S Swoop</h3>\n    Please see page 65 of the Dangerous Covenants Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 65 - Dangerous Covenants</h4>"
+		},
+		{
+			"id": "Superhaul Model II Cargo Skiff",
+			"name": "Superhaul Model II Cargo Skiff",
+			"biography": "<h3>Superhaul Model II Cargo Skiff</h3>\nPlease see page 52 of the Far Horizons Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 52 - Far Horizons</h4>"
+		},
+		{
+			"id": "T-13 Airspeeder",
+			"name": "T-13 Airspeeder",
+			"biography": "<h3>T-13 Airspeeder</h3>\nPlease see page 56 of the Unlimited Power Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - Unlimited Power</h4>"
+		},
+		{
+			"id": "T2-E Petard-Class Combat Engineering Vehicle",
+			"name": "T2-E Petard-Class Combat Engineering Vehicle",
+			"biography": "<h3>T2-E <span class='italic'>Petard</span>-Class Combat Engineering Vehicle</h3>\nPlease see page 54 of the Fully Operational Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 54 - Fully Operational</h4>"
+		},
+		{
+			"id": "TRL-03 SkyClaw",
+			"name": "TRL-03 SkyClaw",
+			"biography": "<h3>SoroSuub J-15 Rapid Service Speeder</h3>\nPlease see page 61 of the Special Modifications Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 61 - Special Modifications</h4>"
+		},
+		{
+			"id": "TX-130 Saber-Class Fighter Tank",
+			"name": "TX-130 Saber-Class Fighter Tank",
+			"biography": "<h3>TX-130 <span class='italic'>Saber</span> -Class Fighter Tank</h3>\nPlease see page 54 of the Knights of Fate Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 54 - Knights of Fate</h4>"
+		},
+		{
+			"id": "Talon I Combat Cloud Car",
+			"name": "Talon I Combat Cloud Car",
+			"biography": "<h3>Ubrikkian Industries Talon I Combat Cloud Car</h3>\n    Please see page 254 of the Force and Destiny Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 254 - Force and Destiny Core Rulebook</h4>"
+		},
+		{
+			"id": "Tetan Guard Airspeeder",
+			"name": "Tetan Guard Airspeeder",
+			"biography": "<h3>SEC-22m Tetan Guard Airspeeder</h3>\nPlease see page 124 of the Nexus of Power Sourcebook for details."
+		},
+		{
+			"id": "Trast A-A5 Heavy Speeder Truck",
+			"name": "Trast A-A5 Heavy Speeder Truck",
+			"biography": "<h3>Trast A-A5 Heavy Speeder Truck</h3>\n      Please see page 250 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 250 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "Tsmeu-6 Personal Wheel Bike",
+			"name": "Tsmeu-6 Personal Wheel Bike",
+			"biography": "<h3>Tsmeu-6 Personal Wheel Bike</h3>\nPlease see page 59 of the Keeping the Peace sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Keeping the Peace</h4>"
+		},
+		{
+			"id": "UEV-M1 Marauder Engineer Squad Carrier",
+			"name": "UEV-M1 Marauder Engineer Squad Carrier",
+			"biography": "<h3>UEV-M1 Marauder Engineer Squad Carrier</h3>\nPlease see page 55 of the Fully Operational Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 55 - Fully Operational</h4>"
+		},
+		{
+			"id": "UH-XH Heavy Work Platform",
+			"name": "UH-XH Heavy Work Platform",
+			"biography": "<h3>Baktoid UH-XH Heavy Work Platform</h3>\nPlease see page 59 of the Special Modifications Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Special Modifications</h4>"
+		},
+		{
+			"id": "Undicur-Class Jumpspeeder",
+			"name": "Undicur-Class Jumpspeeder",
+			"biography": "<h3><span class='italic'>Undicur</span> - Class Jumpspeeder</h3>\nPlease see page 62 of the Endless Vigil Sourcebook, or page 72 of the Rise of the Separatists Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 62 - Endless Vigil</h4><h4>Page 72 - Rise of the Separatists</h4>"
+		},
+		{
+			"id": "V-35 Courier Landspeeder",
+			"name": "V-35 Courier Landspeeder",
+			"biography": "<h3>V-35 Courier Landspeeder</h3>\nPlease see page 52 of the Far Horizons Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 52 - Far Horizons</h4>"
+		},
+		{
+			"id": "V-35 Courier Military Landspeeder",
+			"name": "V-35 Courier Military Landspeeder",
+			"biography": "<h3>V-35 Courier Military Landspeeder</h3>\nPlease see page 59 of the Desperate Allies Sourcebook for details."
+		},
+		{
+			"id": "V5 Medium Cargo Floater",
+			"name": "V5 Medium Cargo Floater",
+			"biography": "<h3>V5 Medium Cargo Floater</h3>\n    Please see page 33 of the Beyond the Rim Adventure Module for details.<p><h3>Sources:</p></h3><h4>Page 33 - Beyond the Rim</h4>"
+		},
+		{
+			"id": "Versatile-Athletic Walker",
+			"name": "Versatile-Athletic Walker",
+			"biography": "<h3>Baktoid Versatile-Athletic \"Zalaaca\" Walker</h3>\nPlease see page 58 of the Forged in Battle Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 58 - Forged in Battle</h4>"
+		},
+		{
+			"id": "Whelik All-Terrain Explorer",
+			"name": "Whelik All-Terrain Explorer",
+			"biography": "<h3>Whelik All-Terrain Explorer</h3>\nPlease see page 59 of the Disciples of Harmony Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Disciples of Harmony</h4>"
+		},
+		{
+			"id": "X-34 Landspeeder",
+			"name": "X-34 Landspeeder",
+			"biography": "<h3>X-34 Landspeeder</h3>\n      Please see page 251 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 251 - Edge of the Empire Core Rulebook</h4>"
+		},
+		{
+			"id": "XL-3C Guardsman Patrol Airspeeder",
+			"name": "XL-3C Guardsman Patrol Airspeeder",
+			"biography": "<h3>XL-3C Guardsman Patrol Airspeeder</h3>\nPlease see page 56 of the No Disintegrations Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 56 - No Disintegrations</h4>"
+		},
+		{
+			"id": "XP-40 Luxury Coach",
+			"name": "XP-40 Luxury Coach",
+			"biography": "<h3>SoroSuub Corporation XP-40 Luxury Coach</h3>\nPlease see page 57 of the Unlimited Power Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 57 - Unlimited Power</h4>"
+		},
+		{
+			"id": "Zephyr-G Swoop",
+			"name": "Zephyr-G Swoop",
+			"biography": "<h3>Zephyr-G Swoop</h3>\n    Please see page 59 of the Enter the Unknown Sourcebook for details.<p><h3>Sources:</p></h3><h4>Page 59 - Enter the Unknown</h4>"
+		}
+	]
+}
