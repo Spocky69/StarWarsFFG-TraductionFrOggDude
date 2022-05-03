@@ -81,8 +81,8 @@
 		},
 		{
 			"id": "AT-EST Exploration and Survey Walker",
-			"name": "AT-EST Exploration and Survey Walker",
-			"biography": "<h3>AT-EST Exploration and Survey Walker</h3>\n      Please see page 253 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 253 - Edge of the Empire Core Rulebook</h4>"
+			"name": "Transport d'Exploration et de Reconnaissance Tout-Terrain",
+			"biography": "Développé par l'ingénierie Lourde de Rothana à la demande du corps civil des explorateurs de l'Ancienne République, le TER-TT est un marcheur hexapode au centre de gravité relativement bas, conçu pour acheminer les passagers et les cargaisons dans des régions difficiles et des conditions dangereuses. Similaire, en apparence, à de petites versions du marcheur d'assaut RT-TT de l'Ancienne République, le TER-TT se présente comme un habitacle bulbeux lourdement blindé, soutenu par six robustes jambes pourvues de multiples articulations et reposant sur de larges pieds dotés de quatre orteils. L'intérieur de l'appareil recèle un cockpit en proue, une zone réservée pour le travail et le repos au centre incluant de minuscules compartimentscomptant deux lits, une salle commune et une soute sécurisée. Le TER-TT servant aux missions de reconnaissance et d'exploration, il dispose de toutes sortes d'ordinateurs et de senseurs sophistiqués capables de détecter les sons, les radiations et les émanations d'énergie, ainsi que d'outils permettant de receuillir des échantillons et d'effectuer des relevés précis. Etant conçu pour fonctionner sur des planètes inexplorées et dans des environnements hostiles, son habitacle est hermétiquement scellé. On aperçoit régulièrement ces marcheurs sur les mondes de la Bordure Extérieure, où ils sont tout aussi prisés des organisations militaires que civiles.<p>\n<\p><h4>Page 254 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "AT-FRC Force Reconnaissance Walker",
@@ -107,7 +107,7 @@
 		{
 			"id": "Airspeeder",
 			"name": "Airspeeder",
-			"biography": "<h3>Airspeeder</h3>\n      Please see page 248 of the Edge of the Empire Core Rulebook, or page 254 of the Force and Destiny Core Rulebook, for details.<p><h3>Sources:</p></h3><h4>Page 248 - Edge of the Empire Core Rulebook</h4><h4>Page 254 - Force and Destiny Core Rulebook</h4>"
+			"biography": "Les petits airspeeders sont généralement employés pour le loisir et les sports, ou pour transporter des marchandises et des passagers. Ces modèles civils sont rarement blindés ou armés. Le profil suivant correspond à celui d'un airspeeder typique.<p>\n<\p><h4>Page 249 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "All Terrain Armored Transport",
@@ -146,8 +146,8 @@
 		},
 		{
 			"id": "All-Terrain Personal Transport",
-			"name": "All-Terrain Personal Transport",
-			"biography": "<h3>All-Terrain Personal Transport</h3>\n      Please see page 252 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 252 - Edge of the Empire Core Rulebook</h4>"
+			"name": "Transport Personnel Tout-Terrain",
+			"biography": "Développé par la République pendant la Guerre des Clone, le TP-TT se présente sous la forme d'un petit marcheur d'infanterie monoplace, conçu pour permettre à un soldat individuel de se jeter dans la bataille, même dans les conditions les plus éprouvantes. Réputé pour son architecture robuste et relativement siple, ce véhicule se compose d'une nacelle de commande blindée, flanquée de deux jambes agiles pourvues d'articulations oreintées vers l'arrière. Le module central abrite un étroit cockpit hermétiquement scéllé, juste assez grand pour acceuillir le pilote, une arme de poing et une trousse d'urgence. Le TP-TT peut facilement traverser divers types de terrain, comme les forêts denses et les étroits corridors urbains, franchir à pied une rivière ou escalader des pentes dont l'inclinaison ne dépasse pas les 45°. Les transports personnels tout-terrains sont équipés d'une sélection d'armes antipersonnel polyvalentes, dont un canon blaster jumelé et un lace-grenades à concussion automatique situés sous le menton de l'appareil, ce qui permet de lutter contre l'infanterie et les véhicules légers. Leurs senseurs sont au mieux rudimentaires, mais ils disposent en revanche de puissants systèmes de communication cryptée qui donnent aux escouades de TP-TT la possibilité de coordonner leurs actions très efficacement.<p>\n<\p><h4>Page 253 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "All-Terrain Reconnaissance Transport",
@@ -171,8 +171,8 @@
 		},
 		{
 			"id": "Aratech 74-Z Speeder Bike",
-			"name": "Aratech 74-Z Speeder Bike",
-			"biography": "<h3>Aratech 74-Z Speeder Bike</h3>\n      Please see page 250 of the Edge of the Empire Core Rulebook, or page 263 of the Age of Rebellion Core Rulebook, for details.<p><h3>Sources:</p></h3><h4>Page 250 - Edge of the Empire Core Rulebook</h4><h4>Page 263 - Age of Rebellion Core Rulebook</h4>"
+			"name": "Speeder Bike militaire 74-Z d'Aratech",
+			"biography": "Ce bolide ultraperformant que les formes armées impériales emploient pour les missions de reconnaissance, les escarmouches et l'acheminement des messages, est en réalité une version armée du populaire modèle 74-Y. Le 74-Z mesure environ quatre mètres et demi et se résume, comme à peu près tout speeder bike ou swoop, à un moteur à répulsion pourvu d'une selle et de commandes. Le pilote contrôle les mouvements de l'engin grâce aux deux branches du guidon et aux pédales installées sur les repose-pieds. Les modèles utilisés par l'Armée impériale sont équipés de comms, de senseurs optiques rudimentaires, d'un brouilleur à portée courte et d'un blaster léger à répétition.<p>\n<\p><h4>Page 251 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "Aratech R82 Jump Boots",
@@ -236,8 +236,8 @@
 		},
 		{
 			"id": "CMC Digger Crawler",
-			"name": "CMC Digger Crawler",
-			"biography": "<h3>CMC Digger Crawler</h3>\n      Please see page 251 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 251 - Edge of the Empire Core Rulebook</h4>"
+			"name": "Char Extracteur de la CCM",
+			"biography": "Produit par la Compagnie Corellienne des Mines pour faire de gigantesque complexe mobile pour les opérations minières et la sidérurgie, le char extracteur ressemble à une grosse boîte montée sur des chenilles, haute d'environ vingt mètres. Ces véhicules furent conçus pour fonctionner comme des exploitations minières semi-autonomes sur les mondes difficiles aux marges de la civilisation. Grâce à leur réacteur nucléaire primitif, mais fiable, et à leur multiples chenilles, ces engins tombent rarement en panne, tandis que leur poids et leur blindage leur permettent de survivre aux pire environnements.<p>\n<\p><h4>Page 252 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "CR-17 Incendia III",
@@ -416,13 +416,13 @@
 		},
 		{
 			"id": "Incom T-16 Skyhopper",
-			"name": "Incom T-16 Skyhopper",
-			"biography": "<h3>Incom T-16 Skyhopper</h3>\n      Please see page 248 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 248 - Edge of the Empire Core Rulebook</h4>"
+			"name": "T-16 Incom Skyhopper",
+			"biography": "Le T-16 Skyhopper d'Incom est un appareil aussi grisant que dangereux, adoré par les fous de vitesse et les casse-cous, et employé par les forces de l'ordre. Ce petit engin fragile de forme pyramidale est pourvu de trois voitures, disposées de façon triangulaire. Le T-16 est rapide, agile et incroyablement exigeant du point de vue du pilotage. Il dispose d'un cockpit pressurisé acceuillant un pilote, ainsi que de puissants moteurs ioniques E-16/x qui lui permettent d'atteindre des vitesses phénoménales en ligne droite et de bénéficier d'une grande maniabilité dans l'atmosphère à n'importe quelle altitude. bien que le T-16 ait été à l'origine produit pour les plaisanciers et les sportifs, il en existe des versions légèrement blindées et armées. Ces appareils sont employés par de nombreuses organisations de maintien de l'ordre et forces paramilitaires dans la galaxie pour effectuer des missions de reconnaissance et des patrouilles, et certains servent même à entrainer les pilotes de Chasseur de Têtes Z-95 ou du nouveau X-Wing T-65, leur console de bord et leurs performances étant relativement comparables.<p>\n<\p><h4>Page 250 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "Incom T-47 Airspeeder",
-			"name": "Incom T-47 Airspeeder",
-			"biography": "<h3>Incom T-47 Airspeeder</h3>\n      Please see page 249 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Edge of the Empire Core Rulebook</h4>"
+			"name": "Airspeeder Incom T-47",
+			"biography": "Le T-47 d'incom est un puissant airpseeder conçu pour les vols à basse altitude. Cet appareil en forme de triangle tronqué et au profil aplati acceuille deux membres d'équipages, installés dans des sièges qui se tournent le dos. Le cockpit est quelque peu étroit, mais il est ingénieusement conçu de sorte à permettre au pilote de regarder vers l'avant du véhicule tandis que son partenaire, tourné dans l'autre sens, gère les systèmes de l'airspseeder. Le T-47 est propulsé par un moteur à répulsion KD49, un modèle fiable fabriqué par Karydee qui fournit énormément de puisssance pour la traction et confère de plus à l'appareil une vitesse et une manoeuvrabilité supérieures à la moyenne. Il est associé à un moteur à postcombustion ionique 5i.2 qui accorde un surcroît de poussée lorsque cela s'avère nécessaire. Il est fortement modifiable, il est possible de se procurer des modules auprès de la Corporation Incom ou chez certains petits constructeurs.<p>\n<\p><h4>Page 250 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "Invader AA-9 Assault Airspeeder",
@@ -516,8 +516,8 @@
 		},
 		{
 			"id": "Mobquet Flare-S Swoop",
-			"name": "Mobquet Flare-S Swoop",
-			"biography": "<h3>Mobquet Flare-S Swoop</h3>\n      Please see page 250 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 250 - Edge of the Empire Core Rulebook</h4>"
+			"name": "Swoop Mobquet Modèle Flare-S",
+			"biography": "Prisé par les gangs de fonceurs et les accros aux sensations fortes, le Flare-S est le fleuron des swoops. Ce véhicule sportif monoplace ultraperformant a été conçu pour offrir un maximum de vitesse plutôt que pour être maniable. Grâce à son moteur à répulsion Mobquet R1k équipé d'un turbocompresseur et à ses turbopropulseurs chargés d'assister la direction, ce petit speeder domine aisément tous les engins de sa classe.<p>\n<\p><h4>Page 251 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "Mobquet Flare-V Swoop",
@@ -601,8 +601,8 @@
 		},
 		{
 			"id": "Personnel Carrier",
-			"name": "Personnel Carrier",
-			"biography": "<h3>Personnel Carrier</h3>\n      Please see page 252 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 252 - Edge of the Empire Core Rulebook</h4>"
+			"name": "Transport de Troupes",
+			"biography": "De nombreux mondes aux marges de la civilisation sont trop petits ou trop pauvres pour procurer des véhicules pourvus de moteurs à répulsion à leur armée et à leur police, ou pour construire des marcheurs lourds comme ceux de l'Empire. Dans ce cas, ils fournissent plutôt à leurs troupes des moyens de locomotion qui ont fait leur preuve, en dépit de leur grand âge, comme des engins à roues ou à chenilles. Ces transports de troupes sont généralement de conception extrêmement simple, ce qui a l'avantage d'accroître leur fiabilité.<p>\n<\p><h4>Page 252 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "Plug-F Mammoth",
@@ -691,8 +691,8 @@
 		},
 		{
 			"id": "Storm IV Cloud Car",
-			"name": "Storm IV Cloud Car",
-			"biography": "<h3>Storm IV Cloud Car</h3>\n      Please see page 248 of the Edge of the Empire Core Rulebook, or page 262 of the Age of Rebellion Core Rulebook, for details.<p><h3>Sources:</p></h3><h4>Page 248 - Edge of the Empire Core Rulebook</h4><h4>Page 262 - Age of Rebellion Core Rulebook</h4>"
+			"name": "Voiture des Nuages Storm IV",
+			"biography": "Le storm IV, qui fut développé par Bespin Motors pour satisfaire les besoins de la Garde Aérienne de la Cité des Nuages, est le premier modèle d'airspeeder stratosphérique qui ait reçu l'appellation de voiture des nuages. Conçu pour mener à bien des missions de patrouille et d'interception, le Storm IV est un appareil rapide, robuste et fiable, qui se compose de deux modules blindés monoplaces reliés par une pièce centrale. Le pilote est installé dans le module de bâbord, qui recèle divers senseurs sophistiqués et une console de navigation. La partie tribord abrite le tireur ainsi que les système de visée et de tir de l'appareil.<p>\n<\p><h4>Page 249 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "Sunrunner ZX Landspeeder",
@@ -741,8 +741,8 @@
 		},
 		{
 			"id": "Trast A-A5 Heavy Speeder Truck",
-			"name": "Trast A-A5 Heavy Speeder Truck",
-			"biography": "<h3>Trast A-A5 Heavy Speeder Truck</h3>\n      Please see page 250 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 250 - Edge of the Empire Core Rulebook</h4>"
+			"name": "Camion Speeder Lourd Trast odèle A-A5",
+			"biography": "l'A-A5 de Trast Heavy Transport est un véhicule prisé dans les territoires de la Bordure extérieure. Conçu pour acheminer d'importantes quantités de fret sur de longues distances et par terrain difficile, ce camion speeder pachydermique peut endurer les pires conditions grâce à son habitacle robuste équipé de systèmes renforcés. Le véhicule se divise en deux compartiments, respectivement réservé à l'équipage et à la cargaison. La seconde partie est particulièrement spacieuse et dispose de toutes sortes de loquets, de points de fixation et de mécanismes en tous genres permettant d'immobiliser le chargement et de le mettre à l'abri des dégats. Si ce compartiment n'est pas utilisé pour le fret, il est possible d'y installer 25 passagers au moyen de bancs dépliants, même si l'espace et le confort laissent à désirer.<p>\n<\p><h4>Page 251 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "Tsmeu-6 Personal Wheel Bike",
@@ -792,7 +792,7 @@
 		{
 			"id": "X-34 Landspeeder",
 			"name": "X-34 Landspeeder",
-			"biography": "<h3>X-34 Landspeeder</h3>\n      Please see page 251 of the Edge of the Empire Core Rulebook for details.<p><h3>Sources:</p></h3><h4>Page 251 - Edge of the Empire Core Rulebook</h4>"
+			"biography": "Le X-34 de SoroSubb est un coupé civil biplace, réputé pour sa fiabilité. Propulsé par des moteurs à répulsion SoroSuub Twinstar et trois petites turbohélices d'appoint, le X-34 est un véhicule pratique et relativement performant, à défaut d'avoir beaucoup de style ou d'éclat. De conception, plus utilitaire que la plupart des modèles produits par SoroSuub, ce speeder n'offre guère de confort. Son cockpit est néanmoins spacieux et dispose de deux sièges ergonomùiques recouverts d'un revêtement caoutchouteux très résistant. Les commandes de l'appareil sont simples et offrent une prise en main facile, ce qui en fait un très bon véhicule tout usage.<p>\n<\p><h4>Page 252 Aux Confins de l'Empire</h4>"
 		},
 		{
 			"id": "XL-3C Guardsman Patrol Airspeeder",
