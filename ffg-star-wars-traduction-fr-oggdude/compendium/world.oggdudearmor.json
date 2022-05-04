@@ -116,8 +116,8 @@
 		},
 		{
 			"id": "Catch Vest",
-			"name": "Catch Vest",
-			"description": "[H3]Catch Vest[h3]\n      Please see page 99 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 99 - Suns of Fortune[h4]<div>Has soak value of 2 against all energy-based weapons </div>"
+			"name": "Veste de chasseur",
+			"description": "La veste de chasseur est portée par de nombreux corelliens vivants aux marges de la légalité, et malgré son aspect tout à fait banal, elle a sauvé la vie de bien des marchands indépendants. Tissée de fibres denses capables de disperser partiellement l'énergie des blasters, elle est impossible à différencier des vêtements ordinaires et constitue donc un excellent choix pour quiconque souhaite bénéficier d'un surcrôit de protection sans que cela se sache.<p>\n</p> Les vestes de chasseur ont une valeur d'encaissement de 2 contre les armes énergétique ; en revanche, cette valeur tombe à 1 contre tout autre type de dégâts.<p>\n</p><h4>Page 99 Livre Etoile de la providence</h4>"
 		},
 		{
 			"id": "Chitin Armor",
