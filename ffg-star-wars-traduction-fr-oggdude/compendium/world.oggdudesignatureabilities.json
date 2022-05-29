@@ -60,7 +60,7 @@
 			"upgrade7": "<p>Vous pouvez r&eacute;duire la difficult&eacute; du&nbsp;test de Comp&eacute;tence d'un alli&eacute;&nbsp;au lieu de le d&eacute;grader.</p>"
 		},
 		{
-			"id": "Much To Learn",
+			"id": "Much to Learn",
 			"name": "Beaucoup à Apprendre",
 			"description": "<p>Une fois par session de jeu, le personnage peut d&eacute;penser 2 points de Destin et faire un&nbsp;<strong>test Difficile ([DI][DI][DI]) de Connaissance (&Eacute;ducation)</strong>, ensuite choisir un talent que le personnage poss&egrave;de. Pour le restant de la rencontre actuelle, un personnage alli&eacute; &agrave;&nbsp;port&eacute;e moyenne&nbsp;compte comme ayant ce talent. Si le talent a des rangs, le personnage alli&eacute; compte comme ayant autant de rang dans le talent que le personnage utilisant la&nbsp;<strong>Capacit&eacute; Embl&eacute;matique</strong>.</p>",
 			"name0": "AUGMENTATION DU NOMBRE",
@@ -501,7 +501,7 @@
 			"upgrade7": "<p>Vous b&eacute;n&eacute;ficiez de +1&nbsp;d&eacute;fense &agrave; distance&nbsp;tant que&nbsp;<strong>Mobilit&eacute; Hors Pair</strong>&nbsp;est active.</p>"
 		},
 		{
-			"id": "Unmatched Negotiation",
+			"id": "Unmatched Negotiations",
 			"name": "Négociation Sans Égale",
 			"description": "<p>Une fois par session de jeu en tant que broutille, le personnage peut d&eacute;pense 2 Points de Destin. Pour le reste du tour, quand le personnage effectue un&nbsp;test de Charme, de Coercition, de N&eacute;gociation ou Tromperie, le personnage peut d&eacute;grader la difficult&eacute; du test d'un nombre de fois n&eacute;cessaire pour enlever tous les [CH] de la r&eacute;serve.</p>",
 			"name0": "DURÉE",
