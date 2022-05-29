@@ -722,7 +722,7 @@
 		{
 			"id": "Integrated Illuminator",
 			"name": "Projecteur Intégré",
-			"description": "Effets : Retire [SE][SE] dus à l'obscurité à tous les tests visant à utiliser cette arme contre des cibles à courte portée.<p>\n</p>Mods : fait passer la portée d'éclairage à moyenne [1], Attribut d'objet (désorientation+1)[2].<p>\n</p>Petite lumière intégrée à l'arme, semblable à de nombreux égards à un bâton luisant de puissante intensité, sur toute la longueur du canon d'une arme à distance. En plus d'éclairer les endroits sombres, ces projecteurs à haute puissance offrent la possibilité d'aveugler les ennemis. Toutes les armes intégrés peuvent bénéficier de l'atout.<p>\nPage 54 du livre Les Garants de la Paix pour plus de détails.</p>"
+			"description": "<p><b>Effets</b> : Retire [SE][SE] dus à l'obscurité à tous les tests visant à utiliser cette arme contre des cibles à courte portée.<br /><br /><b>Mods possibles</b> : fait passer la portée d'éclairage à moyenne [1], Attribut d'objet (désorientation+1)[2].<br /><br />Petite lumière intégrée à l'arme, semblable à de nombreux égards à un bâton luisant de puissante intensité, sur toute la longueur du canon d'une arme à distance. En plus d'éclairer les endroits sombres, ces projecteurs à haute puissance offrent la possibilité d'aveugler les ennemis. Toutes les armes intégrés peuvent bénéficier de l'atout.<br /><br />Page 54 du livre Les Garants de la Paix pour plus de détails.</p>"
 		},
 		{
 			"id": "Integrated Load-Bearing Gear",
@@ -737,7 +737,7 @@
 		{
 			"id": "Integrated Slicer Gear",
 			"name": "Outils de slicer intégré",
-			"description": "Effets : Compte comme des outils de slicer, Peut être manipuler par la voix ou par les gestes. Ajoute [SE] à toutes personnes essayant d'ientifier le slicer.<p>\n</p>Les images sont intégré à une visiaire holographique et les outils de slicer directement intégré dans les gants. Peut être appliqué à toutes les armures.<p>\nPage 58 du livre Special Modifications pour plus de détails.</p>"
+			"description": "<p><b>Effets</b> : Compte comme des outils de slicer, peut être manipuler par la voix ou par les gestes. <b>Mods possibles</b> : Aucun<br /><br />Ajoute [SE] à toutes personnes essayant d'ientifier le slicer.<br /><br />Les images sont intégrées à une visiaire holographique et les outils de slicer directement intégré dans les gants. Peut être appliqué à toutes les armures.<br /><br />Page 58 du livre Special Modifications pour plus de détails.</p>"
 		},
 		{
 			"id": "Interior Broadcast Suite",
@@ -946,8 +946,8 @@
 		},
 		{
 			"id": "Optical Camouflage System",
-			"name": "Optical Camouflage System",
-			"description": "[H3]Optical Camouflage System[h3]\n      Please see page 195 of the Edge of the Empire Core Rulebook, page 206 of the Age of Rebellion Core Rulebook, or page 51 of the Savage Spirits Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 195 - Edge of the Empire Core Rulebook[h4][H4]Page 206 - Age of Rebellion Core Rulebook[h4][H4]Page 51 - Savage Spirits[h4]"
+			"name": "Dispositif de camouflage optique",
+			"description": "<h1>Dispositif de camouflage optique</h1><p><b>Effets</b> : améliore deux dés d'aptitude lors des tests de Discrétion.<br /><br /><b>Mods possibles</b> : Expert en discrétion[1], Discrétion[1]<br /><br />Populaire chez les éclaireurs de l'armée comme parmi les assassins, les dispositifs de camouflage optique sont des merveilles technologiques. Grâce à leurs générateurs d'images à phases, leurs réducteurs de sons et leur système de masque thermique et radiologique , les DCO 'fantômes' de Mer-Sonn peuvent rendre n'importe qui invisible à l'oeil nu. En effet, en reproduisant l'environnement en temps réel, les générateurs IP permettent de se fondre dans la nature, comme le font les espèces douées de capacité de mimétisme, tandis que les divers masques dissimulent les signatures thermiques et bioélectriques susceptibles d'alerter les senseurs et les appareils de détection en tous genres. Malheureusement, le système est aussi très fragile et il est délicat de l'utiliser au combat. Les DCO peuvent être installés sur tous les types d'armures. Ils sont toutefois inutiles sur tous les armures laminés et les lourdes armures en plastoïde, par nature trop bruyantes et massives pour être camouflées efficacement.<br /><br />Voir p.195 du Livre de règles de Aux Confins de l'Empire ou p.206 de l'Ere de la République ou p.51 de Savage Spirits</p>"
 		},
 		{
 			"id": "Optimized Energy Cell",
@@ -1061,8 +1061,8 @@
 		},
 		{
 			"id": "Passive Foliage Suit",
-			"name": "Passive Foliage Suit",
-			"description": "[H3]Passive Foliage Suit[h3]\n      Please see page 51 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Savage Spirits[h4]<h3>Base Mods</h3><div>Add [SE] to Perception or Vigilance checks made to detect a character wearing this armor in appropriate environment. </div>"
+			"name": "Bio-Camouflage passif",
+			"description": "<h1>Bio-Camouflage passif</h1><p><b>Effets</b> : Ajoute un [SE] aux jet de Perception ou Vigilance pour détecter le personnage lorsqu'il est dans l'environement adéquat<br /><br /><b>Mods possibles</b> : Aucun<br /><br />Pour ceux qui opèrent dans les contrées sauvages les méthodes les plus simples sont souvent les meilleures. Ce système est conçu de patchs synthétiques vert pour copier la flore naturel. Des emplacements permettent d'utiliser la flore locale pour adapter le camouflage localement. Peut être appliqué sur toutes les armures où des patchs peuvent être attachées.<br /><br />Voir p.51 de Savage Spirits</p>"
 		},
 		{
 			"id": "Physical Countermeasures",
@@ -1686,8 +1686,8 @@
 		},
 		{
 			"id": "Water Reclamation Suit",
-			"name": "Water Reclamation Suit",
-			"description": "[H3]Water Reclamation Suit[h3]\n      Please see page 52 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - Savage Spirits[h4]<h3>Base Mods</h3><div>Upgrades ability of Resiliance and Survival checks made in dry or hot environments due to scarcity of water twice. </div>"
+			"name": "Système de Récupération d'Eau",
+			"description": "<h1>Système de Récupération d'Eau</h1><p><b>Effets</b> : Améliore deux fois les jets Résistance et Survie dû à un environement chaud et aride.<br /><br /><b>Mods possibles</b> : Aucun<br /><br />Les système de récupération d'eau sont populaires parmis les scouts et les hermites, spécialement ceux qui vient sur un monde aride. Ce système est composé d'une combinaison moulante portée sous l'armure, qui le couvre du cou aux chevilles avec une paire de gants et un masque filtrant qui couvre la bouche.<br /><br />Fait à partir de fibres synthétiques, la combinaison absorbe la sueur, les fluides corporels, la vapeur d'eau, la filtre et la stocke dans des poches réparties dans la combinaison.Cet attachement peut être ajouté à toute armure qui peut supporter l'ajout de tubes et de poches d'eau.<br /><br />Voir p.52 de Savage Spirits</p>"
 		},
 		{
 			"id": "Weapon Harness",
