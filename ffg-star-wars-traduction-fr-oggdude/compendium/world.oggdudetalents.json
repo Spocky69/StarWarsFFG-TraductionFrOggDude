@@ -10,14 +10,14 @@
 			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
 		},
 		{
+			"id": "Well Rounded",
+			"name": "Accompli",
+			"description": "Choississez 2 compétences. Elles deviennent à tout jamais des compétences de carrière."
+		},
+		{
 			"id": "Acklay's Scything Strike",
 			"name": "Acklay's Scything Strike",
 			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
-		},
-		{
-			"id": "Adaptable",
-			"name": "Ajustement",
-			"description": "Sur un jet de compétence dont il ne possède pas de rang, le personnage peut dépenser un point de Destin pour retirer un [DE] ou autant de [TH] que son rang en Sang-froid.</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Adversary",
@@ -35,6 +35,16 @@
 			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
 		},
 		{
+			"id": "Adaptable",
+			"name": "Ajustement",
+			"description": "Sur un jet de compétence dont il ne possède pas de rang, le personnage peut dépenser un point de Destin pour retirer un [DE] ou autant de [TH] que son rang en Sang-froid.</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Adaptable",
+			"name": "Ajustement",
+			"description": "Sur un jet de compétence dont il ne possède pas de rang, le personnage peut dépenser un point de Destin pour retirer un [DE] ou autant de [TH] que son rang en Sang-froid.</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
 			"id": "Alchemical Arts",
 			"name": "Alchemical Arts",
 			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
@@ -45,6 +55,11 @@
 			"description": "Please see page 142 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
 		},
 		{
+			"id": "Altered Deal",
+			"name": "Altered Deal",
+			"description": "Once per session may take the Altered Deal action and make [B]Hard ([DI][DI][DI]) Coercion check[b] to radically change a previously made deal or bargain to the character's advantage.[P][H3]Sources:[h3][H4]Page 111 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Ambush",
 			"name": "Ambush",
 			"description": "See page 34 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Forged in Battle[h4]"
@@ -53,11 +68,6 @@
 			"id": "Analyze Data",
 			"name": "Analyze Data",
 			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
-		},
-		{
-			"id": "Anatomy Lessons",
-			"name": "Leçons d'Anatomie",
-			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque le personnage peut d&eacute;penser 1 point de Destin pour ajouter des d&eacute;gats &eacute;gaux &agrave; son Intelligence &agrave; un coup de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 142 de l'Age de la Rebellion </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Animal Bond",
@@ -80,14 +90,34 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
+			"id": "Blooded",
+			"name": "Antitoxine",
+			"description": "<p>Ajouter [BO] par rang d'Antitoxine &agrave; tous les tests pour r&eacute;sister aux poisons, venins et autres toxines, ou pour s'en remettre. R&eacute;duisez la dur&eacute;e des poisons de 1 round par rang d'Antitoxine, jusqu'&agrave; un minimum de 1.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 32 de&nbsp;</em>Unlimited Power<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Blooded (Improved)",
+			"name": "Antitoxine (Amélioré)",
+			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Confidence",
+			"name": "Aplomb",
+			"description": "Vous pouvez retirer 1 dé de difficulté par rang d'Aplomb aux tests de Sang-froid pour éviter la peur."
+		},
+		{
+			"id": "Quick Draw",
+			"name": "Arme en main",
+			"description": "<p>Une fois par round, le personnage peut, &agrave; son tour, d&eacute;gainer ou rengainer une arme accessible au prix d'une broutille au lieu d'une manoeuvre.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em></p>"
+		},
+		{
 			"id": "Armor Master",
-			"name": "Armor Master",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, page 142 of the Age of Rebellion Core Rulebook, or page 37 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 142 - Age of Rebellion Core Rulebook[h4][H4]Page 37 - Rise of the Separatists[h4]"
+			"name": "Maître des Armures",
+			"description": "Quand vous portez une armure, augmentez de 1 sa valeur d'encaissement totale."
 		},
 		{
 			"id": "Armor Master (Improved)",
-			"name": "Armor Master (Improved)",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 37 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4][H4]Page 37 - Rise of the Separatists[h4]"
+			"name": "Maître des Armures (Amélioré)",
+			"description": "Quand vous portez une armure ayant une valeur d'encaissement de 2 ou plus, augmentez de 1 votre défense."
 		},
 		{
 			"id": "Armor Master (Supreme)",
@@ -95,9 +125,24 @@
 			"description": "Please see page 30 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4]"
 		},
 		{
+			"id": "As the Force Wills It",
+			"name": "As the Force Wills It",
+			"description": "May make an [B]Easy ([DI]) Knowledge (Lore) check[b] to heal strain at the end of an encounter. [TR] can be spent to heal all strain.[P][H3]Sources:[h3][H4]Page 111 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Overwhelm Emotions",
+			"name": "Ascendant Emotionnel",
+			"description": "Vous pouvez ajouter un nombre de [FO] égal à votre Valeur de Force aux tests de Charme, de Coercition ou de Tromperie. Les [LI] et les [DA] ajoutent des [SU] ou des [FA] aux tests."
+		},
+		{
 			"id": "Assault Drop",
 			"name": "Assault Drop",
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "At Any Cost",
+			"name": "At Any Cost",
+			"description": "May suffer a Critical Injury to reroll a Mass Combat check. At GM's discretion, may sacrifice an item or individual of personal significance instead[P][H3]Sources:[h3][H4]Page 37 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Ataru Technique",
@@ -115,11 +160,6 @@
 			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
-			"id": "Bad Cop",
-			"name": "Méchant Flic",
-			"description": "<p>Le personnage peut d&eacute;penser [AD][AD] obtenus lors d'un <strong>test de Coercition ou de Tromperie</strong> pour am&eacute;liorer des d&eacute;s d'aptitude d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible. Le nombre de d&eacute;s am&eacute;lior&eacute;s est &eacute;gal au rang de <em>M&eacute;chant Flic</em>..</p>\n<p><em>Page 33 du livre Horizon lointain </em><em>ou page 30 de&nbsp;</em>Cyphers and Masks<em> pour plus de d&eacute;tails.</em></p>"
-		},
-		{
 			"id": "Bad Motivator",
 			"name": "Bad Motivator",
 			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
@@ -130,14 +170,19 @@
 			"description": "Please see page 32 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Desperate Allies[h4]"
 		},
 		{
-			"id": "Balance",
-			"name": "Sérénité",
-			"description": "Quand le personnage retire des points de stress à la fin d'une rencontre, il peut ajouter un nombre de [FO] égal à sa Valeur de Force. Il retire un point de stress supplémentaire par [LI] obtenu."
-		},
-		{
 			"id": "Baleful Gaze",
 			"name": "Baleful Gaze",
 			"description": "Please see page 30 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4]"
+		},
+		{
+			"id": "Outdoorsman",
+			"name": "Baroudeur",
+			"description": "<p>Retirez [SE] par rang de Baroudeur aux tests effectu&eacute;s pour se d&eacute;placer au sol ou pour g&eacute;rer les effets d'un environnement. R&eacute;duisez de moiti&eacute; le temps de voyage terrestre.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>\n<p>&nbsp;</p>"
+		},
+		{
+			"id": "Natural Outdoorsman",
+			"name": "Baroudeur-Né",
+			"description": "<p>Une fois par partie, vous pouvez relancer 1 test de R&eacute;sistance ou de Survie.</p>\n<p>&nbsp;</p>\n<p><em>Page 139 du livre Aux confins de l'Empire ou page 153 de l'Age de la Rebellion ou page 148 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Barrage",
@@ -175,14 +220,19 @@
 			"description": "Add 1 per rank to the mount's encumbrance threshold.[P][H3]Sources:[h3][H4]Page 83 - Stay on Target[h4]"
 		},
 		{
-			"id": "Beginner's Luck",
-			"name": "La chance du débutant",
-			"description": "Une fois par partie quand le personnage fait un jet, il peut ajouter autant de [SU] que de [LI] dans la réserve de Points de Destinée.  </p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+			"id": "Smooth Talker",
+			"name": "Beau Parleur",
+			"description": "Quand vous acquérez ce talent, choisissez une compétence : Charme, Coercition, Négociation ou Tromperie. Quand vous effectuez des tests avec cette compétence, vous pouvez dépenser [TR] pour gagner un nombre de [SU] supplémentaires égal à votre rang de Beau parleur."
 		},
 		{
 			"id": "Better Luck Next Time",
 			"name": "Better Luck Next Time",
 			"description": "Please see page 30 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Jury Rigged",
+			"name": "Bidouillage",
+			"description": "<p>Choississez 1 arme, armure ou autre objet et offrez-lui une am&eacute;lioration valable permanente tant qu'il/elle est utilis&eacute;(e).</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Biggest Fan",
@@ -200,19 +250,14 @@
 			"description": "Please see page 32 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Desperate Allies[h4]"
 		},
 		{
+			"id": "Blather",
+			"name": "Blather",
+			"description": "Take the Blather action, making a [B]Hard ([DI][DI][DI]) Charm or Deception check[b]. If successful, one adverary per [SU] is Disoriented for rounds eqqual to the character's Presence. The character may spend [TR] from the check to Stagger one affected target[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Blind Spot",
 			"name": "Blind Spot",
 			"description": "Please see page 30 of the Keeping the Peace Sourcebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4][H4]Page 34 - Forged in Battle[h4]"
-		},
-		{
-			"id": "Blooded",
-			"name": "Antitoxine",
-			"description": "<p>Ajouter [BO] par rang d'Antitoxine &agrave; tous les tests pour r&eacute;sister aux poisons, venins et autres toxines, ou pour s'en remettre. R&eacute;duisez la dur&eacute;e des poisons de 1 round par rang d'Antitoxine, jusqu'&agrave; un minimum de 1.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 32 de&nbsp;</em>Unlimited Power<em>&nbsp;pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Blooded (Improved)",
-			"name": "Antitoxine (Amélioré)",
-			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
 		},
 		{
 			"id": "Body Guard",
@@ -235,19 +280,24 @@
 			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
 		},
 		{
+			"id": "Good Cop",
+			"name": "Bon Flic",
+			"description": "<p>Le personnage peut d&eacute;penser [AD][AD]&nbsp; obtenus lors d'<strong>un test de Charme ou de N&eacute;gociation&nbsp;</strong>pour am&eacute;liorer des d&eacute;s d'aptitude (autant que son rang de Bon Flic) d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain ou page 34 de&nbsp;</em>No Disintegrations<em> ou page 30 de </em>Cyphers and Masks<em>&nbsp;pour plus de d&eacute;tails.</em></p>"
+		},
+		{
 			"id": "Bought Info",
 			"name": "Bought Info",
 			"description": "Please see page 143 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
 		},
 		{
-			"id": "Brace",
-			"name": "Stabilité",
-			"description": "<p>Ex&eacute;cutez une manoeuvre pour retirer [SE] par rang de Stabilit&eacute; &agrave; votre prochaine action. Cela ne peut retirer que les [SE] li&eacute;s &agrave; l'environement.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 37 de&nbsp; </em>Rise of the Separatists.</p>"
+			"id": "Bound Together",
+			"name": "Bound Together",
+			"description": "Perform the Bound Together maneuver. Until the character's next turn, when the character or an ally within short range suffers strain involuntarily, they reduce the amount by the current number of lightside Destiny Points[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
 		},
 		{
-			"id": "Brace (Improved)",
-			"name": "Stabilité (Amélioré)",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+			"id": "Point Blank",
+			"name": "Bout portant",
+			"description": "Ajoutez 1 point de dégâts par rang de Bout portant à ceux d'une attaque réussie de Distance (armes lourdes) ou Distance (armes légères) effectuée à portée courte ou au contact. \n Page 133 du livre Aux confins de l'Empire ou page 144 de l'Age de la Rebellion pour plus de d&eacute;tails."
 		},
 		{
 			"id": "Brace (Supreme)",
@@ -268,6 +318,11 @@
 			"id": "Burly",
 			"name": "Burly",
 			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 34 - Forged in Battle[h4]"
+		},
+		{
+			"id": "By the Book",
+			"name": "By the Book",
+			"description": "Once per encounter before making a combat check, the character may suffer two strain to add [AD] to the results equal to his ranks in By the Book.[P][H3]Sources:[h3][H4]Page 111 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Bypass Security",
@@ -300,6 +355,21 @@
 			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
 		},
 		{
+			"id": "Utility Belt",
+			"name": "Ceinture à Gadgets",
+			"description": "<p>D&eacute;pensez 1 point de Destin pour &eacute;x&eacute;cuter une broutille; sortez d'une ceinture &agrave; outil ou d'une sacoche un objet ou une arme (sous certaines restrictions) ne figurant pas sur votre liste d'&eacute;quipement.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 159 de l'Age de la Rebellion ou&nbsp;</em><em>Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Utility Belt (Improved)",
+			"name": "Ceinture à Gadgets (Amélioré)",
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Center Of Being (Supreme)",
+			"name": "Center Of Being (Supreme)",
+			"description": "When the character performs the Center of Being maneuver, the effects apply to ranged attacks as well[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Center of Being",
 			"name": "Center of Being",
 			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
@@ -310,9 +380,29 @@
 			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Defensive Circle",
+			"name": "Cercle Défensif",
+			"description": "Entreprenez la manoeuvre Cercle défensif. Effectuez un test de Sabre laser Difficile ([Di][Di][Di]). Le personnage, plus un allié à portée courte par [SU], gagne X en défense jusqu'au début du tour suivant. X étant égal à 1 + 1 par [AD][AD]."
+		},
+		{
 			"id": "Channel Agony",
 			"name": "Channel Agony",
 			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
+		},
+		{
+			"id": "Hunter",
+			"name": "Chasseur",
+			"description": "<p>Ajoutez [BO] par rang de Chasseur &agrave; tous les tests concernant des interactions avec des b&ecirc;tes sauvages et des animaux (y compris les tests de combat). Ajoutez +10 par rang de Chasseur aux r&eacute;sultats des blessures critiques contre les b&ecirc;tes sauvages et les animaux.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 137 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion </em><em>pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Natural Hunter",
+			"name": "Chasseur-Né",
+			"description": "Une fois par partie, vous pouvez relancer 1 test de Perception ou de Vigilance."
+		},
+		{
+			"id": "Researcher",
+			"name": "Chercheur",
+			"description": "Retirez [SE] par rang de Chercheur aux tests de Connaissance. Les recherches entreprises prennent deux fois moins de temps."
 		},
 		{
 			"id": "Circle of Shelter",
@@ -325,6 +415,11 @@
 			"description": "\nPage 38 du livre the Rise of the Separatists pour plus de détails."
 		},
 		{
+			"id": "Clanker Killer (Improved)",
+			"name": "Clanker Killer (Improved)",
+			"description": "Decrease the critical rating of Brawl and melee attacks targeting droids by 1 per rank of Clanker Killer, to a minimum of 1[P][H3]Sources:[h3][H4]Page 37 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Clever Commander",
 			"name": "Clever Commander",
 			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
@@ -335,14 +430,14 @@
 			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, page 32 of the Fly Casual Sourcebook, or page 30 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 32 - Fly Casual[h4][H4]Page 30 - Endless Vigil[h4]"
 		},
 		{
-			"id": "Codebreaker",
-			"name": "Craqueur de Codes",
-			"description": "Retirez [SE] par rang de Craqueur de code aux tests pour percer un code ou décrypter des communications. Retirez 1 dé de difficulté aux tests pour percer un code ou décrypter des communications."
-		},
-		{
 			"id": "Combat Programming",
 			"name": "Combat Programming",
 			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Combat Veteran",
+			"name": "Combat Veteran",
+			"description": "The character adds [BO] to his Brawl and Discipline checks equal to his ranks in Combat Veteran.[P][H3]Sources:[h3][H4]Page 111 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Command",
@@ -365,14 +460,24 @@
 			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Comrades in Arms",
+			"name": "Comrades in Arms",
+			"description": "Once per encounter, take Comrades in Arms action and make a [B]Hard ([DI][DI][DI]) Discipline check[b]. If successful, the character plus one ally per [SU] within medium range gains +1 defense for the remainder of the encounter.[P][H3]Sources:[h3][H4]Page 111 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Comrades in Arms (Improved)",
+			"name": "Comrades in Arms (Improved)",
+			"description": "Spend [AD][AD][AD] or [TR] from Comrades in Arms check to also gain +1 soak or give one affected ally +1 soak.[P][H3]Sources:[h3][H4]Page 111 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Intense Focus",
+			"name": "Concentration Intense",
+			"description": "Effectuez une manoeuvre de Concentration intense : subissez 1 point de stress et améliorez 1 dé d'aptitude lors de votre prochain test."
+		},
+		{
 			"id": "Conditioned",
 			"name": "Conditioned",
 			"description": "Please see page 141 of the Force and Destiny Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
-		},
-		{
-			"id": "Confidence",
-			"name": "Aplomb",
-			"description": "Vous pouvez retirer 1 dé de difficulté par rang d'Aplomb aux tests de Sang-froid pour éviter la peur."
 		},
 		{
 			"id": "Confidence (Improved)",
@@ -385,14 +490,19 @@
 			"description": "Please see page 32 of the Far Horizons Sourcebook, page 32 of the Fly Casual Sourcebook, page 28 of the Disciples of Harmony Sourcebook, or page 32 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Far Horizons[h4][H4]Page 32 - Fly Casual[h4][H4]Page 28 - Disciples of Harmony[h4][H4]Page 32 - Unlimited Power[h4]"
 		},
 		{
-			"id": "Consider our Options",
-			"name": "Consider our Options",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+			"id": "Knowledge Specialization",
+			"name": "Connaissance Spécialisées",
+			"description": "Quand vous choisissez ce talent, choisissez une compétence de Connaissance. Lorsque vous effectuez un test avec cette compétence, vous pouvez dépenser [TR] pour gagner un nombre de [SU] supplémentaires égal à votre rang de Connaissances spécialisées."
 		},
 		{
-			"id": "Consider our Options (Improved)",
-			"name": "Consider our Options (Improved)",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+			"id": "Consider Our Optioins",
+			"name": "Consider Our Optioins",
+			"description": "Take the Consider Our Options action, make a [B]Hard ([DI][DI][DI]) Negotiation check[b]. Until the character's next turn, a chatacter who attacks them first suffers 2 strain, plus 1 strain per [SU][SU] on the character's check[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Consider Our Options (Improved)",
+			"name": "Consider Our Options (Improved)",
+			"description": "Allies within short range may also benefit from Consider Our Options[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
 		},
 		{
 			"id": "Constant Vigilance",
@@ -413,11 +523,6 @@
 			"id": "Contraption",
 			"name": "Contraption",
 			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
-		},
-		{
-			"id": "Convincing Demeanor",
-			"name": "Persuasion",
-			"description": "Retirez [SE] par rang de Persuasion aux tests de Tromperie et de Magouilles."
 		},
 		{
 			"id": "Coordinated Assault",
@@ -445,6 +550,21 @@
 			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Touch of Fate",
+			"name": "Coup de Pouce du Destin",
+			"description": "Une fois par partie, ajoutez [BO][BO] à n'importe quel test."
+		},
+		{
+			"id": "Coven",
+			"name": "Coven",
+			"description": "May take the Coven maneuver. On the character's next Force power check, they may reroll one [FO] for each ally with Coven within short range[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Codebreaker",
+			"name": "Craqueur de Codes",
+			"description": "Retirez [SE] par rang de Craqueur de code aux tests pour percer un code ou décrypter des communications. Retirez 1 dé de difficulté aux tests pour percer un code ou décrypter des communications."
+		},
+		{
 			"id": "Creative Design",
 			"name": "Creative Design",
 			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
@@ -465,6 +585,11 @@
 			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
 		},
 		{
+			"id": "Cruel Commander",
+			"name": "Cruel Commander",
+			"description": "May use ranks in Coercion to upgrdae Mass Combat checks instead of ranks in Leadership[P][H3]Sources:[h3][H4]Page 35 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Cunning Persona",
 			"name": "Cunning Persona",
 			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
@@ -478,6 +603,11 @@
 			"id": "Custom Loadout",
 			"name": "Custom Loadout",
 			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Tinkerer",
+			"name": "Customisation",
+			"description": "<p>Vous pouvez ajouter 1 emplacement &agrave; un nombre d'objet &eacute;gal &agrave; votre rang en Customization. Chaque objet ne peut &ecirc;tre modifi&eacute; qu'une fois.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Customized Cooling Unit",
@@ -510,6 +640,16 @@
 			"description": "<p>Choississez 1 comp&eacute;tence de combat au moment de l'acquisition de ce talent. Ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre rang de Pr&eacute;cision mortelle &agrave; un coup d'une attaque r&eacute;ussie utilisant cette comp&eacute;tence.</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion ou page 39 de&nbsp;</em>Rise of the Separatists<em>&nbsp;</em>pour plus de d&eacute;tails.</p>"
 		},
 		{
+			"id": "Death From Above",
+			"name": "La mort venue du ciel",
+			"description": "Une fois par rencontre, faîtes l'action 'la mort venue du ciel', infligez 1 point de stress sur un jetpack et faîtes un jet [DI][DI][DI] de pilotage planétaire. Pour chaque [SU], un adversaire à courte portée est mis au sol. Peut dépenser un [TR] pour étourdir une cible."
+		},
+		{
+			"id": "Death from Above",
+			"name": "La mort venue du ciel",
+			"description": "Once per encounter while using a jetpack, the character may take the Death from Above action, inflicing 1 system strain on their jetpack and making a [B]Hard ([DI][DI][DI])piloting (planetary) check[b]. If the check is successful, for each [SU], one adversary of silhouette 0 or 1 within short range is knocked prone. The character may spend [TRIUMPH] from teh check to stagger one affected adversary until the end of that adversary's next turn.[P][H3]Sources:[h3][H4]Page 29 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Deathblow",
 			"name": "Deathblow",
 			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
@@ -525,16 +665,6 @@
 			"description": "Please see page 32 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Far Horizons[h4]"
 		},
 		{
-			"id": "Dedication",
-			"name": "Entraînement",
-			"description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>"
-		},
-		{
-			"id": "Defensive Circle",
-			"name": "Cercle Défensif",
-			"description": "Entreprenez la manoeuvre Cercle défensif. Effectuez un test de Sabre laser Difficile ([Di][Di][Di]). Le personnage, plus un allié à portée courte par [SU], gagne X en défense jusqu'au début du tour suivant. X étant égal à 1 + 1 par [AD][AD]."
-		},
-		{
 			"id": "Defensive Driving",
 			"name": "Defensive Driving",
 			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
@@ -548,11 +678,6 @@
 			"id": "Defensive Slicing (Improved)",
 			"name": "Defensive Slicing (Improved)",
 			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
-		},
-		{
-			"id": "Defensive Stance",
-			"name": "Garde Stratégique",
-			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque attaque de corps &agrave; corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas d&eacute;passer votre d&eacute;passer votre rang en Garde strat&eacute;gique.</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Defensive Training",
@@ -575,9 +700,24 @@
 			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
 		},
 		{
+			"id": "Diplomatic Immunity",
+			"name": "Diplomatic Immunity",
+			"description": "As an out-of-turn incidental, the character spends one Destiny Point and adversaries cannot choose them as a target of a combat check until the end of their next turn[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Disarming Smile",
 			"name": "Disarming Smile",
 			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+		},
+		{
+			"id": "Disciple of Lore",
+			"name": "Disciple of Lore",
+			"description": "Once per round, may suffer 1 strain to decrease the difficulty of nest Knowledge (Lore) check a number of times equal to ranks in Disciple of Lore.[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Disciplined Soul",
+			"name": "Disciplined Soul",
+			"description": "Spend one Destiny Point after making a Discipline check to spend a number of [TH] not exceeding ranks in Knowledge (Lore) as [AD].[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Discredit",
@@ -588,6 +728,11 @@
 			"id": "Disorient",
 			"name": "Disorient",
 			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 39 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 39 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Disorienting Strike",
+			"name": "Disorienting Strike",
+			"description": "After failing a Lightsaber combat check, may spend [AD][AD] or [TR] to disorient opponents for three rounds.[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Disruptive Strike",
@@ -613,11 +758,6 @@
 			"id": "Dockyard Expertise",
 			"name": "Dockyard Expertise",
 			"description": "Please see page 30 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Fully Operational[h4]"
-		},
-		{
-			"id": "Dodge",
-			"name": "Esquive",
-			"description": "<p>Quand il est la cible d'une attaque (Distance ou au corps &agrave; corps), le personnage peut choisir de subir aussit&ocirc;t un certain nombre de points de stress, puis d'am&eacute;liorer autant de d&eacute;s de difficult&eacute; du test de combat. Le nombre de points de stress subis ne peut d&eacute;passer son rang d'<em>Esquive</em>.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Dodge (Improved)",
@@ -655,6 +795,11 @@
 			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
 		},
 		{
+			"id": "Double-Talk",
+			"name": "Double-Talk",
+			"description": "The character may spend [AD][AD] or [TR] from a successful Charm or Deception check to disorient a number of opponents within short range equal to his Presence for remainder of round and next two rounds.[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Draw Closer",
 			"name": "Draw Closer",
 			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
@@ -663,6 +808,11 @@
 			"id": "Drive Back",
 			"name": "Drive Back",
 			"description": "Please see page 419 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 419 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Droid Commander",
+			"name": "Droid Commander",
+			"description": "Once per encounter may perform Field Commander as a maneuber instead of an action. All affected allies must be droids[P][H3]Sources:[h3][H4]Page 35 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Duelist's Training",
@@ -678,6 +828,21 @@
 			"id": "Dynamic Fire",
 			"name": "Dynamic Fire",
 			"description": "Please see page 146 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Street Smarts",
+			"name": "Dégourdi",
+			"description": "Retirez [SE] par rang de Dégourdi à vos tests de Connaissance (pègre) et de Système D."
+		},
+		{
+			"id": "Reflect",
+			"name": "Dévier",
+			"description": "Lorsque vous êtes touché par une attaque à distance, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Dévier."
+		},
+		{
+			"id": "Reflect (Improved)",
+			"name": "Dévier (Amélioré)",
+			"description": "Quand vous déviez un tir qui a généré [DE] ou [TH][TH][TH], une fois l'attaque initiale résolue, vous pouvez toucher une cible à portée moyenne, infligeant les mêmes dégâts que le tir initial."
 		},
 		{
 			"id": "Embrace Your Hate",
@@ -705,6 +870,21 @@
 			"description": "<p>Augmentez votre valeur d'encaissement de +1.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 100 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
+			"id": "Toughened",
+			"name": "Endurci",
+			"description": "<p>Augmentez votre seuil de blessure de +2.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Toughened (Improved)",
+			"name": "Endurci (Amélioré)",
+			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Enduring Presence",
+			"name": "Enduring Presence",
+			"description": "Once per session the character may upgrade a Mass Combat check even if the characer is not present or is prevented from communicating with their troops[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Energy Transfer",
 			"name": "Energy Transfer",
 			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
@@ -718,6 +898,31 @@
 			"id": "Enhanced Leader",
 			"name": "Enhanced Leader",
 			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Dedication",
+			"name": "Entraînement",
+			"description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Sleight of Mind",
+			"name": "Esprit furtif",
+			"description": "Ajouter [BO] à tous les tests de Discretion, sauf quand l'opposition est immunisée conre les pouvoirs de la Force."
+		},
+		{
+			"id": "Dodge",
+			"name": "Esquive",
+			"description": "<p>Quand il est la cible d'une attaque (Distance ou au corps &agrave; corps), le personnage peut choisir de subir aussit&ocirc;t un certain nombre de points de stress, puis d'am&eacute;liorer autant de d&eacute;s de difficult&eacute; du test de combat. Le nombre de points de stress subis ne peut d&eacute;passer son rang d'<em>Esquive</em>.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Side Step",
+			"name": "Esquive Instinctive",
+			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre d'Esquive et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque test de combat &agrave; distance qui vous vise lors du round suivant. Le stress ainsi subit ne doit pas d&eacute;passer votre rang d'esquive instinctive.</p>\n<p>&nbsp;</p>\n<p><em>Page 142 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 151 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Preemptive Avoidance",
+			"name": "Esquive Préventive",
+			"description": "Vous pouvez dépenser 1 point de Destin pour rompre le contact avec un ennemi en tant que broutille hors tour."
 		},
 		{
 			"id": "Essential Kill",
@@ -740,6 +945,11 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
+			"id": "Exemplar of the Republic",
+			"name": "Exemplar of the Republic",
+			"description": "Add [FO] to mass combat checks up to Force rating and spend [FP] to add [SU] or [AD] to the result[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Exhaust Port",
 			"name": "Exhaust Port",
 			"description": "Please see page 146 of the Age of Rebellion Core Rulebook, or page 142 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
@@ -755,14 +965,29 @@
 			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
 		},
 		{
-			"id": "Expert Tracker",
-			"name": "Pisteur Chevronné",
-			"description": "<p>Retirez [SE] par rang de Pisteur chevronn&eacute; aux tests effectu&eacute;s pour suivre ou touver des traces. R&eacute;duisez de moiti&eacute; le temps n&eacute;cessaire pour suivre une cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+			"id": "Master of Shadows",
+			"name": "Expert en Discrétion",
+			"description": "<p>Une fois par round, le personnage peut choisir de subir 2 points de stress pour r&eacute;duire de 1 d&eacute; la difficult&eacute; de son prochain test de Discr&eacute;tion ou de Magouilles.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Extended Reach",
+			"name": "Extended Reach",
+			"description": "While armed with a two-handed melee weapon, may suffer one strain to make a Melee combat check with that weapon targeting an enemy at up to short range (rather than engaged range).[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Eye for Detail",
 			"name": "Eye for Detail",
 			"description": "See page 34 of the Special Modifications Sourcebook, or page 30 of the Fully Operational Sourcebook, for details..[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4][H4]Page 30 - Fully Operational[h4]"
+		},
+		{
+			"id": "Something to Prove",
+			"name": "Faire ses preuves",
+			"description": "Une par partie, le personnage peut subir 4 points de stress dans le but de relancer un jet raté. Si le nouveau jet réussi, il récupère ses 4 points de stress.  </p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Fall Back",
+			"name": "Fall Back",
+			"description": "While engaged with an opponent, the characer may suffer a number of strain up to their Leadership to allow an equal number of allies engaged with theat oppnent to immediately disengage as an out of turn incidental[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Falling Avalanche",
@@ -795,6 +1020,11 @@
 			"description": "Please see page 142 of the Force and Destiny Core Rulebook, or page 32 of Dangerous Covenants, for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Fearsome Rep",
+			"name": "Fearsome Rep",
+			"description": "Add automatic [AD] to the results of Coercion checks equal to ranks in Fearsome Rep.[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Feint",
 			"name": "Feint",
 			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
@@ -813,6 +1043,11 @@
 			"id": "Field Commander (Improved)",
 			"name": "Field Commander (Improved)",
 			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Stalker",
+			"name": "Filature",
+			"description": "<p>Ajoutez [BO] par rang de Filature &agrave; tous vos tests de Coordination et de Discretion.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion</em></p>"
 		},
 		{
 			"id": "Fine Tuning",
@@ -840,6 +1075,11 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
+			"id": "Flows Through All Things",
+			"name": "Flows Through All Things",
+			"description": "The character may perform a maneuver to recover strain equal to their Force rating[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Flyer",
 			"name": "Flyer",
 			"description": "This mount can fly.  When on the ground, it's Speed is reduced to 1.[P][H3]Sources:[h3][H4]Page 85 - Stay on Target[h4]"
@@ -850,14 +1090,9 @@
 			"description": "Please see page 32 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Unlimited Power[h4]"
 		},
 		{
-			"id": "For the Republic!",
-			"name": "For the Republic!",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
-		},
-		{
-			"id": "Forager",
-			"name": "Subsistance",
-			"description": "<p>Retirez jusqu'&agrave; [SE][SE] aux tests de comp&eacute;tence pour trouver de la nourriture, de l'eau ou un abri. Ces tests de Survie prennent moiti&eacute; moins de temps que la normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 147 de l'Age de la Rebellion ou page 143 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+			"id": "For The Republic",
+			"name": "For The Republic",
+			"description": "When an ally is incapacitated or killed, the character can make a [B]Daunting ([DI][DI][DI][DI]) Leadership check[b]. If successful, the ally is not defeated until the end of the following round.[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
 		},
 		{
 			"id": "Force Assault",
@@ -875,11 +1110,6 @@
 			"description": "Please see page 143 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
-			"id": "Force Rating",
-			"name": "Valeur de Force",
-			"description": "+1 à la valeur de Force."
-		},
-		{
 			"id": "Force of Will",
 			"name": "Force of Will",
 			"description": "Please see page 147 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
@@ -893,6 +1123,21 @@
 			"id": "Form On Me",
 			"name": "Form On Me",
 			"description": "Please see page 147 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Formation Tactics",
+			"name": "Formation Tactics",
+			"description": "May take the Formation Tactics action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, he may choose a number of allies within short range equal to [SU] generated. Upgrade the difficulty of attacks against these allies once until the end of his next turn.[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4][H4]Page 22 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Formation Tactics (Improved)",
+			"name": "Formation Tactics (Improved)",
+			"description": "The difficulty of Formation Tactics is reduced to [B]Average ([DI][DI])[b]. May spend [TR] or [AD][AD][AD][AD][AD][AD] to have effect last until the end of encounter.[P][H3]Sources:[h3][H4]Page 112 - Dawn of Rebellion[h4][H4]Page 22 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Mental Fortress",
+			"name": "Forteresse Mentale",
+			"description": "Dépensez 1 point de Destin pour ignorer les effets des blessures critiques aux tests d'Intelligence et de Ruse jusqu'à la fin de la rencontre."
 		},
 		{
 			"id": "Fortified Vacuum Seal",
@@ -945,19 +1190,24 @@
 			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 144 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Defensive Stance",
+			"name": "Garde Stratégique",
+			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque attaque de corps &agrave; corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas d&eacute;passer votre d&eacute;passer votre rang en Garde strat&eacute;gique.</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 141 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
 			"id": "Gearhead",
 			"name": "Gearhead",
 			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, or page 148 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
+			"id": "Get The Drop",
+			"name": "Get The Drop",
+			"description": "Once per session, the character and any number of allies in the encounter may add [SU] equal to the character's rank in Stealth to their checks to determine initiative[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Go Without",
 			"name": "Go Without",
 			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
-		},
-		{
-			"id": "Good Cop",
-			"name": "Bon Flic",
-			"description": "<p>Le personnage peut d&eacute;penser [AD][AD]&nbsp; obtenus lors d'<strong>un test de Charme ou de N&eacute;gociation&nbsp;</strong>pour am&eacute;liorer des d&eacute;s d'aptitude (autant que son rang de Bon Flic) d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain ou page 34 de&nbsp;</em>No Disintegrations<em> ou page 30 de </em>Cyphers and Masks<em>&nbsp;pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Grapple",
@@ -968,11 +1218,6 @@
 			"id": "Greased Palms",
 			"name": "Greased Palms",
 			"description": "Please see page 148 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
-		},
-		{
-			"id": "Grit",
-			"name": "Robustesse",
-			"description": "<p>Augmentez votre seuil de stress de +1</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 144 de Force et Destin&eacute;e&nbsp;</em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Guardian of the Republic",
@@ -990,19 +1235,14 @@
 			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
 		},
 		{
-			"id": "Hard Headed",
-			"name": "Tête dure",
-			"description": "<p>Lorsque vous &ecirc;tes &eacute;tourdi ou d&eacute;sorient&eacute;, entreprenez l'action de T&ecirc;te dure : effectuez un <strong>test de Sang-froid Intimidant ([DI][DI][DI][DI])</strong> pour vous d&eacute;barasser de ce statut. La difficult&eacute; diminue de 1 par rang suppl&eacute;mentaire de T&ecirc;te dure.</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de&nbsp;</em>Knights of Fate<em>&nbsp;pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Hard Headed (Improved)",
-			"name": "Tête dure (Amélioré)",
-			"description": "<p>Le personnage peut utiliser son action de&nbsp;<em>T&ecirc;te dure&nbsp;</em>quand il est neutralis&eacute; pour avoir d&eacute;pass&eacute; son seuil de stress. En cas de succ&egrave;s, il ram&egrave;ne son stress a un point au-dessous de son seuil.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de Knights of Fate</em></p>"
-		},
-		{
 			"id": "Hard-Boiled",
 			"name": "Hard-Boiled",
 			"description": "Please see page 34 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - No Disintegrations[h4]"
+		},
+		{
+			"id": "One With the Universe",
+			"name": "Harmonie avec l'Univers",
+			"description": "Une fois par session de jeu, méditez puis accomplissez l'action Harmonie avec l'univers : effectuez un test d'Astrogation Moyen ([DI][DI]). S'il est réussi, ajoutez [LI] à tous les tests des pouvoirs de la Force au cours de la prochaine rencontre. Si le test d'Astrogation est réussi avec un [DE], ajoutez [DA] à la place."
 		},
 		{
 			"id": "Hawk Bat Swoop",
@@ -1035,11 +1275,6 @@
 			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
-			"id": "Heroic Fortitude",
-			"name": "Résistance Héroïque",
-			"description": "<p>Vous pouvez d&eacute;penser 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Vigueur et d'Agilit&eacute; jusqu'a la fin de la rencontre.</p>\n<p>&nbsp;</p>\n<p><em>Page 137du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>\n<p>&nbsp;</p>"
-		},
-		{
 			"id": "Heroic Resilience",
 			"name": "Heroic Resilience",
 			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 35 - Forged in Battle[h4]"
@@ -1065,6 +1300,11 @@
 			"description": "Please see page 34 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - No Disintegrations[h4]"
 		},
 		{
+			"id": "Hit And Run",
+			"name": "Tirer et bouger",
+			"description": "Après qu'un personnage ait fini une attaque ciblant un adversaire avec lequel il est engagé, le personnage peut se déplacer à portée courte immédiatement."
+		},
+		{
 			"id": "Hold Together",
 			"name": "Hold Together",
 			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
@@ -1073,11 +1313,6 @@
 			"id": "Holistic Navigation",
 			"name": "Holistic Navigation",
 			"description": "See page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
-		},
-		{
-			"id": "Hunter",
-			"name": "Chasseur",
-			"description": "<p>Ajoutez [BO] par rang de Chasseur &agrave; tous les tests concernant des interactions avec des b&ecirc;tes sauvages et des animaux (y compris les tests de combat). Ajoutez +10 par rang de Chasseur aux r&eacute;sultats des blessures critiques contre les b&ecirc;tes sauvages et les animaux.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 137 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion </em><em>pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Hunter's Quarry",
@@ -1095,6 +1330,26 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 39 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
+			"id": "Ichor Blade",
+			"name": "Ichor Blade",
+			"description": "The character chooses one Melee or Brawl weapon they possess, which gains the Cortosis and Pierce 2 qualities and reduces its critical rating by 1 to a minimum of 1. If the weapon is lost or destroyed, the character can apply Ichor Blade to a new weapon[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Ichor Blade (Improved)",
+			"name": "Ichor Blade (Improved)",
+			"description": "The chosen weapon also gains the Sunder quality and Defensive 1 quality and increases its damage by 2[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Ichor Reserve",
+			"name": "Ichor Reserve",
+			"description": "Once per session as a maneuver, the charcter may suffer 2 strain to increase Force rating by 1 until the end of the encounter[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Ichor Transfusion",
+			"name": "Ichor Transfusion",
+			"description": "Once per encounter, the character may perform the Ichor Transfusion maneuver to heal any number of strain by suffering that number of wounds +1. The character may instead heal any number of wounds by suffering that number of strain +1[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Idealist",
 			"name": "Idealist",
 			"description": "Please see page 62 of the Jewel of Yavin adventure for details.[P][H3]Sources:[h3][H4]Page 62 - Jewel of Yavin[h4]"
@@ -1110,9 +1365,24 @@
 			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Sincerest Flattery",
+			"name": "Imitation",
+			"description": "Une fois par rencontre quand le personnage fait le jet d'une compétence déjà utilisée dans la rencontre par un autre personnage, ils ajoutent [BO][BO]. </p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
 			"id": "Impossible Fall",
 			"name": "Impossible Fall",
 			"description": "Please see page 31 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4]"
+		},
+		{
+			"id": "Improved Overcharge",
+			"name": "Improved Overcharge",
+			"description": "May spend [AD][AD] or [TR] from Overcharge action to immediately take another action.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
+			"id": "Improved Speaks Binary",
+			"name": "Improved Speaks Binary",
+			"description": "When directing NPC droids, those droids grand additional [BO] in addition to other benefits.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
 		},
 		{
 			"id": "Improvised Concoction",
@@ -1140,14 +1410,9 @@
 			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
 		},
 		{
-			"id": "In The Know",
-			"name": "In The Know",
-			"description": "Please see page 33 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
-		},
-		{
-			"id": "In The Know (Improved)",
-			"name": "In The Know (Improved)",
-			"description": "Please see page 33 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
+			"id": "In the Know (Improved)",
+			"name": "In the Know (Improved)",
+			"description": "Once per session, make an [B]opposed Decepetion vs Vigilance[b] check with the difficulty downgraded once per rank of In the Know to have a target NPC believe specific false intelligence.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4]"
 		},
 		{
 			"id": "Incite Distraction",
@@ -1160,11 +1425,6 @@
 			"description": "Please see page 149 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
-			"id": "Indistinguishable",
-			"name": "Quelconque",
-			"description": "Améliorez 1 dé de difficulté des tests visant à vous identifier par rang de Quelconque."
-		},
-		{
 			"id": "Indistinguishable (Improved)",
 			"name": "Indistinguishable (Improved)",
 			"description": "Please see page 30 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Cyphers and Masks[h4]"
@@ -1175,14 +1435,29 @@
 			"description": "Please see page 30 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Knights of Fate[h4]"
 		},
 		{
+			"id": "Valuable Facts",
+			"name": "Info Précieuse",
+			"description": "Une fois par rencontre, accomplissez une action Info précieuse : efffectuez un test de connaissance Moyen ([DI][DI]). S'il est réussi, ajoutez [TR] au test de compétence d'un allié pendant la rencontre."
+		},
+		{
 			"id": "Informant",
 			"name": "Informant",
 			"description": "Please see page 33 of the Desperate Allies Sourcebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4][H4]Page 34 - No Disintegrations[h4]"
 		},
 		{
+			"id": "Ingrained Loyalty",
+			"name": "Ingrained Loyalty",
+			"description": "When the character makes a Leadership check trageting on eor more clones, they may change the resilt of one [CH] to any non-blank face[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Inner Peace",
 			"name": "Inner Peace",
 			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+		},
+		{
+			"id": "Slippery Minded",
+			"name": "Insaisissable",
+			"description": "Si vous êtes sous l'effet d'un pouvoir de la Force, entreprenez l'action Insaisissable : effectuez un test de Tromperie Difficile ([DI][DI][DI]) pour mettre un terme immédiat aux effets de ce pouvoir."
 		},
 		{
 			"id": "Inside Knowledge",
@@ -1195,9 +1470,14 @@
 			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
 		},
 		{
-			"id": "Insight",
-			"name": "Intuition",
-			"description": "Perception et Sang-froid deviennent des compétences de carrière."
+			"id": "Inspiring Kill",
+			"name": "Inspiring Kill",
+			"description": "The character may spend 1 Destiny Point to take the Inspiring Kill maneuver after incapacitating or inflicting a Critical Injury.  Roll [FO] no greater than force Rating and spend [FP] to heal 2 strain from each ally within medium range[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Inspiring Leadership",
+			"name": "Inspiring Leadership",
+			"description": "Take the Inspiring Leadership action by making an [B]Average ([DI][DI]) Leadership check[b]. If successful, a number of allies not exceeding his rating in Presence within short range add automatic [SU] to their next skill check.[P][H3]Sources:[h3][H4]Page 113 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Inspiring Rhetoric",
@@ -1215,11 +1495,6 @@
 			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
-			"id": "Intense Focus",
-			"name": "Concentration Intense",
-			"description": "Effectuez une manoeuvre de Concentration intense : subissez 1 point de stress et améliorez 1 dé d'aptitude lors de votre prochain test."
-		},
-		{
 			"id": "Intense Presence",
 			"name": "Intense Presence",
 			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
@@ -1232,7 +1507,12 @@
 		{
 			"id": "Intimidating",
 			"name": "Intimidating",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"description": "Vous pouvez subir un certain nombre de points de stress pour dégrader autant de dés de difficulté des tests de Coercition que vous effectuez, ou pour améliorer autant de dés de difficulté des test de Coercition qui vous prennent pour cible. Le stress ainsi subi ne peut pas dépasser votre rang en intimidation."
+		},
+		{
+			"id": "Insight",
+			"name": "Intuition",
+			"description": "Perception et Sang-froid deviennent des compétences de carrière."
 		},
 		{
 			"id": "Intuitive Evasion",
@@ -1280,19 +1560,24 @@
 			"description": "Please see page 28 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 28 - Disciples of Harmony[h4]"
 		},
 		{
+			"id": "Kill With Kindness",
+			"name": "Irrésistible",
+			"description": "Retirez [SE] par rang d'Irrésistible à tous vos tests de Charme et de Commandement."
+		},
+		{
 			"id": "It's Not that Bad",
 			"name": "It's Not that Bad",
 			"description": "Please see page 150 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
-			"id": "Jump Up",
-			"name": "Jump Up",
-			"description": "<p>Une fois par round, qu'il soit assis ou a terre, le personnage peut, &agrave; son tour, se relever au prix d'une broutille.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 146 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
+			"id": "Jetpack Expertise",
+			"name": "Jetpack Expertise",
+			"description": "Le personnage peut dépenser [AD] d'un jet de combat pour enlever 1 point de stress de son jetpack. (Peux dépenser plusieurs [AD] quand il choisit cet effet)."
 		},
 		{
-			"id": "Jury Rigged",
-			"name": "Bidouillage",
-			"description": "<p>Choississez 1 arme, armure ou autre objet et offrez-lui une am&eacute;lioration valable permanente tant qu'il/elle est utilis&eacute;(e).</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+			"id": "Jump Up",
+			"name": "Ressort",
+			"description": "<p>Une fois par round, qu'il soit assis ou a terre, le personnage peut, &agrave; son tour, se relever au prix d'une broutille.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 150 de l'Age de la Rebellion ou page 146 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Just Kidding!",
@@ -1303,16 +1588,6 @@
 			"id": "Juyo Savagery",
 			"name": "Juyo Savagery",
 			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
-		},
-		{
-			"id": "Keen Eyed",
-			"name": "Oeil Aiguisé",
-			"description": "Retirez [SE] par rang en Oeil aiguisé à tous les tests de Perception ou de Vigilance. Divisez par deux le temps nécessaire pour fouiller un lieu."
-		},
-		{
-			"id": "Kill With Kindness",
-			"name": "Irrésistible",
-			"description": "Retirez [SE] par rang d'Irrésistible à tous vos tests de Charme et de Commandement."
 		},
 		{
 			"id": "Knockdown",
@@ -1335,14 +1610,14 @@
 			"description": "Please see page 31 of the Cyhers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Cyphers and Masks[h4]"
 		},
 		{
+			"id": "Know the Enemy",
+			"name": "Know the Enemy",
+			"description": "The character may use Knowledge (Warfare) skill when making checks to determine Initiative.[P][H3]Sources:[h3][H4]Page 113 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Know-It-All",
 			"name": "Know-It-All",
 			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
-		},
-		{
-			"id": "Knowledge Specialization",
-			"name": "Connaissance Spécialisées",
-			"description": "Quand vous choisissez ce talent, choisissez une compétence de Connaissance. Lorsque vous effectuez un test avec cette compétence, vous pouvez dépenser [TR] pour gagner un nombre de [SU] supplémentaires égal à votre rang de Connaissances spécialisées."
 		},
 		{
 			"id": "Knowledge is Power",
@@ -1350,19 +1625,49 @@
 			"description": "Please see page 103 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 103 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Knowledge is Strength",
+			"name": "Knowledge is Strength",
+			"description": "Once per session when making a check, the character may increase their Force rating by their ranks in Knowledge(Warfare)[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Knowledgeable Healing",
 			"name": "Knowledgeable Healing",
 			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
-			"id": "Known Schematic",
-			"name": "Schémas Connus",
-			"description": "<p>Une fois par partie, ex&eacute;cutez la manoeuvre de Sch&eacute;mas connus : effectuez un <strong>test de Connaissance (Education) Difficile ([DI][DI][DI])</strong>. Un succ&egrave;s signifie que vous connaissez bien le plan d'un b&acirc;timent ou d'un vaisseau.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+			"id": "Known Programming",
+			"name": "Known Programming",
+			"description": "Once per session, make a [B]Hard ([DI][DI][DI]) Vigilance check[b] to upgrade the difficulty of a certain droid model's check against the character, plus one ally per [SU] after the first, once for the rest of the encounter[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Known Programming (Improved)",
+			"name": "Known Programming (Improved)",
+			"description": "Allies affected by Known Programming also upgrade the ability of their checks targeting the chose droid model once[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Knows the Ropes",
+			"name": "Knows the Ropes",
+			"description": "Add [BO] to checks made to escape from restraints equal to ranks in Knowledge (Underworld). Spend [TR] to free all other allies withing short range.[P][H3]Sources:[h3][H4]Page 113 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Koiogran Turn",
 			"name": "Koiogran Turn",
 			"description": "Please see page 32 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Stay on Target[h4]"
+		},
+		{
+			"id": "The Force Is My Ally",
+			"name": "La Force est mon Alliée",
+			"description": "Une fois par session de jeu, vous pouvez subir 2 points de stress afin d'accomplir une action de pouvoir de la Force en tant que manoeuvre."
+		},
+		{
+			"id": "Beginner's Luck",
+			"name": "La chance du débutant",
+			"description": "Une fois par partie quand le personnage fait un jet, il peut ajouter autant de [SU] que de [LI] dans la réserve de Points de Destinée.  </p>\n<p>&nbsp;</p>\n<p><em>Page 37 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Speaks Binary",
+			"name": "Langage Binaire",
+			"description": "<p>Quand vous donnez des ordres aux droids PNJ, vous gagnez [BO] aux tests par rang de Langage Binaire.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion ou page 35 de Modifications sp&eacute;ciales pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Larger Project",
@@ -1375,9 +1680,14 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
-			"id": "Learning Opportunity",
-			"name": "Opportunité d'apprentissage",
-			"description": "Une fois par tour, si le personnage rate son jet, il peut dépenser [AD][AD][AD] pour améliorer son prochain jet une fois. Page 40 du livre the Rise of the Separatists pour plus de détails."
+			"id": "Lead From The Back",
+			"name": "Lead From The Back",
+			"description": "Once per round, may spend 1 Destiny Point to redirect a successful attack against the character to an allied NPC[P][H3]Sources:[h3][H4]Page 35 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Lead From the Front",
+			"name": "Lead From the Front",
+			"description": "After succeeding on a Leadership check or other check to inspire, lead, or rally an audience, the character may spend 1 Destiny Point to upgrdae the ability of the next combat check made by all allies within short range[P][H3]Sources:[h3][H4]Page 35 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Let's Ride",
@@ -1393,6 +1703,11 @@
 			"id": "Leverage",
 			"name": "Leverage",
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Anatomy Lessons",
+			"name": "Leçons d'Anatomie",
+			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque le personnage peut d&eacute;penser 1 point de Destin pour ajouter des d&eacute;gats &eacute;gaux &agrave; son Intelligence &agrave; un coup de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 142 de l'Age de la Rebellion </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Loom",
@@ -1480,6 +1795,11 @@
 			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
+			"id": "Master Of The Order",
+			"name": "Master Of The Order",
+			"description": "The character can spend 2 Destiny Points during a single action[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Master Pilot",
 			"name": "Master Pilot",
 			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
@@ -1500,11 +1820,6 @@
 			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
 		},
 		{
-			"id": "Master of Shadows",
-			"name": "Expert en Discrétion",
-			"description": "<p>Une fois par round, le personnage peut choisir de subir 2 points de stress pour r&eacute;duire de 1 d&eacute; la difficult&eacute; de son prochain test de Discr&eacute;tion ou de Magouilles.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
-		},
-		{
 			"id": "Meditative Trance",
 			"name": "Meditative Trance",
 			"description": "Please see page 29 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 29 - Disciples of Harmony[h4]"
@@ -1518,11 +1833,6 @@
 			"id": "Mental Bond",
 			"name": "Mental Bond",
 			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
-		},
-		{
-			"id": "Mental Fortress",
-			"name": "Forteresse Mentale",
-			"description": "Dépensez 1 point de Destin pour ignorer les effets des blessures critiques aux tests d'Intelligence et de Ruse jusqu'à la fin de la rencontre."
 		},
 		{
 			"id": "Mental Tools",
@@ -1545,9 +1855,19 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
+			"id": "Momentum",
+			"name": "Elan Mortel",
+			"description": "Quand un personnage réalise une attaque au corps à corps, il ajoute des dégats égaux aux nombres de portée que le personnage a parcouru durant ce tour."
+		},
+		{
 			"id": "More Machine Than Man",
 			"name": "More Machine Than Man",
 			"description": "See page 34 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Special Modifications[h4]"
+		},
+		{
+			"id": "Most Impressive",
+			"name": "Most Impressive",
+			"description": "Spend [TR] from any skill check to allow a number of alies not exceeding the character's rating in Presence within short range to add automatic [AD] to their next check.[P][H3]Sources:[h3][H4]Page 113 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Moving Target",
@@ -1565,6 +1885,11 @@
 			"description": "Please see page 30 of Enter the Unknown for details.[P][H3]Sources:[h3][H4]Page 30 - Enter the Unknown[h4]"
 		},
 		{
+			"id": "Bad Cop",
+			"name": "Méchant Flic",
+			"description": "<p>Le personnage peut d&eacute;penser [AD][AD] obtenus lors d'un <strong>test de Coercition ou de Tromperie</strong> pour am&eacute;liorer des d&eacute;s d'aptitude d'un test d'interaction sociale effectu&eacute; par un alli&eacute; contre la m&ecirc;me cible. Le nombre de d&eacute;s am&eacute;lior&eacute;s est &eacute;gal au rang de <em>M&eacute;chant Flic</em>..</p>\n<p><em>Page 33 du livre Horizon lointain </em><em>ou page 30 de&nbsp;</em>Cyphers and Masks<em> pour plus de d&eacute;tails.</em></p>"
+		},
+		{
 			"id": "Natural Athlete",
 			"name": "Natural Athlete",
 			"description": "Please see page 33 of the Far Horizons Sourcebook, or page 31 of the Cyphers and Masks Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Far Horizons[h4][H4]Page 31 - Cyphers and Masks[h4]"
@@ -1580,9 +1905,19 @@
 			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
+			"id": "Natural Champion",
+			"name": "Natural Champion",
+			"description": "Once per session may reroll any 1 Leadership or Lightsaber check[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Natural Charmer",
 			"name": "Natural Charmer",
 			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 147 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Natural Commando",
+			"name": "Natural Commando",
+			"description": "Once per session, the character may reroll one Ranged (Light) or Stealth check[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Natural Doctor",
@@ -1600,11 +1935,6 @@
 			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
-			"id": "Natural Hunter",
-			"name": "Chasseur-Né",
-			"description": "Une fois par partie, vous pouvez relancer 1 test de Perception ou de Vigilance."
-		},
-		{
 			"id": "Natural Instructor",
 			"name": "Natural Instructor",
 			"description": "See page 33 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Lead by Example[h4]"
@@ -1613,11 +1943,6 @@
 			"id": "Natural Leader",
 			"name": "Natural Leader",
 			"description": "Please see page 153 of the Age of Rebellion Core Rulebook, page 148 of the Force and Destiny Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
-		},
-		{
-			"id": "Natural Marksman",
-			"name": "Tireur-Né",
-			"description": "Une fois par séance de jeu, vous pouvez relancer 1 test de Distance (armes légères) ou de Distance (armes lourdes). \n Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion</em>pour plus de d&eacute;tails."
 		},
 		{
 			"id": "Natural Merchant",
@@ -1630,19 +1955,9 @@
 			"description": "Please see page 148 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
-			"id": "Natural Negotiator",
-			"name": "Négociateur-Né",
-			"description": "Une fois par session de jeu, vous pouvez relancer un test de Calme ou de Négociation."
-		},
-		{
 			"id": "Natural Operator",
 			"name": "Natural Operator",
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
-		},
-		{
-			"id": "Natural Outdoorsman",
-			"name": "Baroudeur-Né",
-			"description": "<p>Une fois par partie, vous pouvez relancer 1 test de R&eacute;sistance ou de Survie.</p>\n<p>&nbsp;</p>\n<p><em>Page 139 du livre Aux confins de l'Empire ou page 153 de l'Age de la Rebellion ou page 148 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Natural Pilot",
@@ -1690,19 +2005,29 @@
 			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Nobody's Fool {Improved)",
+			"name": "Nobody's Fool {Improved)",
+			"description": "May spend [TR] or [TH][TH] from an incoming Charm, Coercion, or Deception check to inflict strain on the opponent equal to the character's ranks in Nobody's Fool[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Not Today",
 			"name": "Not Today",
 			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
 		},
 		{
-			"id": "Now You See Me",
-			"name": "Trou de Mémoire",
-			"description": "Une fois par session de jeu, entreprenez l'action Trou de mémoire. Effectuez un test Tromperie Difficile ([DI][DI][DI]) pour être oublié par un nombre de PNJ égal à votre Ruse, situés au plus à portée  moyenne."
-		},
-		{
 			"id": "Now the Master",
 			"name": "Now the Master",
 			"description": "Please see page 29 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 29 - Disciples of Harmony[h4]"
+		},
+		{
+			"id": "Natural Negotiator",
+			"name": "Négociateur-Né",
+			"description": "Une fois par session de jeu, vous pouvez relancer un test de Calme ou de Négociation."
+		},
+		{
+			"id": "Keen Eyed",
+			"name": "Oeil Aiguisé",
+			"description": "Retirez [SE] par rang en Oeil aiguisé à tous les tests de Perception ou de Vigilance. Divisez par deux le temps nécessaire pour fouiller un lieu."
 		},
 		{
 			"id": "Offensive Driving",
@@ -1715,6 +2040,16 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
+			"id": "Unrelenting Skeptic",
+			"name": "On ne me la fait pas",
+			"description": "<p>Lorsque le personnage est cibl&eacute; par un jet tromperie, il ajoute automatiquement autant de [FA] que son rang en vigilance&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizons lointains ou page 31 de&nbsp;</em>Endless Vigil<em>&nbsp;</em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Unrelenting Skeptic (Improved)",
+			"name": "On ne me la fait pas (Amélioré)",
+			"description": "<p>Lorsque le personnage est la cible d'un test de Tromperie qui &eacute;choue, il peut d&eacute;penser 1 point de Destin pour ajouter r&eacute;troactivement [DE] au r&eacute;sultat.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain&nbsp;</em>pour plus de d&eacute;tails.</p>"
+		},
+		{
 			"id": "Once A Learner",
 			"name": "Once A Learner",
 			"description": "Please see page 29 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 29 - Disciples of Harmony[h4]"
@@ -1725,29 +2060,19 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 40 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
-			"id": "One With the Universe",
-			"name": "Harmonie avec l'Univers",
-			"description": "Une fois par session de jeu, méditez puis accomplissez l'action Harmonie avec l'univers : effectuez un test d'Astrogation Moyen ([DI][DI]). S'il est réussi, ajoutez [LI] à tous les tests des pouvoirs de la Force au cours de la prochaine rencontre. Si le test d'Astrogation est réussi avec un [DE], ajoutez [DA] à la place."
-		},
-		{
-			"id": "One With The Universe",
-			"name": "Harmonie avec l'Univers",
-			"description": "Une fois par session de jeu, méditez puis accomplissez l'action Harmonie avec l'univers : effectuez un test d'Astrogation Moyen ([DI][DI]). S'il est réussi, ajoutez [LI] à tous les tests des pouvoirs de la Force au cours de la prochaine rencontre. Si le test d'Astrogation est réussi avec un [DE], ajoutez [DA] à la place."
-		},
-		{
 			"id": "One with Nature",
 			"name": "One with Nature",
 			"description": "See page 31 of the Savage Spirits Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4][H4]Page 35 - Forged in Battle[h4]"
 		},
 		{
+			"id": "Learning Opportunity",
+			"name": "Opportunité d'apprentissage",
+			"description": "Une fois par tour, si le personnage rate son jet, il peut dépenser [AD][AD][AD] pour améliorer son prochain jet une fois. Page 40 du livre the Rise of the Separatists pour plus de détails."
+		},
+		{
 			"id": "Ordnance Saturation",
 			"name": "Ordnance Saturation",
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 41 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
-		},
-		{
-			"id": "Outdoorsman",
-			"name": "Baroudeur",
-			"description": "<p>Retirez [SE] par rang de Baroudeur aux tests effectu&eacute;s pour se d&eacute;placer au sol ou pour g&eacute;rer les effets d'un environnement. R&eacute;duisez de moiti&eacute; le temps de voyage terrestre.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Outmaneuver",
@@ -1765,11 +2090,6 @@
 			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
 		},
 		{
-			"id": "Overcharge (Improved)",
-			"name": "Overcharge (Improved)",
-			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
-		},
-		{
 			"id": "Overstocked Ammo",
 			"name": "Overstocked Ammo",
 			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
@@ -1778,12 +2098,6 @@
 			"id": "Overwhelm Defenses",
 			"name": "Overwhelm Defenses",
 			"description": "Please see page 154 of the Age of Rebellion Core Rulebook, or page 35 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 35 - No Disintegrations[h4]"
-		},
-		{
-			"id": "Overwhelm Emotions",
-			"name": "Ascendant Emotionnel",
-			"description": "Vous pouvez ajouter un nombre de [FO] égal à votre Valeur de Force aux tests de Charme, de Coercition ou de Tromperie. Les [LI] et les [DA] ajoutent des [SU] ou des [FA] aux tests."
-
 		},
 		{
 			"id": "Overwhelming Aura",
@@ -1811,6 +2125,26 @@
 			"description": "Si vous n'avez pas effectué de test de combat pendant ce round, vous pouvez subir 1 point de stress pour utiliser Parer."
 		},
 		{
+			"id": "Sense Emotions",
+			"name": "Perception des Emotions",
+			"description": "Ajoutez [BO] à un test de Charme, de Coercition ou de Tromperie, sauf si la cible est immunisée contre les pouvoirs de la Force."
+		},
+		{
+			"id": "Sense Danger",
+			"name": "Perception du Danger",
+			"description": "Une fois par partie, retirez [SE][SE] à n'importe quel test."
+		},
+		{
+			"id": "Persistent Targeting",
+			"name": "Persistent Targeting",
+			"description": "After making one or more successful combat checks against a target, add [BO] to combat checks against that same target for the remainder of the encounter.[P][H3]Sources:[h3][H4]Page 114 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Convincing Demeanor",
+			"name": "Persuasion",
+			"description": "Retirez [SE] par rang de Persuasion aux tests de Tromperie et de Magouilles."
+		},
+		{
 			"id": "Physical Training",
 			"name": "Physical Training",
 			"description": "Please see page 154 of the Age of Rebellion Core Rulebook, page 30 of the Disciples of Harmony Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Disciples of Harmony[h4][H4]Page 41 - Rise of the Separatists[h4]"
@@ -1831,6 +2165,11 @@
 			"description": "Please see page 30 of Enter the Unknown for details.[P][H3]Sources:[h3][H4]Page 30 - Enter the Unknown[h4]"
 		},
 		{
+			"id": "Expert Tracker",
+			"name": "Pisteur Chevronné",
+			"description": "<p>Retirez [SE] par rang de Pisteur chevronn&eacute; aux tests effectu&eacute;s pour suivre ou touver des traces. R&eacute;duisez de moiti&eacute; le temps n&eacute;cessaire pour suivre une cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
 			"id": "Planet Mapper",
 			"name": "Planet Mapper",
 			"description": "See page 31 of the Savage Spirits Sourcebook, or page 35 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4][H4]Page 35 - No Disintegrations[h4]"
@@ -1846,9 +2185,9 @@
 			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
 		},
 		{
-			"id": "Point Blank",
-			"name": "Bout portant",
-			"description": "Ajoutez 1 point de dégâts par rang de Bout portant à ceux d'une attaque réussie de Distance (armes lourdes) ou Distance (armes légères) effectuée à portée courte ou au contact. \n Page 133 du livre Aux confins de l'Empire ou page 144 de l'Age de la Rebellion pour plus de d&eacute;tails."
+			"id": "Soft Spot",
+			"name": "Point Faible",
+			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque, vous pouvez d&eacute;penser 1 point de Destin pour ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre Ruse &agrave; un coup r&eacute;ussi.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
 		},
 		{
 			"id": "Positive Spin",
@@ -1861,9 +2200,9 @@
 			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
 		},
 		{
-			"id": "Power From Pain",
-			"name": "Power From Pain",
-			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+			"id": "Power from Pain",
+			"name": "Power from Pain",
+			"description": "Once per session as an incidental, may spend 1 Destiny Point to gain +1 Force rating for each Critical Injury character is suffering until the end of the encounter.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
 		},
 		{
 			"id": "Power of Darkness",
@@ -1871,9 +2210,19 @@
 			"description": "Please see page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Unlimited Power[h4]"
 		},
 		{
+			"id": "Powerful Ally",
+			"name": "Powerful Ally",
+			"description": "The character may spend a Destiny Point to use the basic version of a Force power they have not purchased or apply the effects of a control upgrdae to a power they have purchased[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Powerful Blast",
 			"name": "Powerful Blast",
 			"description": "Please see page 154 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Practiced Stragist",
+			"name": "Practiced Stragist",
+			"description": "Once per session, make an [B]opposed knowledge(Warfare) check[b] against a leader of enemy forces to gain a narrative advantage[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Precise Aim",
@@ -1896,9 +2245,14 @@
 			"description": "Please see page 36 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 36 - No Disintegrations[h4]"
 		},
 		{
-			"id": "Preemptive Avoidance",
-			"name": "Esquive Préventive",
-			"description": "Vous pouvez dépenser 1 point de Destin pour rompre le contact avec un ennemi en tant que broutille hors tour."
+			"id": "Preemptive Intervention",
+			"name": "Preemptive Intervention",
+			"description": "Immediately after an opponent moves to engage an ally within short range, the character may spend one Destiny Point to engage that opponent as an out of turn incidental[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Prepare to be Boarded!",
+			"name": "Prepare to be Boarded!",
+			"description": "Once per encounter may take Prepare to be Boarded! action and make [B]opposed Coercion vs. Discipline check[b] against enemy ship captain. If successful, the enemy suffers 1 strain per uncancelled [SU] and surrenders ship if he exceeds strain threshold. May also spend [TR] or [AD][AD][AD][AD] to inflict strain equal to ranks in Coercion.[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Prescient Shot",
@@ -1916,6 +2270,21 @@
 			"description": "Please see page 149 of the Force and Destiny Core Rulebook, page 35 of the Forged in Battle Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4][H4]Page 35 - Forged in Battle[h4][H4]Page 41 - Rise of the Separatists[h4]"
 		},
 		{
+			"id": "Pride and Joy",
+			"name": "Pride and Joy",
+			"description": "Choose one starship or vehicle character owns with a silhouette or 4 or higher; it becomes his 'Pride and Joy' vessel. He upgrades the ability of all social skill checks he makes while within short range of the vessel once.[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Pride and Joy (Improved)",
+			"name": "Pride and Joy (Improved)",
+			"description": "While inside his Pride and Joy vessel, recover 1 additional strain whenever recovering strain and spend [AD] on checks made to recover strain to allow an ally also within the vessel to recover one strain.[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Pride and Joy (Supreme)",
+			"name": "Pride and Joy (Supreme)",
+			"description": "When inside his Pride and Joy vessel, once per session as an incidental, the character may reduce its silhouette by 2 (to a minimum of 0) for the remainder of the round and the following round.[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Prime Positions",
 			"name": "Prime Positions",
 			"description": "Please see page 31 of the Keeping the Peace Sourcebook, page 35 of the Forged in Battle Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4][H4]Page 35 - Forged in Battle[h4][H4]Page 41 - Rise of the Separatists[h4]"
@@ -1926,19 +2295,19 @@
 			"description": "Please see page 31 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4]"
 		},
 		{
+			"id": "Push Aside",
+			"name": "Push Aside",
+			"description": "After making a successful Melee, Brawl, or Lightsaber combat check against an engaged foe, may force the foe to move to short range in a direction of the opponent's choosing. Spend [TR] to cause the opponent to fall prone after moving.[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Push the Specs",
 			"name": "Push the Specs",
 			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
 		},
 		{
-			"id": "Quick Draw",
-			"name": "Arme en main",
-			"description": "<p>Une fois par round, le personnage peut, &agrave; son tour, d&eacute;gainer ou rengainer une arme accessible au prix d'une broutille au lieu d'une manoeuvre.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 149 de Force et Destin&eacute;e</em></p>"
-		},
-		{
-			"id": "Quick Draw (Improved)",
-			"name": "Quick Draw (Improved)",
-			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
+			"id": "Indistinguishable",
+			"name": "Quelconque",
+			"description": "Améliorez 1 dé de difficulté des tests visant à vous identifier par rang de Quelconque."
 		},
 		{
 			"id": "Quick Fix",
@@ -1956,9 +2325,19 @@
 			"description": "<p>Quand il effectue un test d'attaque en combat, le personnage ajoute [BO] par rang de<em>&nbsp;Coup &eacute;clair&nbsp;</em>aux tests de combat contre les cibles qui n'ont pas encore agi durant cette rencontre.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 150 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
+			"id": "Quickdraw (Improved)",
+			"name": "Quickdraw (Improved)",
+			"description": "May use Quick Draw twice per round.[P][H3]Sources:[h3][H4]Fly Casual[h4]"
+		},
+		{
 			"id": "Rain of Death",
 			"name": "Rain of Death",
 			"description": "Please see page 32 of the Dangerous Covenants Sourcebook, or page 35 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 32 - Dangerous Covenants[h4][H4]Page 35 - Forged in Battle[h4]"
+		},
+		{
+			"id": "Rapid Fire",
+			"name": "Rapid Fire",
+			"description": "May add the Autofire item quality to a Ranged (Light) combat check. After resolving the attack, the weapon runs out of ammo[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Rapid Reaction",
@@ -1966,9 +2345,9 @@
 			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
-			"id": "Rapid Recovery",
-			"name": "Récupération Rapide",
-			"description": "Quand vous éliminez du stress après une rencontre, débarrassez-vous de 1 point de stress supplémentaire par rang de Récupération rapide."
+			"id": "Ravage",
+			"name": "Ravage",
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 41 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Ravage",
@@ -1994,16 +2373,6 @@
 			"id": "Redundant Systems",
 			"name": "Redundant Systems",
 			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, or page 154 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
-		},
-		{
-			"id": "Reflect",
-			"name": "Dévier",
-			"description": "Lorsque vous êtes touché par une attaque à distance, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Dévier."
-		},
-		{
-			"id": "Reflect (Improved)",
-			"name": "Dévier (Amélioré)",
-			"description": "Quand vous déviez un tir qui a généré [DE] ou [TH][TH][TH], une fois l'attaque initiale résolue, vous pouvez toucher une cible à portée moyenne, infligeant les mêmes dégâts que le tir initial."
 		},
 		{
 			"id": "Reflect (Supreme)",
@@ -2036,11 +2405,6 @@
 			"description": "See page 35 of the Special Modifications Sourcebook, or page 31 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4][H4]Page 31 - Fully Operational[h4]"
 		},
 		{
-			"id": "Researcher",
-			"name": "Chercheur",
-			"description": "Retirez [SE] par rang de Chercheur aux tests de Connaissance. Les recherches entreprises prennent deux fois moins de temps."
-		},
-		{
 			"id": "Researcher (Improved)",
 			"name": "Researcher (Improved)",
 			"description": "Please see page 34 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4]"
@@ -2066,6 +2430,11 @@
 			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 33 - Unlimited Power[h4]"
 		},
 		{
+			"id": "Resource Allocation",
+			"name": "Resource Allocation",
+			"description": "At the beginning of a Mass Combat, make a [B]Hard ([DI][DI][DI]) Charm or Negotiation check[b] to increase their force's strength by one step for the duration of the encounter. May spend [TR] from the check to upgrade the ability of their force's first Mass Combat check[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Resourceful Refit",
 			"name": "Resourceful Refit",
 			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
@@ -2079,6 +2448,36 @@
 			"id": "Respected Scholar",
 			"name": "Respected Scholar",
 			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Grit",
+			"name": "Robustesse",
+			"description": "<p>Augmentez votre seuil de stress de +1</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 144 de Force et Destin&eacute;e&nbsp;</em>pour plus de d&eacute;tails.</p>"
+		},
+		{
+			"id": "Uncanny Reactions",
+			"name": "Réaction Fulgurante",
+			"description": "Ajouter [BO] par rang de Réaction fulgurante aux tests de Vigilance."
+		},
+		{
+			"id": "Rapid Recovery",
+			"name": "Récupération Rapide",
+			"description": "Quand vous éliminez du stress après une rencontre, débarrassez-vous de 1 point de stress supplémentaire par rang de Récupération rapide."
+		},
+		{
+			"id": "Superior Reflexes",
+			"name": "Réflexes Aiguisés",
+			"description": "Augmentez votre défense au corps-à-corps de 1."
+		},
+		{
+			"id": "Solid Repairs",
+			"name": "Réparations solides",
+			"description": "<p>Quand vous r&eacute;parez un v&eacute;hicule ou un vaisseau spatial, vous restaurez +1 d&eacute;g&acirc;t de coque par rang de R&eacute;paration solides</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Heroic Fortitude",
+			"name": "Résistance Héroïque",
+			"description": "<p>Vous pouvez d&eacute;penser 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Vigueur et d'Agilit&eacute; jusqu'a la fin de la rencontre.</p>\n<p>&nbsp;</p>\n<p><em>Page 137du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 145 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails.</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Saber Swarm",
@@ -2106,6 +2505,11 @@
 			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Savvy",
+			"name": "Savvy",
+			"description": "The character adds [BO] to Charm and Negotiation checks per rank of Savvy[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Savvy Negotiator",
 			"name": "Savvy Negotiator",
 			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
@@ -2131,14 +2535,19 @@
 			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
-			"id": "Scrap 'Em!",
-			"name": "Scrap 'Em!",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+			"id": "Known Schematic",
+			"name": "Schémas Connus",
+			"description": "<p>Une fois par partie, ex&eacute;cutez la manoeuvre de Sch&eacute;mas connus : effectuez un <strong>test de Connaissance (Education) Difficile ([DI][DI][DI])</strong>. Un succ&egrave;s signifie que vous connaissez bien le plan d'un b&acirc;timent ou d'un vaisseau.</p>\n<p>&nbsp;</p>\n<p><em>Page 138 du livre Aux confins de l'Empire ou page 151 de l'Age de la Rebellion ou page 40 de&nbsp;</em>Rise of the Separatists<em>&nbsp;pour plus de d&eacute;tails</em></p>"
 		},
 		{
-			"id": "Scrap 'Em! (Improved)",
-			"name": "Scrap 'Em! (Improved)",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+			"id": "Scrap 'Em",
+			"name": "Scrap 'Em",
+			"description": "On a successful attack, may suffer 2 strain and select allies up to ranks in Leadership who add [BO] to attacks against the target until the character's next turn[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
+		},
+		{
+			"id": "Scrap 'Em (Improved)",
+			"name": "Scrap 'Em (Improved)",
+			"description": "Scrap 'Em! effects twice the number of allies and allies add [BO][BO] to combat checks against the target[P][H3]Sources:[h3][H4]Page 41 - Rise of the Separatists[h4]"
 		},
 		{
 			"id": "Second Chances",
@@ -2161,6 +2570,26 @@
 			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
+			"id": "Secrets of the Force",
+			"name": "Secrets of the Force",
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Secrets of the Jedi",
+			"name": "Secrets of the Jedi",
+			"description": "Lightsaber becomes a career skill. He may also decrease to difficulty of checks made to construct or repair lightsaber hilts a number of times equal to half his ranks in Knowledge (Lore) (rounded up), to a minimum of [B]Easy ([DI])[b].[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Secrets of the Jedi (Improved)",
+			"name": "Secrets of the Jedi (Improved)",
+			"description": "Discipline becomes a career skill. Secrets of the Jedi may also be used when installing mods on lightsabers.[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Seen A Lot of Things",
+			"name": "Seen A Lot of Things",
+			"description": "Whenever the character fails a Knowledge check, he may spend [AD][AD][AD] to roll the check again during his next turn.[P][H3]Sources:[h3][H4]Page 115 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Seize the Initiative",
 			"name": "Seize the Initiative",
 			"description": "See page 35 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Forged in Battle[h4]"
@@ -2171,19 +2600,14 @@
 			"description": "Please see page 155 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
+			"id": "Uncanny Senses",
+			"name": "Sens Surdéveloppés",
+			"description": "Ajoutez [BO] par rang de Sens surdéveloppé aux tests de Perception."
+		},
+		{
 			"id": "Sense Advantage",
 			"name": "Sense Advantage",
 			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
-		},
-		{
-			"id": "Sense Danger",
-			"name": "Perception du Danger",
-			"description": "Une fois par partie, retirez [SE][SE] à n'importe quel test."
-		},
-		{
-			"id": "Sense Emotions",
-			"name": "Perception des Emotions",
-			"description": "Ajoutez [BO] à un test de Charme, de Coercition ou de Tromperie, sauf si la cible est immunisée contre les pouvoirs de la Force."
 		},
 		{
 			"id": "Sense the Scene",
@@ -2201,9 +2625,9 @@
 			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
-			"id": "Shortcut",
-			"name": "Shortcut",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, page 31 of the Savage Spirits Sourcebook, or page 31 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Savage Spirits[h4][H4]Page 31 - Endless Vigil[h4]"
+			"id": "Short Cut",
+			"name": "Short Cut",
+			"description": "During a chase; add [BO] per rank in Shortcut to any checks made to catch or escape an opponent."
 		},
 		{
 			"id": "Shortcut (Improved)",
@@ -2216,29 +2640,19 @@
 			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
 		},
 		{
-			"id": "Shroud",
-			"name": "Voile",
-			"description": "Dépensez 1 point de Destin. Vous êtes indétectable aux pouvoirs de la Force et vos propres pouvoirs passent inaperçus jusqu'à la fin de la rencontre."
+			"id": "Side By Side",
+			"name": "Side By Side",
+			"description": "While the character and one or more engaged allies are wielding lightsabers, add [TH] to all combat checks that target the character or the allies.[P][H3]Sources:[h3][H4]Page 26 - Rise of the Separatists[h4]"
 		},
 		{
-			"id": "Side Step",
-			"name": "Esquive Instinctive",
-			"description": "<p>Une fois par round, vous pouvez &eacute;x&eacute;cuter une manoeuvre d'Esquive et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque test de combat &agrave; distance qui vous vise lors du round suivant. Le stress ainsi subit ne doit pas d&eacute;passer votre rang d'esquive instinctive.</p>\n<p>&nbsp;</p>\n<p><em>Page 142 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 151 de Force et Destin&eacute;e</em><em>&nbsp;pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Side by Side",
-			"name": "Side by Side",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+			"id": "Side Step (Improved)",
+			"name": "Esquive Instinctive (Amélioré)",
+			"description": "A tout moment où un personnage effectue une manoeuvre 'esquive instinctive', jusqu'au début de son prochain tour, il peut dépenser [TH][TH][TH] ou [DE] du jet d'un attaquant pour infliger des dégats avec une arme à distance qu'il tient en main."
 		},
 		{
 			"id": "Signature Vehicle",
 			"name": "Signature Vehicle",
 			"description": "Please see page 33 of the Stay on Target Sourcebook, or page 35 of the Special Modificaitons Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4][H4]Page 35 - Special Modifications[h4]"
-		},
-		{
-			"id": "Sincerest Flattery",
-			"name": "Imitation",
-			"description": "Une fois par rencontre quand le personnage fait le jet d'une compétence déjà utilisée dans la rencontre par un autre personnage, ils ajoutent [BO][BO]. </p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Situational Awareness",
@@ -2266,24 +2680,9 @@
 			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
 		},
 		{
-			"id": "Sleight of Mind",
-			"name": "Esprit furtif",
-			"description": "Ajouter [BO] à tous les tests de Discretion, sauf quand l'opposition est immunisée conre les pouvoirs de la Force."
-		},
-		{
-			"id": "Slippery Minded",
-			"name": "Insaisissable",
-			"description": "Si vous êtes sous l'effet d'un pouvoir de la Force, entreprenez l'action Insaisissable : effectuez un test de Tromperie Difficile ([DI][DI][DI]) pour mettre un terme immédiat aux effets de ce pouvoir."
-		},
-		{
 			"id": "Smart Handling",
 			"name": "Smart Handling",
 			"description": "Please see page 31 of the Fully Operational Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Fully Operational[h4]"
-		},
-		{
-			"id": "Smooth Talker",
-			"name": "Beau Parleur",
-			"description": "Quand vous acquérez ce talent, choisissez une compétence : Charme, Coercition, Négociation ou Tromperie. Quand vous effectuez des tests avec cette compétence, vous pouvez dépenser [TR] pour gagner un nombre de [SU] supplémentaires égal à votre rang de Beau parleur."
 		},
 		{
 			"id": "Sniper Shot",
@@ -2291,29 +2690,9 @@
 			"description": "<p>Avant de porter une attaque &agrave; distance (mais pas avec une arme de jet), vous pouvez &eacute;x&eacute;cuter une manoeuvre pour augmenter la port&eacute;e de votre arme &agrave; distance de 1 niveau par rang de Tireur d'&eacute;lite. Pour chaque niveau de port&eacute;e en plus, am&eacute;liorez 1 d&eacute; de difficult&eacute; de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 142 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
-			"id": "Soft Spot",
-			"name": "Point Faible",
-			"description": "<p>Apr&egrave;s avoir r&eacute;ussi une attaque, vous pouvez d&eacute;penser 1 point de Destin pour ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre Ruse &agrave; un coup r&eacute;ussi.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Solid Repairs",
-			"name": "Réparations solides",
-			"description": "<p>Quand vous r&eacute;parez un v&eacute;hicule ou un vaisseau spatial, vous restaurez +1 d&eacute;g&acirc;t de coque par rang de R&eacute;paration solides</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion ou page 152 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Something to Prove",
-			"name": "Faire ses preuves",
-			"description": "Une par partie, le personnage peut subir 4 points de stress dans le but de relancer un jet raté. Si le nouveau jet réussi, il récupère ses 4 points de stress.  </p>\n<p>&nbsp;</p>\n<p><em>Page 42 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
-		},
-		{
 			"id": "Soothing Tone",
 			"name": "Soothing Tone",
 			"description": "Please see page 33 of the Stay on Target Sourcebook, or page 31 of Savage Spirits, for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4][H4]Page 31 - Savage Spirits[h4]"
-		},
-		{
-			"id": "Soresu Technique",
-			"name": "Technique Soresu",
-			"description": "Lorsque vous effectuez un test avec votre compétence Sabre laser, vous pouvez vous servir d'Intelligence au lieu de Vigueur."
 		},
 		{
 			"id": "Sorry About the Mess",
@@ -2329,21 +2708,6 @@
 			"id": "Spare Clip",
 			"name": "Spare Clip",
 			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
-		},
-		{
-			"id": "Speaks Binary",
-			"name": "Langage Binaire",
-			"description": "<p>Quand vous donnez des ordres aux droids PNJ, vous gagnez [BO] aux tests par rang de Langage Binaire.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion ou page 35 de Modifications sp&eacute;ciales pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Speaks Binary (Improved)",
-			"name": "Langage Binaire (Amélioré)",
-			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
-		},
-		{
-			"id": "Speaks Binary (Supreme)",
-			"name": "Langage Binaire (Supreme)",
-			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
 		},
 		{
 			"id": "Spitfire",
@@ -2366,9 +2730,29 @@
 			"description": "Please see page 33 of the Stay on Target Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Stay on Target[h4]"
 		},
 		{
-			"id": "Stalker",
-			"name": "Filature",
-			"description": "<p>Ajoutez [BO] par rang de Filature &agrave; tous vos tests de Coordination et de Discretion.</p>\n<p>&nbsp;</p>\n<p><em>Page 143 du livre Aux confins de l'Empire ou page 157 de l'Age de la Rebellion</em></p>"
+			"id": "Brace",
+			"name": "Stabilité",
+			"description": "<p>Ex&eacute;cutez une manoeuvre pour retirer [SE] par rang de Stabilit&eacute; &agrave; votre prochaine action. Cela ne peut retirer que les [SE] li&eacute;s &agrave; l'environement.</p>\n<p>&nbsp;</p>\n<p><em>Page 132 du livre Aux confins de l'Empire ou page 143 de l'Age de la Rebellion ou page 37 de&nbsp; </em>Rise of the Separatists.</p>"
+		},
+		{
+			"id": "Brace (Improved)",
+			"name": "Stabilité (Amélioré)",
+			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 38 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
+		},
+		{
+			"id": "Stand Firm!",
+			"name": "Stand Firm!",
+			"description": "As an action, make a [B]Hard ([DI][DI][DI]) Leadership check[b]. Choose one ally per [SU] who increase their wound threshold by the character's Presence until the end of the encounter[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Stand Firm! {Improved}",
+			"name": "Stand Firm! {Improved}",
+			"description": "Stand Firm action also increase affected allies strain threshold by an amount equal to the character's Presence rating[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Steady Aim",
+			"name": "Steady Aim",
+			"description": "The character does not lose the benefits of the Aim maneuver if he performs other maneuvers (including moving) or actions. He does lose the benefits of the Aim maneuver if the encounter ends.[P][H3]Sources:[h3][H4]Page 116 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Steady Nerves",
@@ -2399,16 +2783,6 @@
 			"id": "Stimpack Specialization",
 			"name": "Stimpack Specialization",
 			"description": "Please see page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
-		},
-		{
-			"id": "Strategic Form",
-			"name": "Traquenard",
-			"description": "Entreprenez l'action Traquenard. Effectuez un test de Sabre laser (Intelligence) Difficile ([DI][Di][DI]), en lançant un nombre de [FO] inférieur ou égal à votre valeur de Force. S'il est réussi, 1 cible à courte portée ne peut attaquer que vous pendant un round. Dépensez [FP] pour étendre les effets à 1 cible supplémentaire pendant 1 round."
-		},
-		{
-			"id": "Street Smarts",
-			"name": "Dégourdi",
-			"description": "Retirez [SE] par rang de Dégourdi à vos tests de Connaissance (pègre) et de Système D."
 		},
 		{
 			"id": "Street Smarts (Improved)",
@@ -2446,9 +2820,19 @@
 			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
+			"id": "Forager",
+			"name": "Subsistance",
+			"description": "<p>Retirez jusqu'&agrave; [SE][SE] aux tests de comp&eacute;tence pour trouver de la nourriture, de l'eau ou un abri. Ces tests de Survie prennent moiti&eacute; moins de temps que la normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 147 de l'Age de la Rebellion ou page 143 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
 			"id": "Sum Djem",
 			"name": "Sum Djem",
 			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+		},
+		{
+			"id": "Summon Item",
+			"name": "Summon Item",
+			"description": "As a maneuver, the character can summon or dismiss a ritually prepared item[P][H3]Sources:[h3][H4]Page 31 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Sunder (Improved)",
@@ -2459,11 +2843,6 @@
 			"id": "Superhuman Reflexes",
 			"name": "Superhuman Reflexes",
 			"description": "Please see page 31 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4]"
-		},
-		{
-			"id": "Superior Reflexes",
-			"name": "Réflexes Aiguisés",
-			"description": "Augmentez votre défense au corps-à-corps de 1."
 		},
 		{
 			"id": "Supporting Evidence",
@@ -2481,6 +2860,11 @@
 			"description": "See page 35 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
 		},
 		{
+			"id": "Supreme Speaks Binary",
+			"name": "Supreme Speaks Binary",
+			"description": "Once per encounter, may perform the Speaks Binary maneuver. A number of NPC droids up to ranks in Speaks Binary may use the character's ranks for 1 skill of character's choice.[P][H3]Sources:[h3][H4]Page 35 - Special Modifications[h4]"
+		},
+		{
 			"id": "Surgeon",
 			"name": "Surgeon",
 			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
@@ -2491,9 +2875,14 @@
 			"description": "See page 31 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Savage Spirits[h4]"
 		},
 		{
-			"id": "Swift",
-			"name": "Vivacité",
-			"description": "<p>Vous ne subissez pas les malus habituels pour vous d&eacute;placer en terrain difficile.</p>\n<p>&nbsp;</p>\n<p><em>Page 144 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+			"id": "Survivor's Instincts",
+			"name": "Survivor's Instincts",
+			"description": "Once per session when the character suffers a Critical injury spend 1 Destiny Point. Then the atacker must roll two results for the Critical Injury and the player chooese which will apply to their character[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Balance",
+			"name": "Sérénité",
+			"description": "Quand le personnage retire des points de stress à la fin d'une rencontre, il peut ajouter un nombre de [FO] égal à sa Valeur de Force. Il retire un point de stress supplémentaire par [LI] obtenu."
 		},
 		{
 			"id": "Tactical Advance",
@@ -2511,6 +2900,16 @@
 			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
+			"id": "Tactical Evasion",
+			"name": "Tactical Evasion",
+			"description": "Upgrade the difficulty of ranged combat checks targeting the character a number of times equal to the number of maneuvers they performed to move during this round[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Tactical Planning",
+			"name": "Tactical Planning",
+			"description": "Once per session, the character may substitute a Knowledge(Warfare) skill check for another skill check[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
+		},
+		{
 			"id": "Talk the Talk",
 			"name": "Talk the Talk",
 			"description": "Please see page 33 of Dangerous Covenants, or page 31 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Dangerous Covenants[h4][H4]Page 31 - Endless Vigil[h4]"
@@ -2521,9 +2920,19 @@
 			"description": "<p>Quand le personnage r&eacute;ussit une attaque, il peut d&eacute;penser 1 point de Destin pour ajouter des d&eacute;gats &eacute;gaux a son Agilit&eacute; a un coup r&eacute;ussi de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 144 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion&nbsp; </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
+			"id": "Targeted Firepower",
+			"name": "Targeted Firepower",
+			"description": "Once per session may take Targeted Firepower action; identify one enemy target and make a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check[b]. If successful, for the rest of the encounter allies within short range of character add [AD] to attacks against target equal to [SU] gained in the check.[P][H3]Sources:[h3][H4]Page 116 - Dawn of Rebellion[h4]"
+		},
+		{
 			"id": "Technical Aptitude",
 			"name": "Technical Aptitude",
 			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Soresu Technique",
+			"name": "Technique Soresu",
+			"description": "Lorsque vous effectuez un test avec votre compétence Sabre laser, vous pouvez vous servir d'Intelligence au lieu de Vigueur."
 		},
 		{
 			"id": "Temple Training",
@@ -2551,9 +2960,9 @@
 			"description": "See page 34 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Lead by Example[h4]"
 		},
 		{
-			"id": "The Force Is My Ally",
-			"name": "La Force est mon Alliée",
-			"description": "Une fois par session de jeu, vous pouvez subir 2 points de stress afin d'accomplir une action de pouvoir de la Force en tant que manoeuvre."
+			"id": "There Is No Try",
+			"name": "There Is No Try",
+			"description": "Once per session before an ally rolls the dice for a check, the character may spend 1 Destiny Point to allow the ally to automatically succeed at the check with one [SU] ad no other results[P][H3]Sources:[h3][H4]Page 21 - Collapse of the Republic[h4]"
 		},
 		{
 			"id": "Thorough Assessment",
@@ -2576,24 +2985,19 @@
 			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
 		},
 		{
-			"id": "Tinkerer",
-			"name": "Customisation",
-			"description": "<p>Vous pouvez ajouter 1 emplacement &agrave; un nombre d'objet &eacute;gal &agrave; votre rang en Customization. Chaque objet ne peut &ecirc;tre modifi&eacute; qu'une fois.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
+			"id": "Natural Marksman",
+			"name": "Tireur-Né",
+			"description": "Une fois par séance de jeu, vous pouvez relancer 1 test de Distance (armes légères) ou de Distance (armes lourdes). \n Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion</em>pour plus de d&eacute;tails."
 		},
 		{
-			"id": "Touch of Fate",
-			"name": "Coup de Pouce du Destin",
-			"description": "Une fois par partie, ajoutez [BO][BO] à n'importe quel test."
+			"id": "To The Death",
+			"name": "To The Death",
+			"description": "Once per session, suffer strain up to Willpower and add a +10 per strain suffered to critical rolls the character inflicts or suffers until the end of the encounter[P][H3]Sources:[h3][H4]Page 27 - Collapse of the Republic[h4]"
 		},
 		{
-			"id": "Toughened",
-			"name": "Endurci",
-			"description": "<p>Augmentez votre seuil de blessure de +2.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Toughened (Improved)",
-			"name": "Endurci (Amélioré)",
-			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
+			"id": "To the Death!",
+			"name": "To the Death!",
+			"description": "Une fois par session, le personnage peut réaliser la manoeuvre 'jusqu'a la mort' et subir un maximum de stress égal à sa volonté. Pour chaque point de stress subit de cette manière ajoutez +10 aux blessures critiques infligées et subites."
 		},
 		{
 			"id": "Trained Mount",
@@ -2611,14 +3015,34 @@
 			"description": "Please see page 33 of the Unlimited Power Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Unlimited Power[h4]"
 		},
 		{
+			"id": "Strategic Form",
+			"name": "Traquenard",
+			"description": "Entreprenez l'action Traquenard. Effectuez un test de Sabre laser (Intelligence) Difficile ([DI][Di][DI]), en lançant un nombre de [FO] inférieur ou égal à votre valeur de Force. S'il est réussi, 1 cible à courte portée ne peut attaquer que vous pendant un round. Dépensez [FP] pour étendre les effets à 1 cible supplémentaire pendant 1 round."
+		},
+		{
 			"id": "Tricky Target",
 			"name": "Tricky Target",
 			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
+			"id": "Now You See Me",
+			"name": "Trou de Mémoire",
+			"description": "Une fois par session de jeu, entreprenez l'action Trou de mémoire. Effectuez un test Tromperie Difficile ([DI][DI][DI]) pour être oublié par un nombre de PNJ égal à votre Ruse, situés au plus à portée  moyenne."
+		},
+		{
 			"id": "True Aim",
 			"name": "True Aim",
 			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, or page 158 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Trust No One",
+			"name": "Trust No One",
+			"description": "When targeted by a social check, may choose to suffer one strain to add automatic [FA] to the check. If the check fails with [DE], the character may immediately perform a maneuver as an out-of-turn incidental.[P][H3]Sources:[h3][H4]Page 116 - Dawn of Rebellion[h4]"
+		},
+		{
+			"id": "Trust the Captain",
+			"name": "Trust the Captain",
+			"description": "May take the Trust the Captain action by making a [B]Hard ([DI][DI][DI]) Leadership check[b]. If successful, for the rest of the encounter allies within short range increase their ranks in Discipline by an amount equal to ranks in Trust the Captain.[P][H3]Sources:[h3][H4]Page 116 - Dawn of Rebellion[h4]"
 		},
 		{
 			"id": "Tuned Maneuvering Thrusters",
@@ -2631,34 +3055,24 @@
 			"description": "Please see page 34 of the Desperate Allies Sourcebook, or page 33 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 34 - Desperate Allies[h4][H4]Page 33 - Unlimited Power[h4]"
 		},
 		{
+			"id": "Hard Headed",
+			"name": "Tête dure",
+			"description": "<p>Lorsque vous &ecirc;tes &eacute;tourdi ou d&eacute;sorient&eacute;, entreprenez l'action de T&ecirc;te dure : effectuez un <strong>test de Sang-froid Intimidant ([DI][DI][DI][DI])</strong> pour vous d&eacute;barasser de ce statut. La difficult&eacute; diminue de 1 par rang suppl&eacute;mentaire de T&ecirc;te dure.</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de&nbsp;</em>Knights of Fate<em>&nbsp;pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Hard Headed (Improved)",
+			"name": "Tête dure (Amélioré)",
+			"description": "<p>Le personnage peut utiliser son action de&nbsp;<em>T&ecirc;te dure&nbsp;</em>quand il est neutralis&eacute; pour avoir d&eacute;pass&eacute; son seuil de stress. En cas de succ&egrave;s, il ram&egrave;ne son stress a un point au-dessous de son seuil.&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 136 du livre Aux confins de l'Empire ou page 148 de l'Age de la Rebellion ou page 30 de Knights of Fate</em></p>"
+		},
+		{
 			"id": "Unarmed Parry",
 			"name": "Unarmed Parry",
 			"description": "Please see page 36 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 36 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
 		},
 		{
-			"id": "Uncanny Reactions",
-			"name": "Réaction Fulgurante",
-			"description": "Ajouter [BO] par rang de Réaction fulgurante aux tests de Vigilance."
-		},
-		{
-			"id": "Uncanny Senses",
-			"name": "Sens Surdéveloppés",
-			"description": "Ajoutez [BO] par rang de Sens surdéveloppé aux tests de Perception."
-		},
-		{
 			"id": "Unity Assault",
 			"name": "Unity Assault",
 			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
-		},
-		{
-			"id": "Unrelenting Skeptic",
-			"name": "On ne me la fait pas",
-			"description": "<p>Lorsque le personnage est cibl&eacute; par un jet tromperie, il ajoute automatiquement autant de [FA] que son rang en vigilance&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizons lointains ou page 31 de&nbsp;</em>Endless Vigil<em>&nbsp;</em>pour plus de d&eacute;tails.</p>"
-		},
-		{
-			"id": "Unrelenting Skeptic (Improved)",
-			"name": "On ne me la fait pas (Amélioré)",
-			"description": "<p>Lorsque le personnage est la cible d'un test de Tromperie qui &eacute;choue, il peut d&eacute;penser 1 point de Destin pour ajouter r&eacute;troactivement [DE] au r&eacute;sultat.</p>\n<p>&nbsp;</p>\n<p><em>Page 33 du livre Horizon lointain&nbsp;</em>pour plus de d&eacute;tails.</p>"
 		},
 		{
 			"id": "Unstoppable",
@@ -2671,16 +3085,6 @@
 			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
 		},
 		{
-			"id": "Utility Belt",
-			"name": "Ceinture à Gadgets",
-			"description": "<p>D&eacute;pensez 1 point de Destin pour &eacute;x&eacute;cuter une broutille; sortez d'une ceinture &agrave; outil ou d'une sacoche un objet ou une arme (sous certaines restrictions) ne figurant pas sur votre liste d'&eacute;quipement.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou page 159 de l'Age de la Rebellion ou&nbsp;</em><em>Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
-		},
-		{
-			"id": "Utility Belt (Improved)",
-			"name": "Ceinture à Gadgets (Amélioré)",
-			"description": "</p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
-		},
-		{
 			"id": "Utinni!",
 			"name": "Utinni !",
 			"description": "<p>Retirez [SE] par rang d'Utinni ! aux tests effectu&eacute;s pour trouver ou r&eacute;cup&eacute;rer des objets ou de l'&eacute;quipement. Ces tests Prennent la moiti&eacute; de leur dur&eacute;e normale.</p>\n<p>&nbsp;</p>\n<p><em>Page 145 du livre Aux confins de l'Empire ou Page 43 de Rise of the separatists pour plus de d&eacute;tails</em></p>"
@@ -2691,14 +3095,24 @@
 			"description": "Please see page 31 of the Knights of Fate Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Knights of Fate[h4]"
 		},
 		{
-			"id": "Valuable Facts",
-			"name": "Info Précieuse",
-			"description": "Une fois par rencontre, accomplissez une action Info précieuse : efffectuez un test de connaissance Moyen ([DI][DI]). S'il est réussi, ajoutez [TR] au test de compétence d'un allié pendant la rencontre."
+			"id": "Force Rating",
+			"name": "Valeur de Force",
+			"description": "+1 à la valeur de Force."
 		},
 		{
 			"id": "Vehicle Combat Training",
 			"name": "Vehicle Combat Training",
 			"description": "Please see page 159 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4]"
+		},
+		{
+			"id": "Swift",
+			"name": "Vivacité",
+			"description": "<p>Vous ne subissez pas les malus habituels pour vous d&eacute;placer en terrain difficile.</p>\n<p>&nbsp;</p>\n<p><em>Page 144 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion ou page 153 de Force et Destin&eacute;e</em><em> pour plus de d&eacute;tails</em></p>"
+		},
+		{
+			"id": "Shroud",
+			"name": "Voile",
+			"description": "Dépensez 1 point de Destin. Vous êtes indétectable aux pouvoirs de la Force et vos propres pouvoirs passent inaperçus jusqu'à la fin de la rencontre."
 		},
 		{
 			"id": "Walk the Walk",
@@ -2716,14 +3130,9 @@
 			"description": "See page 34 of the Lead by Example Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Lead by Example[h4]"
 		},
 		{
-			"id": "Well Rounded",
-			"name": "Accompli",
-			"description": "Choississez 2 compétences. Elles deviennent à tout jamais des compétences de carrière."
-		},
-		{
-			"id": "Well Traveled",
-			"name": "Well Traveled",
-			"description": "Please see page 159 of the Age of Rebellion Core Rulebook, or page 30 of the Disciples of Harmony Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Disciples of Harmony[h4]"
+			"id": "Well Travelled",
+			"name": "Well Travelled",
+			"description": "Knowledge (Core Worlds) and Knowledge (Outer Rim) become career skills.[P][H3]Sources:[h3][H4]Age of Rebellion Core Rulebook[h4]"
 		},
 		{
 			"id": "Wheel and Deal",
@@ -2746,9 +3155,14 @@
 			"description": "Please see page 30 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Disciples of Harmony[h4]"
 		},
 		{
-			"id": "Works Like A Charm",
-			"name": "Works Like A Charm",
-			"description": "Please see page 159 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4]"
+			"id": "Witchcraft",
+			"name": "Witchcraft",
+			"description": "The character gains Force Rating 1[P][H3]Sources:[h3][H4]Page 27 - Collapse of the Republic[h4]"
+		},
+		{
+			"id": "Works Like a Charm",
+			"name": "Works Like a Charm",
+			"description": "Once per session, make one skill check using Presence rather than the characteristic linked to that skill.[P][H3]Sources:[h3][H4]Fly Casual[h4]"
 		}
 	]
 }

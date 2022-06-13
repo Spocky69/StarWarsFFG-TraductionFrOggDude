@@ -241,8 +241,8 @@
 		},
 		{
 			"id": "Bola/Net",
-			"name": "Bola/Net",
-			"description": "[H3]Bola or Net[h3]\n      Please see page 164 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 164 - Edge of the Empire Core Rulebook[h4]<div>User may spend [TR] on a successful hit so that target may not perform any maneuvers, and the only action the target may perform is a [B]Formidable ([DI][DI][DI][DI][DI]) Athletics check[b]\n        to free himself. </div>"
+			"name": "Bolas et Filets",
+			"description": "<p>Les chasseurs de primes préfèrent parfois garder leur cible en vie. C'est en général là qu'entrent en jeu les bolas et les filets. Conçues pour être lancées à la main, ces armes servent à immobiliser leurs victimes, de manière à pouvoir les approcher, les capturer et les ramener intactes aux autorités.. ou à une organisation criminelle. bien que les armes étourdissantes soient plus faciles à manier, les bolas et les filets possèdent deux avantages : leur simplicité les rend presque invisibles aux scanners et ils sont si rudimentaires, qu'il ne risquent vraiment pas de causer de dégâts par accident.<br /><br />Bolas et filets immobilisent grâce à leur attribut Enchevêtrement, ce qui veut dire qu'il ne leur suffit pas d'atteindre leur cible pour fonctionner. A vrai dire ces armes demandent tant d'adresse que seuls les plus talentueux et les plus désespérés se risquent à les employer. Tous les autres se contentent du réglage étourdissant de leur blaster.<br /><br />Lorsqu'un personnage utilise des bolas ou un filet, il peut dépenser un [TR] afin d'enchevêtrer sa cible à coup sûr. Quand vient leur tour, les victimes de ces armes ne peuvent plus entreprendre de manoeuvre et elles n'ont plus accès qu'à une seule action : essayer de se dégager en effectuant un test d'Athlétisme [DI][DI][DI][DI][DI] au prix d'une action.<br /><br />Page 165 du livre Aux confins de l'Empire pour plus de détails</p>"
 		},
 		{
 			"id": "Boonta Blaster",
@@ -256,8 +256,8 @@
 		},
 		{
 			"id": "Bowcaster",
-			"name": "Bowcaster",
-			"description": "[H3]Bowcaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Arbalète",
+			"description": "<p>Emblématiques des Wookies de Kashyyyk comme les bâtons gaderffiis le sont pour les Hommes des Sables de Tatooine, les arbalètes peuvent tirer des carreaux munis de toutes sortes de pointes.<br /><br />Les projectiles eux-mêmes sont des carreaux de métal équipées de polarisateurs qui en augmentent la vitesse et la puissance jusqu'à les rendre aussi mortels que des décharges d'énergie.<br /><br />Mise au point pour chasser les créatures gigantesques qui habitent les jungles de Kashyyyk, la pointe standard est un micro-explosif capable de pénétrer le métal et les cuirs les plus épais. Le reste du temps, les carreaux peuvent être équipés de détonateurs soniques, de charges aveuglantes et même de fumigènes servant à couvrir l'avancée des guerriers Wookie.<br /><br />Chaque arbalète est fabriquée à la main, sur mesure, ce qui explique leur prix exorbitant. Les tendre demande tant de force que la plupart ont été équipée de mécanisme de réarmement automatique.<br /><br />L'arbalète décrite dans ce chapitre tire des carreaux micro-explosifs standards et n'est pas équipée de mécanisme qui s'en sert doit exécuter une manoeuvre pour la recharger avant chaque tir.<br /><br />Page 164 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Brass Knuckles",
@@ -486,13 +486,13 @@
 		},
 		{
 			"id": "Disruptor Pistol",
-			"name": "Disruptor Pistol",
-			"description": "[H3]Disruptor Pistol[h3]\n      Please see page 163 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 163 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]<div>Any Critical Injury results are changed to \"Crippled\", unless result is more grievous </div>"
+			"name": "Pistolet Disrupteur",
+			"description": "<p>Illégaux dans presque tous les mondes civilisés, les disrupteurs produisent des décharges d'énergie si concentrée qu'elles sont capables de désintégrer des parties entières de leur victimes. Bien qu'ils fonctionnent avec la même technologie que les blasters, les disrupteurs ne leur ressemblent en rien : leurs énormes modules Xciter sont capables de traiter un volume de gaz bien plus important, et leurs gigantesques cylindres galven génèrent des décharges d'une tout autre densité. La plupart ont une portée très limitée, mais il existe tout de même quelques modèles munis des cylindres renforcés afin de traiter ce problème. On les trouve généralement entre les mains des meilleurs tireurs d'élite de la galaxie.<br /><br />Lorsq'un personnage est touché par un tir disrupteur, toutes les blessures critiques infligent l'effet Infirmité(96-100), à moins que le jet sur la Table 6-10 n'indique une blessure plus grave.<br /><br />Les disrupteurs ne peuvent pas recevoir d'amélioration ou de kit qui augmente la portée et la cadence de tir.<br /><br />Page 164 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Disruptor Rifle",
-			"name": "Disruptor Rifle",
-			"description": "[H3]Disruptor Rifle[h3]\n      Please see page 163 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 163 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]<div>Any Critical Injury results are changed to \"Crippled\", unless result is more grievous </div>"
+			"name": "Fusil Disrupteur",
+			"description": "<p>Illégaux dans presque tous les mondes civilisés, les disrupteurs produisent des décharges d'énergie si concentrée qu'elles sont capables de désintégrer des parties entières de leur victimes. Bien qu'ils fonctionnent avec la même technologie que les blasters, les disrupteurs ne leur ressemblent en rien : leurs énormes modules Xciter sont capables de traiter un volume de gaz bien plus important, et leurs gigantesques cylindres galven génèrent des décharges d'une tout autre densité. La plupart ont une portée très limitée, mais il existe tout de même quelques modèles munis des cylindres renforcés afin de traiter ce problème. On les trouve généralement entre les mains des meilleurs tireurs d'élite de la galaxie.<br /><br />Lorsq'un personnage est touché par un tir disrupteur, toutes les blessures critiques infligent l'effet Infirmité(96-100), à moins que le jet sur la Table 6-10 n'indique une blessure plus grave.<br /><br />Les disrupteurs ne peuvent pas recevoir d'amélioration ou de kit qui augmente la portée et la cadence de tir.<br /><br />Page 164 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Double-Bladed Lightsaber",
@@ -651,8 +651,8 @@
 		},
 		{
 			"id": "Flame Projector",
-			"name": "Flame Projector",
-			"description": "[H3]Flame Projector[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, or page 178 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 178 - Age of Rebellion Core Rulebook[h4]<div>When triggering Burn quality, may apply it to any target hit by the attack </div><div>GM may spend [TH][TH] or [DE] to apply the Burn quality to any ally hit by the attack </div>"
+			"name": "Lance-Flammes",
+			"description": "<p>Les armes incendiaires servent plus à détruire des bâtiments, du matériel ou même des récoltes qu'à combattre des êtres vivants. Mais elles sont bien sûr tout à fait capables de réduire la chair et les os en cendres.<br /><br />Les lances-flammes sont particulièrement populaires en raison de leur large zone de tir. Ils ne font pas de quartier et sont capables de toucher plusieurs cibles à la fois. Lorsqu'il déclenche l'attribut Incendiaire, le personnage qui manie le lance-flamme en fait subir les effets à n'importe quelle cible qu'il a touchée. L'attribut peut bien sûr être activé à plusieurs reprises et frapper à chaque fois une cible différente. De son coté, le MJ peut aussi dépenser 2 [DE] ou 1 [TH] pour appliquer l'attribut à un allié qui se serait fait malencontreusement prendre dans les flammes lors de l'attaque initiale.<br /><br />Page 166 du livre Aux confins de l'Empire ou page 178 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Flechette Micro-Rocket",
@@ -847,7 +847,7 @@
 		{
 			"id": "Heavy Blaster Rifle",
 			"name": "Fusil Blaster Lourd",
-			"description": "Les fusils blaster lourds utilisent des gaz accélérateurs rares, une technologie Xciter de pointe et des cristaux à large prisme. ils sont conçus pour projeter des décharges surpuissantes sur des cibles lourdement blindées.<p>\nPage 163 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails.</p>"
+			"description": "Les fusils blaster lourds utilisent des gaz accélérateurs rares, une technologie Xciter de pointe et des cristaux à large prisme. Ils sont conçus pour projeter des décharges surpuissantes sur des cibles lourdement blindées et s'avèrent capables de tirer en rafale. Les fusils blaster lourds font aussi de parfaites armes d'assassinat.<p>\nPage 163 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails.</p>"
 		},
 		{
 			"id": "Heavy Proton Torpedo Launcher",
@@ -896,8 +896,8 @@
 		},
 		{
 			"id": "Ion Blaster",
-			"name": "Ion Blaster",
-			"description": "[H3]Ionization Blaster[h3]\n      Please see page 162 of the Edge of the Empire Core Rulebook, or page 176 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 162 - Edge of the Empire Core Rulebook[h4][H4]Page 176 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Blaster à Ionisation",
+			"description": "<p>Ces armes anti-droïdes mettent la puissance de leur cellules énergétiques au service de la technologie d'entrave informatique. En effet et contrairement à ce que leur nom laisse penser, les fameux bouchons d'entraves n'ont jamais mis les droïdes hors service par des moyens électromécaniques, mais bien ne leur communiquant un ordre prioritaire : celui de s'éteindre. En utilisant l'énergie de leur cellule, les blasters à ionisation libèrent un ordre similaire lors d'un tir prenant la forme d'un arc de cercle et ayant une portée d'une douzaine de mètres.<br /><br />Les organismes pris dans la zone d'effet ressentent juste un léger picotement, mais lorsque des droïdes essuient la vague d'énergie, leurs éventuels boucliers s'abaissent et la commande d'arrêt pénètre leurs systèmes internes. Habituellement, ils sont ensuite inertes pour une bonne demi-heure (et reçoivent les dégâts étourdissant correspondants).<br /><br />Pour résumer, les blasters à ionisation ne fonctionnent que contre les droïdes et les cyborgs, et ne provoquent que du stress dû à l'attribut Etourdissement. Ils n'ont aucun effet sur les créatures organiques, mis à part un bref et douloureux picotement.<br /><br />Page 164 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Ion Micro-Rocket",
@@ -1007,7 +1007,7 @@
 		{
 			"id": "Light Repeating Blaster",
 			"name": "Blaster Léger à Répétition ",
-			"description": "Utilisés par les militaires comme par les mercenaires, les blasters à répétition légers servent à soutenir les unités d'assauts au sol. Capable de produire un feu nourri, se cont des armes conçues pour blesser et éliminer l'infanterie légère. Habituellement, ceux sur qui elles se déchaînent se jettent à terre à la simple vue de la grêle de lumière de leurs tirs en rafale.<p>\nPage 164 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails</p>"
+			"description": "Utilisés par les militaires comme par les mercenaires, les blasters à répétition légers servent à soutenir les unités d'assauts au sol. Capable de produire un feu nourri, se cont des armes conçues pour blesser et éliminer l'infanterie légère. Habituellement, ceux sur qui elles se déchaînent se jettent à terre à la simple vue de la grêle de lumière de leurs tirs en rafale.<p><br /><br />Page 164 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion pour plus de détails</p>"
 		},
 		{
 			"id": "Lightfoil",
@@ -1156,8 +1156,8 @@
 		},
 		{
 			"id": "Missile Tube",
-			"name": "Missile Tube",
-			"description": "[H3]Missile Tube[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 178 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 178 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]"
+			"name": "Lance-Missiles",
+			"description": "<p>Lourds mais portables, les lance-missiles tirent des projectiles autopropulsés. En règle générale, ce sont des ogives avec des charges à proton conçues pour détruire de petits transports. Toutefois, même si cela s'avère plus rare, ils peuvent également utiliser d'autres types de munitions.<br /><br />Les lances-roquettes sont des armes complexes, ils sont éuipés de mini-répulseurs qui aident les troupes d'infanterie à les manier et de senseurs élaborés capables d'indentifier la vitesse, la trajectoire et la signature énergétique d'une cible. Cet appareillage est très important, car les lance-missiles ont trois modes de tir différents. Le premier est un mode infrarouge. Il permet à ces armes de se verrouiller sur la signature thermique de leur cible. Le second localise les ondes antigravitationnelles, ou en d'autres termes, les répulseurs. Mais malgré leur technicité, ces deux types d'attaque restent vulnérables aux leurres. Quelques fusées éclairantes suffisent à contre-carrer la traque thermique, et une poignée de mini-modules munis de répulseurs d'ondes antigravitationnelles. Pour plus de détails, référez vous à l'attribut Projectile guidé.<br /><br />Le troisième mode d'attaque est le tir direct. Il demande plus d'adresse, mais en contrepartie, l'attaque ne peut pas être déroutée par des leurres (l'arme perd l'attribut Projectile guidé). Bien entendu, si quelqu'un ou quelque chose coupe la trajectoire du tir, ou si le tireur vise mal, le projectile explosera contre ce qui aura été touché. Les personnages qui utilisent un lance-missiles doivent éxécuter une manoeuvre avant chaque tir afin de le préparer.<br /><br />Page 165 du livre Aux confins de l'Empire ou page 178 de l'Ere de la Rébellion ou page 170 de Force et Destinée pour plus de détails</p>"
 		},
 		{
 			"id": "Mk II EMP Grenade",
@@ -1597,7 +1597,7 @@
 		{
 			"id": "Shock Gloves",
 			"name": "Shock Gloves",
-			"description": "[H3]Shock Gloves[h3]\n      Please see page 166 of the Edge of the Empire Core Rulebook, page 180 of the Age of Rebellion Core Rulebook, or page 171 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 166 - Edge of the Empire Core Rulebook[h4][H4]Page 180 - Age of Rebellion Core Rulebook[h4][H4]Page 171 - Force and Destiny Core Rulebook[h4]"
+			"description": "<p>Quelques fins câbles électriques suffisent à transformer un simple vêtement isolant en gant à décharges. Les férus d'arts martiaux peuvent s'en servir pour augmenter la puissance de leurs attaques et plus d'un bandit a 'conclu une affaire' par une poignée de main... qui a laissé son rival en train de se tordre de douleur sur le sol.<br /><br />Page 167 du livre Aux confins de l'Empire ou page 180 de l'Ere de la Rébellion ou page 171 de Force et Destinée pour plus de détails</p>"
 		},
 		{
 			"id": "Shock Whip",
@@ -1631,13 +1631,13 @@
 		},
 		{
 			"id": "Slugthrower Pistol",
-			"name": "Slugthrower Pistol",
-			"description": "[H3]Slugthrower Pistol[h3]\n      Please see page 164 of the Edge of the Empire Core Rulebook, page 177 of the Age of Rebellion Core Rulebook, or page 169 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 164 - Edge of the Empire Core Rulebook[h4][H4]Page 177 - Age of Rebellion Core Rulebook[h4][H4]Page 169 - Force and Destiny Core Rulebook[h4]"
+			"name": "Pistolet à Percussion",
+			"description": "<p>Petits, légers et bruyants, les pistolets à percussion ne courent pas les rues. Ceux qui en portent un à la ceinture le font souvent pour des raisons sentimentales. Peut être qu'ils en ont hérité ou d'un parent qui vivait sur un monde primitif, ou qu'il leur rappelle leur planète natale ?<br /><br />Page 165 du livre Aux confins de l'Empire ou page 176 de l'Ere de la Rébellion ou page 169 de Force et Destinée pour plus de détails</p>"
 		},
 		{
 			"id": "Slugthrower Rifle",
-			"name": "Slugthrower Rifle",
-			"description": "[H3]Slugthrower Rifle[h3]\n      Please see page 164 of the Edge of the Empire Core Rulebook, page 177 of the Age of Rebellion Core Rulebook, or page 169 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 164 - Edge of the Empire Core Rulebook[h4][H4]Page 177 - Age of Rebellion Core Rulebook[h4][H4]Page 169 - Force and Destiny Core Rulebook[h4]"
+			"name": "Fusil à Percussion",
+			"description": "<p>Proches des pistolets à percussion, ils sont simplement plus volumineux. Pour le reste, ils utilisent les mêmes principes chimiques, les mêmes mécanismes, et projettent eux aussi des 'balles' à haute vélocité sur leurs cibles. Les fusils à percussion possèdent un canon plus long, leur chambre peut accueillir des cartouches de plus gros calibre et ils atteignent donc une meilleure portée. Cela dit, leur précision et leur force de pénétration laissent à désirer et il leur faut des munitions rares, souvent artisanales, peu fiables et hors de prix.<br /><br />Les fusils à percussion existent surtout au sein des tribus nomades des mondes les plus primitifs. On les retrouve par exemple aux mains des pillards Tusken de Tatooine. Ce peuple sauvage et violent n'a évidement pas accès aux gaz à blaster et encore moins à la technologie Xciter. Et même si les membres des tribus récupèrent parfois quelques munitions au cours d'un raid contre une ferme à moisissure, ils se contentent de les glisser dans un de leurs fusils rudimentaires. En définitive, leurs armes sont seulement efficaces contre les voyageurs isolés, les Jawas et les rats womp qui arpentent le désert aride.<br /><br />Page 165 du livre Aux confins de l'Empire ou page 177 de l'Ere de la Rébellion ou page 169 de Force et Destinée pour plus de détails</p>"
 		},
 		{
 			"id": "Snap Baton",
@@ -1756,8 +1756,8 @@
 		},
 		{
 			"id": "Thermal Detonator",
-			"name": "Thermal Detonator",
-			"description": "[H3]Thermal Detonator[h3]\n      Please see page 165 of the Edge of the Empire Core Rulebook, page 180 of the Age of Rebellion Core Rulebook, or page 170 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 165 - Edge of the Empire Core Rulebook[h4][H4]Page 180 - Age of Rebellion Core Rulebook[h4][H4]Page 170 - Force and Destiny Core Rulebook[h4]<div>Any [DE] on check means detonator exploded prematurely.  User takes full damage unless an additional maneuver can be performed.  If so, user takes Blast damage. </div>"
+			"name": "Detonateur Thermique",
+			"description": "<p>Ces explosifs insidieux mesurent la même taille qu'une grenade à fragmentation. Ils sont constitués d'un noyau en barradium entouré d'une enveloppe thermoréactive en barradium elle aussi. Lors de la détonation, l'arme entière entre en fusion et libère une vague de particules qui désintègre tout sur son passage. Un seul détonateur suffit à faire sauter tout un bâtiment. Cela dit, s'ils sont interdits presque partout, cela est dû à l'instabilité du barradium plutôt qu'à la puissance de l'arme.<br /><br />Lorsqu'un personnage utilise un détonateur thermique, un [TH] obtenu au test d'attaque signifie que l'appareil explose prématurément. Le lanceur essuie alors les dégâts de l'arme de plein fouet, à moins de réussir à exécuter une manoeuvre pour s'écarter, auquel cas il ne subit que les dégâts de l'attribut Souffle.<br /><br />Un détonateur thermique peut être réglé pour exploser à l'impact, ou être activé en début d'action pour sauter dans les 3 rounds (au prix d'une action). Certains sont aussi munis de détonateurs à pression qui déclenchent l'explosion dès qu'on les relâche. L'explosion de ces armes est si puissante que l'attribut Souffle affecte tous ceux qui sont à portée courte de la cible initiale.<br /><br />Page 166 du livre Aux confins de l'Empire ou page 180 de l'Ere de la Rébellion ou page 170 de Force et Destinée pour plus de détails</p>"
 		},
 		{
 			"id": "Thunderbolt Shock Prod",
