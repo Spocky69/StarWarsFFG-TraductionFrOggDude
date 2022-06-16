@@ -476,8 +476,8 @@
 		},
 		{
 			"id": "Conditioned",
-			"name": "Conditioned",
-			"description": "Please see page 141 of the Force and Destiny Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
+			"name": "Conditionné",
+			"description": "Retirez [SE] par rang de Conditionné aux tests d'Athlétisme et de Coordination. Réduisez les dégâts et le stress issus d'une chute de 1 point par rang de Conditionné."
 		},
 		{
 			"id": "Confidence (Improved)",
@@ -1506,7 +1506,7 @@
 		},
 		{
 			"id": "Intimidating",
-			"name": "Intimidating",
+			"name": "Intimidant",
 			"description": "Vous pouvez subir un certain nombre de points de stress pour dégrader autant de dés de difficulté des tests de Coercition que vous effectuez, ou pour améliorer autant de dés de difficulté des test de Coercition qui vous prennent pour cible. Le stress ainsi subi ne peut pas dépasser votre rang en intimidation."
 		},
 		{
