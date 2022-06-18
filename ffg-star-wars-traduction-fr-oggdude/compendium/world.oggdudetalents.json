@@ -1571,7 +1571,7 @@
 		},
 		{
 			"id": "Jetpack Expertise",
-			"name": "Jetpack Expertise",
+			"name": "Expertise en Jetpack",
 			"description": "Le personnage peut dépenser [AD] d'un jet de combat pour enlever 1 point de stress de son jetpack. (Peux dépenser plusieurs [AD] quand il choisit cet effet)."
 		},
 		{
@@ -2996,8 +2996,8 @@
 		},
 		{
 			"id": "To the Death!",
-			"name": "To the Death!",
-			"description": "Une fois par session, le personnage peut réaliser la manoeuvre 'jusqu'a la mort' et subir un maximum de stress égal à sa volonté. Pour chaque point de stress subit de cette manière ajoutez +10 aux blessures critiques infligées et subites."
+			"name": "Jusqu'à la Mort !",
+			"description": "Une fois par session, le personnage peut réaliser la manoeuvre 'Jusqu'à la Mort' et subir un maximum de stress égal à sa volonté. Pour chaque point de stress subit de cette manière ajoutez +10 aux blessures critiques infligées et subites."
 		},
 		{
 			"id": "Trained Mount",
