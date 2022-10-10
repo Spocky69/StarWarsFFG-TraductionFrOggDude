@@ -71,18 +71,18 @@
 		},
 		{
 			"id": "Animal Bond",
-			"name": "Animal Bond",
-			"description": "Please see page 138 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 138 - Force and Destiny Core Rulebook[h4]"
+			"name": "Lien avec les Animaux",
+			"description": "<p>D&eacute;veloppez un lien &agrave; long terme avec un animal unique dont le gabarit est inf&eacute;rieur &agrave; la moiti&eacute; de votre R&eacute;serve de Force, arrondie &agrave; l&rsquo;entier inf&eacute;rieur.</p>"
 		},
 		{
 			"id": "Animal Bond (Improved)",
-			"name": "Animal Bond (Improved)",
-			"description": "Please see page 30 of the Savage Spirits Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Savage Spirits[h4]"
+			"name": "Lien Avec Les Animaux (Amélioré)",
+			"description": "<p>Quand vous d&eacute;pensez une&nbsp;manoeuvre&nbsp;pour diriger un animal li&eacute;, le personnage peut subir 1 stress pour ajouter [BO] sur le&nbsp;prochain test&nbsp;de l'animal.</p>"
 		},
 		{
 			"id": "Animal Empathy",
-			"name": "Animal Empathy",
-			"description": "Please see page 139 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 139 - Force and Destiny Core Rulebook[h4]"
+			"name": "Empathie avec les Animaux",
+			"description": "<p>Lorsque vous effectuez des tests pour ma&icirc;triser ou dresser des animaux, ajoutez-y un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre R&eacute;serve de Force. D&eacute;pensez [FP] pour ajouter [SU] ou [AD] au r&eacute;sultat.</p>"
 		},
 		{
 			"id": "Another's Treasure",
@@ -146,8 +146,8 @@
 		},
 		{
 			"id": "Ataru Technique",
-			"name": "Ataru Technique",
-			"description": "Please see page 139 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 139 - Force and Destiny Core Rulebook[h4]"
+			"name": "Technique Ataru",
+			"description": "<p>Lorsque vous effectuez un test employant la comp&eacute;tence Sabre laser, vous pouvez vous servir d'Agilit&eacute; au lieu de Vigueur.</p>"
 		},
 		{
 			"id": "Backroom Deal",
@@ -261,18 +261,18 @@
 		},
 		{
 			"id": "Body Guard",
-			"name": "Body Guard",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, page 143 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+			"name": "Garde du corps",
+			"description": "<p>Une fois par partie, lorsqu&rsquo;un&nbsp;alli&eacute; prot&eacute;g&eacute; par la&nbsp;man&oelig;uvre&nbsp;Garde du corps est touch&eacute;, vous &ecirc;tes touch&eacute;&nbsp;&agrave; sa place.</p>"
 		},
 		{
 			"id": "Body Guard (Improved)",
-			"name": "Body Guard (Amélioré)",
-			"description": "Please see page 140 of the Force and Destiny Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
+			"name": "Garde du corps (Amélioré)",
+			"description": "<p>Une fois par partie, lorsqu&rsquo;un&nbsp;alli&eacute; prot&eacute;g&eacute; par la&nbsp;man&oelig;uvre&nbsp;Garde du corps est touch&eacute;, vous &ecirc;tes touch&eacute;&nbsp;&agrave; sa place.</p>"
 		},
 		{
 			"id": "Body Guard (Supreme)",
-			"name": "Body Guard (Supreme)",
-			"description": "Please see page 34 of the Forged in Battle Sourcebook for details.[P][H3]Sources:[h3][H4]Page 34 - Forged in Battle[h4]"
+			"name": "Garde du corps (Ultime)",
+			"description": "<p>La&nbsp;manoeuvre Garde du Corps&nbsp;peut prot&eacute;ger un nombre de personnages au contact &eacute;gal &agrave; vos&nbsp;rangs en R&eacute;sistance.</p>"
 		},
 		{
 			"id": "Bolstered Armor",
@@ -341,13 +341,13 @@
 		},
 		{
 			"id": "Calming Aura",
-			"name": "Calming Aura",
-			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+			"name": "Aura Apaisante",
+			"description": "<p>Lorsqu'un adversaire cible le personnage avec un pouvoir de la Force, r&eacute;duisez les [FP] g&eacute;n&eacute;r&eacute;s de 1.</p>"
 		},
 		{
 			"id": "Calming Aura (Improved)",
-			"name": "Calming Aura (Improved)",
-			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+			"name": "Aura Apaisante (Améliorée)",
+			"description": "<p>D&eacute;pensez une&nbsp;man&oelig;uvre&nbsp;et&nbsp;subissez 2 points de stress&nbsp;pour &eacute;tendre l&rsquo;effet d&rsquo;Aura&nbsp;apaisante &agrave; un nombre d&rsquo;alli&eacute;s &eacute;gal &agrave; votre Volont&eacute;, situ&eacute;s&nbsp;&agrave;&nbsp;port&eacute;e courte, jusqu&rsquo;au d&eacute;but du tour suivant.</p>"
 		},
 		{
 			"id": "Careful Planning",
@@ -371,13 +371,13 @@
 		},
 		{
 			"id": "Center of Being",
-			"name": "Center of Being",
-			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+			"name": "Recentrement",
+			"description": "<p>Effectuez la man&oelig;uvre Recentrement. Jusqu&rsquo;au d&eacute;but du tour suivant, quand vous portez un sabre laser, le niveau de critique des attaques qui vous prennent pour cible augmente de 1 ([AD] suppl&eacute;mentaire pour Critique) par rang de Recentrement.</p>"
 		},
 		{
 			"id": "Center of Being (Improved)",
-			"name": "Center of Being (Improved)",
-			"description": "Please see page 140 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+			"name": "Recentrement (Amélioré)",
+			"description": "<p>Subissez 1 point de stress&nbsp;pour effectuer&nbsp;Recentrement&nbsp;au prix d&rsquo;une&nbsp;broutille.</p>"
 		},
 		{
 			"id": "Defensive Circle",
@@ -406,8 +406,8 @@
 		},
 		{
 			"id": "Circle of Shelter",
-			"name": "Circle of Shelter",
-			"description": "Please see page 140 of the Force and Destiny Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 140 - Force and Destiny Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+			"name": "Cercle de Protection",
+			"description": "<p>Lorsqu&rsquo;un alli&eacute; au contact&nbsp;est touch&eacute;, vous pouvez employer&nbsp;Parer ou D&eacute;vier&nbsp;comme une&nbsp;broutille&nbsp;pour contrer ce coup.</p>"
 		},
 		{
 			"id": "Clanker Killer",
@@ -441,13 +441,13 @@
 		},
 		{
 			"id": "Command",
-			"name": "Command",
-			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 140 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4]"
+			"name": "Autorité Naturelle",
+			"description": "<p>Ajoutez [BOOST] par rang d&rsquo;Autorit&eacute; naturelle quand vous effectuez un test de Commandement. Les cibles affect&eacute;es ajoutent [BO] aux tests de Sang-froid pour les prochaines 24 heures.</p>"
 		},
 		{
 			"id": "Commanding Presence",
-			"name": "Commanding Presence",
-			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, page 140 of the Force and Destiny Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 140 - Force and Destiny Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+			"name": "Poigne",
+			"description": "<p>Retirez [SE] par&nbsp;rang de Poigne&nbsp;aux&nbsp;tests de Calme et de&nbsp;Commandement.</p>"
 		},
 		{
 			"id": "Commanding Presence (Improved)",
@@ -456,8 +456,8 @@
 		},
 		{
 			"id": "Comprehend Technology",
-			"name": "Comprehend Technology",
-			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Intuition Technologique",
+			"description": "<p>Entreprenez l'action Intuition Technologique&nbsp;: effectuez un&nbsp;<strong>test de Connaissance&nbsp;(&eacute;ducation) Moyen&nbsp;([DI][DI])</strong> pour employer votre&nbsp;Valeur de Force&nbsp;en tant que rang dans la comp&eacute;tence n&eacute;cessaire pour utiliser un objet pr&eacute;cis.</p>"
 		},
 		{
 			"id": "Comrades in Arms",
@@ -516,8 +516,8 @@
 		},
 		{
 			"id": "Contingency Plan",
-			"name": "Contingency Plan",
-			"description": "Please see page 33 of the Desperate Allies Sourcebook or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Desperate Allies[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Plan B",
+			"description": "<p>D&eacute;pensez 1 point de Destin pour &eacute;liminer un nombre de points de stress &eacute;gal &agrave; votre valeur de Ruse.</p>"
 		},
 		{
 			"id": "Contraption",
@@ -546,8 +546,8 @@
 		},
 		{
 			"id": "Counterstrike",
-			"name": "Counterstrike",
-			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Contre-Attaque",
+			"description": "<p>Quand une attaque vous manque et g&eacute;n&egrave;re [DE] ou [TH][TH],&nbsp;vous pouvez&nbsp;am&eacute;liorer un d&eacute;&nbsp;de votre prochain&nbsp;test de Sabre laser (Ruse) contre cet adversaire.</p>"
 		},
 		{
 			"id": "Touch of Fate",
@@ -576,8 +576,8 @@
 		},
 		{
 			"id": "Crippling Blow",
-			"name": "Crippling Blow",
-			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Coup Handicapant",
+			"description": "<p>Augmentez de 1 la difficult&eacute; du prochain&nbsp;test de combat. Si le test inflige des d&eacute;g&acirc;ts, la cible subit 1 point de stress chaque fois qu&rsquo;elle se d&eacute;place jusqu&rsquo;&agrave; la fin de la rencontre.</p>"
 		},
 		{
 			"id": "Crucial Point",
@@ -671,18 +671,18 @@
 		},
 		{
 			"id": "Defensive Slicing",
-			"name": "Defensive Slicing",
-			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, page 145 of the Age of Rebellion Core Rulebook, or page 141 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Slicer Stratégique",
+			"description": "<p>Quand vous d&eacute;fendez un syst&egrave;me informatique, ajoutez [SE] par rang de Slicer Strat&eacute;gique aux tests de votre adversaire.</p>"
 		},
 		{
 			"id": "Defensive Slicing (Improved)",
-			"name": "Defensive Slicing (Improved)",
-			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Slicer Stratégique (Amélioré)",
+			"description": "<p>Am&eacute;liorez 1 d&eacute; de difficult&eacute; de vos adversaires&nbsp;par&nbsp;rang de Slicer Strat&eacute;gique. Cette capacit&eacute; remplace les b&eacute;n&eacute;fices habituels du&nbsp;talent Slicer&nbsp;strat&eacute;gique.</p>"
 		},
 		{
 			"id": "Defensive Training",
-			"name": "Defensive Training",
-			"description": "Please see page 141 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 141 - Force and Destiny Core Rulebook[h4]"
+			"name": "Entraînement Défensif",
+			"description": "<p>Lorsque vous maniez un&nbsp;sabre laser, une arme de&nbsp;corps &agrave; corps ou de pugilat,&nbsp;l&rsquo;arme gagne l&rsquo;attribut Parade&nbsp;avec une valeur &eacute;gale &agrave;&nbsp;votre nombre de&nbsp;rangs d&rsquo;Entra&icirc;nement d&eacute;fensif.</p>"
 		},
 		{
 			"id": "Deft Maker",
@@ -736,8 +736,8 @@
 		},
 		{
 			"id": "Disruptive Strike",
-			"name": "Disruptive Strike",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Frappe Déstabilisante",
+			"description": "<p>Entreprenez&nbsp;l&rsquo;action Frappe d&eacute;stabilisante&nbsp;: effectuez un&nbsp;test de combat au Sabre laser (Ruse)&nbsp;en ajoutant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre&nbsp;valeur de Force.&nbsp;D&eacute;pensez&nbsp;[FP]&nbsp;pour ajouter 1&nbsp;[FA]&nbsp;au prochain test de combat de votre cible.</p>"
 		},
 		{
 			"id": "Distracting Behavior",
@@ -751,8 +751,8 @@
 		},
 		{
 			"id": "Djem So Deflection",
-			"name": "Djem So Deflection",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Déviation Djem So",
+			"description": "<p>Apr&egrave;s avoir utilis&eacute; D&eacute;vier, d&eacute;pensez 1 point de Destin pour accomplir la man&oelig;uvre D&eacute;placement comme une broutille hors tour afin de r&eacute;duire la distance ou de vous retrouver au contact de votre adversaire.</p>"
 		},
 		{
 			"id": "Dockyard Expertise",
@@ -801,8 +801,8 @@
 		},
 		{
 			"id": "Draw Closer",
-			"name": "Draw Closer",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Rapprochement",
+			"description": "<p>Entreprenez l&rsquo;action Rapprochement&nbsp;&nbsp;: effectuez un test de combat de Sabre laser (Volont&eacute;) contre une cible de gabarit 1 &agrave; port&eacute;e moyenne, en y ajoutant un nombre de [FO] qui ne doit pas &ecirc;tre sup&eacute;rieur &agrave; votre Valeur de Force. D&eacute;pensez [FP] pour rapprocher la cible d&rsquo;un niveau de distance ou pour ajouter [SU] au test. Si le personnage ne peut pas bouger sa cible pour l'engager, le test de combat &eacute;choue automatiquement.</p>"
 		},
 		{
 			"id": "Drive Back",
@@ -816,12 +816,12 @@
 		},
 		{
 			"id": "Duelist's Training",
-			"name": "Duelist's Training",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Entraînement au Duel",
+			"description": "<p>Ajoutez [BO] aux&nbsp;tests de&nbsp;Corps &agrave; corps&nbsp;et de&nbsp;Sabre&nbsp;laser&nbsp;lorsque vous &ecirc;tes au contact d&rsquo;un seul adversaire.</p>"
 		},
 		{
 			"id": "Durable",
-			"name": "Durable",
+			"name": "Dur au mal",
 			"description": "<p>Le personnage peut r&eacute;duire le r&eacute;sultat d&rsquo;une blessure critique de 10 par rang de&nbsp;<em>Dur au mal</em>, jusqu&rsquo;&agrave; un minimum de 1.</p>\n<p>&nbsp;</p>\n<p><em>Page 135 du livre Aux confins de l'Empire ou page 146 de l'Age de la Rebellion ou page 142 de Force et Destin&eacute;e</em></p>"
 		},
 		{
@@ -896,8 +896,8 @@
 		},
 		{
 			"id": "Enhanced Leader",
-			"name": "Enhanced Leader",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Commandement Renforcé",
+			"description": "<p>Lorsque vous effectuez un&nbsp;test de Commandement, ajoutez un nombre de [FO] qui ne doit pas &ecirc;tre sup&eacute;rieur &agrave; votre Valeur de Force. D&eacute;pensez [FP] pour ajouter [SU] ou [AD] au r&eacute;sultat.</p>"
 		},
 		{
 			"id": "Dedication",
@@ -951,8 +951,8 @@
 		},
 		{
 			"id": "Exhaust Port",
-			"name": "Exhaust Port",
-			"description": "Please see page 146 of the Age of Rebellion Core Rulebook, or page 142 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bouche d'Entrée",
+			"description": "<p>Avant d&rsquo;attaquer un vaisseau ou un v&eacute;hicule, vous&nbsp;pouvez d&eacute;penser 1 point de&nbsp;Destin pour&nbsp;ignorer&nbsp;les effets de la r&egrave;gle Massif.</p>"
 		},
 		{
 			"id": "Exhaustive Questioning",
@@ -991,8 +991,8 @@
 		},
 		{
 			"id": "Falling Avalanche",
-			"name": "Falling Avalanche",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Avalanche",
+			"description": "<p>Subissez 2 points de stress&nbsp;pour ajouter des d&eacute;g&acirc;ts&nbsp;&eacute;gaux &agrave; votre&nbsp;Vigueur&nbsp;au&nbsp;prochain&nbsp;test de combat au&nbsp;Sabre laser&nbsp;effectu&eacute; &agrave; ce tour.</p>"
 		},
 		{
 			"id": "Familiar Suns",
@@ -1016,8 +1016,8 @@
 		},
 		{
 			"id": "Fearsome",
-			"name": "Fearsome",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook, or page 32 of Dangerous Covenants, for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Effrayant",
+			"description": "<p>Lorsque vous &ecirc;tes au contact d&rsquo;un adversaire, vous pouvez le forcer &agrave; effectuer un test de peur. Sa difficult&eacute; est &eacute;gale aux rangs d&rsquo;Effrayant de votre personnage.</p>"
 		},
 		{
 			"id": "Fearsome Rep",
@@ -1026,8 +1026,8 @@
 		},
 		{
 			"id": "Feint",
-			"name": "Feint",
-			"description": "Please see page 142 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 142 - Force and Destiny Core Rulebook[h4]"
+			"name": "Feinte",
+			"description": "<p>D&eacute;pensez [TR] ou [AD][AD][AD] d&rsquo;une de vos&nbsp;attaques de corps &agrave; corps manqu&eacute;e. Am&eacute;liorez autant de d&eacute;s de difficult&eacute; que votre nombre de&nbsp;rangs de Feinte&nbsp;sur la prochaine attaque de l&rsquo;adversaire qui vous prend pour cible.</p>"
 		},
 		{
 			"id": "Feral Strength",
@@ -1036,13 +1036,13 @@
 		},
 		{
 			"id": "Field Commander",
-			"name": "Field Commander",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 101 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 101 - Force and Destiny Core Rulebook[h4]"
+			"name": "Officier Supérieur",
+			"description": "<p>Entreprenez l&rsquo;action&nbsp;d&rsquo;Officier Sup&eacute;rieur&nbsp;: effectuez un&nbsp;<strong>test de Commandement&nbsp;Moyen&nbsp;([DI][DI])</strong>. Un nombre d&rsquo;alli&eacute;s &eacute;gal &agrave; votre&nbsp;Pr&eacute;sence&nbsp;peut ex&eacute;cuter une&nbsp;man&oelig;uvre imm&eacute;diate&nbsp;&agrave; condition de subir chacun 1 point de stress.</p>"
 		},
 		{
 			"id": "Field Commander (Improved)",
-			"name": "Field Commander (Improved)",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+			"name": "Officier Supérieur (Amélioré)",
+			"description": "<p>L&rsquo;action d&rsquo;Officier sup&eacute;rieur&nbsp;affecte un nombre d&rsquo;alli&eacute;s&nbsp;&eacute;gal au&nbsp;double de votre Pr&eacute;sence, et vous pouvez d&eacute;penser [TR] pour permettre &agrave; un alli&eacute; (qui subit alors 1 point&nbsp;de stress) d&rsquo;ex&eacute;cuter une&nbsp;action gratuite&nbsp;&agrave; la place.</p>"
 		},
 		{
 			"id": "Stalker",
@@ -1051,8 +1051,8 @@
 		},
 		{
 			"id": "Fine Tuning",
-			"name": "Fine Tuning",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+			"name": "Mécanicien de Précision",
+			"description": "<p>Quand vous &eacute;liminez des points de stress m&eacute;canique subis par un v&eacute;hicule ou un vaisseau, supprimez 1 point de plus par rang de M&eacute;canicien de Pr&eacute;cision.</p>"
 		},
 		{
 			"id": "Fire Control",
@@ -1096,8 +1096,8 @@
 		},
 		{
 			"id": "Force Assault",
-			"name": "Force Assault",
-			"description": "Please see page 143 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+			"name": "Assaut de la Force",
+			"description": "<p>D&eacute;pensez [TR] ou [AD][AD][AD] sur un&nbsp;test de combat manqu&eacute; de Sabre laser (Volont&eacute;)&nbsp;pour accomplir imm&eacute;diatement une action du pouvoir&nbsp;de la Force&nbsp;D&eacute;placement en tant que&nbsp;man&oelig;uvre.</p>"
 		},
 		{
 			"id": "Force Connection",
@@ -1106,8 +1106,8 @@
 		},
 		{
 			"id": "Force Protection",
-			"name": "Force Protection",
-			"description": "Please see page 143 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+			"name": "Protection de la Force",
+			"description": "<p>Entreprenez la man&oelig;uvre Protection de la Force : subissez 1 point de stress et engagez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; vos rangs de Protection de la Force. Augmentez votre encaissement du nombre de [FO] engag&eacute;s jusqu&rsquo;au d&eacute;but du tour suivant. Subissez 1 point de stress par tour o&ugrave; un [FO] reste engag&eacute;.</p>"
 		},
 		{
 			"id": "Force of Will",
@@ -1116,8 +1116,8 @@
 		},
 		{
 			"id": "Forewarning",
-			"name": "Forewarning",
-			"description": "Please see page 143 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+			"name": "Avertissement",
+			"description": "<p>Effectuez l&rsquo;action Avertisse&shy;ment. Tous les alli&eacute;s &agrave;&nbsp;port&eacute;e moyenne&nbsp;augmentent leur d&eacute;fense d'un nombre &eacute;gal &agrave; votre&nbsp;Valeur de Force&nbsp;jusqu&rsquo;&agrave; ce qu&rsquo;ils agissent pendant la rencontre.</p>"
 		},
 		{
 			"id": "Form On Me",
@@ -1171,23 +1171,23 @@
 		},
 		{
 			"id": "Full Throttle",
-			"name": "Full Throttle",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 147 of the Age of Rebellion Core Rulebook, or page 143 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 143 - Force and Destiny Core Rulebook[h4]"
+			"name": "Pleins Gaz",
+			"description": "<p>Effectuez l'action Pleins Gaz. Faites un <strong>test Difficile ([DI][DI][DI]) de Pilotage (Spatial ou Plan&eacute;taire)</strong>&nbsp;pour augmenter la vitesse max de 1 pour un nombre de tours &eacute;gaux &agrave; votre Ruse.</p>"
 		},
 		{
 			"id": "Full Throttle (Improved)",
-			"name": "Full Throttle (Improved)",
-			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 30 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Endless Vigil[h4]"
+			"name": "Pleins Gaz (Amélioré)",
+			"description": "<p>Subissez 1 de stress pour effectuer&nbsp;Plein Gaz&nbsp;en tant que&nbsp;manoeuvre&nbsp;au lieu d'une&nbsp;action et baisser la difficult&eacute; du&nbsp;<strong>test &agrave; Moyen</strong>&nbsp;<strong>([DI][DI])</strong> au lieu de Difficile.</p>"
 		},
 		{
 			"id": "Full Throttle (Supreme)",
-			"name": "Full Throttle (Supreme)",
-			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 31 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Endless Vigil[h4]"
+			"name": "Pleins Gaz (Ultime)",
+			"description": "<p>Quand vous faites&nbsp;l'action Plein Gaz, augmentez la vitesse maximale de 2 au lieu de 1.</p>"
 		},
 		{
 			"id": "Galaxy Mapper",
-			"name": "Galaxy Mapper",
-			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 144 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+			"name": "Cartographe de la Galaxie",
+			"description": "<p>Retirez [SE] par&nbsp;rang de Cartographie de la Galaxie aux tests d'Astrogation. Les&nbsp;tests d'Astrogation&nbsp;demandent moiti&eacute; moins de temps.</p>"
 		},
 		{
 			"id": "Defensive Stance",
@@ -1245,9 +1245,9 @@
 			"description": "Une fois par session de jeu, méditez puis accomplissez l'action Harmonie avec l'univers : effectuez un test d'Astrogation Moyen ([DI][DI]). S'il est réussi, ajoutez [LI] à tous les tests des pouvoirs de la Force au cours de la prochaine rencontre. Si le test d'Astrogation est réussi avec un [DE], ajoutez [DA] à la place."
 		},
 		{
-			"id": "Hawk Bat Swoop",
+			"id": "Piqué du Chauve-Faucon",
 			"name": "Hawk Bat Swoop",
-			"description": "Please see page 144 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+			"description": "<p>Entreprenez l'action Piqu&eacute; du chauve-faucon. Effectuez un test de combat au Sabre laser (Agilit&eacute;) contre une cible &agrave; port&eacute;e courte, en y ajoutant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. En cas de r&eacute;ussite, vous pouvez d&eacute;penser [FP] pour vous retrouver au contact de la cible. Vous pouvez aussi d&eacute;penser [FP] pour ajouter [AD] au test.</p>"
 		},
 		{
 			"id": "Headbutt",
@@ -1256,13 +1256,13 @@
 		},
 		{
 			"id": "Healing Trance",
-			"name": "Healing Trance",
-			"description": "Please see page 144 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+			"name": "Transe Revigorante",
+			"description": "<p>Engagez [FO]. Pour chaque rencontre compl&egrave;te o&ugrave; [FO] reste engag&eacute;, &eacute;liminez 1 point de blessure par&nbsp;rang de Transe revigorante.</p>"
 		},
 		{
 			"id": "Healing Trance (Improved)",
-			"name": "Healing Trance (Improved)",
-			"description": "Please see page 144 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 144 - Force and Destiny Core Rulebook[h4]"
+			"name": "Transe Revigorante (Amélioré)",
+			"description": "<p>Lorsque vous &eacute;liminez des blessures avec Transe revigorante, effectuez un test de R&eacute;sistance pour &eacute;liminer une blessure critique. La difficult&eacute; du test est &eacute;gale au niveau de gravit&eacute; de la blessure critique.</p>"
 		},
 		{
 			"id": "Heavy Hitter",
@@ -1271,8 +1271,8 @@
 		},
 		{
 			"id": "Heightened Awareness",
-			"name": "Heightened Awareness",
-			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, page 148 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Vigilance Accrue",
+			"description": "<p>Les alli&eacute;s &agrave; port&eacute;e courte ajoutent [BO] &agrave; leurs&nbsp;tests de Perception et de Vigilance. Les alli&eacute;s au contact ajoutent quant &agrave; eux [BO][BO].</p>"
 		},
 		{
 			"id": "Heroic Resilience",
@@ -1361,8 +1361,8 @@
 		},
 		{
 			"id": "Imbue Item",
-			"name": "Imbue Item",
-			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Imprégnation",
+			"description": "<p>Entreprenez la&nbsp;manoeuvre Impr&eacute;gnation&nbsp;: subissez 1 point de stress et engagez [FO] pour donner &agrave; une arme, une pi&egrave;ce d'armure ou un objet d'&eacute;quipement une am&eacute;lioration tant que le [FO] reste engag&eacute;. Subissez 1 point de stress pour chaque round o&ugrave; le [FO] reste engag&eacute;.</p>\n<p>&nbsp;</p>\n<p><em>Page 146 du livre Force et Destin&eacute;e p</em><em>our plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Sincerest Flattery",
@@ -1496,8 +1496,8 @@
 		},
 		{
 			"id": "Intense Presence",
-			"name": "Intense Presence",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 145 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Présence Saisissante",
+			"description": "<p>D&eacute;pensez 1 point de Destin pour &eacute;liminer un nombre de points de stress &eacute;gal &agrave; votre Pr&eacute;sence.</p>"
 		},
 		{
 			"id": "Interjection",
@@ -1516,13 +1516,13 @@
 		},
 		{
 			"id": "Intuitive Evasion",
-			"name": "Intuitive Evasion",
-			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Esquive Intuitive",
+			"description": "<p>Accomplissez la manoeuvre Esquive intuitive. Subissez 1 point de stress et engagez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; vos rangs d'Esquive intuitive. Am&eacute;liorez autant de d&eacute;s de difficult&eacute; des tests de combat visant le vaisseau ou le v&eacute;hicule. Subissez 1 point de stress par round o&ugrave; un [FO] reste engag&eacute;.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 144 du livre de r&egrave;gles Force et Destin&eacute;e pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Intuitive Improvements",
-			"name": "Intuitive Improvements",
-			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Améliorations Intuitives",
+			"description": "<p>Quand vous effectuez un&nbsp;test pour fabriquer ou r&eacute;parer&nbsp;un objet, vous pouvez y ajouter un nombre de [FO]&nbsp; inf&eacute;rieur ou &eacute;gal &agrave; votre&nbsp;Valeur de Force. D&eacute;pensez [FP][FP] pour augmenter les emplacements disponibles de 1, avec un maximum de +2.</p>"
 		},
 		{
 			"id": "Intuitive Navigation",
@@ -1531,13 +1531,13 @@
 		},
 		{
 			"id": "Intuitive Shot",
-			"name": "Intuitive Shot",
-			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Tir intuitif",
+			"description": "<p>Lorsque vous effectuez un test de combat de Distance&nbsp;(armes l&eacute;g&egrave;res) ou Distance&nbsp;(armes lourdes), ajoutez un&nbsp;nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre R&eacute;serve de Force. Vous pouvez d&eacute;penser [FP]&nbsp;pour ajouter [SU] ou [AD].&nbsp;</p>"
 		},
 		{
 			"id": "Intuitive Strike",
-			"name": "Intuitive Strike",
-			"description": "Please see page 145 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Force and Destiny Core Rulebook[h4]"
+			"name": "Frappe Intuitive",
+			"description": "<p>Lorsque vous effectuez un&nbsp;test de combat&nbsp;avec une&nbsp;arme &agrave;&nbsp;l&rsquo;&eacute;chelle plan&eacute;taire,&nbsp;ajoutez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre&nbsp;Valeur de Force. D&eacute;pensez [FP][FP] pour ajouter [SU] ou [AD].</p>"
 		},
 		{
 			"id": "Inventor",
@@ -1596,8 +1596,8 @@
 		},
 		{
 			"id": "Know Somebody",
-			"name": "Know Somebody",
-			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 150 of the Age of Rebellion Core Rulebook, or page 146 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 150 - Age of Rebellion Core Rulebook[h4][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Relations",
+			"description": "<p>Une fois par session de jeu, quand vous tentez d&rsquo;acheter un objet disponible l&eacute;galement, r&eacute;duisez sa raret&eacute; de 1 par rang de Relations.</p>"
 		},
 		{
 			"id": "Know Their Weakness",
@@ -1621,8 +1621,8 @@
 		},
 		{
 			"id": "Knowledge is Power",
-			"name": "Knowledge is Power",
-			"description": "Please see page 103 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 103 - Force and Destiny Core Rulebook[h4]"
+			"name": "Savoir, C'est Pouvoir",
+			"description": "<p>Une fois par session de jeu, lorsque vous effectuez un test, votre Valeur de Force est consid&eacute;r&eacute;e comme &eacute;gale &agrave; vos rangs en Connaissance (Culture).</p>"
 		},
 		{
 			"id": "Knowledge is Strength",
@@ -1631,8 +1631,8 @@
 		},
 		{
 			"id": "Knowledgeable Healing",
-			"name": "Knowledgeable Healing",
-			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Soins Experts",
+			"description": "<p>Quand vous soignez un alli&eacute;, d&eacute;pensez 1 point de&nbsp;Destin pour &eacute;liminer un&nbsp;nombre de points de blessure &eacute;gal &agrave; vos&nbsp;rangs en Connaissance (x&eacute;nologie).</p>"
 		},
 		{
 			"id": "Known Programming",
@@ -1731,18 +1731,18 @@
 		},
 		{
 			"id": "Makashi Finish",
-			"name": "Makashi Finish",
-			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Coup de Grâce Makashi",
+			"description": "<p>Entreprenez l&rsquo;action Coup de gr&acirc;ce makashi. Effectuez un test de combat de Sabre laser (Pr&eacute;sence) contre une cible au contact, en ajoutant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre Valeur de Force. D&eacute;pensez [FP] pour ajouter +10 &agrave; toute Blessure critique qui en r&eacute;sulterait.</p>"
 		},
 		{
 			"id": "Makashi Flourish",
-			"name": "Makashi Flourish",
-			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Touche Makashi",
+			"description": "<p>Une fois par rencontre, entreprenez&nbsp;l&rsquo;action Touche Makashi. Effectuez un&nbsp;<strong>test&nbsp;de&nbsp;Sabre laser (Pr&eacute;sence)&nbsp;Moyen&nbsp;([DI][DI][DI])</strong>. Un adversaire&nbsp;au contact&nbsp;subit un nombre de points de stress &eacute;gal aux [SU] obtenus. Vous &eacute;liminez autant de points de stress.</p>\n<p>&nbsp;</p>\n<p><em>Vous pouvez consulter la page 153 du livre de r&egrave;gles Force et Destin&eacute;e pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Makashi Technique",
-			"name": "Makashi Technique",
-			"description": "Please see page 146 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Force and Destiny Core Rulebook[h4]"
+			"name": "Technique Makashi",
+			"description": "<p>Lorsque vous effectuez un test avec la comp&eacute;tence Sabre laser, vous pouvez utiliser votre Pr&eacute;sence &agrave; la place de votre Vigueur.</p>"
 		},
 		{
 			"id": "Marked for Death",
@@ -1831,13 +1831,13 @@
 		},
 		{
 			"id": "Mental Bond",
-			"name": "Mental Bond",
-			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+			"name": "Connexion Psychique",
+			"description": "<p>Effectuez l&rsquo;action Connexion psychique. Engagez [FO]. Tant qu&rsquo;il reste engag&eacute;, vous pouvez communiquer avec l&rsquo;animal li&eacute; &agrave; longue port&eacute;e, et voir et entendre par ses sens.</p>"
 		},
 		{
 			"id": "Mental Tools",
-			"name": "Mental Tools",
-			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+			"name": "Âme de Mécano",
+			"description": "<p>Vous &ecirc;tes consid&eacute;r&eacute; comme ayant toujours les bons outils lorsque vous effectuez des&nbsp;tests de M&eacute;canique.</p>"
 		},
 		{
 			"id": "Mind Bleed",
@@ -1876,8 +1876,8 @@
 		},
 		{
 			"id": "Multiple Opponents",
-			"name": "Multiple Opponents",
-			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+			"name": "Adversaires Multiples",
+			"description": "<p>Ajoutez [BO] aux&nbsp;tests de Sabre laser, Pugilat et Corps&nbsp;&agrave; corps&nbsp;lorsque vous &ecirc;tes&nbsp;au&nbsp;contact&nbsp;avec plusieurs adversaires.</p>"
 		},
 		{
 			"id": "Museum Worthy",
@@ -1896,8 +1896,8 @@
 		},
 		{
 			"id": "Natural Blademaster",
-			"name": "Natural Blademaster",
-			"description": "Please see page 147 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+			"name": "Fine Lame",
+			"description": "<p>Une fois par session de jeu, vous pouvez relancer un test de Sabre laser ou de Corps &agrave; corps.</p>"
 		},
 		{
 			"id": "Natural Brawler",
@@ -1911,8 +1911,8 @@
 		},
 		{
 			"id": "Natural Charmer",
-			"name": "Natural Charmer",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 147 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 147 - Force and Destiny Core Rulebook[h4]"
+			"name": "Charmeur-Né",
+			"description": "<p>Une fois par session de jeu, vous pouvez relancer 1 test de Charme ou de Tromperie.</p>"
 		},
 		{
 			"id": "Natural Commando",
@@ -1921,8 +1921,8 @@
 		},
 		{
 			"id": "Natural Doctor",
-			"name": "Natural Doctor",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+			"name": "Médecin-Né",
+			"description": "<p>Une fois par partie, vous pouvez relancer 1 test de M&eacute;decine.</p>"
 		},
 		{
 			"id": "Natural Driver",
@@ -1941,8 +1941,8 @@
 		},
 		{
 			"id": "Natural Leader",
-			"name": "Natural Leader",
-			"description": "Please see page 153 of the Age of Rebellion Core Rulebook, page 148 of the Force and Destiny Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
+			"name": "Meneur-Né",
+			"description": "<p>Une fois par session, vous pouvez relancer 1 test de&nbsp;Calme&nbsp;ou de&nbsp;Commandement.</p>"
 		},
 		{
 			"id": "Natural Merchant",
@@ -1951,8 +1951,8 @@
 		},
 		{
 			"id": "Natural Mystic",
-			"name": "Natural Mystic",
-			"description": "Please see page 148 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+			"name": "Mystique-Né",
+			"description": "<p>Une fois par session de&nbsp;jeu, vous pouvez relancer&nbsp;1&nbsp;test de pouvoir de la&nbsp;Force.</p>"
 		},
 		{
 			"id": "Natural Operator",
@@ -1981,8 +1981,8 @@
 		},
 		{
 			"id": "Natural Tinkerer",
-			"name": "Natural Tinkerer",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bidouilleur-Né",
+			"description": "<p>Une fois par session de jeu,&nbsp;vous pouvez relancer 1&nbsp;test&nbsp;de M&eacute;canique.</p>"
 		},
 		{
 			"id": "Natural Trooper",
@@ -1991,8 +1991,8 @@
 		},
 		{
 			"id": "Niman Technique",
-			"name": "Niman Technique",
-			"description": "Please see page 148 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
+			"name": "Technique Niman",
+			"description": "<p>Lorsque vous effectuez un test employant la comp&eacute;tence Sabre laser, vous pouvez vous servir de Volont&eacute; au lieu de Vigueur.</p>"
 		},
 		{
 			"id": "No Escape",
@@ -2001,7 +2001,7 @@
 		},
 		{
 			"id": "Nobody's Fool",
-			"name": "Nobody's Fool",
+			"name": "Perspicace",
 			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 153 of the Age of Rebellion Core Rulebook, or page 148 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4][H4]Page 148 - Force and Destiny Core Rulebook[h4]"
 		},
 		{
@@ -2151,8 +2151,8 @@
 		},
 		{
 			"id": "Physician",
-			"name": "Physician",
-			"description": "Please see page 149 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+			"name": "Thérapeute",
+			"description": "<p>Quand vous effectuez un&nbsp;test de M&eacute;decine&nbsp;pour aider un personnage &agrave; soigner ses blessures, celui-ci&nbsp;&eacute;limine 1 point de stress&nbsp;suppl&eacute;mentaire par&nbsp;rang de&nbsp;Th&eacute;rapeute.</p>"
 		},
 		{
 			"id": "Pilot Training",
@@ -2176,8 +2176,8 @@
 		},
 		{
 			"id": "Plausible Deniability",
-			"name": "Plausible Deniability",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 149 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 149 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bénéfice du Doute",
+			"description": "<p>Retirez [SE] par rang en B&eacute;n&eacute;fice du doute &agrave; tous vos tests de Coercition et de Tromperie.</p>"
 		},
 		{
 			"id": "Plausible Deniability (Improved)",
@@ -2266,8 +2266,8 @@
 		},
 		{
 			"id": "Prey on the Weak",
-			"name": "Prey on the Weak",
-			"description": "Please see page 149 of the Force and Destiny Core Rulebook, page 35 of the Forged in Battle Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 149 - Force and Destiny Core Rulebook[h4][H4]Page 35 - Forged in Battle[h4][H4]Page 41 - Rise of the Separatists[h4]"
+			"name": "Proie Facile",
+			"description": "<p>Pour chaque rang de Proie facile, ajoutez 1 point de d&eacute;g&acirc;t &agrave; un test de combat r&eacute;ussi contre une cible d&eacute;sorient&eacute;e.</p>"
 		},
 		{
 			"id": "Pride and Joy",
@@ -2316,12 +2316,12 @@
 		},
 		{
 			"id": "Quick Movement",
-			"name": "Quick Movement",
-			"description": "Please see page 150 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+			"name": "Déplacement Éclair",
+			"description": "<p>Subissez 2 points de stress&nbsp;pour accomplir&nbsp;la broutille&nbsp;D&eacute;placement &eacute;clair&nbsp;: ajoutez&nbsp;un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre&nbsp;R&eacute;serve de Force&nbsp;au prochain test. Apr&egrave;s avoir agi, vous pouvez d&eacute;penser [FP][FP] pour accomplir une man&oelig;uvre de D&eacute;placement additionnelle.</p>"
 		},
 		{
 			"id": "Quick Strike",
-			"name": "Quick Strike",
+			"name": "Coup Éclair",
 			"description": "<p>Quand il effectue un test d'attaque en combat, le personnage ajoute [BO] par rang de<em>&nbsp;Coup &eacute;clair&nbsp;</em>aux tests de combat contre les cibles qui n'ont pas encore agi durant cette rencontre.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 154 de l'Age de la Rebellion ou page 150 de Force et Destin&eacute;e </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -2341,8 +2341,8 @@
 		},
 		{
 			"id": "Rapid Reaction",
-			"name": "Rapid Reaction",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, page 154 of the Age of Rebellion Core Rulebook, or page 150 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+			"name": "Réaction Éclair",
+			"description": "<p>Subissez un certain nombre de points de stress pour ajouter autant de [SU]&nbsp; aux&nbsp;tests d&rsquo;initiative. Le stress ainsi subi ne peut pas d&eacute;passer votre&nbsp;rang de R&eacute;action &eacute;clair.</p>"
 		},
 		{
 			"id": "Ravage",
@@ -2376,8 +2376,8 @@
 		},
 		{
 			"id": "Reflect (Supreme)",
-			"name": "Reflect (Supreme)",
-			"description": "Please see page 150 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Force and Destiny Core Rulebook[h4]"
+			"name": "Dévier (Ultime)",
+			"description": "<p>Si vous n&rsquo;avez pas effectu&eacute; de test de combat au tour pr&eacute;c&eacute;dent, vous pouvez subir 1 point de stress pour utiliser D&eacute;vier.</p>"
 		},
 		{
 			"id": "Reinforce Item",
@@ -2411,8 +2411,8 @@
 		},
 		{
 			"id": "Resist Disarm",
-			"name": "Resist Disarm",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Résistance au Désarmement",
+			"description": "<p>Subissez 2 points de stress&nbsp;pour &eacute;viter d&rsquo;&ecirc;tre&nbsp;d&eacute;sarm&eacute;&nbsp;ou de voir votre&nbsp;arme endommag&eacute;e ou d&eacute;truite.</p>"
 		},
 		{
 			"id": "Resist Questioning",
@@ -2481,18 +2481,18 @@
 		},
 		{
 			"id": "Saber Swarm",
-			"name": "Saber Swarm",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Déluge de Coups",
+			"description": "<p>Accomplissez la manoeuvre D&eacute;luge de coups : subissez 1 point de stress pour que votre prochain test de combat au Sabre laser (Agilit&eacute;) de ce tour gagne l'attribut Jumel&eacute; &agrave; un niveau &eacute;gal &agrave; votre valeur de Force au moment du test.</p>"
 		},
 		{
 			"id": "Saber Throw",
-			"name": "Saber Throw",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook, or page 42 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4][H4]Page 42 - Rise of the Separatists[h4]"
+			"name": "Lancer de Sabre Laser",
+			"description": "<p>Quand vous effectuez l'action lancer de Sabre laser, vous pouvez augmenter la port&eacute;e &agrave; longue. Quand vous attaquez une cible &agrave; port&eacute;e longue, d&eacute;pensez [FP][FP] pour que l'arme revienne dans votre main.</p>"
 		},
 		{
 			"id": "Saber Throw (Improved)",
-			"name": "Saber Throw (Improved)",
-			"description": "Please see page 31 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 31 - Endless Vigil[h4]"
+			"name": "Lancer de Sabre Laser (Amélioré)",
+			"description": "<p>Quand vous effectuez l'action lancer de Sabre laser, vous pouvez augmenter la port&eacute;e &agrave; longue. Quand vous attaquez une cible &agrave; port&eacute;e longue, d&eacute;pensez [FP][FP] pour que l'arme revienne dans votre main.</p>"
 		},
 		{
 			"id": "Sapith Sundering",
@@ -2501,8 +2501,8 @@
 		},
 		{
 			"id": "Sarlacc Sweep",
-			"name": "Sarlacc Sweep",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Balayage du Sarlacc",
+			"description": "<p>Augmentez la difficult&eacute; d&rsquo;un&nbsp;test de Sabre laser&nbsp;d&rsquo;un cran pour accomplir l&rsquo;action Balayage du Sarlacc. Vous pouvez d&eacute;penser [AD][AD] pour toucher des cibles&nbsp;au contact suppl&eacute;mentaires.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 140 du livre de r&egrave;gles Force et Destin&eacute;e pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Savvy",
@@ -2556,8 +2556,8 @@
 		},
 		{
 			"id": "Second Wind",
-			"name": "Second Wind",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 155 of the Age of Rebellion Core Rulebook, or page 151 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Second Souffle",
+			"description": "<p>Une fois par rencontre, vous&nbsp;pouvez utiliser&nbsp;Second Souffle&nbsp;au prix d&rsquo;une&nbsp;broutille&nbsp;et &eacute;liminer autant de&nbsp;points de stress que votre&nbsp;rang de Second Souffle.</p>"
 		},
 		{
 			"id": "Secret Lore",
@@ -2606,8 +2606,8 @@
 		},
 		{
 			"id": "Sense Advantage",
-			"name": "Sense Advantage",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Perception Tactique",
+			"description": "<p>Une fois par session de jeu, vous pouvez ajouter [SE][SE] &agrave; un test de comp&eacute;tence d&rsquo;un PNJ.</p>"
 		},
 		{
 			"id": "Sense the Scene",
@@ -2616,13 +2616,13 @@
 		},
 		{
 			"id": "Share Pain",
-			"name": "Share Pain",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Douleur Partagée",
+			"description": "<p>Vous pouvez accomplir la broutille Douleur partag&eacute;e lorsque l&rsquo;animal li&eacute; souffre d&rsquo;une blessure. Le nombre de points de blessure subis par l&rsquo;animal est r&eacute;duit de moiti&eacute;, mais le personnage subit un nombre de points de blessure &eacute;gal &agrave; ceux que l&rsquo;animal a &eacute;limin&eacute;es de la sorte.</p>"
 		},
 		{
 			"id": "Shien Technique",
-			"name": "Shien Technique",
-			"description": "Please see page 151 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Force and Destiny Core Rulebook[h4]"
+			"name": "Technique Shien",
+			"description": "<p>Lorsque vous effectuez un test employant la comp&eacute;tence Sabre laser, vous pouvez vous servir de Ruse au lieu de Vigueur.</p>"
 		},
 		{
 			"id": "Short Cut",
@@ -2666,8 +2666,8 @@
 		},
 		{
 			"id": "Skilled Jockey",
-			"name": "Skilled Jockey",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, page 156 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Pilote Chevronné",
+			"description": "<p>Retirez [SE] par rang de Pilote Chevronn&eacute; &agrave; tous vos tests de&nbsp; Pilotage (Plan&eacute;taire) et Pilotage (Spatial).</p>"
 		},
 		{
 			"id": "Skilled Slicer",
@@ -2761,8 +2761,8 @@
 		},
 		{
 			"id": "Steely Nerves",
-			"name": "Steely Nerves",
-			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Nerfs d'Acier",
+			"description": "<p>D&eacute;pensez 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Pr&eacute;sence et de Volont&eacute; jusqu&rsquo;&agrave; la fin de la rencontre.</p>"
 		},
 		{
 			"id": "Stim Application",
@@ -2781,8 +2781,8 @@
 		},
 		{
 			"id": "Stimpack Specialization",
-			"name": "Stimpack Specialization",
-			"description": "Please see page 157 of the Age of Rebellion Core Rulebook, or page 152 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"name": "Secrets Infirmiers",
+			"description": "<p>Les stimpacks soignent&nbsp;1 point de blessure de plus&nbsp;par&nbsp;rang de Secrets infirmiers.</p>\n<p>&nbsp;</p>\n<p><em>Vous pouvez consulter la page 151 du livre de r&egrave;gles Force et Destin&eacute;e pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Street Smarts (Improved)",
@@ -2827,7 +2827,7 @@
 		{
 			"id": "Sum Djem",
 			"name": "Sum Djem",
-			"description": "Please see page 152 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 152 - Force and Destiny Core Rulebook[h4]"
+			"description": "<p>Sur un test r&eacute;ussi de Sabre laser, d&eacute;pensez [TR] ou [AD][AD] pour d&eacute;sarmer votre adversaire.</p>"
 		},
 		{
 			"id": "Summon Item",
@@ -2866,8 +2866,8 @@
 		},
 		{
 			"id": "Surgeon",
-			"name": "Surgeon",
-			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Chirurgien",
+			"description": "<p>Quand vous effectuez un&nbsp;test de M&eacute;decine&nbsp;pour aider un personnage &agrave; soigner ses blessures, celui-ci&nbsp;&eacute;limine 1 point de blessure&nbsp;suppl&eacute;mentaire par&nbsp;rang de&nbsp;Chirurgien.</p>"
 		},
 		{
 			"id": "Survival of the Fittest",
@@ -2926,8 +2926,8 @@
 		},
 		{
 			"id": "Technical Aptitude",
-			"name": "Technical Aptitude",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Génie de l'Informatique",
+			"description": "<p>Pour chaque&nbsp;rang de G&eacute;nie&nbsp;de l&rsquo;Informatique, r&eacute;duisez de 25 % le temps n&eacute;cessaire&nbsp;pour accomplir une t&acirc;che&nbsp;li&eacute;e &agrave; la comp&eacute;tence&nbsp;Informatique.</p>"
 		},
 		{
 			"id": "Soresu Technique",
@@ -2941,13 +2941,13 @@
 		},
 		{
 			"id": "Terrify",
-			"name": "Terrify",
-			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Terrifiant",
+			"description": "<p>Entreprenez&nbsp;l&rsquo;action Terrifiant&nbsp; : effectuez un&nbsp;<strong>test de&nbsp;</strong><strong>Coercition Difficile</strong>&nbsp;<strong>([DI][DI][DI])</strong>, ajoutez un nombre de [FO]&nbsp;inf&eacute;rieur ou &eacute;gal &agrave; votre<strong>&nbsp;</strong>Valeur de Force. D&eacute;sorientez une&nbsp;cible &agrave;&nbsp;port&eacute;e moyenne&nbsp;par [SU]. D&eacute;pensez [AD][AD] pour &eacute;tendre la dur&eacute;e, et d&eacute;pensez [FP] pour immobiliser une cible affect&eacute;e.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 152 du livre de r&egrave;gles Force et Destin&eacute;e pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Terrify (Improved)",
-			"name": "Terrify (Improved)",
-			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Terrifiant (Amélioré)",
+			"description": "<p>R&eacute;duisez la difficult&eacute; du test&nbsp;de Terrifiant&nbsp;&agrave;&nbsp;<strong>Moyenne</strong>&nbsp;<strong>([DI][DI])</strong>. Vous pouvez d&eacute;penser [TR] pour &eacute;tourdir une cible affect&eacute;e.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 152 du livre de r&egrave;gles Force et Destin&eacute;e pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Terrifying Kill",
@@ -3021,8 +3021,8 @@
 		},
 		{
 			"id": "Tricky Target",
-			"name": "Tricky Target",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, page 158 of the Age of Rebellion Core Rulebook, or page 153 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Difficile à viser",
+			"description": "<p>Le v&eacute;hicule ou le vaisseau&nbsp;que vous pilotez est consid&eacute;r&eacute; comme ayant&nbsp;1 point de&nbsp;gabarit de moins&nbsp;quand il est attaqu&eacute;.</p>"
 		},
 		{
 			"id": "Now You See Me",
@@ -3071,8 +3071,8 @@
 		},
 		{
 			"id": "Unity Assault",
-			"name": "Unity Assault",
-			"description": "Please see page 153 of the Force and Destiny Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Force and Destiny Core Rulebook[h4]"
+			"name": "Assaut Global",
+			"description": "<p>Si un&nbsp;test de combat&nbsp;rat&eacute; g&eacute;n&egrave;re [TR] ou [AD][AD][AD] vous pouvez les d&eacute;penser pour effectuer une&nbsp;action de pouvoir de la Force&nbsp;en tant que&nbsp;man&oelig;uvre.&nbsp;Le pouvoir doit&nbsp;cibler vos alli&eacute;s.</p>\n<p>&nbsp;</p>\n<p><em>Vous pouvez consulter la page 137 du livre de r&egrave;gles Force et Destin&eacute;e pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Unstoppable",
