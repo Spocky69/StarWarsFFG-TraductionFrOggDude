@@ -15,6 +15,10 @@
  
  Pour participer à l'effort de traduction : https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/wiki
  
+ ## Données OggDude
+ Les données OggDude sont disponible ici. Elles contiennent les données des derniers livres Rise of The Separatist, Dawn of Rebellion, Gadgets and Gear, Rise of the Separatists et Starships and Speeders.
+ https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/raw/main/OggDude_Data.zip
+ 
  ## Installation
  Ce module n'étant pas publié sur foundry seulement l'installation manuelle est disponible.
  * Ouvrir FoundryVTT, cliquer sur installer un module
