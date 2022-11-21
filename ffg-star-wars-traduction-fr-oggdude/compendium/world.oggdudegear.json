@@ -1006,8 +1006,8 @@
 		},
 		{
 			"id": "General Purpose Scanner",
-			"name": "General Purpose Scanner",
-			"description": "[H3]General Purpose Scanner[h3]\n      Please see page 175 of the Edge of the Empire Core Rulebook, page 191 of the Age of Rebellion Core Rulebook, or page 185 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 175 - Edge of the Empire Core Rulebook[h4][H4]Page 191 - Age of Rebellion Core Rulebook[h4][H4]Page 185 - Force and Destiny Core Rulebook[h4]"
+			"name": "Détecteur Universel",
+			"description": "Conçus pour servir aux éclaireurs et aux explorateurs, la plupart de ces détecteurs sont simples, solides et suffisammment petits pour être manipulés d'une main. Selon le modèle, ils repèrent les formes de vie, les sources de chaleur, la présence de radiations, les émissions d'ondes, ou plusieurs de ces choses à la fois. Certains sont multi-directionnels et affichent leurs résultats sur des écrans ou au moyen de projections holographiques, d'autres ne peuvent couvrir qu'une seule direction à la fois. Un bon exemple de ce type d'appareil est le Cryoncorp Superscan. Léger et adapté à l'usage individuel, il détecte les formes de vie, les mouvements, les métaux et peut intercepter les transmissions comlink non protégées. Son capteur de mouvements fonctionne sur un demi-kilomètre, ses autres systèmes sur un kilomètre et demi et sa radio sur près de cinq."
 		},
 		{
 			"id": "Generic Remote",
@@ -1071,8 +1071,8 @@
 		},
 		{
 			"id": "Hand Scanner",
-			"name": "Hand Scanner",
-			"description": "[H3]Hand Scanner[h3]\n      Please see page 176 of the Edge of the Empire Core Rulebook, page 191 of the Age of Rebellion Core Rulebook, or page 185 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 176 - Edge of the Empire Core Rulebook[h4][H4]Page 191 - Age of Rebellion Core Rulebook[h4][H4]Page 185 - Force and Destiny Core Rulebook[h4]"
+			"name": "Détecteur de poche",
+			"description": "Le terme 'détecteurs de poche' sert à désigner les plus petits dispositifs, ceux qui sont conçus pour un usage très précis. Les médisenseurs RFX/K de BioTech en sont certainement l'exemple le plus répandu. Ils sont utilisable seuls ou reliés à un datapad ou un médipack, et permettent tout simplement tout simplement d'obtenir les biosignaux des patients. D'autres modèles servent à déceler les contaminants dans l'atmosphère, les agents pathogènes, les parasites, les microfractures d'un alliage ou même les zones d'usure des machines."
 		},
 		{
 			"id": "Healer's Kit",
@@ -1786,8 +1786,8 @@
 		},
 		{
 			"id": "Multi-Tool Hand",
-			"name": "Multi-Tool Hand",
-			"description": "[H3]Multi-Tool Hand[h3]\n      Please see page 44 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 44 - Cyphers and Masks[h4]<div>Provides all benefits of a tool kit. </div>"
+			"name": "Main Multi-Outils",
+			"description": "La main multi-outil est un équipement cybernétique de base avec une suite d'outils de base. Designé principalement pour les ingénieurs, mécaniciens et bricoleurs, cette main contient une petite lampe-torche et un nombre surprenant d'outils et d'accessoires qui permettent de faire toutes les petites réparations. D'un léger mouvement, ils permettent de saboter une petite pièce d'équipement ou de se libérer de menottes. <div>Apporte tous les bénéfices d'un kit à outils</div>"
 		},
 		{
 			"id": "Muon Gold (100 dose cargo container)",
@@ -2506,8 +2506,8 @@
 		},
 		{
 			"id": "Surveillance Tagger",
-			"name": "Surveillance Tagger",
-			"description": "[H3]Surveillance Tagger[h3]\n      Please see page 176 of the Edge of the Empire Core Rulebook, or page 191 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 176 - Edge of the Empire Core Rulebook[h4][H4]Page 191 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Traceur",
+			"description": "inestimables outils de traque, ces petites balises (de moins de trois centimètres de diamètre) se fixent à l'aide d'une fléchette ou d'une autre manière discrète. Elles restent ensuite en place grâce à des systèmes adhésifs ou magnétiques et relaient en permanence leur position, leur vitesse et leur cap. Les modèles plus chers, comme le Pisteur de Rhinsome Tracking Corp, peuvent émettre à travers des obstacles et sur des dizaines de kilomètres. Les moins chers, comme les Rovers et les Trailmasters d'Astroserver ou les Observer de Mechblaze ont une portée plus courte. Leurs signaux ne franchissent ni les immeubles, ni les masses de pierres, ni les métaux."
 		},
 		{
 			"id": "Surveyer's Tools",
