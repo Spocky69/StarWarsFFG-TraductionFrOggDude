@@ -21,8 +21,8 @@
 		},
 		{
 			"id": "Adversary",
-			"name": "Adversary",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 142 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 142 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Adversaire",
+			"description": "<p>PNJ Uniquement - Am&eacute;liorez 1 d&eacute; de difficult&eacute; des tests de combat visant ce personnage par rang d'Adversit&eacute;.</p>"
 		},
 		{
 			"id": "Against All Odds",
@@ -51,8 +51,8 @@
 		},
 		{
 			"id": "All-Terrain Driver",
-			"name": "All-Terrain Driver",
-			"description": "Please see page 142 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
+			"name": "Conduite Tout-Terrain",
+			"description": "<p>Vous ne subissez pas les malus habituels lorsque vous traversez un terrain difficile par l'interm&eacute;diaire de Pilotage (Plan&eacute;taire).</p>"
 		},
 		{
 			"id": "Altered Deal",
@@ -156,13 +156,13 @@
 		},
 		{
 			"id": "Bacta Specialist",
-			"name": "Bacta Specialist",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Spécialiste du Bacta",
+			"description": "<p>Les patients &eacute;liminent 1&nbsp;blessure suppl&eacute;mentaire&nbsp;par&nbsp;rang de Sp&eacute;cialiste du Bacta&nbsp;lorsqu&rsquo;ils se reposent&nbsp;dans&nbsp;une cuve &agrave; bacta&nbsp;ou&nbsp;dans&nbsp;un centre de soins &agrave;&nbsp;long terme.</p>"
 		},
 		{
 			"id": "Bad Motivator",
-			"name": "Bad Motivator",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 143 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Défaut de Motivateur",
+			"description": "<p>Une fois par partie, entreprenez une action de D&eacute;faut de Motivateur : effectuez un&nbsp;<strong>test de M&eacute;canique Difficile ([DI][DI][DI])</strong>&nbsp;pour que l'appareil vis&eacute; tombe en panne sur-le-champ.</p>"
 		},
 		{
 			"id": "Bad Press",
@@ -186,8 +186,8 @@
 		},
 		{
 			"id": "Barrage",
-			"name": "Barrage",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 34 of the Forged in Battle Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 34 - Forged in Battle[h4]"
+			"name": "Tir de Barrage",
+			"description": "<p>Ajoutez 1 point de d&eacute;g&acirc;ts&nbsp;par rang de Tir de barrage&nbsp;&agrave; 1 coup r&eacute;ussi d&rsquo;une attaque d&rsquo;Artillerie&nbsp;ou de&nbsp;Distance (armes lourdes)&nbsp;&agrave;&nbsp;port&eacute;e longue ou extr&ecirc;me.</p>"
 		},
 		{
 			"id": "Barrel Roll",
@@ -206,8 +206,8 @@
 		},
 		{
 			"id": "Basic Combat Training",
-			"name": "Basic Combat Training",
-			"description": "Please see page 143 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 143 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Entraînement au Combat de Base",
+			"description": "<p>Les Comp&eacute;tences Pugilat et Distance (Armes L&eacute;g&egrave;res) deviennent des comp&eacute;tences de carri&egrave;re.</p>"
 		},
 		{
 			"id": "Beast Wrangler",
@@ -241,8 +241,8 @@
 		},
 		{
 			"id": "Black Market Contacts",
-			"name": "Black Market Contacts",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Contacts au Marché Noir",
+			"description": "<p>Quand vous achetez des&nbsp;biens ill&eacute;gaux, vous pouvez&nbsp;r&eacute;duire la raret&eacute; de 1 par&nbsp;rang de Contacts au march&eacute; noir. Le co&ucirc;t de l&rsquo;objet augmente de 50% de son prix de base par r&eacute;duction.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 135 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Blackmail",
@@ -286,8 +286,8 @@
 		},
 		{
 			"id": "Bought Info",
-			"name": "Bought Info",
-			"description": "Please see page 143 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
+			"name": "Culture à la Carte",
+			"description": "<p>Au lieu d&rsquo;effectuer un&nbsp;test de Connaissance, vous pouvez entreprendre une&nbsp;action de Culture &agrave; la carte&nbsp;; vous d&eacute;pensez&nbsp;50 cr&eacute;dits fois la difficult&eacute; du test&nbsp;pour le r&eacute;ussir avec un [SU].</p>\n<p><em>Consultez la page 146 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Bound Together",
@@ -306,8 +306,8 @@
 		},
 		{
 			"id": "Brilliant Evasion",
-			"name": "Brilliant Evasion",
-			"description": "Please see page 132 of the Edge of the Empire Core Rulebook, or page 144 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 132 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4]"
+			"name": "As de la Manoeuvre",
+			"description": "<p>Une fois par rencontre pouvez entreprendre&nbsp;l&rsquo;action d&rsquo;As de la Man&oelig;uvre.&nbsp;Choisissez 1 adversaire et&nbsp;effectuez&nbsp;<strong>test oppos&eacute; de&nbsp;Pilotage (Plan&eacute;taire ou Spatial)</strong>&nbsp;pour l&rsquo;emp&ecirc;cher&nbsp;de vous attaquer pour un&nbsp;nombre de rounds &eacute;gal &agrave;&nbsp;votre&nbsp;Agilit&eacute;.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 132 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Bring It Down",
@@ -326,8 +326,8 @@
 		},
 		{
 			"id": "Bypass Security",
-			"name": "Bypass Security",
-			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, or page 144 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Systèmes de Sécurité",
+			"description": "<p>Retirez [SE] par&nbsp;rang de Syst&egrave;mes de s&eacute;curit&eacute;&nbsp;aux tests effectu&eacute;s dans le but de d&eacute;connecter un syst&egrave;me de s&eacute;curit&eacute; ou d&rsquo;ouvrir une porte verrouill&eacute;e.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 144 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Call 'Em",
@@ -351,8 +351,8 @@
 		},
 		{
 			"id": "Careful Planning",
-			"name": "Careful Planning",
-			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+			"name": "Paré à toute Éventualité",
+			"description": "<p>Une fois par s&eacute;ance de jeu, vous pouvez int&eacute;grer un &laquo; fait &raquo; &agrave; la narration comme si un point de Destin avait &eacute;t&eacute; d&eacute;pens&eacute;.</p>\n<p><em>Consultez la page 146 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Utility Belt",
@@ -426,8 +426,8 @@
 		},
 		{
 			"id": "Clever Solution",
-			"name": "Clever Solution",
-			"description": "Please see page 144 of the Age of Rebellion Core Rulebook, page 32 of the Fly Casual Sourcebook, or page 30 of the Endless Vigil Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 32 - Fly Casual[h4][H4]Page 30 - Endless Vigil[h4]"
+			"name": "Solution Astucieuse",
+			"description": "<p>Une fois par s&eacute;ance de jeu,&nbsp;effectuez un&nbsp;test de comp&eacute;&shy;tence&nbsp;en utilisant votre&nbsp;Ruse&nbsp;plut&ocirc;t que la caract&eacute;ristique normalement associ&eacute;e &agrave; cette comp&eacute;tence.</p>\n<p><em>Consultez la page 157 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Combat Programming",
@@ -521,13 +521,13 @@
 		},
 		{
 			"id": "Contraption",
-			"name": "Contraption",
-			"description": "Please see page 133 of the Edge of the Empire Core Rulebook, page 144 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 133 - Edge of the Empire Core Rulebook[h4][H4]Page 144 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+			"name": "Bricoleur",
+			"description": "<p>Une fois par partie, entreprenez une action de Bricoleur&nbsp;; effectuez un&nbsp;<strong>test de M&eacute;canique Difficile</strong>&nbsp;<strong>([DI][DI][DI])</strong>&nbsp;pour fabriquer, avec les outils et les pi&egrave;ces dont vous disposez, un appareil permettant de r&eacute;pondre &agrave; un probl&egrave;me actuel.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 133 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Coordinated Assault",
-			"name": "Coordinated Assault",
-			"description": "Please see page 145 of the Age of Rebellion Core Rulebook, or page 38 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 38 - Rise of the Separatists[h4]"
+			"name": "Assaut Conjugué",
+			"description": "<p>Entreprenez la&nbsp;manoeuvre As&shy;saut conjugu&eacute;&nbsp;; un nombre&nbsp;d'alli&eacute;s au contact &eacute;gal &agrave; votre&nbsp;rang de Commandement&nbsp;ajoute [AD] &agrave; leurs&nbsp;tests de combat&nbsp;jusqu&rsquo;au d&eacute;but&nbsp;de votre prochain tour. La&nbsp;port&eacute;e augmente d&rsquo;un niveau&nbsp;par&nbsp;rang d&rsquo;Assaut Conjugu&eacute;.</p>"
 		},
 		{
 			"id": "Coordination Dodge",
@@ -571,8 +571,8 @@
 		},
 		{
 			"id": "Creative Killer",
-			"name": "Creative Killer",
-			"description": "Please see page 145 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Tueur Instinctif",
+			"description": "<p>R&eacute;duisez de 2 le niveau de critique des armes improvis&eacute;es (minimum de 1).</p>"
 		},
 		{
 			"id": "Crippling Blow",
@@ -626,17 +626,17 @@
 		},
 		{
 			"id": "Dead to Rights",
-			"name": "Dead to Rights",
-			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Dans le Mille",
+			"description": "<p>D&eacute;pensez 1 point de Destin pour ajouter des d&eacute;g&acirc;ts suppl&eacute;mentaires &eacute;gaux &agrave;&nbsp; votre valeur d&rsquo;Agilit&eacute; &agrave; un coup r&eacute;ussi d&rsquo;une attaque effectu&eacute;e avec une arme de v&eacute;hicule ou de vaisseau.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 136 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Dead to Rights (Improved)",
-			"name": "Dead to Rights (Improved)",
-			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Dans le Mille (Amélioré)",
+			"description": "<p>D&eacute;pensez 1 point de Destin pour ajouter des d&eacute;g&acirc;ts suppl&eacute;mentaires &eacute;gaux &agrave;&nbsp; votre valeur d&rsquo;Agilit&eacute; &agrave; un coup r&eacute;ussi d&rsquo;une attaque effectu&eacute;e avec une arme de v&eacute;hicule ou de vaisseau.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 136 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Deadly Accuracy",
-			"name": "Deadly Accuracy",
+			"name": "Précision Mortelle",
 			"description": "<p>Choississez 1 comp&eacute;tence de combat au moment de l'acquisition de ce talent. Ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre rang de Pr&eacute;cision mortelle &agrave; un coup d'une attaque r&eacute;ussie utilisant cette comp&eacute;tence.</p>\n<p>&nbsp;</p>\n<p><em>Page 134 du livre Aux confins de l'Empire ou page 145 de l'Age de la Rebellion ou page 39 de&nbsp;</em>Rise of the Separatists<em>&nbsp;</em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -656,8 +656,8 @@
 		},
 		{
 			"id": "Debilitating Shot",
-			"name": "Debilitating Shot",
-			"description": "Please see page 145 of the Age of Rebellion Core Rulebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Age of Rebellion Core Rulebook[h4][H4]Page 34 - No Disintegrations[h4]"
+			"name": "Avaries Mécaniques",
+			"description": "<p>Lorsque vous r&eacute;ussissez une attaque avec une arme de vaisseau ou de v&eacute;hicule, vous pouvez d&eacute;penser [AD][AD] pour r&eacute;duire la vitesse maximale de la cible de 1 jusqu&rsquo;&agrave; la fin du round suivant.</p>\n<p><em>Consultez la page 143 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Deceptive Taunt",
@@ -666,8 +666,8 @@
 		},
 		{
 			"id": "Defensive Driving",
-			"name": "Defensive Driving",
-			"description": "Please see page 134 of the Edge of the Empire Core Rulebook, or page 145 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 134 - Edge of the Empire Core Rulebook[h4][H4]Page 145 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Conduite Stratégique",
+			"description": "<p>Augmentez de 1 point&nbsp;par&nbsp;rang de Conduite Strat&eacute;gique<strong>,</strong>&nbsp;la d&eacute;fense du v&eacute;hicule ou vaisseau que vous pilotez.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 134 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Defensive Slicing",
@@ -726,8 +726,8 @@
 		},
 		{
 			"id": "Disorient",
-			"name": "Disorient",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, page 146 of the Age of Rebellion Core Rulebook, or page 39 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4][H4]Page 39 - Rise of the Separatists[h4]"
+			"name": "Désorientation",
+			"description": "<p>Apr&egrave;s avoir touch&eacute; avec un&nbsp;test de combat, vous pouvez d&eacute;penser \u0006[AD]\u0006[AD]\u0006 pour d&eacute;sorienter la cible pour un nombre de rounds &eacute;gal &agrave; votre&nbsp;rang de D&eacute;sorientation.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 136 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Disorienting Strike",
@@ -826,8 +826,8 @@
 		},
 		{
 			"id": "Dynamic Fire",
-			"name": "Dynamic Fire",
-			"description": "Please see page 146 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 146 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Tir Exposé",
+			"description": "<p>Lorsque vous effectuez une attaque &agrave; distance alors que vous &ecirc;tes au contact d&rsquo;un adversaire, vous pouvez subir 2 points de stress pour r&eacute;duire de 1 le modificateur &agrave; distance.</p>\n<p><em>Consultez la page 158 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Street Smarts",
@@ -996,8 +996,8 @@
 		},
 		{
 			"id": "Familiar Suns",
-			"name": "Familiar Suns",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, or page 146 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Habitué des Systèmes Solaires",
+			"description": "<p>Une fois par partie, vous pouvez ex&eacute;cuter une&nbsp;man&oelig;uvre sp&eacute;ciale : effectuez un&nbsp;<strong>test Difficile ([DI][DI][DI]) de</strong>&nbsp;<strong>Connaissane (Bordure Ext&eacute;rieure) ou Connaissance (Mondes du Noyau)</strong> pour r&eacute;v&eacute;ler le&nbsp;type d&rsquo;environnement plan&eacute;taire et autres informations utiles.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 139 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Fancy Paint Job",
@@ -1031,8 +1031,8 @@
 		},
 		{
 			"id": "Feral Strength",
-			"name": "Feral Strength",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, or page 146 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 146 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Force Surhumaine",
+			"description": "<p>Ajoutez 1 point de d&eacute;g&acirc;ts&nbsp;par&nbsp;rang de&nbsp;Force Surhumaine&nbsp;&agrave; un coup r&eacute;ussi de&nbsp;Corps &agrave; corps&nbsp;ou de&nbsp;Pugilat.</p>"
 		},
 		{
 			"id": "Field Commander",
@@ -1056,8 +1056,8 @@
 		},
 		{
 			"id": "Fire Control",
-			"name": "Fire Control",
-			"description": "Please see page 147 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Salves Précises",
+			"description": "<p>Entreprenez la&nbsp;man&oelig;uvre Salves pr&eacute;cises&nbsp;; tous les&nbsp;tests de combat&nbsp;effectu&eacute;s &agrave; partir du v&eacute;hicule ou vaisseau actuel voient le gabarit de leur cible augmenter de 1 jusqu&rsquo;au d&eacute;but du prochain tour (non cumulable).</p>\n<p><em>Consultez la page 156 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Fire Support",
@@ -1121,8 +1121,8 @@
 		},
 		{
 			"id": "Form On Me",
-			"name": "Form On Me",
-			"description": "Please see page 147 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Formation Incisive",
+			"description": "<p>Un nombre d&rsquo;alli&eacute;s &agrave; port&eacute;e proche &eacute;gal &agrave; votre rang de Commandement b&eacute;n&eacute;ficient automatiquement des effets de l&rsquo;action Prendre l&rsquo;avantage.</p>\n<p><em>Consultez la page 151 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Formation Tactics",
@@ -1161,13 +1161,13 @@
 		},
 		{
 			"id": "Frenzied Attack",
-			"name": "Frenzied Attack",
-			"description": "Please see page 135 of the Edge of the Empire Core Rulebook, or page 147 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 135 - Edge of the Empire Core Rulebook[h4][H4]Page 147 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Attaque Furieuse",
+			"description": "<p>Quand vous effectuez un&nbsp;test de Corps &agrave; corps&nbsp;ou&nbsp;de Pugilat, subissez un certain&nbsp;nombre de points de stress&nbsp;pour am&eacute;liorer autant de&nbsp;d&eacute;s de votre attaque. Le&nbsp;stress ainsi subi ne peut pas&nbsp;d&eacute;passer votre&nbsp;rang d&rsquo;Attaque Furieuse.</p>"
 		},
 		{
 			"id": "Full Stop",
-			"name": "Full Stop",
-			"description": "Please see page 147 of the Age of Rebellion Core Rulebook, or page 30 of the Enter the Unknown Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 147 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Enter the Unknown[h4]"
+			"name": "Roi du Freinage",
+			"description": "<p>Lorsque vous pilotez un vaisseau ou un v&eacute;hicule, entreprenez une&nbsp;man&oelig;uvre&nbsp;de&nbsp;Roi du freinage pour r&eacute;duire&nbsp;votre vitesse &agrave; z&eacute;ro et subir&nbsp;un&nbsp;stress m&eacute;canique&nbsp;&eacute;gal &agrave; la r&eacute;duction de vitesse.</p>"
 		},
 		{
 			"id": "Full Throttle",
@@ -1196,8 +1196,8 @@
 		},
 		{
 			"id": "Gearhead",
-			"name": "Gearhead",
-			"description": "Please see page 136 of the Edge of the Empire Core Rulebook, or page 148 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 136 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
+			"name": "As de la Mécanique",
+			"description": "<p>Retirez [SE] par&nbsp;rang d'As de la M&eacute;canique&nbsp;&agrave; vos&nbsp;tests de M&eacute;canique. Le&nbsp;co&ucirc;t en cr&eacute;dits&nbsp;pour ajouter des mods sur des kits est r&eacute;duit de moiti&eacute;.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 132 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Get The Drop",
@@ -1216,8 +1216,8 @@
 		},
 		{
 			"id": "Greased Palms",
-			"name": "Greased Palms",
-			"description": "Please see page 148 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Pot-de-Vin",
+			"description": "<p>Avant d&rsquo;effectuer un&nbsp;test social, vous pouvez d&eacute;penser jusqu&rsquo;&agrave; 50 cr&eacute;dits par&nbsp;rang de Pot-de-vin&nbsp;pour en am&eacute;liorer les d&eacute;s d&rsquo;aptitude (1 d&eacute; pour 50 cr&eacute;dits).</p>\n<p><em>Consultez la page 155 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Guardian of the Republic",
@@ -1281,8 +1281,8 @@
 		},
 		{
 			"id": "Hidden Storage",
-			"name": "Hidden Storage",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 148 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 148 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Compartiment Caché",
+			"description": "<p>Un de vos &eacute;quipements ou v&eacute;hicules dispose d&rsquo;un ou plusieurs compartiments cach&eacute;s dont l&rsquo;encombrement total est &eacute;gal &agrave;&nbsp;vos rangs de Compartiment cach&eacute;.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 134 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Hidden Storage (Improved)",
@@ -1306,8 +1306,8 @@
 		},
 		{
 			"id": "Hold Together",
-			"name": "Hold Together",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Dégâts Superficiels",
+			"description": "<p>D&eacute;pensez 1 point de Destin&nbsp;pour utiliser&nbsp;D&eacute;g&acirc;ts superficiels&nbsp;au prix d&rsquo;une&nbsp;broutille juste apr&egrave;s qu&rsquo;un v&eacute;hicule&nbsp;ou un vaisseau spatial subit&nbsp;des d&eacute;g&acirc;ts pour les transformer en points de stress&nbsp;m&eacute;canique.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 136 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Holistic Navigation",
@@ -1421,8 +1421,8 @@
 		},
 		{
 			"id": "Incite Rebellion",
-			"name": "Incite Rebellion",
-			"description": "Please see page 149 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Incitation à la Rébellion",
+			"description": "<p>Une fois par s&eacute;ance de jeu,&nbsp;vous pouvez entreprendre&nbsp;l&rsquo;action d&rsquo;Incitation &agrave; la R&eacute;bellion&nbsp;; effectuez un&nbsp;<strong>test de&nbsp;Coercition Difficile&nbsp;([DI][DI][DI])</strong> pour qu&rsquo;un nombre d&rsquo;individus allant jusqu&rsquo;&agrave; votre&nbsp;rang&nbsp;de Coercition&nbsp;s&rsquo;insurgent jusqu&rsquo;&agrave; la fin de la rencontre.</p>\n<p><em>Consultez la page 152 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Indistinguishable (Improved)",
@@ -1491,8 +1491,8 @@
 		},
 		{
 			"id": "Inspiring Rhetoric (Supreme)",
-			"name": "Inspiring Rhetoric (Ultime)",
-			"description": "Please see page 137 of the Edge of the Empire Core Rulebook, or page 149 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 137 - Edge of the Empire Core Rulebook[h4][H4]Page 149 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Sens de la Rhétorique (Ultime)",
+			"description": "<p>Subissez 1 point de stress pour utiliser Sens de la rh&eacute;torique au prix d&rsquo;une man&oelig;uvre au lieu d&rsquo;une action.</p>"
 		},
 		{
 			"id": "Intense Presence",
@@ -1546,8 +1546,8 @@
 		},
 		{
 			"id": "Invigorate",
-			"name": "Invigorate",
-			"description": "Please see page 150 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Tonification",
+			"description": "<p>Une fois par rencontre, vous pouvez ajouter [FO] &agrave; un&nbsp;test recourant &agrave; Vigueur ou Agilit&eacute;&nbsp;effectu&eacute; par un alli&eacute; &agrave;&nbsp;port&eacute;e courte. Les [LI] ajoutent [SU] et les [DA] ajoutent [TH].</p>"
 		},
 		{
 			"id": "Iron Body",
@@ -1566,8 +1566,8 @@
 		},
 		{
 			"id": "It's Not that Bad",
-			"name": "It's Not that Bad",
-			"description": "Please see page 150 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 150 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Plus de Peur que de Mal",
+			"description": "<p>Une fois par s&eacute;ance de jeu, lorsqu&rsquo;un alli&eacute; est cens&eacute; subir une blessure critique, vous pouvez entreprendre l&rsquo;action Plus de peur que de mal&nbsp; ; effectuez un&nbsp;<strong>test de M&eacute;decine Difficile ([DI][DI][DI])</strong>&nbsp;pour &eacute;viter &agrave; l&rsquo;alli&eacute; de subir la blessure critique.</p>\n<p><em>Consultez la page 154-155 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Jetpack Expertise",
@@ -1691,8 +1691,8 @@
 		},
 		{
 			"id": "Let's Ride",
-			"name": "Let's Ride",
-			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
+			"name": "En Selle !",
+			"description": "<p>Une fois par round, vous pouvez monter ou descendre d&rsquo;un v&eacute;hicule ou d&rsquo;une monture, ou vous installer dans le&nbsp;cockpit ou la tourelle d&rsquo;armement d&rsquo;un v&eacute;hicule au prix&nbsp;d&rsquo;une&nbsp;broutille.</p>"
 		},
 		{
 			"id": "Lethal Blows",
@@ -1766,18 +1766,18 @@
 		},
 		{
 			"id": "Master Doctor",
-			"name": "Master Doctor",
-			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Expert en Médecine",
+			"description": "<p>Une fois par round, subissez 2 points de stress pour retirer 1 d&eacute; de difficult&eacute; d&rsquo;un test de M&eacute;decine.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 138 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Master Driver",
-			"name": "Master Driver",
-			"description": "Please see page 151 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Expert Fonceur",
+			"description": "<p>Une fois par round, quand&nbsp;vous pilotez un v&eacute;hicule, vous&nbsp;pouvez choisir de subir 2&nbsp;points de stress&nbsp;afin d&rsquo;accomplir n&rsquo;importe quelle action&nbsp;au prix d&rsquo;une man&oelig;uvre.</p>"
 		},
 		{
 			"id": "Master Grenadier",
-			"name": "Master Grenadier",
-			"description": "Please see page 151 of the Age of Rebellion Core Rulebook, or page 32 of the Dangerous Covenants Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 32 - Dangerous Covenants[h4]"
+			"name": "Expert en Explosifs",
+			"description": "<p>Diminuez de 1 (minimum de 1) le co&ucirc;t d&rsquo;activation en [AD] de l&rsquo;attribut Souffle de toute arme.</p>\n<p><em>Consultez la page 150 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Master Instructor",
@@ -1786,13 +1786,13 @@
 		},
 		{
 			"id": "Master Leader",
-			"name": "Master Leader",
-			"description": "Please see page 151 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Expert Commandant",
+			"description": "<p>Une fois par round, subissez 2 points de stress pour retirer 1 d&eacute; de difficult&eacute; de votre prochain test de Commandement, jusqu&rsquo;&agrave; un minimum de&nbsp;<strong>Facile ([DI])</strong>.</p>"
 		},
 		{
 			"id": "Master Merchant",
-			"name": "Master Merchant",
-			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Expert en Commerce",
+			"description": "<p>Quand vous vendez ou achetez des biens, vous pouvez subir 2 points de stress pour vendre pour 25% de plus, acheter pour 25% de moins.</p>"
 		},
 		{
 			"id": "Master Of The Order",
@@ -1801,18 +1801,18 @@
 		},
 		{
 			"id": "Master Pilot",
-			"name": "Master Pilot",
-			"description": "Please see page 138 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 40 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 138 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 40 - Rise of the Separatists[h4]"
+			"name": "Expert en Pilotage",
+			"description": "<p>Une fois par round, quand vous vous pilotez un vaisseau spatial, vous pouvez choisir de subir 2 points de stress afin d&rsquo;accomplir n&rsquo;importe quelle action au prix d&rsquo;une man&oelig;uvre.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 138 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Master Slicer",
-			"name": "Master Slicer",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 151 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Expert Slicer",
+			"description": "<p>Une fois par round, vous&nbsp;pouvez utiliser Expert slicer au prix d&rsquo;une broutille&nbsp;pour subir 2 points de&nbsp;stress et retirer 1 d&eacute; de&nbsp;difficult&eacute; aux tests d&rsquo;Informatique ou &agrave; tout autre&nbsp;test relatif au piratage informatique, jusqu&rsquo;&agrave; un minimum de&nbsp;<strong>Facile ([DI])</strong>.</p>"
 		},
 		{
 			"id": "Master Starhopper",
-			"name": "Master Starhopper",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, page 151 of the Age of Rebellion Core Rulebook, or page 31 of the Savage Spirits Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 151 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Savage Spirits[h4]"
+			"name": "Expert Stellaire",
+			"description": "<p>Une fois par round, subissez 2 points de stress pour&nbsp;retirer 1 d&eacute; de difficult&eacute; de votre&nbsp;prochain test d&rsquo;Astrogation, jusqu'&agrave; un&nbsp;minimum de&nbsp;<strong>Facile&nbsp;([DI])</strong>.</p>"
 		},
 		{
 			"id": "Master Strategist",
@@ -1901,8 +1901,8 @@
 		},
 		{
 			"id": "Natural Brawler",
-			"name": "Natural Brawler",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Bagarreur-Né",
+			"description": "<p>Une fois par partie, le personnage peut relancer 1&nbsp;test de Pugilat&nbsp;ou de&nbsp;Corps&nbsp;&agrave; corps.</p>"
 		},
 		{
 			"id": "Natural Champion",
@@ -1926,13 +1926,13 @@
 		},
 		{
 			"id": "Natural Driver",
-			"name": "Natural Driver",
-			"description": "Please see page 153 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Fonceur-Né",
+			"description": "<p>Une fois par session de jeu, vous pouvez relancer 1 test de Pilotage (Plan&eacute;taire) ou d&rsquo;Artillerie.</p>"
 		},
 		{
 			"id": "Natural Enforcer",
-			"name": "Natural Enforcer",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Brute-Née",
+			"description": "<p>Une fois par s&eacute;ance de jeu, vous pouvez relancer&nbsp;1 test de Coercition ou de Syst&egrave;me D.</p>"
 		},
 		{
 			"id": "Natural Instructor",
@@ -1961,23 +1961,23 @@
 		},
 		{
 			"id": "Natural Pilot",
-			"name": "Natural Pilot",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Pilote-Né",
+			"description": "<p>Une fois par partie, vous pouvez relancer 1&nbsp;test de&nbsp;Pilotage (espace) ou d&rsquo;Artillerie.</p>"
 		},
 		{
 			"id": "Natural Programmer",
-			"name": "Natural Programmer",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Programmeur-Né",
+			"description": "<p>Une fois par s&eacute;ance de jeu, vous pouvez relancer&nbsp;1&nbsp;test d&rsquo;Informatique ou&nbsp;d&rsquo;Astrogation.</p>"
 		},
 		{
 			"id": "Natural Rogue",
-			"name": "Natural Rogue",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Voyou-Né",
+			"description": "<p>Une fois par s&eacute;ance de jeu, vous pouvez relancer 1 test de Magouilles ou de Discr&eacute;tion.</p>"
 		},
 		{
 			"id": "Natural Scholar",
-			"name": "Natural Scholar",
-			"description": "Please see page 139 of the Edge of the Empire Core Rulebook, or page 153 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 139 - Edge of the Empire Core Rulebook[h4][H4]Page 153 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Érudit-Né",
+			"description": "<p>Une fois par partie, vous&nbsp;pouvez relancer 1&nbsp;test de&nbsp;Connaissance.</p>"
 		},
 		{
 			"id": "Natural Tinkerer",
@@ -2096,8 +2096,8 @@
 		},
 		{
 			"id": "Overwhelm Defenses",
-			"name": "Overwhelm Defenses",
-			"description": "Please see page 154 of the Age of Rebellion Core Rulebook, or page 35 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 35 - No Disintegrations[h4]"
+			"name": "Salves Accablantes",
+			"description": "<p>Lorsque vous ratez une attaque avec une arme de vaisseau ou de v&eacute;hicule, vous pouvez d&eacute;penser [AD][AD] par rang de Salves Accablantes, pour r&eacute;duire la d&eacute;fense de la zone cibl&eacute;e de 1 par [AD][AD] d&eacute;pens&eacute;s.</p>\n<p><em>Consultez la page 156 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Overwhelming Aura",
@@ -2146,8 +2146,8 @@
 		},
 		{
 			"id": "Physical Training",
-			"name": "Physical Training",
-			"description": "Please see page 154 of the Age of Rebellion Core Rulebook, page 30 of the Disciples of Harmony Sourcebook, or page 41 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4][H4]Page 30 - Disciples of Harmony[h4][H4]Page 41 - Rise of the Separatists[h4]"
+			"name": "Entraînement Physique",
+			"description": "<p>Ajoutez [BO] par&nbsp;rang d'Entra&icirc;nement Physique&nbsp;&agrave; tous vos&nbsp;tests d'Athl&eacute;tisme et R&eacute;sistance.</p>"
 		},
 		{
 			"id": "Physician",
@@ -2216,8 +2216,8 @@
 		},
 		{
 			"id": "Powerful Blast",
-			"name": "Powerful Blast",
-			"description": "Please see page 154 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Souffle Dévastateur",
+			"description": "<p>Augmentez les d&eacute;g&acirc;ts de Souffle inflig&eacute;s par les explosifs, armes explosives et grenades, de 1 par&nbsp;rang de Souffle D&eacute;vastateur.</p>"
 		},
 		{
 			"id": "Practiced Stragist",
@@ -2226,7 +2226,7 @@
 		},
 		{
 			"id": "Precise Aim",
-			"name": "Precise Aim",
+			"name": "Coup Précis",
 			"description": "<p>Une fois par round, le personnage peut, &agrave; son tour, ex&eacute;cuter la manoeuvre<em>&nbsp;Coup pr&eacute;cis&nbsp;</em>avant de tenter un test de comp&eacute;tence de combat et subir un nombre de points de stress inf&eacute;rieur ou &eacute;gal &agrave; son rang en&nbsp;<em>Coup pr&eacute;cis</em>. Il r&eacute;duit d'autant la d&eacute;fense (au corps a corps et &agrave; distance) de la cible.</p>\n<p>&nbsp;</p>\n<p><em>Page 141 du livre Aux confins de l'Empire ou page 31 de Savage Spirits </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -2261,8 +2261,8 @@
 		},
 		{
 			"id": "Pressure Point",
-			"name": "Pressure Point",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, or page 31 of the Cyphers and Masks Sourceboos, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 31 - Cyphers and Masks[h4]"
+			"name": "Points Névralgiques",
+			"description": "<p>Quand vous effectuez un&nbsp;test de Pugilat&nbsp;contre un adversaire, au lieu d&rsquo;infliger des blessures, vous pouvez&nbsp;infliger l&rsquo;&eacute;quivalent en&nbsp;stress, auquel s&rsquo;ajoute 1&nbsp;point de stress suppl&eacute;mentaire par&nbsp;rang en M&eacute;decine (ignorez l&rsquo;encaissement).</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 142 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Prey on the Weak",
@@ -2311,8 +2311,8 @@
 		},
 		{
 			"id": "Quick Fix",
-			"name": "Quick Fix",
-			"description": "Please see page 154 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Et Hop !",
+			"description": "<p>Une fois par s&eacute;ance de jeu, effectuez un test de comp&eacute;tence en utilisant&nbsp;votre Agilit&eacute;&nbsp;plut&ocirc;t que la caract&eacute;ristique normalement associ&eacute;e &agrave; cette comp&eacute;tence.</p>\n<p><em>Consultez la page 150 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Quick Movement",
@@ -2371,8 +2371,8 @@
 		},
 		{
 			"id": "Redundant Systems",
-			"name": "Redundant Systems",
-			"description": "Please see page 141 of the Edge of the Empire Core Rulebook, or page 154 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 141 - Edge of the Empire Core Rulebook[h4][H4]Page 154 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Dépannage de Récup'",
+			"description": "<p>Une fois par s&eacute;ance de jeu,&nbsp;entreprenez une<strong>&nbsp;</strong>action de&nbsp;D&eacute;pannage de r&eacute;cup&rsquo; : effectuez un&nbsp;<strong>test de M&eacute;canique Facile ([DI])</strong> r&eacute;cup&eacute;rer des pi&egrave;ces sur un&nbsp;appareil en &eacute;tat de marche&nbsp;afin d&rsquo;en r&eacute;parer un autre sans pour autant nuire au&nbsp;bon fonctionnement du&nbsp;premier.</p>\n<p><em>Consultez la page 136 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Reflect (Supreme)",
@@ -2446,8 +2446,8 @@
 		},
 		{
 			"id": "Respected Scholar",
-			"name": "Respected Scholar",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 155 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Érudit Reconnu",
+			"description": "<p>D&eacute;gradez 1 d&eacute; de difficult&eacute; par&nbsp;rang d&rsquo;&Eacute;rudit&nbsp;reconnu&nbsp;lors&nbsp;des tests&nbsp;pour interagir avec des&nbsp;institutions&nbsp;acad&eacute;miques.</p>"
 		},
 		{
 			"id": "Grit",
@@ -2596,8 +2596,8 @@
 		},
 		{
 			"id": "Selective Detonation",
-			"name": "Selective Detonation",
-			"description": "Please see page 155 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 155 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Déflagration Sélective",
+			"description": "<p>Lorsque vous utilisez une arme dot&eacute;e de l&rsquo;attribut Souffle, d&eacute;pensez [AD] pour exclure une cible qui serait normalement touch&eacute;e par l&rsquo;explosion (ne peut pas s&rsquo;appliquer &agrave; plus de cibles que votre&nbsp;rang de D&eacute;flagration s&eacute;lective).</p>\n<p><em>Consultez la page 147 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Uncanny Senses",
@@ -2626,8 +2626,8 @@
 		},
 		{
 			"id": "Short Cut",
-			"name": "Short Cut",
-			"description": "During a chase; add [BO] per rank in Shortcut to any checks made to catch or escape an opponent."
+			"name": "Raccourci",
+			"description": "<p>Lors d&rsquo;une poursuite, ajoutez [BO] par&nbsp;rang de Raccourci&nbsp;aux tests pour rattraper un ennemi ou pour &eacute;chapper &agrave; vos poursuivants.</p>"
 		},
 		{
 			"id": "Shortcut (Improved)",
@@ -2656,8 +2656,8 @@
 		},
 		{
 			"id": "Situational Awareness",
-			"name": "Situational Awareness",
-			"description": "Please see page 156 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 156 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Escadrons aux Aguets",
+			"description": "<p>Les alli&eacute;s &agrave; port&eacute;e courte du v&eacute;hicule ajoutent [BO] &agrave; leurs tests de Perception et de Vigilance. Les alli&eacute;s &agrave; port&eacute;e proche ajoutent quant &agrave; eux&nbsp;<span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">[BO]</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">[BO].</span></p>\n<p><em>Consultez la page 150 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Sixth Sense",
@@ -2671,8 +2671,8 @@
 		},
 		{
 			"id": "Skilled Slicer",
-			"name": "Skilled Slicer",
-			"description": "Please see page 142 of the Edge of the Empire Core Rulebook, or page 156 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 142 - Edge of the Empire Core Rulebook[h4][H4]Page 156 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Slicer Chevronné",
+			"description": "<p>Quand vous effectuez un&nbsp;test d&rsquo;Informatique, vous&nbsp;pouvez d&eacute;penser [TR] pour effectuer les&nbsp;tests d&rsquo;Informatique&nbsp;ult&eacute;rieurs concernant le&nbsp;m&ecirc;me syst&egrave;me au&nbsp;prix de man&oelig;uvres.</p>\n<p><em>Consultez la page 144 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Skilled Teacher",
@@ -2686,7 +2686,7 @@
 		},
 		{
 			"id": "Sniper Shot",
-			"name": "Sniper Shot",
+			"name": "Tireur d'Élite",
 			"description": "<p>Avant de porter une attaque &agrave; distance (mais pas avec une arme de jet), vous pouvez &eacute;x&eacute;cuter une manoeuvre pour augmenter la port&eacute;e de votre arme &agrave; distance de 1 niveau par rang de Tireur d'&eacute;lite. Pour chaque niveau de port&eacute;e en plus, am&eacute;liorez 1 d&eacute; de difficult&eacute; de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 142 du livre Aux confins de l'Empire ou page 156 de l'Age de la Rebellion </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -2701,13 +2701,13 @@
 		},
 		{
 			"id": "Sound Investments",
-			"name": "Sound Investments",
-			"description": "Please see page 156 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 156 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Placement Rentable",
+			"description": "<p>Au d&eacute;but de chaque s&eacute;ance de jeu, vous gagnez 100 cr&eacute;dits par&nbsp;rang de Placement rentable.</p>\n<p><em>Consultez la page 154 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Spare Clip",
-			"name": "Spare Clip",
-			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Jamais à Court",
+			"description": "<p>Vous ne pouvez pas tomber&nbsp;&agrave; court de munitions&nbsp;sur un [DE] . Les objets poss&eacute;dant&nbsp;l&rsquo;attribut Munitions limit&eacute;es&nbsp;tombent &agrave;&nbsp;court de munitions&nbsp;selon les&nbsp;r&egrave;gles normales.</p>"
 		},
 		{
 			"id": "Spitfire",
@@ -2766,18 +2766,18 @@
 		},
 		{
 			"id": "Stim Application",
-			"name": "Stim Application",
-			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 33 - Unlimited Power[h4]"
+			"name": "Dose de Stimulant",
+			"description": "<p>Effectuez une&nbsp;action de Dose de Stimulant&nbsp;: faites un&nbsp;<strong>test Moyen&nbsp;([DI][DI])&nbsp;de M&eacute;decine</strong>. Si le test r&eacute;ussit, 1 alli&eacute; au contact augmente une de ses caract&eacute;ristiques de 1 jusqu'&agrave; la fin de la rencontre et souffre de 4 de stress.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 137 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Stim Application (Improved)",
-			"name": "Stim Application (Improved)",
-			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, page 157 of the Age of Rebellion Core Rulebook, or page 33 of the Unlimited Power Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4][H4]Page 33 - Unlimited Power[h4]"
+			"name": "Dose de Stimulant (Amélioré)",
+			"description": "<p>Quand vous effectuez l'action de Dose de Stimulant&nbsp;: vous pouvez faire augmenter la difficult&eacute; du <strong>test de M&eacute;decine &agrave;&nbsp;Difficile&nbsp;([DI][DI][DI])</strong> et&nbsp;qu'en cas de r&eacute;ussite, la cible ne souffre que de 1 de stress.</p>\n<p><em>Consultez la page 137 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Stim Application (Supreme)",
-			"name": "Stim Application (Supreme)",
-			"description": "Please see page 143 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 143 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Dose de Stimulant (Ultime)",
+			"description": "<p>Quand vous effectuez vous effectuez l&rsquo;action Dose de stimulant, chaque [TR] d&eacute;pens&eacute; permet d&rsquo;augmenter de 1 une caract&eacute;ristique suppl&eacute;mentaire.</p>"
 		},
 		{
 			"id": "Stimpack Specialization",
@@ -2791,13 +2791,13 @@
 		},
 		{
 			"id": "Stroke of Genius",
-			"name": "Stroke of Genius",
-			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Trait de Génie",
+			"description": "<p>Une fois par s&eacute;ance de jeu,&nbsp;effectuez un&nbsp;test de comp&eacute;tence&nbsp;en utilisant votre&nbsp;Intelligence&nbsp;plut&ocirc;t que la caract&eacute;ristique normalement associ&eacute;e &agrave; cette comp&eacute;tence.</p>"
 		},
 		{
 			"id": "Strong Arm",
-			"name": "Strong Arm",
-			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Musclé",
+			"description": "<p>Traitez les&nbsp;armes de jet&nbsp;comme si elles avaient&nbsp;1&nbsp;niveau de port&eacute;e de plus.&nbsp;</p>\n<p><em>Consultez la page 141 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Stubborn",
@@ -2811,13 +2811,13 @@
 		},
 		{
 			"id": "Stunning Blow",
-			"name": "Stunning Blow",
-			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Coup Assomant",
+			"description": "<p>Quand vous effectuez des&nbsp;tests de Corps &agrave; corps, vous pouvez choisir d&rsquo;infliger des d&eacute;g&acirc;ts de stress et non de blessure. L&rsquo;encaissement s&rsquo;applique n&eacute;anmoins.</p>"
 		},
 		{
 			"id": "Stunning Blow (Improved)",
-			"name": "Stunning Blow (Improved)",
-			"description": "Please see page 144 of the Edge of the Empire Core Rulebook, or page 157 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 144 - Edge of the Empire Core Rulebook[h4][H4]Page 157 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Coup Assomant (Amélioré)",
+			"description": "<p>Quand vous infligez des d&eacute;g&acirc;ts de stress avec des&nbsp;tests de Corps &agrave; corps ou de Pugilat, vous pouvez d&eacute;penser [TR] pour &eacute;tourdir la cible pendant 1 round par [TR].</p>\n<p><em>Consultez la page 135 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Forager",
@@ -2896,8 +2896,8 @@
 		},
 		{
 			"id": "Tactical Combat Training",
-			"name": "Tactical Combat Training",
-			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Entraînement au Combat Tactique",
+			"description": "<p>Les Comp&eacute;tences Corps &agrave; corps et Distance (Armes Lourdes) deviennent des comp&eacute;tences de carri&egrave;re.</p>"
 		},
 		{
 			"id": "Tactical Evasion",
@@ -2916,7 +2916,7 @@
 		},
 		{
 			"id": "Targeted Blow",
-			"name": "Targeted Blow",
+			"name": "Coup Ciblé",
 			"description": "<p>Quand le personnage r&eacute;ussit une attaque, il peut d&eacute;penser 1 point de Destin pour ajouter des d&eacute;gats &eacute;gaux a son Agilit&eacute; a un coup r&eacute;ussi de l'attaque.</p>\n<p>&nbsp;</p>\n<p><em>Page 144 du livre Aux confins de l'Empire ou page 158 de l'Age de la Rebellion&nbsp; </em>pour plus de d&eacute;tails.</p>"
 		},
 		{
@@ -2976,13 +2976,13 @@
 		},
 		{
 			"id": "Time to Go",
-			"name": "Time to Go",
-			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Faut Pas Rester Là",
+			"description": "<p>Vous pouvez d&eacute;penser 1 point de Destin pour effectuer&nbsp;une man&oelig;uvre Se d&eacute;placer&nbsp;au prix d&rsquo;une broutille pour tenter de vous mettre &agrave; l&rsquo;abri ou hors de port&eacute;e du Souffle d&rsquo;une arme ou d&rsquo;une explosion.</p>\n<p><em>Consultez la page 151 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Time to Go (Improved)",
-			"name": "Time to Go (Amélioré)",
-			"description": "Please see page 158 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Faut Pas Rester Là (Amélioré)",
+			"description": "<p>Quand vous d&eacute;clenchez&nbsp;Faut pas rester l&agrave;, vous pouvez en faire&nbsp;b&eacute;n&eacute;ficier un alli&eacute; engag&eacute;. Tout comme vous, il pourra effectuer&nbsp;une man&oelig;uvre Se d&eacute;placer au prix d&rsquo;une broutille&nbsp;pour tenter de se mettre &agrave; l&rsquo;abri ou hors de port&eacute;e du Souffle d&rsquo;une arme ou d&rsquo;une explosion.</p>\n<p><em>Consultez la page 151 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Natural Marksman",
@@ -3031,8 +3031,8 @@
 		},
 		{
 			"id": "True Aim",
-			"name": "True Aim",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, or page 158 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 158 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Visée Juste",
+			"description": "<p>Une fois par round, vous&nbsp;pouvez ex&eacute;cuter une&nbsp;man&oelig;uvre de Vis&eacute;e Juste&nbsp;pour obtenir tous les b&eacute;n&eacute;fices associ&eacute;s au fait de viser et am&eacute;liorer 1 d&eacute; du&nbsp;test de combat par&nbsp;rang de&nbsp;Vis&eacute;e Juste.</p>\n<p>&nbsp;</p>\n<p><em>Consultez la page 145 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Trust No One",
@@ -3076,8 +3076,8 @@
 		},
 		{
 			"id": "Unstoppable",
-			"name": "Unstoppable",
-			"description": "Please see page 159 of the Age of Rebellion Core Rulebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4][H4]Page 31 - Knights of Fate[h4]"
+			"name": "Même Pas Mal",
+			"description": "<p>Quand un jet de blessure critique donne un r&eacute;sultat de 1 (ou est r&eacute;duit &agrave; 1), vous ne subissez en fait pas de blessure critique.</p>\n<p><em>Consultez la page 153 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Up the Ante",
@@ -3101,8 +3101,8 @@
 		},
 		{
 			"id": "Vehicle Combat Training",
-			"name": "Vehicle Combat Training",
-			"description": "Please see page 159 of the Age of Rebellion Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 159 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Entraînement au Combat Véhiculé",
+			"description": "<p>Les Comp&eacute;tences Artillerie et Pilotage (Plan&eacute;taire) deviennent des comp&eacute;tences de carri&egrave;re.</p>"
 		},
 		{
 			"id": "Swift",
@@ -3136,8 +3136,8 @@
 		},
 		{
 			"id": "Wheel and Deal",
-			"name": "Wheel and Deal",
-			"description": "Please see page 145 of the Edge of the Empire Core Rulebook, or page 159 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 145 - Edge of the Empire Core Rulebook[h4][H4]Page 159 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Sens des Affaires",
+			"description": "<p>Quand vous vendez des marchandises l&eacute;galement, gagnez 10% de cr&eacute;dits en plus par rang de Sens des affaires.</p>\n<p><em>Consultez la page 144 du livre de r&egrave;gles Aux Confins de l'Empire pour plus de d&eacute;tails.</em></p>"
 		},
 		{
 			"id": "Will of the Force",
@@ -3161,8 +3161,8 @@
 		},
 		{
 			"id": "Works Like a Charm",
-			"name": "Works Like a Charm",
-			"description": "Once per session, make one skill check using Presence rather than the characteristic linked to that skill.[P][H3]Sources:[h3][H4]Fly Casual[h4]"
+			"name": "Qu'à Cela ne Tienne",
+			"description": "<p>Une fois par session de jeu, effectuez un&nbsp;test de comp&eacute;tence&nbsp;en utilisant votre&nbsp;Pr&eacute;sence&nbsp;plut&ocirc;t que la caract&eacute;ristique normalement associ&eacute;e &agrave; cette comp&eacute;tence.</p>\n<p><em>Consultez la page 155 du livre de r&egrave;gles d'Ere de la R&eacute;bellion pour plus de d&eacute;tails.</em></p>"
 		}
 	]
 }

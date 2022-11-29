@@ -2037,7 +2037,7 @@
 		{
 			"id": "R82 Jump Boots",
 			"name": "Bottes Sauteuses R82 d'Aratech",
-			"description": "Un personnage équipé de bottes sauteuses est considéré comme un véhicule aux caractéristique suivantes : Gabarit 1, Vitesse 2, Maniabilité -1, Seuil de stress mécanique 3. Elles ne peuvent fonctionner qu'en athmosphère, sont limités à une altitude de 35m et nécessitent la compétence Pilotage (Planétaire).<p>\n</p>Elles sont dotées de deux générateurs de répulsion et de réacteurs permettant de bondir ou de flotter jusqu'a une hauteur de 35m sur de courte distances.<p>\nPage 115 du livre Bastion de la Résistance pour plus de détails.</p>"
+			"description": "Un personnage équipé de bottes sauteuses est considéré comme un véhicule aux caractéristique suivantes : Gabarit 1, Vitesse 2, Maniabilité -1, Seuil de stress mécanique 3. Elles ne peuvent fonctionner qu'en athmosphère, sont limités à une altitude de 35m et nécessitent la compétence Pilotage (Planétaire).<p>\n</p>Elles sont dotées de deux générateurs de répulsion et de réacteurs permettant de bondir ou de flotter jusqu'a une hauteur de 35m sur de courte distances. Les bottes disposent de 5 charges (1 charge/tour). Recharger coute 25 crédits.<p>\nPage 115 du livre Bastion de la Résistance pour plus de détails.</p>"
 		},
 		{
 			"id": "RA-7 Protocol Droid",
