@@ -91,8 +91,8 @@
 		},
 		{
 			"id": "Armor Insert",
-			"name": "Armor Insert",
-			"description": "[H4]Armor Insert[h4]\n      Please see page 57 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>Set Soak Mod - Set Soak value </div><div>Set Defense Mod - Set Defense value </div><div>Armor inserts can be noticed by making an [B]Average ([DI][DI]) Perception check[b]. </div>"
+			"name": "Plaques d'armure",
+			"description": "les plaques d'armure sont fines, flexible en plastacier et en gel ballistique qui peuvent être cousues sur des vêtements pour les transformer en vêtements renforcés. Elles peuvent être ajoutées à n'importe quels vêtements suffisament larges et elles peuvent être installées par n'importe quel tailleur. Cet attachement peut être appliqué à n'importe quel armure ayant une def égal à 0 et un encaissement inférieur à 1.<h3>Base</h3><div>L'habit devient un vêtement renforcé (def 1, enc 1). Test perception ([DI][DI]) pour repéré les vêtements renforcés.</div><div>Mod Encaissement +1</div><div>Mod défense +1</div><div>Mod Diff+1 pour les repérer</div>"
 		},
 		{
 			"id": "Armor Spikes",

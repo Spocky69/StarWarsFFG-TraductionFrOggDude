@@ -771,8 +771,8 @@
 		},
 		{
 			"id": "Electronic Lock Breaker",
-			"name": "Electronic Lock Breaker",
-			"description": "[H3]Electronic Lock Breaker[h3]\n      Please see page 178 of the Edge of the Empire Core Rulebook, page 194 of the Age of Rebellion Core Rulebook, or page 187 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 178 - Edge of the Empire Core Rulebook[h4][H4]Page 194 - Age of Rebellion Core Rulebook[h4][H4]Page 187 - Force and Destiny Core Rulebook[h4]"
+			"name": "Passe-partouts Electroniques",
+			"description": "La galaxie est remplie d'objets précieux, de marchandises de prix et de systèmes pour les protéger. Mais comme le savent si bien les voleurs, plus la sécurité importante, plus la valeur du butin est grande... et plus il est tentant de s'en emparer. Loin des mécaniques d'autrefois, la plupart des verrous fonctionnent depuis longtemps grâce à des circuits très complexes. Les passe-partouts électroniques, comme ceux que fabrique BanditTech (un consortium autoproclamé de slicers et de criminel high-tech), sont des outils d'intrusion capables de déjouer les systèmes de fermeture et les verrous électroniques standards. Les meilleurs modèles sont si performants que même entre les mains d'un novice, ils peuvent presque tout ouvrir."
 		},
 		{
 			"id": "Elysium Atmospheric Processor",
