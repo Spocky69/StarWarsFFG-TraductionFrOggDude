@@ -331,8 +331,8 @@
 		},
 		{
 			"id": "Call 'Em",
-			"name": "Call 'Em",
-			"description": "Please see page 32 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 32 - Fly Casual[h4]"
+			"name": "Invectives",
+			"description": "[P]N’ajouter aucun [SETBACK] aux tests de combats concernés par la manœuvre [B]Viser[b][P][I]Page 31 du livre Fly Casual[i]"
 		},
 		{
 			"id": "Calm Commander",
@@ -2326,8 +2326,8 @@
 		},
 		{
 			"id": "Quickdraw (Improved)",
-			"name": "Quickdraw (Improved)",
-			"description": "May use Quick Draw twice per round.[P][H3]Sources:[h3][H4]Fly Casual[h4]"
+			"name": "Arme en main (Amélioré)",
+			"description": "[P]Vous pouvez utiliser [B]Arme en main[b] deux fois par round. [P][I]Page 31 du livre Fly Casual[i]"
 		},
 		{
 			"id": "Rain of Death",
@@ -2696,8 +2696,8 @@
 		},
 		{
 			"id": "Sorry About the Mess",
-			"name": "Sorry About the Mess",
-			"description": "Please see page 33 of the Fly Casual Sourcebook, or page 43 of the Rise of the Separatists Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4][H4]Page 43 - Rise of the Separatists[h4]"
+			"name": "Désolé pour la Pagaille",
+			"description": "[P]Réduisez de 1 le niveau de critique d’une arme (jusqu’à un minimum de 1) contre les cibles qui n’ont pas encore agi de la rencontre.[P][I]Page 31 du livre Fly Casual ou Page 43 du livre Rise of the Separatists[i]"
 		},
 		{
 			"id": "Sound Investments",
@@ -2711,8 +2711,8 @@
 		},
 		{
 			"id": "Spitfire",
-			"name": "Spitfire",
-			"description": "Please see page 33 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 33 - Fly Casual[h4]"
+			"name": "Feu Nourri",
+			"description": "[P]En cas du réussite d’un test combiné à l’aide de deux armes à distance légères, chaque coup supplémentaireréussi lors du test peut toucher n’importe quelle cible à portée de l’arme.[P][I]Page 33 du livre Fly Casual[i]"
 		},
 		{
 			"id": "Spur",
