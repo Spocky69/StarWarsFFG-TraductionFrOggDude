@@ -1401,13 +1401,13 @@
 		},
 		{
 			"id": "Infrabinoculars",
-			"name": "Infrabinoculars",
-			"description": "[H3]Infrabinoculars[h3]\n      Please see page 48 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Endless Vigil[h4]<div>Can see through up to two meters of wall.  Dense or shielded materials impose at least [SE] to Perception checks (GM's discretion). </div>"
+			"name": "Infrajumelles",
+			"description": "</div><div>Vision infrarouge. Permet de voir à travers 2m de mur. +[SE] si le matériau est très dense. </div><div>[BR]Une paire de jumelles normale permet à leur utilisateur de voir loin avec une grande clareté, une paire plus avancée d'électrojumelles permet une surveillance avec des lumières faibles ou à des distances très grandes. Ces deux objets ont une usage limité en ville où les murs et les buildings bloquent fréquement les lignes de vues. Les infrajumelles sont des objets spécialisés designés pour améliorer la perception dans un environement urbain. A la place d'améliorer la vision de loin, les infrajumelles sont capables de lire les signatures thermiques même à travers des murs épais, surlignant les formes et les sources de chaleurs. Un personnage utilisant des infrajumelles peut voir à travers 2 mètres de murs, permettant la surveillance d'un building entier. Les murs construient avec des matériaux très denses peuvent donner [SE] ou plus au jet perception. [BR] [BR] Page 48 de Endless Vigil Sourcebook."
 		},
 		{
 			"id": "Infrabinoculars (Long Range)",
-			"name": "Infrabinoculars (Long Range)",
-			"description": "[H3]Infrabinoculars (Long Range)[h3]\n      Please see page 48 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Endless Vigil[h4]<div>Can see through up to two meters of wall.  Dense or shielded materials impose at least [SE] to Perception checks (GM's discretion). </div><div>User may see in low light or extreme bright light conditions. </div><div>Magnifies targetets up to 10 kilometers away. </div><div>User may remove [SE] imposed due to long range or low light. </div>"
+			"name": "Infrajumelles (Longue Portée)",
+			"description": "</div><div>Jumelles possédant deux modes : [BR] - Vision infrarouge : Permet de voir à travers 2m de mur. +[SE] si le matériau est très dense. [BR] - Electrojumelles : Permet de voir avec une lumière faible. Agrandi la cible jusqu'a 10km. Enlève un [SE][BR]</div><div>[BR]Une paire de jumelles normale permet à leur utilisateur de voir loin avec une grande clareté, une paire plus avancée d'électrojumelles permet une surveillance avec des lumières faibles ou à des distances très grandes. Ces deux objets ont une usage limité en ville où les murs et les buildings bloquent fréquement les lignes de vues. Les infrajumelles sont des objets spécialisés designés pour améliorer la perception dans un environement urbain. A la place d'améliorer la vision de loin, les infrajumelles sont capables de lire les signatures thermiques même à travers des murs épais, surlignant les formes et les sources de chaleurs. Un personnage utilisant des infrajumelles peut voir à travers 2 mètres de murs, permettant la surveillance d'un building entier. Les murs construient avec des matériaux très denses peuvent donner [SE] ou plus au jet perception. [BR] [BR]Page 48 de Endless Vigil Sourcebook."
 		},
 		{
 			"id": "Insider's Guide",
