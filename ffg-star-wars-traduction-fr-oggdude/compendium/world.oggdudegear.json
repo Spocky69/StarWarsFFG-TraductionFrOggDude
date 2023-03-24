@@ -171,13 +171,13 @@
 		},
 		{
 			"id": "Avabush Spice (100 dose cargo container)",
-			"name": "Avabush Spice (100 dose cargo container)",
-			"description": "[H3]Avabush Spice[h3]\n      Please see page 183 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 183 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Epice d'Avabush (Caisse de 100 doses)",
+			"description": "<p>L'épice d'Avabush détent et plonge dans la léthargie. Cartains l'utilisent comme somnifère illicite. Contrairement à la plupart des autres épices, elle n'a pas de propriété hallucinogène et seules quelques rares espèces peuvent en devenir dépendantes. En revanche, elle possède un effet secondaire qui en fait une substance unique : ceux qui en prennent ont du mal à mentir. Associée aux bonnes questions, elle peut donc servir à obtenir des informations. Bien qu'elle ne soit pas très précieuse, l'Avabush ne pousse que sur la planète Baros et dans quelques serres disséminées dans la galaxie. De l'avis général, elle est moins efficace que les sérums de vérité employés par l'Empire, mais aussi beaucoup plus difficile à détecter, et bien plus agréable à avaler.</p>\n<p>Les personnages qui consomment de l'épice d'Avabush sombrent dans la léthargie. La torpeur qui s'empare de leur esprit les empêche d'améliorer plus d'un dé d'aptitude [AB] en dé de maîtrise [PR] lorsqu'il entreprennent un test. De plus, chaque fois qu'ils essaient sciemment de mentir ou de dissimuler la vérité, le MJ peut améliorer un dé de difficulté. Les effets de l'épice d'Avabush perdurent pendant au moins une scène ou un affrontement.</p>\n<p><strong>Réglementation : </strong> l'épice d'Avabush est interdite ou controlée sur la plupart des planètes disposant d'une importante présence impériale.</p>\n<p>Page185 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Avabush Spice (dose)",
-			"name": "Avabush Spice (dose)",
-			"description": "[H3]Avabush Spice[h3]\n      Please see page 183 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 183 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Epice d'Avabush (dose)",
+			"description": "<p>L'épice d'Avabush détent et plonge dans la léthargie. Cartains l'utilisent comme somnifère illicite. Contrairement à la plupart des autres épices, elle n'a pas de propriété hallucinogène et seules quelques rares espèces peuvent en devenir dépendantes. En revanche, elle possède un effet secondaire qui en fait une substance unique : ceux qui en prennent ont du mal à mentir. Associée aux bonnes questions, elle peut donc servir à obtenir des informations. Bien qu'elle ne soit pas très précieuse, l'Avabush ne pousse que sur la planète Baros et dans quelques serres disséminées dans la galaxie. De l'avis général, elle est moins efficace que les sérums de vérité employés par l'Empire, mais aussi beaucoup plus difficile à détecter, et bien plus agréable à avaler.</p>\n<p>Les personnages qui consomment de l'épice d'Avabush sombrent dans la léthargie. La torpeur qui s'empare de leur esprit les empêche d'améliorer plus d'un dé d'aptitude [AB] en dé de maîtrise [PR] lorsqu'il entreprennent un test. De plus, chaque fois qu'ils essaient sciemment de mentir ou de dissimuler la vérité, le MJ peut améliorer un dé de difficulté. Les effets de l'épice d'Avabush perdurent pendant au moins une scène ou un affrontement.</p>\n<p><strong>Réglementation : </strong> l'épice d'Avabush est interdite ou controlée sur la plupart des planètes disposant d'une importante présence impériale.</p>\n<p>Page185 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "B310 Micro-Imager",
@@ -216,13 +216,13 @@
 		},
 		{
 			"id": "Bacta (full tank)",
-			"name": "Bacta (full tank)",
-			"description": "[H3]Bacta (full tank)[h3]\n      Please see page 176 of the Edge of the Empire Core Rulebook, page 192 of the Age of Rebellion Core Rulebook, or page 185 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 176 - Edge of the Empire Core Rulebook[h4][H4]Page 192 - Age of Rebellion Core Rulebook[h4][H4]Page 185 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bacta (curve entière)",
+			"description": "<p>Le Bacta est un liquide se soin miraculeux. Composé de bactéries de synthèse crées il y a des millénaires, il fonctionne sur un nombre incroyable d'espèces et guérit les blessures les plus graves sans laisser de cicatrices. Il est souvent utilisé en cuve pour une immersion totale, mais peut aussi être appliqué par patch, injecté, réduit en poudre et même avalé. Bien que les cuves soient rares en dehors des grands complexes médicaux, certains vaisseaux sont malgré tout équipés de bacs mobiles et la plupart des trousses de secours et des médipacks renferment quelques bandes prétraitées.</p>\n<p>Le bacta accélère la vitesse de régénération cellulaire. Pour plus de détails, référez-vous à la page 220.</p>\n<p><strong>Modèles typiques : </strong>Aucun</p>\n<p>Page177 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Bacta (liter)",
-			"name": "Bacta (liter)",
-			"description": "[H3]Bacta (liter)[h3]\n      Please see page 176 of the Edge of the Empire Core Rulebook, page 192 of the Age of Rebellion Core Rulebook, or page 185 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 176 - Edge of the Empire Core Rulebook[h4][H4]Page 192 - Age of Rebellion Core Rulebook[h4][H4]Page 185 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bacta (litre)",
+			"description": "<p>Le Bacta est un liquide se soin miraculeux. Composé de bactéries de synthèse crées il y a des millénaires, il fonctionne sur un nombre incroyable d'espèces et guérit les blessures les plus graves sans laisser de cicatrices. Il est souvent utilisé en cuve pour une immersion totale, mais peut aussi être appliqué par patch, injecté, réduit en poudre et même avalé. Bien que les cuves soient rares en dehors des grands complexes médicaux, certains vaisseaux sont malgré tout équipés de bacs mobiles et la plupart des trousses de secours et des médipacks renferment quelques bandes prétraitées.</p>\n<p>Le bacta accélère la vitesse de régénération cellulaire. Pour plus de détails, référez-vous à la page 220.</p>\n<p><strong>Modèles typiques : </strong>Aucun</p>\n<p>Page177 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Bantha Riding Beast",
@@ -291,18 +291,18 @@
 		},
 		{
 			"id": "Booster Blue (100 dose cargo container)",
-			"name": "Booster Blue (100 dose cargo container)",
-			"description": "[H3]Booster Blue[h3]\n      Please see page 184 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 184 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Booster Bleu (Caisse de 100 doses)",
+			"description": "<p>Le Bosster bleu est un dérivé de la peinture industrielle utilisée sur les coques des vaisseaux et autres engins d'envergures. C'est un stimulant très populaire parmi les pilotes et les artilleurs. en règle générale, la drogue est distribuée sous forme de canettes de liquide bleu pour éviter qu'elle marque la peau ou d'autres surfaces sensibles. Personne ne connaît plus son origine, mais il semblerait qu'une ou deux têtes brûlées aient un jour découvert qu'avaler le liquide qui sert à peindre les appareils augmentait la vitesse de réaction... chez les humains et chez bon nombre d'autres espèces. Bien sûr, tout ceci à un prix. Le booster bleu a de graves effets secondaires  et les overdoses sont monnaies courante, en particulier chez les pilotes qui doublent les doses pendant les missions de longue durée.</p>\n<p>Lorsqu'un personnage prend un booster bleu, il profite d'une acuité et d'une concentration accrue et peut améliorer une fois la compétence qu'il utilise lorsqu'il entreprend un test lié à l'Agilité, l'Intelligence ou la Ruse. Cela dit, son esprit en paie aussi le prix et il ne plus récupérer aucun point de stress à la fin des rencontres ou des scènes jusqu'au terme de la session de jeu en cours. Les effets du Booster bleu durent pendant une scène ou un affrontement. </p>\n<p><strong>Réglementation : </strong> aucun.</p>\n<p>Page186 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Booster Blue (dose)",
-			"name": "Booster Blue (dose)",
-			"description": "[H3]Booster Blue[h3]\n      Please see page 184 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 184 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Booster Bleu (dose)",
+			"description": "<p>Le Bosster bleu est un dérivé de la peinture industrielle utilisée sur les coques des vaisseaux et autres engins d'envergures. C'est un stimulant très populaire parmi les pilotes et les artilleurs. en règle générale, la drogue est distribuée sous forme de canettes de liquide bleu pour éviter qu'elle marque la peau ou d'autres surfaces sensibles. Personne ne connaît plus son origine, mais il semblerait qu'une ou deux têtes brûlées aient un jour découvert qu'avaler le liquide qui sert à peindre les appareils augmentait la vitesse de réaction... chez les humains et chez bon nombre d'autres espèces. Bien sûr, tout ceci à un prix. Le booster bleu a de graves effets secondaires  et les overdoses sont monnaies courante, en particulier chez les pilotes qui doublent les doses pendant les missions de longue durée.</p>\n<p>Lorsqu'un personnage prend un booster bleu, il profite d'une acuité et d'une concentration accrue et peut améliorer une fois la compétence qu'il utilise lorsqu'il entreprend un test lié à l'Agilité, l'Intelligence ou la Ruse. Cela dit, son esprit en paie aussi le prix et il ne plus récupérer aucun point de stress à la fin des rencontres ou des scènes jusqu'au terme de la session de jeu en cours. Les effets du Booster bleu durent pendant une scène ou un affrontement. </p>\n<p><strong>Réglementation : </strong> aucun.</p>\n<p>Page186 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Breath Mask",
-			"name": "Breath Mask",
-			"description": "[H3]Breath Mask[h3]\n      Please see page 179 of the Edge of the Empire Core Rulebook, page 195 of the Age of Rebellion Core Rulebook, or page 188 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 179 - Edge of the Empire Core Rulebook[h4][H4]Page 195 - Age of Rebellion Core Rulebook[h4][H4]Page 188 - Force and Destiny Core Rulebook[h4]"
+			"name": "Masques respiratoires et respirateurs",
+			"description": "<p>De nombreuses planètes ne sont pas hospitalières pour toutes les espèces et il est parfois nécessaire d'avoir un équipement qui permet d'y respirer. Les accessoires les plus rudimentaires sont de simples filtres nasals capable de filtrer les particules en suspension, mais il existe des dispositifs bien plus élaborés, comme des masques intégraux munis de bonbonnes de gaz ou de filtres antipoison. Il existe également des respirateurs aquatiques.</p>\n<p>Très fréquents sur les vaisseaux, les Vagabonds-6 de Ganthorthral Athmosphérique permettent de filtrer les particules et de maintenir le taux de mélange oxygène/nitrogène constant. D'autres modèles (en particulier ceux qui équipent les espèces contraintes de vivre dans un milieu inadapté) sont parfois plus contraignants ou au contraire, plus confortables à porter. Quoi qu'il en soit, ils remplissent tous la même fonction.</p>\n<p>Bien qu'ils servent surtout aux humanoïdes, les systèmes respiratoires peuvent être réglés pour simuler presque n'importe quelle atmosphère. Certains Gands les utilisent par exemple pour inhaler un mélange d'amoniac identique à celui de leur planète natale.</p>\n<p><strong>modèles typiques : </strong> Vagabonds-6 de Gandorthral Athmosphérique.</p>\n<p>Page181 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Broadhead Arrow (FS19 Compound Bow)",
@@ -386,8 +386,8 @@
 		},
 		{
 			"id": "Climbing Gear",
-			"name": "Climbing Gear",
-			"description": "[H3]Climbing Gear[h3]\n      Please see page 180 of the Edge of the Empire Core Rulebook, page 196 of the Age of Rebellion Core Rulebook, or page 188 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 180 - Edge of the Empire Core Rulebook[h4][H4]Page 196 - Age of Rebellion Core Rulebook[h4][H4]Page 188 - Force and Destiny Core Rulebook[h4]"
+			"name": "Matériel d'Escalade",
+			"description": "<p>Bien que le matériel d'escalade serve surtout dans les étendues sauvages, loin des turbolifts et du moindre escalier, il peut se révéler utile aux opérations clandestines qui se déroulent au coeur des cités. En général, l'équipement standard comprend un rouleau de corde synthétique ou un pack de câble liquide et un système d'attache pour l'arrimer. Le kit de base de Pretormin Environmental inclut également quatre pitons auto-adhérents adaptés à presque toutes les surfaces.</p>\n<p><strong>modèles typiques : </strong> Kit d'escalade de base de Pretormin Environnemental.</p>\n<p>Page182 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Collar-Amp",
@@ -421,8 +421,8 @@
 		},
 		{
 			"id": "Comm Scrambler",
-			"name": "Comm Scrambler",
-			"description": "[H3]Comm Scrambler[h3]\n      Please see page 178 of the Edge of the Empire Core Rulebook, or page 194 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 178 - Edge of the Empire Core Rulebook[h4][H4]Page 194 - Age of Rebellion Core Rulebook[h4]<div>Adds [SE][SE] to any attempt to decode and understand a transmission </div>"
+			"name": "Crypteur",
+			"description": "<p>Comme leur nom l'indique, ces appareils servent à crypter les communications importantes ou privées. ils se fixent facilement à la plupart des comlinks et autres équipements du même type. Une fois en place, seuls ceux qui ont décrypteur lié peuvent continuer à suivre la communication. Leur petite taille les rend aussi facile à cacher. Un détail d'importance, car ils sont illégaux sur le marché civil de presque toutes les planètes civilisées. A l'image des modèles Mark 5 fabriqués par Chedak, les crypteurs sont exclusivement produits à des fins militaires ou de maintien de l'ordre, même s'ils sont finalement faciles à trouver au marché noir.</p>\n<p>Lorsqu'un personnage utilise un crypteur, tous ceux qui essaient d'écouter ou de décoder la transmission rajoutent deux dés d'infortunes [SE][SE] à leurs tests de compétences.</p>\n<p><strong>Modèles typiques : </strong> Crypteur Mark 5 de Chedak.</p>\n<p>Page180 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Communications Media Manipulator",
@@ -466,8 +466,8 @@
 		},
 		{
 			"id": "Crash Survival Kit",
-			"name": "Crash Survival Kit",
-			"description": "[H3]Crash Survival Kit[h3]\n      Please see page 180 of the Edge of the Empire Core Rulebook, or page 195 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 180 - Edge of the Empire Core Rulebook[h4][H4]Page 195 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Kit de Survie en cas de Crash",
+			"description": "<p>Bien que les environnements soient presque partout confortables et artificiellement contrôlés, il arrive que rester en vie devienne un défi. Un atterrissage forcé peut très bien laisser un équipage perdu en plein désert sur Tatooine et une panne de speeder peut facilement contraindre un aventurier à passer plusieurs jours dans les neiges d'un monde polaire.</p>\n<p>La plupart des vaisseaux, en particulier les petits appareils de type chasseurs et capsule de secours, renferment des kits de survie. Ils donnent suffisamment de temps aux occupants pour effectuer les réparations ou à leurs amis pour les retrouver. Pretormin Environnemental (une compagnie spécialisée dans le matériel de survie et d'exploration) fabrique un des modèles les plus populaires. Suffisamment compact pour tenir dans une capsule ou une Aile-X, il contient une ouverture thermique, un couteau multifonction, une balise de détresse, deux comilnks d'appoint, une bobine de fil renforcé, des barres énergétiques, un médipack de secours (identique au KSS), deux respirateurs, un filtreur d'eau, une gourde, un bâton luisant, 50 mètres de tissu microfibre ultra élastique, dix packs de rations et un pistoler de détresse. Par précaution, certains pirates n'hésitent pas non plus à y glisser un ou deux blasters compacts ou même d'autres armes. Pretormin, quant à elle, ne les inclut pas dans ses kits.</p>\n<p><strong>modèles typiques : </strong>Kit de survie en cas de crash de Pretormin Environnemental</p>\n<p>Page181 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cratala's Arm Enhancement Implant",
@@ -521,18 +521,18 @@
 		},
 		{
 			"id": "Cybernetic Arms (Mod V)",
-			"name": "Cybernetic Arms (Mod V)",
-			"description": "[H3]Cybernetic Arms (Mod V)[h3]\n      Please see page 173 of the Edge of the Empire Core Rulebook, page 189 of the Age of Rebellion Core Rulebook, or page 182 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 173 - Edge of the Empire Core Rulebook[h4][H4]Page 189 - Age of Rebellion Core Rulebook[h4][H4]Page 182 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bras Cybernétique (Mod V)",
+			"description": "<p>Les bras cybernétiques Mod V confèrent <strong>+1 en Vigueur</strong> et <strong>les mod VI +1 en Agilité</strong>.</p>\n<p>BioTech est le plus grand producteur de matériel cybernétique de la galaxie : ses prothèses de bras existent pour des centaines d'espèces humanoïdes. Elles confèrent plus de force (dans le cas des ModV) ou plus de dextérité (dans le cas des Mod VI), et bien qu'ils soient à l'origine conçue à des fins médicales, ces équipements servent aussi à tout ceux qui souhaitent simplement remplacer leurs membres organiques par des appendices mécaniques. Lorsqu'un personnage remplace ses deux bras, il doit utiliser deux fois le même modèle, car ils sont conçus pour fonctionner par paire. Le bonus, lui, ne double pas.</p>\n<p><strong>Modèles typiques</strong> : Bras cybernétiques Mod V et Mod VI de Biotech.</p>\n<p>Page175 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cybernetic Arms (Mod VI)",
-			"name": "Cybernetic Arms (Mod VI)",
-			"description": "[H3]Cybernetic Arms (Mod VI)[h3]\n      Please see page 173 of the Edge of the Empire Core Rulebook, page 189 of the Age of Rebellion Core Rulebook, or page 182 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 173 - Edge of the Empire Core Rulebook[h4][H4]Page 189 - Age of Rebellion Core Rulebook[h4][H4]Page 182 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bras Cybernétique (Mod VI)",
+			"description": "<p>Les bras cybernétiques Mod V confèrent <strong>+1 en Vigueur</strong> et <strong>les mod VI +1 en Agilité</strong>.</p>\n<p>BioTech est le plus grand producteur de matériel cybernétique de la galaxie : ses prothèses de bras existent pour des centaines d'espèces humanoïdes. Elles confèrent plus de force (dans le cas des ModV) ou plus de dextérité (dans le cas des Mod VI), et bien qu'ils soient à l'origine conçue à des fins médicales, ces équipements servent aussi à tout ceux qui souhaitent simplement remplacer leurs membres organiques par des appendices mécaniques. Lorsqu'un personnage remplace ses deux bras, il doit utiliser deux fois le même modèle, car ils sont conçus pour fonctionner par paire. Le bonus, lui, ne double pas.</p>\n<p><strong>Modèles typiques</strong> : Bras cybernétiques Mod V et Mod VI de Biotech.</p>\n<p>Page175 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cybernetic Brain Implant",
-			"name": "Cybernetic Brain Implant",
-			"description": "[H3]Cybernetic Brain Implant[h3]\n      Please see page 174 of the Edge of the Empire Core Rulebook, page 189 of the Age of Rebellion Core Rulebook, or page 183 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 174 - Edge of the Empire Core Rulebook[h4][H4]Page 189 - Age of Rebellion Core Rulebook[h4][H4]Page 183 - Force and Destiny Core Rulebook[h4]"
+			"name": "Implant Cognitif",
+			"description": "<p>Les implants cognitifs conf&egrave;rent&nbsp;<strong>+1 en intelligence</strong>&nbsp;et sont consid&eacute;r&eacute;s comme &eacute;quip&eacute;s de&nbsp;<strong>comlink&nbsp;</strong>et d'un&nbsp;<strong>point d'acc&egrave;s informatique</strong>.</p>\n<p>Les implants cognitifs sont l'une des inventions les plus surprenantes de la cybern&eacute;tique. Ce sont des modules informatiques capables d'augmenter les capacit&eacute;s intellectuelles. L'un des meilleurs exemples est sans doute l'AJ^6. On retrouve principalement ce mod&egrave;le sur ceux qui sont en charge de t&acirc;ches fastidieuses et qui doivent chaque jour g&eacute;rer d'important flux de donn&eacute;es. L'implant s'installe sur les oreilles et l'arri&egrave;re du cr&acirc;ne. Une fois en place, le dispositif se connecte aux ondes c&eacute;r&eacute;brales, acc&eacute;l&egrave;re les processus cognitifs et stoke les exc&egrave;s d'information pour plus tard. Il permet aussi de contr&ocirc;ler les terminaux informatiques &agrave; distance et renferme un comlink int&eacute;gr&eacute;.</p>\n<p><strong>Mod&egrave;le typiques</strong> : Implant cognitif Biotech Aj^6 Borg.</p>\n<p>Page175 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cybernetic Cavity",
@@ -541,18 +541,18 @@
 		},
 		{
 			"id": "Cybernetic Eyes",
-			"name": "Cybernetic Eyes",
-			"description": "[H3]Cybernetic Eyes[h3]\n      Please see page 174 of the Edge of the Empire Core Rulebook, page 189 of the Age of Rebellion Core Rulebook, or page 183 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 174 - Edge of the Empire Core Rulebook[h4][H4]Page 189 - Age of Rebellion Core Rulebook[h4][H4]Page 183 - Force and Destiny Core Rulebook[h4]"
+			"name": "Yeux Cybernétiques",
+			"description": "<p>Les personnages équipés avec des yeux cybernétiques gagnent <strong>+1 en Vigilance et +1 en Perception</strong></p>\n<p>En cybernétique, les yeux sont sans doute les organes les plus difficiles à remplacer. La moindre variation se remarque immédiatement. De l'avis général, les prothèses mise au point par Athakam MedTech sont toutefois proches de la perfection, et les Mod III de loin leur meilleur modèle. Bien qu'ils soient visiblement artificiels, des organes cybernétiques donnent à ceux qui les possèdent une acuité visuelle sans pareille. </p>\n<p><strong>modèles Typiques : </strong>Yeux cybernétiques Mod III de Athakam MedTech.</p>\n<p>Page175 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cybernetic Leg (Mod II)",
-			"name": "Cybernetic Leg (Mod II)",
-			"description": "[H3]Cybernetic Leg (Mod II)[h3]\n      Please see page 173 of the Edge of the Empire Core Rulebook, page 189 of the Age of Rebellion Core Rulebook, or page 183 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 173 - Edge of the Empire Core Rulebook[h4][H4]Page 189 - Age of Rebellion Core Rulebook[h4][H4]Page 183 - Force and Destiny Core Rulebook[h4]"
+			"name": "Jambes Cybernétiques (Mod II)",
+			"description": "<p>Les Mod II confèrent +1 en Vigueur. </p>\n<p>L'expertise en cybernétique de Biotech s'étend aussi aux membres inférieurs. Pour ceux qui en ont les moyens, perdre une jambe n'est plus synonyme d'infirmité et peut même conduire à une mobilité accrue au final. En effet, les modèles de jambes cybernétiques les plus avancés comme les Mod II confèrent plus de puissance. Les jambes cybernétiques ne s'installent que par deux.</p>\n<p>  <strong>Modèles typiques</strong> : Jambes cybernétiques Mod II.</p>\n<p> Page175 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cybernetic Leg (Mod III)",
-			"name": "Cybernetic Leg (Mod III)",
-			"description": "[H3]Cybernetic Leg (Mod III)[h3]\n      Please see page 173 of the Edge of the Empire Core Rulebook, page 189 of the Age of Rebellion Core Rulebook, or page 183 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 173 - Edge of the Empire Core Rulebook[h4][H4]Page 189 - Age of Rebellion Core Rulebook[h4][H4]Page 183 - Force and Destiny Core Rulebook[h4]"
+			"name": "Jambes Cybernétiques (Mod III)",
+			"description": "<p>Les Mod III confèrent +1 en Agilité.</p>\n<p>L'expertise en cybernétique de Biotech s'étend aussi aux membres inférieurs. Pour ceux qui en ont les moyens, perdre une jambe n'est plus synonyme d'infirmité et peut même conduire à une mobilité accrue au final. En effet, les modèles de jambes cybernétiques les plus avancés comme les Mod III sont équipés d'un système gyroscopique complexe qui augmente la vitesse. Les jambes cybernétiques ne s'installent que par deux.</p>\n<p> <strong>Modèles typiques</strong> : Jambes cybernétiques Mod III./n Page175 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cybernetic Reflexes",
@@ -571,8 +571,8 @@
 		},
 		{
 			"id": "Cyberscanner Limb",
-			"name": "Cyberscanner Limb",
-			"description": "[H3]Cyberscanner Limb[h3]\n      Please see page 174 of the Edge of the Empire Core Rulebook, page 190 of the Age of Rebellion Core Rulebook, or page 184 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 174 - Edge of the Empire Core Rulebook[h4][H4]Page 190 - Age of Rebellion Core Rulebook[h4][H4]Page 184 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bras Scanner Cybernétique",
+			"description": "<p>En plus de remplacer un bras, cette amélioration cybernétique intègre un scanner standard de portée moyenne au corps du personnage qu'elle équipe. Dotés d'un système d'affichage holographique qui se déploie au-dessus de la paume de la main, les scanners cybernétiques sont capables de détecter les formes de vies, les traces de mouvements, les signatures énergiques et les autres anomalies. Le bras scanner Mod IV renferme un scanner portable. Contrairement à la plupart des implants cybernétiques, il est entièrement dissimulé sous la chair synthétique et rien ne laisse deviner sa présence.</p>\n<p><strong>Modèles typiques : </strong>Bras scanner cybernétique Neuro-Saav modèle Scanmaster NeuroFatritech.</p>\n<p>Page176 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Cyborg/Droid Interface",
@@ -636,13 +636,13 @@
 		},
 		{
 			"id": "Death Sticks (100 dose cargo container)",
-			"name": "Death Sticks (100 dose cargo container)",
-			"description": "[H3]Death Sticks[h3]\n      Please see page 185 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 185 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Death Sticks (Caisse de 100 doses)",
+			"description": "<p>Le bâton de la mort (ou plus scientifiquement létadone) est une création malsaine. Fabriquée à partir du champignon balo de la planète Balosar et gardée à l'état liquide, cette substance est distribuée dans des tubes rouges et jaunes caractéristiques. Bien qu'elle ne soit que légèrement hallucinogène, la substance porte bien son nom : son principe actif, l'Ixetal Cilona, est aussi accoutumant que nocif. Chaque dose rapproche de la mort et plonge un peu plus dans la dépendance. Les bâtons de la mort sont bien entendu illégaux partout. La plupart des contrebandiers préfèrent ne pas y toucher pour des 'raisons morales' et n'hésitent pas à se jeter sur la première course venue pour se défiler. Un bâton de la mort affaiblit aussi temporairement la connexion avec la Force, mais rares sont les consommateurs ou même les dealers à connaitre ce détail.</p>\n<p>A long terme, les bâtons de la mort ont des effets dévastateurs. Ils conduisent aux pires affres du manque et à la mort. Mais à moins que la campagne ne se déroule sur une décennie, ou qu'un des personnages ne soit déjà dépendant de puis plusieurs années, cela ne concerne en rien les joueurs. Certaines espèces sont plus vulnérables à l'Ixetal Cilona que d'autres : cela dit, en règle générale, la dépendance à la létadone réduit l'espérance de vie de moitié. A court terme, les effets de la drogue durent pendant une scène. Le personnage qui la consomme rajoute un dé d'infortune [SE] à tous ses jets, et si le MJ le souhaite, il perd aussi une partie de ses liens avec la Force. </p>\n<p><strong>Réglementation : </strong> la létadone est une substance réglementée sur presque toutes les planètes. Elle est parfois seulement interdite aux mineurs, mais la plupart du temps, elle est tout simplement illégale, en particulier dans les lieux où la santé est prise au sérieux.</p>\n<p>Page187 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Death Sticks (dose)",
-			"name": "Death Sticks (dose)",
-			"description": "[H3]Death Sticks[h3]\n      Please see page 185 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 185 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Bâton de la mort (dose)",
+			"description": "<p>Le bâton de la mort (ou plus scientifiquement létadone) est une création malsaine. Fabriquée à partir du champignon balo de la planète Balosar et gardée à l'état liquide, cette substance est distribuée dans des tubes rouges et jaunes caractéristiques. Bien qu'elle ne soit que légèrement hallucinogène, la substance porte bien son nom : son principe actif, l'Ixetal Cilona, est aussi accoutumant que nocif. Chaque dose rapproche de la mort et plonge un peu plus dans la dépendance. Les bâtons de la mort sont bien entendu illégaux partout. La plupart des contrebandiers préfèrent ne pas y toucher pour des 'raisons morales' et n'hésitent pas à se jeter sur la première course venue pour se défiler. Un bâton de la mort affaiblit aussi temporairement la connexion avec la Force, mais rares sont les consommateurs ou même les dealers à connaitre ce détail.</p>\n<p>A long terme, les bâtons de la mort ont des effets dévastateurs. Ils conduisent aux pires affres du manque et à la mort. Mais à moins que la campagne ne se déroule sur une décennie, ou qu'un des personnages ne soit déjà dépendant de puis plusieurs années, cela ne concerne en rien les joueurs. Certaines espèces sont plus vulnérables à l'Ixetal Cilona que d'autres : cela dit, en règle générale, la dépendance à la létadone réduit l'espérance de vie de moitié. A court terme, les effets de la drogue durent pendant une scène. Le personnage qui la consomme rajoute un dé d'infortune [SE] à tous ses jets, et si le MJ le souhaite, il perd aussi une partie de ses liens avec la Force. </p>\n<p><strong>Réglementation : </strong> la létadone est une substance réglementée sur presque toutes les planètes. Elle est parfois seulement interdite aux mineurs, mais la plupart du temps, elle est tout simplement illégale, en particulier dans les lieux où la santé est prise au sérieux.</p>\n<p>Page187 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Dejarik Table",
@@ -696,8 +696,8 @@
 		},
 		{
 			"id": "Disguise Kit",
-			"name": "Disguise Kit",
-			"description": "[H3]Disguise Kit[h3]\n      Please see page 178 of the Edge of the Empire Core Rulebook, page 194 of the Age of Rebellion Core Rulebook, or page 187 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 178 - Edge of the Empire Core Rulebook[h4][H4]Page 194 - Age of Rebellion Core Rulebook[h4][H4]Page 187 - Force and Destiny Core Rulebook[h4]"
+			"name": "Trousse de déguisement",
+			"description": "<p>Malgré (ou à cause de) leur apparence frappante, certains souhaitent parfois se rendre méconnaissables. C'est là qu'interviennent les trousses de déguisement. Elles sont remplies de maquillage, de postiches et de lentilles de couleurs. Quelques-unes parmi les plus sophistiquées renferment aussi de fausses empreintes et du camouflage ADN. D'autres comprennent de quoi se mêler à la foule des villes et se fondre dans la nature sauvage. Les trousses de déguisement ne manquent pas dans la galaxie. Après tout, il en faut bien pour toutes les espèces. Leur pris et leur contenu sont toutefois toujours les mêmes.</p>\n<p><strong>Modèles typiques : </strong>Aucun.</p>\n<p>Page179 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Dolina Ring Seeds",
@@ -851,8 +851,8 @@
 		},
 		{
 			"id": "Extra Reload",
-			"name": "Extra Reload",
-			"description": "[H3]Extra Reload[h3]\n      Please see page 181 of the Edge of the Empire Core Rulebook, page 197 of the Age of Rebellion Core Rulebook, or page 189 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 181 - Edge of the Empire Core Rulebook[h4][H4]Page 197 - Age of Rebellion Core Rulebook[h4][H4]Page 189 - Force and Destiny Core Rulebook[h4]<div>Allows character to ignore \"out of ammo\" [DE] results with ranged weapons </div>"
+			"name": "Munitions / Cellules Energétique",
+			"description": "<p>Tous les objets technologiquement avancés ont besoin d'énergie. La plupart possèdent des sources d'alimentation internes, mais il arrive que ces cellules s'épuisent. Les plus petites ont la forme d'un disque et prolongent l'autonomie des accessoires ; les plus grosses sont capables d'alimenter des blasters et autres objets à forte consommation d'énergie. Les munitions supplémentaires permettent d'ignorer un résultat [FA] provoquant une pénurie de munitions avec une arme à distance. Il faut cependant dépenser une Manoeuvre pour recharger et pouvoir reprendre le combat.</p>\n<p><strong>Modèles typiques : </strong> aucun.</p>\n<p>Page183 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Extra Reload (Model 38 Detonator Rounds)",
@@ -971,8 +971,8 @@
 		},
 		{
 			"id": "Fusion Lantern",
-			"name": "Fusion Lantern",
-			"description": "[H3]Fusion Lantern[h3]\n      Please see page 181 of the Edge of the Empire Core Rulebook, page 197 of the Age of Rebellion Core Rulebook, or page 189 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 181 - Edge of the Empire Core Rulebook[h4][H4]Page 197 - Age of Rebellion Core Rulebook[h4][H4]Page 189 - Force and Destiny Core Rulebook[h4]"
+			"name": "Lanterne à Fusion",
+			"description": "<p>Petites et compactes, les lanternes à fusion servent de source de lumière et de chaleur. Elles sont robustes, plutôt fiables et font souvent partie du matériel d'expédition et des plus gros de kit de survie. Elles peuvent aussi servir à recharger d'autres appareils comme des datapads, des petits détecteurs et des bâtons luisants.</p>\n<p><strong>modèles typiques : </strong> Lanterne à fusion Powermax de SoroSuub.</p>\n<p>Page182 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "G2 Repair Droid",
@@ -1016,18 +1016,18 @@
 		},
 		{
 			"id": "Glitterstim (100 dose cargo container)",
-			"name": "Glitterstim (100 dose cargo container)",
-			"description": "[H3]Glitterstim[h3]\n      Please see page 184 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 184 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Glitterstim (Caisse de 100 doses)",
+			"description": "<p>Le glitterstim est une épice rare et en voie de disparition. elle est raffinée à partir des tiles tissées par les araignées d'énergie de Kessel que les infortunés condamnés récoltent dans les profondeurs. Photoréactive, la substance ne doit être exposée à la lumière qu'au dernier moment. Elle est donc préparée avec le plus grand soin et passe des ténèbres de la mine à des conteneurs spéciaux avant d'être finalement vendue dans des sachets opaques. L'Empire a la mainmise sur toute la production et une cargaison détournée de glitterstim est inestimable. Mais encore faut-il trouver un contrebandier assez audacieux pour essayer d'en vendre.</p>\n<p>la valeur du glitterstim provient autant de sa rareté que de sa propriété unique dans la galaxie. La drogue provoque, comme toutes les autres, extase et dépendance, mais à en croire les rumeurs, elle aurait aussi un effet bien plus intéressant : elle donnerait accès à une forme de télépathie limitée. Pour certains, ces prétendues capacités ne sont que le fruit du délire des drogués, mais d'autres ne jurent que par la clairvoyance que confère la substance. Que ses pouvoirs soient réels ou non, le glitterstim a malheureusement un grave inconvénient : ses principes actifs brûlent lentement les nerfs et les voies synaptiques des centres de la vue et de l'équilibre. Bref, elle détruit le cerveau et fait perdre la raison</p>\n<p>Le glitterstim est une drogue hallucinogène à très forte dépendance. Lorsqu'un personnage en consomme, il rajoute trois dés de fortune [BO] à tous ses tests de Perception et de Vigilance jusqu'à la fin de la scène. De plus si le MJ le souhaite, il peut lui accorder des capacités de télépathie.</p>\n<p><strong>Réglementation : </strong> le glitterstim est illégal sur de nombreux mondes et les autorités impériales surveillent de très près son commerce.</p>\n<p>Page186 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Glitterstim (dose)",
 			"name": "Glitterstim (dose)",
-			"description": "[H3]Glitterstim[h3]\n      Please see page 184 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 184 - Edge of the Empire Core Rulebook[h4]"
+			"description": "<p>Le glitterstim est une épice rare et en voie de disparition. elle est raffinée à partir des tiles tissées par les araignées d'énergie de Kessel que les infortunés condamnés récoltent dans les profondeurs. Photoréactive, la substance ne doit être exposée à la lumière qu'au dernier moment. Elle est donc préparée avec le plus grand soin et passe des ténèbres de la mine à des conteneurs spéciaux avant d'être finalement vendue dans des sachets opaques. L'Empire a la mainmise sur toute la production et une cargaison détournée de glitterstim est inestimable. Mais encore faut-il trouver un contrebandier assez audacieux pour essayer d'en vendre.</p>\n<p>la valeur du glitterstim provient autant de sa rareté que de sa propriété unique dans la galaxie. La drogue provoque, comme toutes les autres, extase et dépendance, mais à en croire les rumeurs, elle aurait aussi un effet bien plus intéressant : elle donnerait accès à une forme de télépathie limitée. Pour certains, ces prétendues capacités ne sont que le fruit du délire des drogués, mais d'autres ne jurent que par la clairvoyance que confère la substance. Que ses pouvoirs soient réels ou non, le glitterstim a malheureusement un grave inconvénient : ses principes actifs brûlent lentement les nerfs et les voies synaptiques des centres de la vue et de l'équilibre. Bref, elle détruit le cerveau et fait perdre la raison</p>\n<p>Le glitterstim est une drogue hallucinogène à très forte dépendance. Lorsqu'un personnage en consomme, il rajoute trois dés de fortune [BO] à tous ses tests de Perception et de Vigilance jusqu'à la fin de la scène. De plus si le MJ le souhaite, il peut lui accorder des capacités de télépathie.</p>\n<p><strong>Réglementation : </strong> le glitterstim est illégal sur de nombreux mondes et les autorités impériales surveillent de très près son commerce.</p>\n<p>Page186 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Glow Rod",
-			"name": "Glow Rod",
-			"description": "[H3]Glow Rod[h3]\n      Please see page 181 of the Edge of the Empire Core Rulebook, page 197 of the Age of Rebellion Core Rulebook, or page 189 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 181 - Edge of the Empire Core Rulebook[h4][H4]Page 197 - Age of Rebellion Core Rulebook[h4][H4]Page 189 - Force and Destiny Core Rulebook[h4]"
+			"name": "Bâton Luisant",
+			"description": "<p>Ces petits objets éclairent la zone située dans leurs rayons directionnels. ils sont très communs et les modèles ne manquent pas. ils fonctionnent par combustion chimique ou grâce à des cellules d'énergie rechargeables.</p>\n<p><strong>Modèles typiques : </strong> aucun.</p>\n<p>Page182 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Gravity Belt",
@@ -1356,12 +1356,12 @@
 		},
 		{
 			"id": "Immune Implant",
-			"name": "Immune Implant",
-			"description": "[H3]Immune Implant[h3]\n      Please see page 174 of the Edge of the Empire Core Rulebook, or page 190 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 174 - Edge of the Empire Core Rulebook[h4][H4]Page 190 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Implants Immunologiques",
+			"description": "<p>Les personnages qui possèdent un implant immunologique gagnent <strong>+1 en Résistance</strong>.</p>\n<p>Devant la diversité des formes de vies et la vitesse et la vitesse à laquelle beaucoup voyagent dans toute la galaxie, c'est un vrai miracle qu'il y ait si peu d'épidémie. Pour se prémunir contre les maladies, la plupart des organiques recourrent à des traitements ou à des formes de médicaments anti-infectieux. Cela dit, rares sont les produits adaptés à tous les écosystèmes. C'est là qu'interviennent les implants immunologiques subdermiques. Mis au point par Athakam MedTech, ces bijoux cybernétiques règlent le problème de manière simple en diffusant des antiviraux à large spectre capables de neutraliser la plupart des agents pathogènes connus. Le Mod I, sans conteste la version la plus répandue, est de plus d'une efficacité longue durée.</p>\n<p><strong>Modèles typiques : </strong>Implant immunologique Mod I de Athakam MedTech.</p>\n<p>Page176 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Impact (100 dose cargo container)",
-			"name": "Impact (100 dose cargo container)",
+			"name": "Impact (Caisse de 100 doses)",
 			"description": "[H3]Impact (100 dose cargo container)[h3]\n      Please see page 50 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 50 - Fly Casual[h4]<div>Upgrade the ability of any Agility-based checks until the end of the encounter.  After encounter, suffer [SE] to any Agility-, Cunning-, or Intellect-based checks for the remainder of session. </div>"
 		},
 		{
@@ -1381,8 +1381,8 @@
 		},
 		{
 			"id": "Implant Armor",
-			"name": "Implant Armor",
-			"description": "[H3]Implant Armor[h3]\n      Please see page 174 of the Edge of the Empire Core Rulebook, or page 190 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 174 - Edge of the Empire Core Rulebook[h4][H4]Page 190 - Age of Rebellion Core Rulebook[h4]<div>Increase Soak Mod - Increases Soak value by 1 </div>"
+			"name": "Armure Implantée",
+			"description": "<p>Les armures implantées confèrent <strong>+1 en Encaissement</strong>.</p>\n<p>Enième création de la TaggeCo et également disponible chez d'autres consortiums commerciaux, les armures implantées servent quand des protections sont nécessaires, mais qu'il ne faut pas froisserses partenaires en affaires. Une fois glissées sous la peau, ces fines plaques sont capables d'absorber le feu ennemi et de protéger les organes vitaux.</p>\n<p><strong>Modèles typiques </strong>: Armure implantée TaggeCo Mod V, Implant 'Duraskin' de Biotech</p>\n<p>Page175 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Implanted Cyberjack",
@@ -1457,11 +1457,11 @@
 		{
 			"id": "Jet Pack",
 			"name": "Jet Pack",
-			"description": "[H3]Jet Pack[h3]\n      Please see page 181 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 181 - Edge of the Empire Core Rulebook[h4]"
+			"description": "<p>Les jet packs sont les outils idéaux pour manoeuvrer rapidement et lancer des attaques surprises. Ce sont de curieux assemblages de propulseurs d'appoint et de système antigravité permettant de voler durant de courtes périodes. Leurs désavantages résident dans leur poids, leur encombrement, leur manque d'autonomie et le talent nécessaire pour s'en servir sans risque.</p>\n<p>Pour se propulser, le fameux modèle Z-6 utilise des turbines à air comprimé couplées à des gyrostabilisateurs autoalimentés. Son utilisateur le dirige grâce à des micropropulseurs cirectionnels, une interface vocale et un dispositif de poignet.</p>\n<p>Les jet packs sont considérés comme des appareils atmosphériques. ils sont de gabarit 1, disposent d'une vitesse de 2, d'une maniabilité de 0 et d'un seuil de stress mécanique de 3. Il faut posséder la compétence de pilotage (planétaire) pour pouvoir les utiliser.</p>\n<p><strong>Modèles typiques : </strong> Jet pack Z-6 de Mitrinomon.</p>\n<p>Page183 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Ji Rikknit (100 Dose Cargo Container)",
-			"name": "Ji Rikknit (100 Dose Cargo Container)",
+			"name": "Ji Rikknit (Caisse de 100 doses)",
 			"description": "[H3]Ji Rikknit (100 Dose Cargo Container)[h3]\n      Please see page 103 of the Suns of Fortune Sourcebook for details.[P][H3]Sources:[h3][H4]Page 103 - Suns of Fortune[h4]"
 		},
 		{
@@ -1536,13 +1536,13 @@
 		},
 		{
 			"id": "Lesai (20 dose enviro-sealed cargo pod)",
-			"name": "Lesai (20 dose enviro-sealed cargo pod)",
-			"description": "[H3]Lesai[h3]\n      Please see page 184 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 184 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Lesai (Pack de 20 doses enviro-scellées)",
+			"description": "<p>La lesai n'est pas minée mais récoltée. Elle se développe dans une moisissure que l'on ne trouve que sur certains lézards des planètes Zebitrope IV et VIII. D'un violet caractéristique, la substance s'applique directement sous la mâchoire et elle supprime le besoin de dormir chez la plupart des espèces conscientes. Les marques laissées par le champignon sont difficiles à cacher, mais il a un autre effet secondaire plus gênant. Presque tout le monde en devient très rapidement dépendant, et il n'est pas rare que sans leur dose, les accros s'effondrent et ne reviennent à eux qu'après plusieurs jours.</p>\n<p>Un personnage qui utilise la lesai au moins une fois toutes les 24h n'a plus besoin de dormir. Il ne subit plus ni stress ni malus à cause du manque de sommeil et peut se débarrasser de tout son stress (comme après une bonne nuit de repos) chaque fois qu'il passe 8h au calme, loin des activités éprouvantes (comme les combats, les efforts de concentration et les disputes). En dehors des étranges taches violettes, la lesai n'a aucun effet apparent sur ceux qui s'en servent. Lorsque la dernière prise remonte à plus de 24h, les personnages dépendants ont de plus en plus de mal à rester réveiller jusqu'à ce qu'ils se reposent (ou reprennent une dose). Selon certains officiels impériaux, la lesai transformerait ceux qui la consomment en monstres dénués de sentiments et de pitié. C'est au MJ de décider si cette rumeur est vraie ou non, et il est bien sur libre de ne rien dire de son choix aux joueurs.</p>\n<p><strong>Réglementation : la lesai est illégale sur la plupart des planètes bénéficiant d'une importante présence impériale.</strong> aucun.</p>\n<p>Page187 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Lesai (dose)",
 			"name": "Lesai (dose)",
-			"description": "[H3]Lesai[h3]\n      Please see page 184 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 184 - Edge of the Empire Core Rulebook[h4]"
+			"description": "<p>La lesai n'est pas minée mais récoltée. Elle se développe dans une moisissure que l'on ne trouve que sur certains lézards des planètes Zebitrope IV et VIII. D'un violet caractéristique, la substance s'applique directement sous la mâchoire et elle supprime le besoin de dormir chez la plupart des espèces conscientes. Les marques laissées par le champignon sont difficiles à cacher, mais il a un autre effet secondaire plus gênant. Presque tout le monde en devient très rapidement dépendant, et il n'est pas rare que sans leur dose, les accros s'effondrent et ne reviennent à eux qu'après plusieurs jours.</p>\n<p>Un personnage qui utilise la lesai au moins une fois toutes les 24h n'a plus besoin de dormir. Il ne subit plus ni stress ni malus à cause du manque de sommeil et peut se débarrasser de tout son stress (comme après une bonne nuit de repos) chaque fois qu'il passe 8h au calme, loin des activités éprouvantes (comme les combats, les efforts de concentration et les disputes). En dehors des étranges taches violettes, la lesai n'a aucun effet apparent sur ceux qui s'en servent. Lorsque la dernière prise remonte à plus de 24h, les personnages dépendants ont de plus en plus de mal à rester réveiller jusqu'à ce qu'ils se reposent (ou reprennent une dose). Selon certains officiels impériaux, la lesai transformerait ceux qui la consomment en monstres dénués de sentiments et de pitié. C'est au MJ de décider si cette rumeur est vraie ou non, et il est bien sur libre de ne rien dire de son choix aux joueurs.</p>\n<p><strong>Réglementation : la lesai est illégale sur la plupart des planètes bénéficiant d'une importante présence impériale.</strong> aucun.</p>\n<p>Page187 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Load-Bearing Gear",
@@ -1791,7 +1791,7 @@
 		},
 		{
 			"id": "Muon Gold (100 dose cargo container)",
-			"name": "Muon Gold (100 dose cargo container)",
+			"name": "Muon Gold (Caisse de 100 doses)",
 			"description": "[H3]Muon Gold (100 dose cargo container)[h3]\n      Please see page 51 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 51 - Fly Casual[h4]<div>Add [BO] to all Cunning- and Presence-based checks until end of encounter. </div>"
 		},
 		{
@@ -2071,8 +2071,8 @@
 		},
 		{
 			"id": "Ration Pack",
-			"name": "Ration Pack",
-			"description": "[H3]Ration Pack[h3]\n      Please see page 179 of the Edge of the Empire Core Rulebook, page 196 of the Age of Rebellion Core Rulebook, or page 188 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 179 - Edge of the Empire Core Rulebook[h4][H4]Page 196 - Age of Rebellion Core Rulebook[h4][H4]Page 188 - Force and Destiny Core Rulebook[h4]"
+			"name": "Rations",
+			"description": "<p>Bien qu'elles soient aussi fades et insipides que l'existence d'un stormtrooper, les rations sont souvent au menu sur les petits vaisseaux. Elles y remplacent la nourriture de bord ou servent du moins à la compléter. Une fois légèrement réhydratée, chaque ration auto-chauffante équivaut à un repas complet. Tous les vaisseaux sans exception en stockent pour les cas d'urgence, comme les atterrissages forcés et les pannes de moteurs. Qu'elles aient été fabriquées pour l'armée ipériale ou pas, elles partagent toutes la même composition standard. Les rations sont bien sûr à usage unique.</p>\n<p><strong>modèles typiques : </strong> Packs de rations de l'armée impériale</p>\n<p>Page180 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Recon Remote",
@@ -2096,13 +2096,13 @@
 		},
 		{
 			"id": "Repli-Limb Prosthetic (limb)",
-			"name": "Repli-Limb Prosthetic (limb)",
-			"description": "[H3]Repli-Limb Prosthetic (limb)[h3]\n      Please see page 174 of the Edge of the Empire Core Rulebook, page 190 of the Age of Rebellion Core Rulebook, or page 184 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 174 - Edge of the Empire Core Rulebook[h4][H4]Page 190 - Age of Rebellion Core Rulebook[h4][H4]Page 184 - Force and Destiny Core Rulebook[h4]"
+			"name": "Prothèse réplique (membre)",
+			"description": "<p>Avec la violence qui règne partout dans la galaxie et la puissance des armes qu'on y trouve, rares sont ceux qui parviennent à se sortir indemnes d'un désaccord. Perdants comme vainqueurs y laissent souvent des doigts, des jambes, un organe interne et même parfois la vue. Le clonage et les régénérateurs de tissus peuvent toujours soigner les blessures, mais ces technologies sont souvent illégales et presque toujours hors de prix. La plupart des mutilés finissent donc par se rabattre sur la cybernétique.</p>\n<p>Les prothèses répliques de BioTech comptent parmi les plus répandues. Elles sont conçues pour remplacer un membre ou un organe et recouvertes de chair synthétique afin de ne rien laisser paraître de leur véritable nature.</p>\n<p>Les membres et les organes vitaux (y compris les oreilles, les yeux, le coeur, le foie et les poumons) peuvent tous être remplacés par leurs équivalents synthétiques. Ces prothèses ne confèrent ni bonus ni amélioration, mais redonnent aux personnages leurs fonctions physiques et vitales normales. elles sont divisées en deux gammes de prix : une pour les membres de remplacement et une pour les organes. Cela dit, le MJ est libre de modifier les tarifs selon les besoins de l'histoire.</p>\n<p><strong>Modèles typiques : </strong>Prothèses répliques des industries BioTech.</p>\n<p>Page176 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Repli-Limb Prosthetic (organ)",
-			"name": "Repli-Limb Prosthetic (organ)",
-			"description": "[H3]Repli-Limb Prosthetic (organ)[h3]\n      Please see page 174 of the Edge of the Empire Core Rulebook, page 190 of the Age of Rebellion Core Rulebook, or page 184 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 174 - Edge of the Empire Core Rulebook[h4][H4]Page 190 - Age of Rebellion Core Rulebook[h4][H4]Page 184 - Force and Destiny Core Rulebook[h4]"
+			"name": "Prothèse réplique (organe)",
+			"description": "<p>Avec la violence qui règne partout dans la galaxie et la puissance des armes qu'on y trouve, rares sont ceux qui parviennent à se sortir indemnes d'un désaccord. Perdants comme vainqueurs y laissent souvent des doigts, des jambes, un organe interne et même parfois la vue. Le clonage et les régénérateurs de tissus peuvent toujours soigner les blessures, mais ces technologies sont souvent illégales et presque toujours hors de prix. La plupart des mutilés finissent donc par se rabattre sur la cybernétique.</p>\n<p>Les prothèses répliques de BioTech comptent parmi les plus répandues. Elles sont conçues pour remplacer un membre ou un organe et recouvertes de chair synthétique afin de ne rien laisser paraître de leur véritable nature.</p>\n<p>Les membres et les organes vitaux (y compris les oreilles, les yeux, le coeur, le foie et les poumons) peuvent tous être remplacés par leurs équivalents synthétiques. Ces prothèses ne confèrent ni bonus ni amélioration, mais redonnent aux personnages leurs fonctions physiques et vitales normales. elles sont divisées en deux gammes de prix : une pour les membres de remplacement et une pour les organes. Cela dit, le MJ est libre de modifier les tarifs selon les besoins de l'histoire.</p>\n<p><strong>Modèles typiques : </strong>Prothèses répliques des industries BioTech.</p>\n<p>Page176 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Republic Insignia",
@@ -2142,7 +2142,7 @@
 		{
 			"id": "Restraining Bolt",
 			"name": "Restraining Bolt",
-			"description": "[H3]Restraining Bolt[h3]\n      Please see page 178 of the Edge of the Empire Core Rulebook, page 194 of the Age of Rebellion Core Rulebook, or page 187 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 178 - Edge of the Empire Core Rulebook[h4][H4]Page 194 - Age of Rebellion Core Rulebook[h4][H4]Page 187 - Force and Destiny Core Rulebook[h4]<div>PC droids may make a [B]Daunting ([DI][DI][DI][DI]) Discipline check[b] to ignore effects of the restraining bolt </div>"
+			"description": "<p>Les bouchons d'entrave jouent le même rôle à l'égard des droïdes que les menottes avec les êtres organiques. Une fois fixés, ils prennent le contrôle de leurs programmes. Dans leurs variantes les plus simples, ils ordonnent tout simplement aux divers systèmes de se couper. Mais dans l'absolu, ils peuvent permettre de diriger un droïde à distance si on le souhaite. Même si des millions de compagnies fabriquent des bouchons d'entraves, les plus célèbres restent ceux d'Industrial Automaton.</p>\n<p>Peu de droïdes sont capables de résister à un bouchon d'entrave une fois qu'on l'a fixé (ce qui ne nécessite que quelques secondes et un soudeur portable). Toutefois, les PJ droïdes sont bien sûr d'une autre trempe. Ils peuvent donc effectuer <strong>un test de Sang-Froid Intimidant ([DI][DI][DI][DI])</strong> pour passer outre le dispositif et continuer à agir normalement. Si le MJ l'autorise, ils peuvent retenter le test plusieurs fois.</p>\n<p><strong>modèles typiques : </strong>aucun.</p>\n<p>Page180 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Retinal Implant",
@@ -2386,8 +2386,8 @@
 		},
 		{
 			"id": "Space Suit",
-			"name": "Space Suit",
-			"description": "[H3]Space Suit[h3]\n      Please see page 179 of the Edge of the Empire Core Rulebook, page 196 of the Age of Rebellion Core Rulebook, or page 188 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 179 - Edge of the Empire Core Rulebook[h4][H4]Page 196 - Age of Rebellion Core Rulebook[h4][H4]Page 188 - Force and Destiny Core Rulebook[h4]"
+			"name": "Combinaison Spatiale",
+			"description": "<p>Les combinaisons spatiales sont vitales si l'on souhaite s'aventurer dans l'espace. Elles permettent de réparer les dégâts sur la coque en cours de voyage et de pénétrer dans des atmosphères inconnues sans prendre de risques. La combinaison standard X de la TaggeCo (qui est en fait fabriquée par des dizaines de sous-traitants sur Kuat, Fondor, Bilbringi et Corellia) est la plus répandue dans les vaisseaux et les stations orbitales. Elle n'a pas énormément d'autonomie, mais reste parfaite pour les brèves sorties dans l'espace. Elle est équipée de micropropulseurs d'appoint, de bottes magnétiques, d'un comlink et de poches à micro-outils. Comme presque toutes les combinaisons, elle s'accompagne aussi d'une trousse de réparation qui permet de sceller les déchirures et les fuites.</p>\n<p><strong>modèles typiques : </strong> Combinaison spatiale TaggeCo standard X.</p>\n<p>Page181 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Spacer's Duffel",
@@ -2546,23 +2546,23 @@
 		},
 		{
 			"id": "Synthetic Standard Anesthetic",
-			"name": "Synthetic Standard Anesthetic",
-			"description": "[H3]Synthetic Standard Anesthetic[h3]\n      Please see page 172 of the Edge of the Empire Core Rulebook, page 188 of the Age of Rebellion Core Rulebook, or page 181 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 172 - Edge of the Empire Core Rulebook[h4][H4]Page 188 - Age of Rebellion Core Rulebook[h4][H4]Page 181 - Force and Destiny Core Rulebook[h4]<div>[B]Average ([DI][DI])[b] (1 dose) or [B]Hard ([DI][DI][DI])[b] (2+ doses) [B]Resilience Check[b].  Fail: 5 strain.  [THREAT] or [THREAT][THREAT]: no free maneuver, [THREAT][THREAT][THREAT] or more: Staggered next turn, extra rounds per [DESPAIR] </div>"
+			"name": "Anésthésique de Synthèse Standard",
+			"description": "<p>Utilisés sur des centaines de planètes à des fins médicales, les anesthésiques de synthèse servent à faire perdre connaissance à un individu. De fait, ils ont toujours beaucoup intéressé les criminels. Ce type de poison peut être ingéré, administré par voies respiratoires ou injecté (grâce à une seringue ou un dard). Pour résister à une dose standard, il faut réussir un <strong>test de difficulté Moyenne</strong> ([DI][DI]). Lorsque la quantité reçue est plus importante, le test devient <strong>Difficile</strong> ([DI][DI][DI]). En cas d'échec, la victime subit 5 points de stress. Si elle obtient une ou deux menaces [TH] lors du test, elle perd en plus le bénéfice de sa manoeuvre gratuite (mais peut toujours effectuer deux manoeuvres grâce aux points de stress) ; si elle obtient trois menaces ou plus [TH][TH][TH], elle est étourdie durant son prochain tour. Pour finir, en dépensant un désastre [DE] le MJ peut obliger le personnage à effectuer un nouveau test de résistance au tour suivant, car le poison est encore présent dans son corps.<p>\n</p> <br>Page 173 Aux Confins de l'Empire</br></p>"
 		},
 		{
 			"id": "Synthetic Standard Neuroparalytic",
-			"name": "Synthetic Standard Neuroparalytic",
-			"description": "[H3]Synthetic Standard Neuroparalytic[h3]\n      Please see page 172 of the Edge of the Empire Core Rulebook, page 188 of the Age of Rebellion Core Rulebook, or page 181 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 172 - Edge of the Empire Core Rulebook[h4][H4]Page 188 - Age of Rebellion Core Rulebook[h4][H4]Page 181 - Force and Destiny Core Rulebook[h4]<div>[B]Hard ([DI][DI][DI]) Resilience Check[b].  Fail: Stuns for 3 rounds, plus 1 strain per [THREAT], extra rounds per [DESPAIR] </div>"
+			"name": "Neuroparalysant de Synthèse Standard",
+			"description": "<p>Les substances capables de paralyser leur cible sans nuire aux fonctions cognitives sont difficiles à synthétiser et à administrer. Elles existent cependant. Ce type de poison peut seulement être injecté (grâce à une seringue ou un dard). Quelle que soit l'importance de la dose, il faut réussir un test Difficile ([DI][DI][DI]) pour y résister. En cas d'échec, la victime du poison est immobilisée pendant 3 rounds et reçoit un point de stress par menace [TH] obtenue. De plus, en dépensant un désastre [DE] le MJ peut obliger le personnage à effectuer un nouveau test de Résistance au tour suivant, car le poison est encore présent dans son corps.<p>\n</p> <br>Page 174 Aux Confins de l'Empire</br></p>"
 		},
 		{
 			"id": "Synthetic Standard Neurotoxin",
-			"name": "Synthetic Standard Neurotoxin",
-			"description": "[H3]Synthetic Standard Neurotoxin[h3]\n      Please see page 172 of the Edge of the Empire Core Rulebook, page 188 of the Age of Rebellion Core Rulebook, or page 181 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 172 - Edge of the Empire Core Rulebook[h4][H4]Page 188 - Age of Rebellion Core Rulebook[h4][H4]Page 181 - Force and Destiny Core Rulebook[h4]<div>[B]Average ([DI][DI])[b] (1 dose) or [B]Hard ([DI][DI][DI])[b] (2 doses) [B]Resilience Check[b].  Fail: 5 wound plus 1 strain per [THREAT], extra rounds per [DESPAIR] </div>"
+			"name": "Neurotoxine de Synthèse Standard",
+			"description": "<p>Présentes sur des centaines de planètes (et presque toujours illégales), les neurotoxines de synthèse s'attaquent aux réactions biochimiques des métabolismes organiques. elles leur sont même parfois fatales. Ce type de poison peut être intégré, administré par voie respiratoire ou injecté (grâce à une seringue ou un dard). Pour résister à une dose standard, il faut réussir un test de difficulté Moyenne ([DI][DI]). Lorsque la quantité reçue est plus importante, le test devient Difficile ([DI][DI][DI]). En cas d'échec, la victime reçoit 5 blessures. Pour chaque menace [TH] obtenue, elle subit également 1 point de stress tandis que son organisme tente de combattre la substance. De plus, en dépensant un désastre [DE] le MJ peut obliger le personnage à effectuer un nouveau test de Résistance au tour suivant, car le poison est encore présent dans son corps. <p>\n</p> <br>Page 173 Aux Confins de l'Empire</br></p>"
 		},
 		{
 			"id": "Synthskin",
-			"name": "Synthskin",
-			"description": "[H3]Synthskin/Synthflesh[h3]\n      Please see page 177 of the Edge of the Empire Core Rulebook, page 193 of the Age of Rebellion Core Rulebook, or page 186 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 177 - Edge of the Empire Core Rulebook[h4][H4]Page 193 - Age of Rebellion Core Rulebook[h4][H4]Page 186 - Force and Destiny Core Rulebook[h4]"
+			"name": "Peau et chair synthétique",
+			"description": "<p>Ces matières de synthèse servent à la fois à soigner les blessures et à recouvrir les membres cybernétiques. La peau synthétique est conçue pour se lier avec la vraie et sert surtout d'aide à la guérison. A l'inverse, la chair synthétique permet de recouvrir entièrement des pièces mécaniques et à leur donner une apparence organique. Il est même possible de l'appliquer sur des droïdes. Comme les stimpacks, ces tissus de synthèses sont fabriqués par de nombreuses compagnies, bien que ce soit encore BioTech qui tienne le haut du pavé.</p>\n<p>Les applicateurs de peau synthétique peuvent servir lors des premiers secours, en cas de coupures et de contusions. Ils sont à usage unique.</p>\n<p><strong>Modèles typiques : </strong>aucun.</p>\n<p>Page176 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "T-Series Tactical Droid",
@@ -2621,8 +2621,8 @@
 		},
 		{
 			"id": "Tent",
-			"name": "Tent",
-			"description": "[H3]Tent[h3]\n      Please see page 180 of the Edge of the Empire Core Rulebook, page 196 of the Age of Rebellion Core Rulebook, or page 188 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 180 - Edge of the Empire Core Rulebook[h4][H4]Page 196 - Age of Rebellion Core Rulebook[h4][H4]Page 188 - Force and Destiny Core Rulebook[h4]"
+			"name": "Tente",
+			"description": "<p>Les tentes complètent les plus gros kits de survies. Elles offrent une protection contre les éléments et peuvent abriter une personne ou plus. En cas de besoin, il est facile d'en improviser une : n'importe quel bout d'étoffe ou presque fait l'affaire. Bien sûr, ces abris de fortune ne rivalisent en rien avec les modèles à mémoire de forme en durasoie qui se déploient instantanément.</p>\n<p><strong>modèles typiques : </strong>aucun.</p>\n<p>Page181 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Thalassian Security Collar",
@@ -2631,8 +2631,8 @@
 		},
 		{
 			"id": "Thermal Cloak",
-			"name": "Thermal Cloak",
-			"description": "[H3]Thermal Cloak[h3]\n      Please see page 180 of the Edge of the Empire Core Rulebook, page 196 of the Age of Rebellion Core Rulebook, or page 188 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 180 - Edge of the Empire Core Rulebook[h4][H4]Page 196 - Age of Rebellion Core Rulebook[h4][H4]Page 188 - Force and Destiny Core Rulebook[h4]<div>Removes up to [SETBACK][SETBACK] from any checks made to handle extreme heat or cold. </div>"
+			"name": "Couverture Thermique",
+			"description": "<p>Indispensable pour les espèces qui craignent les températures extrême, les couvertures thermiques servent aussi bien de manteau en journée que de couverture la nuit ou même d'abri. En fonction de l'avancement technologique de ceux qui les ont fabriquées, elles vont de la simple couverture en tissu aux modèles en fibres synthétiques ultrafines qui tiennent en boule dans la poche. Toutes protègent du froid, mais seules les plus avancées sont recouvertes de matériaux capables de réfléchir et de dissiper la chaleur excessive.</p>\n<p>Les couvertures thermiques permettent d'ignorer jusqu'à deux dés d'infortunes [SE][SE] imposés par de mauvaises conditions climatiques.</p>\n<p><strong>modèles typiques : </strong> aucun.</p>\n<p>Page181 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Thermal Cutter",
@@ -2901,13 +2901,13 @@
 		},
 		{
 			"id": "Yarrock (100 dose cargo container)",
-			"name": "Yarrock (100 dose cargo container)",
-			"description": "[H3]Yarrock[h3]\n      Please see page 185 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 185 - Edge of the Empire Core Rulebook[h4]"
+			"name": "Yarrock (Caisse de 100 doses)",
+			"description": "<p>Depuis des temps immémoriaux, les chamans d'Iridonia préparent le yarrock, l'épice qui confère puissance et sang-froid aux guerriers. Des drogues identiques existent ailleurs dans la galaxie, mais aucune n'inspire autant de respect et depeur aux vieux guerriers que les boulettes noires de yarrock. Sous l'effet de l'épice, un combattant devient impitoyable et capable des plus grandes prouesses physiques. Malheureusement, il y a un revers à toutes les médailles. Dans le cas du yarrock, les effets s'inversent avec le temps, chaque pas devenant alors une épreuve jusqu'à ce que la substance ait enfin été métabolisée ou que le guerrier se soit effondré, épuisé. Certains racontent que la drogue s'empare littéralement de l'âme et l'entraîne peu à peu dans les ténèbres, mais les données scientifiques manquent sur ce sujet.</p>\n<p>Les effets du yarrock durent le temps d'une scène. Un personnage qui en prend ne peut plus céder à la peur et n'a plus à effectuer de test pour lui résister ; on considère qu'il les réussit automatiquement. Cela dit, une fois que la drogue ne fait plus effet, il doit ajouter un dé d'infortune [SE] à tous ses tests liés à la Présence et à la Volonté jusqu'à la fin de la session.</p>\n<p><strong>Réglementation : </strong> le yarrock est si rare que peu de gouvernements se sont donné la peine de le réglementer. De toute manière, on ne le trouve qu'au marché noir.</p>\n<p>Page187 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Yarrock (dose)",
 			"name": "Yarrock (dose)",
-			"description": "[H3]Yarrock[h3]\n      Please see page 185 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 185 - Edge of the Empire Core Rulebook[h4]"
+			"description": "<p>Depuis des temps immémoriaux, les chamans d'Iridonia préparent le yarrock, l'épice qui confère puissance et sang-froid aux guerriers. Des drogues identiques existent ailleurs dans la galaxie, mais aucune n'inspire autant de respect et depeur aux vieux guerriers que les boulettes noires de yarrock. Sous l'effet de l'épice, un combattant devient impitoyable et capable des plus grandes prouesses physiques. Malheureusement, il y a un revers à toutes les médailles. Dans le cas du yarrock, les effets s'inversent avec le temps, chaque pas devenant alors une épreuve jusqu'à ce que la substance ait enfin été métabolisée ou que le guerrier se soit effondré, épuisé. Certains racontent que la drogue s'empare littéralement de l'âme et l'entraîne peu à peu dans les ténèbres, mais les données scientifiques manquent sur ce sujet.</p>\n<p>Les effets du yarrock durent le temps d'une scène. Un personnage qui en prend ne peut plus céder à la peur et n'a plus à effectuer de test pour lui résister ; on considère qu'il les réussit automatiquement. Cela dit, une fois que la drogue ne fait plus effet, il doit ajouter un dé d'infortune [SE] à tous ses tests liés à la Présence et à la Volonté jusqu'à la fin de la session.</p>\n<p><strong>Réglementation : </strong> le yarrock est si rare que peu de gouvernements se sont donné la peine de le réglementer. De toute manière, on ne le trouve qu'au marché noir.</p>\n<p>Page187 Aux Confins de l'Empire</p>"
 		}
 	]
 }
