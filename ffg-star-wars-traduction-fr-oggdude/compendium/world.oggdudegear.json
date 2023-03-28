@@ -611,8 +611,8 @@
 		},
 		{
 			"id": "Data Breaker",
-			"name": "Data Breaker",
-			"description": "[H3]Outlaw Tech Data Breaker[h3]\n      Please see page 186 of the Edge of the Empire Core Rulebook for details.[P][H3]Sources:[h3][H4]Page 186 - Edge of the Empire Core Rulebook[h4]<div>Adds [BOOST][BOOST] to any Computers check made to slice computers </div>"
+			"name": "Briseur de Codes Bandittech",
+			"description": "<p>Les briseurs de codes sont utilisés par presque tous les slicers. Contrairement à leur comparses droïdes aux programmes capables de compiler de larges séquences de données, les 'organiques' n'ont pas de telles capacités innées. Pour forcer les codes d'accès, ils se rabattent donc sur les briseurs, et ce n'est qu'une fois à l'intérieur des systèmes qu'ils laissent leurs talents s'exprimer. Ces appareils sont aussi capables d'enregistrer des flux de données et peuvent donc extraire des quantités d'informations d'un terminal non-protégé en quelques secondes. Les slicers droïdes ont la possibilité de faire installer un briseur de code (ou un prog équivalent) au coeur de leur système internes. Dans ce cas, le prix est le même que pour la version externe. Les personnages qui utilisent un briseur de codes rajoutent [BO][BO] à leurs tests de piratage (à la place du dé unique ajouté pour avoir 'juste' l'outil approprié).</p>\n<p><strong>Réglementation : </strong> L'empire et de nombreux gouvernement planétaires réglementent de près la technologie de piratage, et en règle générale, seuls les militaires et les forces de l'ordre ont le droit de s'en servir.</p>\n<p>Page188 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Data Dead Drop",
@@ -772,7 +772,7 @@
 		{
 			"id": "Electronic Lock Breaker",
 			"name": "Passe-partouts Electroniques",
-			"description": "La galaxie est remplie d'objets précieux, de marchandises de prix et de systèmes pour les protéger. Mais comme le savent si bien les voleurs, plus la sécurité importante, plus la valeur du butin est grande... et plus il est tentant de s'en emparer. Loin des mécaniques d'autrefois, la plupart des verrous fonctionnent depuis longtemps grâce à des circuits très complexes. Les passe-partouts électroniques, comme ceux que fabrique BanditTech (un consortium autoproclamé de slicers et de criminel high-tech), sont des outils d'intrusion capables de déjouer les systèmes de fermeture et les verrous électroniques standards. Les meilleurs modèles sont si performants que même entre les mains d'un novice, ils peuvent presque tout ouvrir."
+			"description": "La galaxie est remplie d'objets précieux, de marchandises de prix et de systèmes pour les protéger. Mais comme le savent si bien les voleurs, plus la sécurité importante, plus la valeur du butin est grande... et plus il est tentant de s'en emparer. Loin des mécaniques d'autrefois, la plupart des verrous fonctionnent depuis longtemps grâce à des circuits très complexes. Les passe-partouts électroniques, comme ceux que fabrique Bandittech (un consortium autoproclamé de slicers et de criminel high-tech), sont des outils d'intrusion capables de déjouer les systèmes de fermeture et les verrous électroniques standards. Les meilleurs modèles sont si performants que même entre les mains d'un novice, ils peuvent presque tout ouvrir."
 		},
 		{
 			"id": "Elysium Atmospheric Processor",
@@ -936,8 +936,8 @@
 		},
 		{
 			"id": "Flesh Camouflage Set",
-			"name": "Flesh Camouflage Set",
-			"description": "[H3]Flesh Camouflage Set[h3]\n      Please see page 186 of the Edge of the Empire Core Rulebook, or page 193 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 186 - Edge of the Empire Core Rulebook[h4][H4]Page 193 - Age of Rebellion Core Rulebook[h4]<div>Difficulty of checks to ascertain user's identity set to [B]Formidible ([DI][DI][DI][DI][DI])[b] </div>"
+			"name": "Trousse de camouflage Techno-organique Bandittech",
+			"description": "<p>Les trousses de camouflage techno-organique sont essentiellement des trousses de déguisement avancées. Elles permettent à ceux qui les utilisent de modifier drastiquement leur apparence et même tromper les bioscanners. En pratique, elles dissimulent le code génétique et le remplacent par celui d'un autre, quelqu'un qui s'est montré assez généreux pour 'donner' un échantillon. Le camouflage techno-organique est si efficace que tous les tests effectués pour deviner la véritable identité du personnage qui y a recours sont de difficulté [DI][DI][DI][DI][DI].</p>\n<p><strong>Réglementation : </strong> Pris un par un, les éléments de la trousse sont tout à fait légaux, mais l'Empire et la plupart des gouvernements ont tendance à se méfier de ceux qui transportent de quoi dissimuler leur identité jusqu'au niveau génétique.</p>\n<p>Page188 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Foamcast",
@@ -1916,8 +1916,8 @@
 		},
 		{
 			"id": "Personal Stealth Field",
-			"name": "Personal Stealth Field",
-			"description": "[H3]Personal Stealth Field[h3]\n      Please see page 186 of the Edge of the Empire Core Rulebook, or page 195 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 186 - Edge of the Empire Core Rulebook[h4][H4]Page 195 - Age of Rebellion Core Rulebook[h4]<div>Cannot be seen visually.  All other means of detecting location use [B]Formidible ([DI][DI][DI][DI][DI]) difficulty[b]. </div>"
+			"name": "Système d'occultation personnel Bandittech",
+			"description": "<p>Comme leur nom le laisse deviner, les systèmes d'occultation personnels génèrent des champs d'invisibilité individuels. Ils permettent de se soustraire à la vue des organiques et des droïdes qui ne possèdent pas d'outils optiques avancés. D'un bout à l'autre de la galaxie, des organisations militaires ont essayé de recréer cette technologie, mais la plupart des systèmes d'occultation personnels sont aujourd'hui des reliques de jadis.</p>\n<p>Bien qu'ils soient d'une efficacité edoutable, ces dispositifs ont un défaut de taille : leur effet se dissipe facilement. De l'avis des scientifiques, cette fragilité est due au processus de miniaturisation d'une technologie à l'origine conçue pour les vaisseaux... ou vient tout simplement du fait que ces appareils sont des antiquités. Quoi qu'il en soit, ces équipements sont rares et leur manque de fiabilité légendaire incite leurs propriétaires à la prudence.</p>\n<p>Lorsqu'un personnage utilise un système d'occultation personnel, il est quasiment indétectable par la vue. De plus, tous les tests pour le localiser d'une autre façon (grâce au bruit, à l'odeur, ou aux traces qu'il laisserait dans l'environnement) sont de difficulté [DI][DI][DI][DI][DI]. </p>\n<p><strong>Réglementation : </strong> les systèmes d'occultation personnels sont si rares que peu de gouvernements se sont donné la peine de les interdire. Certains sont de vraies reliques, d'autres des dispositifs militaires volés. En théorie, c'est donc leur origine qui devrait dicter leur égalité. Mais en pratique, les forces de l'ordre ne s'encombrent pas de ces distinctions quand un crime a été commis.</p>\n<p>Page188 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Personal Transponder",
