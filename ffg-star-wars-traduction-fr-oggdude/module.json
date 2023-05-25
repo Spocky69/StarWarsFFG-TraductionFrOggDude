@@ -28,8 +28,7 @@
   "packs": [],
   "languages": [{
     "lang": "fr",
-    "name": "Français",
-    "path": "lang/fr.json"
+    "name": "Français"
   }],
   "socket": false,
   "coreTranslation": false,
