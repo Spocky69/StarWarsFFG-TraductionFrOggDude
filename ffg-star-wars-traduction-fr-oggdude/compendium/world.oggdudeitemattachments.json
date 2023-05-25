@@ -126,8 +126,8 @@
 		},
 		{
 			"id": "Augmented Spin Barrel",
-			"name": "Augmented Spin Barrel",
-			"description": "[H3]Augmented Spin Barrel[h3]\n      Please see page 188 of the Edge of the Empire Core Rulebook, or page 200 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 188 - Edge of the Empire Core Rulebook[h4][H4]Page 200 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div><div>Add [SETBACK] to all Mechanics checks when performing\n          maintenance on this weapon. </div>"
+			"name": "Canon accélérateur",
+			"description": "<p>Equipés des bobines galven à flux linéaires et de convertisseurs de pulsations militaires, ces canons augmentent à la fois les dégâts et la force de pénétration des fusils blaster et des fusils blaster lourds. En contrepartie, ils mettent les systèmes et la structure de l'arme à rude épreuve. Les armes modifiées demandent donc plus d'entretien et mettent plus longtemps pour refroidir entre les tirs. Ce kit peut seulement être monté sur les fusils blasters et les fusils blaster lourds. </p>\n<p><strong>Effets : </strong>Augmentez les dégâts de l'arme de l'arme de 1. Ajoutez un dé [SE] à tous les tests de Mécaniques liés à l'entretien de l'arme.</p>\n<p><strong>Mods possibles : </strong>Dégâts +1 [2], Précision +1[1], Perforant +1[1]</p>\n<p><strong>emplacement nécessaires : </strong>2</p>\n<p><strong>modèles typiques : </strong>Canon accélérateur 234X 'Perforateur' de Dolmax, Canon HotShot HH780 de Atakyd. Canon à pénétration modèle 216 de BlasTech.</p>\n<p>Page191 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Augmented Vibro-Motor",
@@ -151,8 +151,8 @@
 		},
 		{
 			"id": "Balanced Hilt",
-			"name": "Balanced Hilt",
-			"description": "[H3]Balanced Hilt[h3]\n      Please see page 188 of the Edge of the Empire Core Rulebook, or page 200 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 188 - Edge of the Empire Core Rulebook[h4][H4]Page 200 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Accurate Quality - Accurate {0} </div>"
+			"name": "Crosse Equilibrée",
+			"description": "<p>L'équilibre est l'une des marques des armes de qualités. Les grands armuriers savent forger haches et épées dans des matériaux ultralégers qui les rendent plus maniables et plus précises entre les mains d'un vrai guerrier. Cette amélioration ne s'installe que sur les armes de corps à corps</p>\n<p><strong>Effets : </strong>Précis +1</p>\n<p><strong>Mods possibles : </strong>Précis +1 [1], Encombrement -1 (min 1)[1]</p>\n<p><strong>Emplacement nécessaires : </strong>2</p>\n<p><strong>Modèles typiques : </strong> aucun</p>\n<p>Page191 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Barab Ingot",
@@ -186,8 +186,8 @@
 		},
 		{
 			"id": "Blaster Actuating Module",
-			"name": "Blaster Actuating Module",
-			"description": "[H3]Blaster Actuating Module[h3]\n      Please see page 188 of the Edge of the Empire Core Rulebook, or page 200 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 188 - Edge of the Empire Core Rulebook[h4][H4]Page 200 - Age of Rebellion Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div><div>Add Setback Mod - Add [SETBACK] to all attack checks when using this weapon </div>"
+			"name": "Module de mise à feu pour blaster",
+			"description": "<p>Les modules de mise à feu sont très répandus parmi les mercenaires, les chasseurs de primes et tous ceux qui tiennent à frapper les premiers. Adaptables à presque n'importe quel blaster, ces modules sont de simples systèmes de mise à feu améliorés. Munis de microprogrammes et de bobines d'accélérations électromagnétiques modifiées, ils sont capables de générer des décharges plus puissantes et dotées d'une meilleure force de pénétration. Malheureusement, ils éprouvent aussi le matériel. Les armes qui en sont équipées perdent aussi le matériel. Les armes qui en sont équipées perdent en fiabilité avec le temps. Ces améliorations ne peuvent en fiabilité avec le temps. Ces améliorations ne peuvent en fiabilité avec le temps. Ces améliorations ne peuvent être iunstallées que sur les pistolets blaster utilisant la compétence Distance (armes légères). </p>\n<p><strong>Effets : </strong>Dégats +1. Ajoutez un dé [SE] à tous les tests de Distance (arme légères) effectués avec cette arme.</p>\n<p><strong>Mods possibles : </strong> Dégâts +1[2], Perforant +1[2]</p>\n<p><strong>Emplacement nécessaires : </strong>1</p>\n<p><strong>Modèles typiques : </strong>Module de mise à feu X440 'Bulldog' de SoroSubb. Module de mise à feu pour blasters lourds de Dolmax, Module de mise à feu amélioré 97R d'Arakyd.</p>\n<p>Page192 Aux Confins de l'Empire</p>"
 		},
 		{
 			"id": "Blaster Energy Dampener",
