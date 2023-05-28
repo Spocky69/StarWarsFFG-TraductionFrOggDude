@@ -181,8 +181,8 @@
 		},
 		{
 			"id": "Baradium Charge",
-			"name": "Baradium Charge",
-			"description": "[H3]Baradium Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook, or page 41 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4][H4]Page 41 - Fully Operational[h4]<div>Damage uses Planetary scale, Blast uses Personal scale. [DESPAIR] means it detonates immediately. +50 to critical if Engaged when detonates. </div>"
+			"name": "Charge au Baradium de Tarascii",
+			"description": "<p>Le baradium est l'un des éléments les plus dangereux et volatis parmi les explosifs utilisés pour la démolition. Ce minerai synthétique est surtout connu pour entrer dans la composition des détonateurs thermiques. On peut concevoir d'autres dispositifs à base de baradium, mais ils sont forcément très instables. Une grosse charge peut suffire à raser un petit bourg, mais le démolisseur qui se trompe dans le dosage à toutes les chances de fêter la fin de sa carrière dans un beau feu d'artifice.<br /><br />Les bombes au baradium infligent des dégâts à l'échelle planétaire, mais la portée de leur souffle se mesure à échelle individuelle. Si le démolisseur obtient [FA] lors de la préparation du dispositif, celui-ci explose aussitôt, infligeant les dégâts associés (dégâts de base plus les dégâts supplémentaires) à tout ce qui se trouve à portée du souffle. Tout ce qui se trouve à la portée 'au contact' du dispositif quand il explose doit ajouter +50 aux éventuels jets de blessure critique.<br /><br />Page 55 - Périlleuses Alliances - Carriere Mercenaire</p>"
 		},
 		{
 			"id": "Bardottan Electrolance",
@@ -477,7 +477,7 @@
 		{
 			"id": "Detonite Charge",
 			"name": "Charge de Détonite",
-			"description": "La détonite est un puissant explosif employé pour les travaux de démolition et de sabotage. Une charge n'est pas conçue pour une utilisation au combat. Elle est en revanche souvent employée pour piéger le site d'un affrontement afin de déstabiliser l'ennemi. Il faut un mécanisme déclencheur pour activer la détonite et chaque charge est livrée avec une amorce que l'on fait exploser par l'intermédiaire d'un comlink ou d'un minuteur (compte à rebours pouvant aller d'1s à 1h."
+			"description": "La détonite est un puissant explosif employé pour les travaux de démolition et de sabotage. Une charge n'est pas conçue pour une utilisation au combat. Elle est en revanche souvent employée pour piéger le site d'un affrontement afin de déstabiliser l'ennemi. Il faut un mécanisme déclencheur pour activer la détonite et chaque charge est livrée avec une amorce que l'on fait exploser par l'intermédiaire d'un comlink ou d'un minuteur (compte à rebours pouvant aller d'1s à 1h)."
 		},
 		{
 			"id": "Diiro",
@@ -1366,8 +1366,8 @@
 		},
 		{
 			"id": "Plasma Charge",
-			"name": "Plasma Charge",
-			"description": "[H3]Plasma Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4]"
+			"name": "Charge à Plasma de Tarascii",
+			"description": "<p>Ces explosifs à plasma génèrent des ondes de choc d'une température extrême qui brisent tout ou presque sur leur passage, carbonisant le reste. Les charges à plasma disposent de l'attribut Incendiaire 1, la valeur de cet attribut augmentant de +1 par charge additionnelle.<br /><br />Page 55 - Périlleuses Alliances - Carriere Mercenaire</p>"
 		},
 		{
 			"id": "Pocket Blaster Pistol",
@@ -1381,8 +1381,8 @@
 		},
 		{
 			"id": "Proton Grenade",
-			"name": "Proton Grenade",
-			"description": "[H3]Proton Grenade[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4]<div>Variable damage for additional grenades:  +20, +30, +40, +50 (150 max).  After 5, blast radius increased by one band per grenade. </div>"
+			"name": "Grenade à Protons de Mesonics",
+			"description": "<p>Largement utilisées pour les opérations de démolitions et d'abordage, les grenades à protons très puissants qui recourent à la même technologie que les ogives des torpilles du même nom, à une échelle bien moindre cependant. Parmi les dispositifs de poche, seuls les détonateurs thermiques sont plus dévastateurs. Ces grenades disposent d'un crochet magnétique et d'une charge orientée, ce qui les rend plus adaptées au bris de cloison et à la démolition de locaux qu'à des applications martiales antipersonnel. Elles sont particulièrement appréciées par les démolisseurs, car leur souffle est facile à anticiper. L'association avisée de plusieurs grenades possède un pouvoir de destruction bien plus dévastateur que celui engendré par la somme des grenades prises individuellement.<br /><br /> Un tel dispositf, constitué de grenades reliées, provoque les dégâts suivants : +20 points de dégats pour la deuxième grenade, +30 pour la troisième, +40 pour la quatrième et +50 pour la cinquième, pour un total de 150 points de dégâts dans le cas d'une bombe composée de cinq grenades. Au-delà de la cinquième grenade, on n'observe plus de dégats supplémentaires, mais la portée du souffle augmente d'un niveau de portée par grenade.<br /><br />Page 56 - Périlleuses Alliances - Carriere Mercenaire</p>"
 		},
 		{
 			"id": "Pulse Cannon",
