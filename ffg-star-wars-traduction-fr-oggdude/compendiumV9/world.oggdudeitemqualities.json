@@ -1,0 +1,749 @@
+{
+	"label": "oggdude.ItemQualities",
+	"entries": [
+		{
+			"id": "Accurate Quality",
+			"name": "Qualité : Précis"
+		},
+		{
+			"id": "Add 2 Hard Points to Vehicle Mod",
+			"name": "Ajoute 2 Emplacements au véhicule"
+		},
+		{
+			"id": "Add 20,000 Credits to Price Mod",
+			"name": "Ajoute 20000 Crédits au prix"
+		},
+		{
+			"id": "Add Additional Crystal with no HP Cost Mod",
+			"name": "Ajoute un Crystal sans coût d'emplacement"
+		},
+		{
+			"id": "Add Advantage to Combat Check Mod",
+			"name": "Ajoute un Avantage au jet de combat"
+		},
+		{
+			"id": "Add Advantage to Initiative Check Mod",
+			"name": "Ajoute un Avantage au jet d'initiative"
+		},
+		{
+			"id": "Add Advantage to Successful Check Mod",
+			"name": "Ajoute un Avantage à un jet réussi"
+		},
+		{
+			"id": "Add Boost Mod",
+			"name": "Ajoute un dé bleu"
+		},
+		{
+			"id": "Add Class 14 Backup Hyperdrive Mod",
+			"name": "Ajoute un hyperdrive de Classe 14"
+		},
+		{
+			"id": "Add Class 4 Hyperdrive Mod",
+			"name": "Ajoute un hyperdrive de Classe 4"
+		},
+		{
+			"id": "Add Class 8 Hyperdrive Mod",
+			"name": "Ajoute un hyperdrive de Classe 8"
+		},
+		{
+			"id": "Add Dark Force Point to Force Power Check Mod",
+			"name": "Ajoute un point de force obscure au jet de Force"
+		},
+		{
+			"id": "Add Force Point to Force Power Check Mod",
+			"name": "Ajoute un point de force au jet de Force"
+		},
+		{
+			"id": "Add Force Rating Mod",
+			"name": "Ajoute le rang de Force"
+		},
+		{
+			"id": "Add Hard Points Mod",
+			"name": "Ajoute des points d'emplacement"
+		},
+		{
+			"id": "Add Light Force Point to Force Power Check Mod",
+			"name": "Ajoute un point de force claire au jet de Force"
+		},
+		{
+			"id": "Add Setback Mod",
+			"name": "Ajoute un dé noir"
+		},
+		{
+			"id": "Add Success to Check Mod",
+			"name": "Ajoute un succès"
+		},
+		{
+			"id": "Add Threat to Check Mod",
+			"name": "Ajoute une menace"
+		},
+		{
+			"id": "Add to Cybernetics Cap Mod",
+			"name": "Ajoute un emplacement cybernétique"
+		},
+		{
+			"id": "Add to Massive Mod",
+			"name": "Add to Massive Mod"
+		},
+		{
+			"id": "Additional Comms Range Mod",
+			"name": "Augmente la portée des communications"
+		},
+		{
+			"id": "Additional Damage Mod",
+			"name": "Ajoute des dégâts"
+		},
+		{
+			"id": "Additional Damage for Crystal Mod",
+			"name": "Ajoute des dégâts aux Crystaux"
+		},
+		{
+			"id": "Additional Range Mod",
+			"name": "Augmente la portée"
+		},
+		{
+			"id": "Additional Sensor Range Mod",
+			"name": "Augmente la portée des senseurs"
+		},
+		{
+			"id": "Additional Strain Mod",
+			"name": "Augmente seuil de stress"
+		},
+		{
+			"id": "Auto-Fire Quality",
+			"name": "Qualité : Automatique"
+		},
+		{
+			"id": "Autofire Takes One Less Advantage to Activate Mod",
+			"name": "Autofire Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Base Critical Rating Mod",
+			"name": "Base Critical Rating Mod"
+		},
+		{
+			"id": "Base Damage Mod",
+			"name": "Base Damage Mod"
+		},
+		{
+			"id": "Blast Quality",
+			"name": "Qualité : Souffle"
+		},
+		{
+			"id": "Blast Takes One Less Advantage to Activate Mod",
+			"name": "Blast Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Breach Quality",
+			"name": "Qualité : Brèche"
+		},
+		{
+			"id": "Burn Quality",
+			"name": "Qualité : Incendiaire"
+		},
+		{
+			"id": "Burn Takes One Less Advantage to Activate Mod",
+			"name": "Burn Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Cancel Threat from Check Mod",
+			"name": "Retire une Menace"
+		},
+		{
+			"id": "Cannot deal strain damage",
+			"name": "Ne peut pas infliger Cannot deal strain damage"
+		},
+		{
+			"id": "Carry Items of Encumbrance 0 Mod",
+			"name": "Porte des objets d'encombrement 0"
+		},
+		{
+			"id": "Carry Items up to Encumbrance 1 Mod",
+			"name": "Porte des objets d'encombrement 1"
+		},
+		{
+			"id": "Change Massive Mod",
+			"name": "Change Massive Mod"
+		},
+		{
+			"id": "Concussive Quality",
+			"name": "Qualité : Choc"
+		},
+		{
+			"id": "Concussive Takes One Less Advantage to Activate Mod",
+			"name": "Concussive Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Convert 25 encumbrance capacity to smuggling compartment Mod",
+			"name": "Converti 25 emplacements dans un compartiment de contrebande"
+		},
+		{
+			"id": "Cortosis Quality",
+			"name": "Qualité : Cortosis"
+		},
+		{
+			"id": "Cumbersome Quality",
+			"name": "Qualité : Encombrant"
+		},
+		{
+			"id": "Decrease Critical Mod",
+			"name": "Diminue Critique"
+		},
+		{
+			"id": "Decrease Hull Trauma Mod",
+			"name": "Decrease Hull Trauma Mod"
+		},
+		{
+			"id": "Decrease Long Range Difficulty Mod",
+			"name": "Diminue la difficulté à portée longue"
+		},
+		{
+			"id": "Decrease Long and Extreme Range Difficulty Mod",
+			"name": "Diminue la difficulté à portée longue et extrème"
+		},
+		{
+			"id": "Decrease Passenger Capacity Mod",
+			"name": "Decrease Passenger Capacity Mod"
+		},
+		{
+			"id": "Decrease Speed Mod",
+			"name": "Diminue la vitesse"
+		},
+		{
+			"id": "Decrease time to cut through hull by 1 round Mod",
+			"name": "Decrease time to cut through hull by 1 round Mod"
+		},
+		{
+			"id": "Decreases Backup Hyperdrive Class by 1, to a minimum of .5 Mod",
+			"name": "Diminue la classe d'Hyperpropulseur de secours de 1, jusqu'à un minimum de 0.5"
+		},
+		{
+			"id": "Decreases Backup Hyperdrive Class by 1, to a minimum of 1 Mod",
+			"name": "Diminue la classe d'Hyperpropulseur de secours de 1, jusqu'à un minimum de 1"
+		},
+		{
+			"id": "Decreases Encumbrance Capacity Mod",
+			"name": "Decreases Encumbrance Capacity Mod"
+		},
+		{
+			"id": "Decreases Encumbrance Mod",
+			"name": "Decreases Encumbrance Mod"
+		},
+		{
+			"id": "Decreases Encumbrance Threshold Mod",
+			"name": "Decreases Encumbrance Threshold Mod"
+		},
+		{
+			"id": "Decreases Encumbrance by 2 Mod",
+			"name": "Decreases Encumbrance by 2 Mod"
+		},
+		{
+			"id": "Decreases Handling Mod",
+			"name": "Decreases Handling Mod"
+		},
+		{
+			"id": "Decreases Hyperdrive Class by 1, to a minimum of .5 Mod",
+			"name": "Diminue la classe d'Hyperpropulseur de secours de 1, jusqu'à un minimum de 0.5"
+		},
+		{
+			"id": "Decreases Hyperdrive Class by 1, to a minimum of 1 Mod",
+			"name": "Diminue la classe d'Hyperpropulseur de secours de 1, jusqu'à un minimum de 1"
+		},
+		{
+			"id": "Decreases System Strain Mod",
+			"name": "Decreases System Strain Mod"
+		},
+		{
+			"id": "Decreases System Strain by 2 Mod",
+			"name": "Decreases System Strain by 2 Mod"
+		},
+		{
+			"id": "Decreases Total Encumbrance Mod",
+			"name": "Decreases Total Encumbrance Mod"
+		},
+		{
+			"id": "Defensive Quality",
+			"name": "Qualité : Parade"
+		},
+		{
+			"id": "Deflection Quality",
+			"name": "Qualité : Déflexion"
+		},
+		{
+			"id": "Demon Mask",
+			"name": "Demon Mask"
+		},
+		{
+			"id": "Disorient Quality",
+			"name": "Qualité : Désorientation"
+		},
+		{
+			"id": "Disorient Takes One Less Advantage to Activate Mod",
+			"name": "Disorient Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Does not count toward Cybernetics Cap Mod",
+			"name": "Does not count toward Cybernetics Cap Mod"
+		},
+		{
+			"id": "Ensnare Quality",
+			"name": "Qualité : Enchevêtrement"
+		},
+		{
+			"id": "Ensnare Takes One Less Advantage to Activate Mod",
+			"name": "Ensnare Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Guided Quality",
+			"name": "Qualité : Guidé"
+		},
+		{
+			"id": "Guided Takes One Less Advantage to Activate Mod",
+			"name": "Guided Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Hoster Weapon up to Encumbrance 3 Mod",
+			"name": "Hoster Weapon up to Encumbrance 3 Mod"
+		},
+		{
+			"id": "Inaccurate Quality",
+			"name": "Qualité : Imprécis"
+		},
+		{
+			"id": "Increase Aft Defense Mod",
+			"name": "Increase Aft Defense Mod"
+		},
+		{
+			"id": "Increase Allowable Mounted Weapon Encumbrance by 1 Mod",
+			"name": "Increase Allowable Mounted Weapon Encumbrance by 1 Mod"
+		},
+		{
+			"id": "Increase Altitude by 50 Mod",
+			"name": "Increase Altitude by 50 Mod"
+		},
+		{
+			"id": "Increase Armor Mod",
+			"name": "Increase Armor Mod"
+		},
+		{
+			"id": "Increase Defense Mod",
+			"name": "Increase Defense Mod"
+		},
+		{
+			"id": "Increase Defense Zone Mod",
+			"name": "Increase Defense Zone Mod"
+		},
+		{
+			"id": "Increase Defense when Force User Mod",
+			"name": "Increase Defense when Force User Mod"
+		},
+		{
+			"id": "Increase Forward Defense Mod",
+			"name": "Increase Forward Defense Mod"
+		},
+		{
+			"id": "Increase Hull Trauma Mod",
+			"name": "Increase Hull Trauma Mod"
+		},
+		{
+			"id": "Increase Hull Trauma by 3 Mod",
+			"name": "Increase Hull Trauma by 3 Mod"
+		},
+		{
+			"id": "Increase Hull Trauma by Silhouette Mod",
+			"name": "Increase Hull Trauma by Silhouette Mod"
+		},
+		{
+			"id": "Increase Melee Defense Mod",
+			"name": "Increase Melee Defense Mod"
+		},
+		{
+			"id": "Increase Passenger Capacity Mod",
+			"name": "Increase Passenger Capacity Mod"
+		},
+		{
+			"id": "Increase Passenger Capacity When Crafting Mod",
+			"name": "Increase Passenger Capacity When Crafting Mod"
+		},
+		{
+			"id": "Increase Passenger Capacity by 10 Mod",
+			"name": "Increase Passenger Capacity by 10 Mod"
+		},
+		{
+			"id": "Increase Passenger Capacity by 2 Mod",
+			"name": "Increase Passenger Capacity by 2 Mod"
+		},
+		{
+			"id": "Increase Passenger Capacity by Silhouette Mod",
+			"name": "Increase Passenger Capacity by Silhouette Mod"
+		},
+		{
+			"id": "Increase Port Defense Mod",
+			"name": "Increase Port Defense Mod"
+		},
+		{
+			"id": "Increase Ranged Defense Mod",
+			"name": "Increase Ranged Defense Mod"
+		},
+		{
+			"id": "Increase Silhouette Capacity of Hangar Bay by 1 Mod",
+			"name": "Increase Silhouette Capacity of Hangar Bay by 1 Mod"
+		},
+		{
+			"id": "Increase Silhouette Mod",
+			"name": "Increase Silhouette Mod"
+		},
+		{
+			"id": "Increase Soak Mod",
+			"name": "Increase Soak Mod"
+		},
+		{
+			"id": "Increase Speed Mod",
+			"name": "Increase Speed Mod"
+		},
+		{
+			"id": "Increase Starboard Defense Mod",
+			"name": "Increase Starboard Defense Mod"
+		},
+		{
+			"id": "Increase damage of weapon system by one Mod",
+			"name": "Increase damage of weapon system by one Mod"
+		},
+		{
+			"id": "Increase doses by 1 Mod",
+			"name": "Increase doses by 1 Mod"
+		},
+		{
+			"id": "Increases Brawn for Determining Encumbrance Threshold Mod",
+			"name": "Increases Brawn for Determining Encumbrance Threshold Mod"
+		},
+		{
+			"id": "Increases Encumbrance Capacity Mod",
+			"name": "Increases Encumbrance Capacity Mod"
+		},
+		{
+			"id": "Increases Encumbrance Capacity When Crafting Mod",
+			"name": "Increases Encumbrance Capacity When Crafting Mod"
+		},
+		{
+			"id": "Increases Encumbrance Capacity by 100 Mod",
+			"name": "Increases Encumbrance Capacity by 100 Mod"
+		},
+		{
+			"id": "Increases Encumbrance Capacity by Silhouette Mod",
+			"name": "Increases Encumbrance Capacity by Silhouette Mod"
+		},
+		{
+			"id": "Increases Encumbrance Mod",
+			"name": "Increases Encumbrance Mod"
+		},
+		{
+			"id": "Increases Encumbrance Threshold Mod",
+			"name": "Increases Encumbrance Threshold Mod"
+		},
+		{
+			"id": "Increases Encumbrance Threshold by 3 Mod",
+			"name": "Increases Encumbrance Threshold by 3 Mod"
+		},
+		{
+			"id": "Increases Handling Mod",
+			"name": "Increases Handling Mod"
+		},
+		{
+			"id": "Increases Speed by 2 Mod",
+			"name": "Increases Speed by 2 Mod"
+		},
+		{
+			"id": "Increases System Strain Mod",
+			"name": "Increases System Strain Mod"
+		},
+		{
+			"id": "Increases System Strain by Silhouette Mod",
+			"name": "Increases System Strain by Silhouette Mod"
+		},
+		{
+			"id": "Inferior Quality",
+			"name": "Qualité : Inférieur"
+		},
+		{
+			"id": "Ion Quality",
+			"name": "Qualité : Ionique"
+		},
+		{
+			"id": "Iron Fists",
+			"name": "Poings de fer"
+		},
+		{
+			"id": "Item is Half Price Mod",
+			"name": "Objet à moitié prix"
+		},
+		{
+			"id": "Knockdown Quality",
+			"name": "Qualité : Renversement"
+		},
+		{
+			"id": "Knockdown Takes One Less Advantage to Activate Mod",
+			"name": "Knockdown Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Limited Ammo Quality",
+			"name": "Qualité : Munitions limités"
+		},
+		{
+			"id": "Linked Quality",
+			"name": "Qualité : Lié"
+		},
+		{
+			"id": "Linked Takes One Less Advantage to Activate Mod",
+			"name": "Linked Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "May Select Additional Jury Rigged Option Mod",
+			"name": "May Select Additional Jury Rigged Option Mod"
+		},
+		{
+			"id": "Meditation Focus",
+			"name": "Meditation Focus"
+		},
+		{
+			"id": "Mount Ranged Weapon up to Encumbrance 4 Mod",
+			"name": "Mount Ranged Weapon up to Encumbrance 4 Mod"
+		},
+		{
+			"id": "Mount Weapon up to Encumbrance 3 Mod",
+			"name": "Mount Weapon up to Encumbrance 3 Mod"
+		},
+		{
+			"id": "Pierce Quality",
+			"name": "Qualité : Perforant"
+		},
+		{
+			"id": "Prepare Quality",
+			"name": "Qualité : Préparation"
+		},
+		{
+			"id": "Quality Takes One Less Advantage to Activate Mod",
+			"name": "Qualité : Prend un avantage de moins pour activer le mod"
+		},
+		{
+			"id": "Reduce Range to Medium Mod",
+			"name": "Reduce Range to Medium Mod"
+		},
+		{
+			"id": "Reduced Comms Range Mod",
+			"name": "Reduced Comms Range Mod"
+		},
+		{
+			"id": "Reduced Damage Mod",
+			"name": "Reduced Damage Mod"
+		},
+		{
+			"id": "Reduced Damage for Crystal Mod",
+			"name": "Reduced Damage for Crystal Mod"
+		},
+		{
+			"id": "Reduced Range Mod",
+			"name": "Reduced Range Mod"
+		},
+		{
+			"id": "Reduced Sensor Range Mod",
+			"name": "Reduced Sensor Range Mod"
+		},
+		{
+			"id": "Remove Hard Points from Item Mod",
+			"name": "Remove Hard Points from Item Mod"
+		},
+		{
+			"id": "Remove Setback Mod",
+			"name": "Retirer un dé noir"
+		},
+		{
+			"id": "Replace Light Blaster Cannons with Light Laser Cannons Mod",
+			"name": "Replace Light Blaster Cannons with Light Laser Cannons Mod"
+		},
+		{
+			"id": "Retractable Weapon System",
+			"name": "Retractable Weapon System"
+		},
+		{
+			"id": "Retrofits Hangar Bay Mod",
+			"name": "Retrofits Hangar Bay Mod"
+		},
+		{
+			"id": "Sealable Mod",
+			"name": "Sealable Mod"
+		},
+		{
+			"id": "Sealed Mod",
+			"name": "Hermétique"
+		},
+		{
+			"id": "Set Defense Mod",
+			"name": "Set Defense Mod"
+		},
+		{
+			"id": "Set Soak Mod",
+			"name": "Set Soak Mod"
+		},
+		{
+			"id": "Sets Aft Defense Mod",
+			"name": "Sets Aft Defense Mod"
+		},
+		{
+			"id": "Sets Aft Defense When Crafting Mod",
+			"name": "Sets Aft Defense When Crafting Mod"
+		},
+		{
+			"id": "Sets Armor Mod",
+			"name": "Sets Armor Mod"
+		},
+		{
+			"id": "Sets Armor Value When Crafting Mod",
+			"name": "Sets Armor Value When Crafting Mod"
+		},
+		{
+			"id": "Sets Forward Defense Mod",
+			"name": "Sets Forward Defense Mod"
+		},
+		{
+			"id": "Sets Forward Defense When Crafting Mod",
+			"name": "Sets Forward Defense When Crafting Mod"
+		},
+		{
+			"id": "Sets Handling Mod",
+			"name": "Sets Handling Mod"
+		},
+		{
+			"id": "Sets Handling When Crafting Mod",
+			"name": "Sets Handling When Crafting Mod"
+		},
+		{
+			"id": "Sets Port Defense Mod",
+			"name": "Sets Port Defense Mod"
+		},
+		{
+			"id": "Sets Port Defense When Crafting Mod",
+			"name": "Sets Port Defense When Crafting Mod"
+		},
+		{
+			"id": "Sets Speed Mod",
+			"name": "Sets Speed Mod"
+		},
+		{
+			"id": "Sets Speed When Crafting Mod",
+			"name": "Sets Speed When Crafting Mod"
+		},
+		{
+			"id": "Sets Starboard Defense Mod",
+			"name": "Sets Starboard Defense Mod"
+		},
+		{
+			"id": "Sets Starboard Defense When Crafting Mod",
+			"name": "Sets Starboard Defense When Crafting Mod"
+		},
+		{
+			"id": "Sets System Strain Mod",
+			"name": "Sets System Strain Mod"
+		},
+		{
+			"id": "Sets System Strain When Crafting to Silhouette Mod",
+			"name": "Sets System Strain When Crafting to Silhouette Mod"
+		},
+		{
+			"id": "Sets System Strain to Silhouette Mod",
+			"name": "Sets System Strain to Silhouette Mod"
+		},
+		{
+			"id": "Slow Firing Quality",
+			"name": "Qualité : Cadence Lente"
+		},
+		{
+			"id": "Stagger Quality",
+			"name": "Stagger Quality"
+		},
+		{
+			"id": "Stun (Droid Only) Quality",
+			"name": "Stun (Droid Only) Quality"
+		},
+		{
+			"id": "Stun Damage (Droid Only) Quality",
+			"name": "Stun Damage (Droid Only) Quality"
+		},
+		{
+			"id": "Stun Damage Quality",
+			"name": "Qualité : Dégâts étourdissant"
+		},
+		{
+			"id": "Stun Quality",
+			"name": "Qualité : Etourdissement"
+		},
+		{
+			"id": "Stun Setting Quality",
+			"name": "Qualité : Réglage étourdissant"
+		},
+		{
+			"id": "Stun Takes One Less Advantage to Activate Mod",
+			"name": "Stun Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Subtract from Cybernetics Cap Mod",
+			"name": "Subtract from Cybernetics Cap Mod"
+		},
+		{
+			"id": "Subtract from Force Rating Mod",
+			"name": "Subtract from Force Rating Mod"
+		},
+		{
+			"id": "Successful Medicine checks heal +1 wound Mod",
+			"name": "Successful Medicine checks heal +1 wound Mod"
+		},
+		{
+			"id": "Sunder Quality",
+			"name": "Qualité : Briseur"
+		},
+		{
+			"id": "Sunder Takes One Less Advantage to Activate Mod",
+			"name": "Sunder Takes One Less Advantage to Activate Mod"
+		},
+		{
+			"id": "Superior Quality",
+			"name": "Qualité : Supérieur"
+		},
+		{
+			"id": "Tractor Quality",
+			"name": "Qualité : Tracteur"
+		},
+		{
+			"id": "Unwieldy Quality",
+			"name": "Qualité : Lourde"
+		},
+		{
+			"id": "Upgrade Difficulty of Check Mod",
+			"name": "Upgrade Difficulty of Check Mod"
+		},
+		{
+			"id": "Upgrade ability of Gunnery checks Mod",
+			"name": "Upgrade ability of Gunnery checks Mod"
+		},
+		{
+			"id": "Vehicle can carry a weapon for craft 1 silhouette larger Mod",
+			"name": "Vehicle can carry a weapon for craft 1 silhouette larger Mod"
+		},
+		{
+			"id": "Vicious (Droid Only) Quality",
+			"name": "Qualité : Sanguinaire (Droïde Seulement)"
+		},
+		{
+			"id": "Vicious Quality",
+			"name": "Qualité : Sanguinaire"
+		},
+		{
+			"id": "Weapon's skill changes to Ranged-Heavy Mod",
+			"name": "Weapon's skill changes to Ranged-Heavy Mod"
+		},
+		{
+			"id": "Weapon's skill changes to Ranged-Light Mod",
+			"name": "Weapon's skill changes to Ranged-Light Mod"
+		}
+	]
+}

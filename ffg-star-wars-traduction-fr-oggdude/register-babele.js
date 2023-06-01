@@ -1,9 +1,20 @@
 Hooks.on('init', () => {
     if(typeof Babele !== 'undefined') {
-        Babele.get().register({
-            module: 'ffg-star-wars-traduction-fr-oggdude',
-            lang: 'fr',
-            dir: 'compendium'
-        });
+		if(isNewerVersion(game.version, 9))
+		{
+			Babele.get().register({
+				module: 'ffg-star-wars-traduction-fr-oggdude',
+				lang: 'fr',
+				dir: 'compendium'
+			});
+		}
+		else
+		{
+			Babele.get().register({
+				module: 'ffg-star-wars-traduction-fr-oggdude',
+				lang: 'fr',
+				dir: 'compendiumV9'
+			});
+		}			
     }
 });
