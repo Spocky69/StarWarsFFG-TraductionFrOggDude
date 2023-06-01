@@ -3,7 +3,7 @@
   "name": "ffg-star-wars-traduction-fr-oggdude",
   "title": "Star Wars FFG - Traduction Fr OggDude",
   "description": "Traduction des compendiums Ogg-Dude en Français, basé sur Babele",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "minimumCoreVersion" : "9",
   "compatibleCoreVersion": "11",
   "author": "Spocky69",
@@ -36,7 +36,7 @@
   "library": false,
   "url": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude",
   "manifest": "https://raw.githubusercontent.com/Spocky69/StarWarsFFG-TraductionFrOggDude/main/ffg-star-wars-traduction-fr-oggdude/module.json",
-  "download": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/archive/refs/tags/v0.2.6.zip",
+  "download": "https://github.com/Spocky69/StarWarsFFG-TraductionFrOggDude/archive/refs/tags/v0.2.7.zip",
   "systemVersion": "1.72",
    "system": [
         "starwarsffg"

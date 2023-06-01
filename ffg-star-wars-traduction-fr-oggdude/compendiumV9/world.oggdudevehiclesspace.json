@@ -1,7 +1,7 @@
 {
 	"label": "oggdude.Vehicles.Space",
 	"mapping": {
-		"biography": "system.biography"
+		"biography": "data.biography"
 	},
 	"entries": [
 		{

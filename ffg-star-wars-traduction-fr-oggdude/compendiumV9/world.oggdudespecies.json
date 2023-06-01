@@ -1,7 +1,7 @@
 {
 	"label": "oggdude.Species",
 	"mapping": {
-		"description": "system.description"
+		"description": "data.description"
 	},
 	"entries": [
 		{

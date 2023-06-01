@@ -1,7 +1,7 @@
 {
 	"label": "oggdude.VehicleWeapons",
 	"mapping": {
-		"description": "system.description"
+		"description": "data.description"
 	},
 	"entries": [
 		{

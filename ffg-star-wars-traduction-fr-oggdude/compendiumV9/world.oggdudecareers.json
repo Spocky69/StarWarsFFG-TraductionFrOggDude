@@ -1,7 +1,7 @@
 {
 	"label": "oggdude.Careers",
 	"mapping": {
-		"description": "system.description"
+		"description": "data.description"
 	},
 	"entries": [
 		{
