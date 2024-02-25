@@ -181,8 +181,8 @@
 		},
 		{
 			"id": "Baradium Charge",
-			"name": "Baradium Charge",
-			"description": "[H3]Baradium Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook, or page 41 of the Fully Operational Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4][H4]Page 41 - Fully Operational[h4]<div>Damage uses Planetary scale, Blast uses Personal scale. [DESPAIR] means it detonates immediately. +50 to critical if Engaged when detonates. </div>"
+			"name": "Charge de Baradium de Tarascii",
+			"description": "La baradium est l'un des éléments les plus dangereux et volatils parmi les explosifs utilisés pour la démolition. Ce minerai synthétique est surtout connu pour entrer dans la composition des détonateurs thermiques. On peut concevoir d'autres dispositifs à base de baradium, mais ils sont forcément très instables. une grosse charge peut suffire à raser un petit bourg, mais le démolisseur qui se trompe dans le dosage a toutes les chances de fêter la fin de sa carrière dans un beau feu d'artifice.\n Les bombes au baradium infligent des dégâts à l'échelle planétaire, mais la portée de leur souffle se mesure à l'échelle individuelle. Si le démolisseur obtient un [FA] lors de la préparation du dispositif celui ci explose aussitôt, infligeant les dégâts associés (dégâts de base + dégâts supplémentaires) à tout ce qui se trouve à portée du souffle. Tout ce qui se trouve à la portée 'au contact' du dispositif quand il explose doit ajouter +50 aux éventuels jets de blessure critique. <br /><br /> [H3]Règles[h3] La fabrication d'un explosif demande un test en Mécanique diff [DI] +1 dé par charge additionnelle. Chaque [SU] augmente de +1 les dégâts. <p>Voir page 56 de Périlleuses Alliances</p>"
 		},
 		{
 			"id": "Bardottan Electrolance",
@@ -477,7 +477,7 @@
 		{
 			"id": "Detonite Charge",
 			"name": "Charge de Détonite",
-			"description": "La détonite est un puissant explosif employé pour les travaux de démolition et de sabotage. Une charge n'est pas conçue pour une utilisation au combat. Elle est en revanche souvent employée pour piéger le site d'un affrontement afin de déstabiliser l'ennemi. Il faut un mécanisme déclencheur pour activer la détonite et chaque charge est livrée avec une amorce que l'on fait exploser par l'intermédiaire d'un comlink ou d'un minuteur (compte à rebours pouvant aller d'1s à 1h."
+			"description": "La détonite est un puissant explosif employé pour les travaux de démolition et de sabotage. Une charge n'est pas conçue pour une utilisation au combat. Elle est en revanche souvent employée pour piéger le site d'un affrontement afin de déstabiliser l'ennemi. Il faut un mécanisme déclencheur pour activer la détonite et chaque charge est livrée avec une amorce que l'on fait exploser par l'intermédiaire d'un comlink ou d'un minuteur (compte à rebours pouvant aller d'1s à 1h.<br /><br /> [H3]Règles[h3] La fabrication d'un explosif demande un test en Mécanique diff [DI] +1 dé par charge additionnelle. Chaque [SU] augmente de +1 les dégâts. <p>Voir page 56 de Périlleuses Alliances</p>"
 		},
 		{
 			"id": "Diiro",
@@ -711,8 +711,8 @@
 		},
 		{
 			"id": "GLX Firelance",
-			"name": "GLX Firelance",
-			"description": "[H3]GLX Firelance Blaster Rifle[h3]\n      Please see page 40 of the Endless Vigil Sourcebook for details.[P][H3]Sources:[h3][H4]Page 40 - Endless Vigil[h4]"
+			"name": "GLX LanceDeFeu",
+			"description": "Introduit pendant les années de mise en garde de la République Galactique, le GLX LanceDeFeu de SoroSuub est l'un des modèles de fusil blaster les plus populaires de la compagnie. <p>\n</p>Fruit d'une longue et exhaustive série d'études de marché parmi les soldats professionnels, l'arme a été développée pour offrir un blaster simple, fiable et performant, avec la plupart de la puissance d'un fusil blaster de taille normale dans un format léger et de taille réduite, similaire à une carabine. Le GLX a connu un succès immédiat, en particulier auprès des chasseurs de primes et des mercenaires. <p>\n</p>Il était tellement populaire que SoroSuub a commercialisé le GLX comme 'l'arme la plus efficace disponible pour les agents de l'application de la loi freelance'. Les commandes affluaient de toute la galaxie, et le fusil est rapidement devenu l'un des produits les plus vendus de SoroSuub. <p>\n</p><p>\n</p> Le fusil lui-même a un style traditionnel, compact, plus proche en taille et en poids d'une carabine blaster que d'un fusil blaster de taille normale. <p>\n</p>Il possède un canon court avec un cache-flamme intégré, une poignée de transport montée sur le dessus qui s'étend sur la longueur du récepteur, permettant un transport plus facile pour ceux ayant de plus grandes mains ou portant une armure encombrante, et une crosse solide avec des compensateurs de recul intégrés. <p>\n</p>Le GLX dispose d'un système de tir sélectif qui permet à l'arme de fonctionner en mode tir unique ou automatique, et ses paramètres de paralysie sont les plus puissants de sa catégorie, capable de rendre même les adversaires les plus coriaces ou les créatures les plus dangereuses insensibles. [P][H3]Sources:[h3][H4]Page 40 - Endless Vigil[h4]"
 		},
 		{
 			"id": "Gaffi Stick",
@@ -946,8 +946,8 @@
 		},
 		{
 			"id": "Knockout Grenade",
-			"name": "Knockout Grenade",
-			"description": "[H3]Knockout Grenade[h3]\n      Please see page 45 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Fly Casual[h4]<div>No effect on targets wearing breath masks or without respiratory systems. </div>"
+			"name": "Grenade Incapacitante",
+			"description": "Il n'est pas toujours nécessaire ni souhaitable de tuer un adversaire pour le neutraliser. Les armes étourdissantes sont la solution la plus répandue pour maîtriser un ennemi, mais de nombreuses autres possibilités existent. Les grenades incapacitantes permettent de neutraliser plusieurs cibles sans leur infliger de dégâts permanents. Remplies de gaz tranquillisant, elles plongent dans un profond sommeil les cibles prises dans leur rayon d’explosion. Les braconniers s’en servent parfois pour capturer des prédateurs dangereux. Utilisées en quantités suffisantes, elles peuvent même avoir raison de grosses créatures. Les grenades incapacitantes n’ont aucun effet sur les cibles qui portent des masques respiratoires ou qui sont dépourvues de système respiratoire.[H3]Sources:[h3][H4]Page 45 - Fly Casual[h4]"
 		},
 		{
 			"id": "Knockout Mine",
@@ -1021,8 +1021,8 @@
 		},
 		{
 			"id": "Lightning 22 Ion Grenade",
-			"name": "Lightning 22 Ion Grenade",
-			"description": "[H3]Lightning 22 Ion Grenade[h3]\n      Please see page 46 of the Dangerous Covenants Sourcebook, or page 44 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 46 - Dangerous Covenants[h4][H4]Page 44 - Knights of Fate[h4]"
+			"name": "Grenade Ionique Lightning 22",
+			"description": "La détonation d'une grenade ionique rapelle la décharge d'un canon ionique. L'avantage avec une telle arme, c'est que tous les droïdes pris dans le rayon du souffle sont affectés, ce qui permet à l'utilisateur de neutraliser plusieurs cibles mécaniques d'un coup. Il convient de faire très attention à proximité de systèmes technologiques vulnérables, et de nombreux capitaines interdisent ce type de grenade à bord de leur vaisseau, même lorsqu'ils ne font qu'assurer le transport de mercenaires lourdement armés.[H3]Sources:[h3][H4]Page 46 - Périlleuses Alliances[h4]"
 		},
 		{
 			"id": "Lightsaber",
@@ -1296,8 +1296,8 @@
 		},
 		{
 			"id": "Multi-Goo Gun",
-			"name": "Multi-Goo Gun",
-			"description": "[H3]Multi-Goo Gun[h3]\n      Please see page 45 of the Special Modifications Sourcebook for details.[P][H3]Sources:[h3][H4]Page 45 - Special Modifications[h4]<div>Gain automatic [AD] on [B]Mechanics checks[b] to repair droids, vehicles, or starships. </div>"
+			"name": "Pistolet Multi-Substances",
+			"description": "Le pistolet Multi-Substances est un système tout en un avec un système auto-nétoyant qui permet de changer facilement de cartouche (Lubrifiant, adhésif ou acide). Le dispositif fait appel à la propension naturelle de nombreux mécaniciens à l'efficacité, permettant aux utilisateurs de passer rapidement entre les substances sans interrompre leur travail, plutôt que de devoir s'arrêter, nettoyer leurs injecteurs de pulvérisation et charger une nouvelle substance à chaque étape d'un projet. Un personnage utilisant cet outil obtient automatiquement un avantage ([AD]) sur les jets de Mécanique pour réparer des droïdes, des véhicules ou des vaisseaux spatiaux. Le MJ peut dépenser [TH][TH] ou [DE] sur un jet de Mécanique ou de combat effectué en utilisant un pistolet multi-substances pour vider toutes ses cartouches de pulvérisation ; il ne peut plus être utilisé avant d'être rechargé. Un pack comprenant des recharges pour les trois substances coûte 20 crédits et a une rareté de 2. Placer un pack de recharge dans un pistolet multi-substances nécessite une action.[H3]Sources:[h3][H4]Page 45 - Special Modifications[h4]"
 		},
 		{
 			"id": "N-4 Noise Grenade",
@@ -1366,8 +1366,8 @@
 		},
 		{
 			"id": "Plasma Charge",
-			"name": "Plasma Charge",
-			"description": "[H3]Plasma Charge[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4]"
+			"name": "Charge à Plasma de Tarascii",
+			"description": "Ces explosif à plasma génèrent des ondes de choc d'une température extrême qui drisent tout ou presque sur leur passage, carbonisant le reste. Les charges à plasma disposent de l'attribut Incendiaire 1, la valeur de cet attribut augmentant de +1 par charge additionnelle.<br /> <br />[H3]Règles[h3] La fabrication d'un explosif demande un test en Mécanique diff [DI] +1 dé par charge additionnelle. Chaque [SU] augmente de +1 les dégâts. <p>Voir page 56 de Périlleuses Alliances</p>"
 		},
 		{
 			"id": "Pocket Blaster Pistol",
@@ -1376,13 +1376,13 @@
 		},
 		{
 			"id": "Poison Gas Grenade",
-			"name": "Poison Gas Grenade",
-			"description": "[H3]Poison Gas Grenade[h3]\n      Please see page 102 of the Lords of Nal Hutta Sourcebook for details.[P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]<div>May be loaded with 1 dose of neurotoxin, anesthetic, or neuroparalytic, or other suitable toxins. </div><div>Unless outdoors in a windy environment, gas lingers for two rounds, affecting anyone in the cloud. In a poorly ventilated space, gas lingers for five rounds. </div><div>Droids, or characters equipped with sealed suits, breath masks, respirators, or rebreathers, are unaffected. </div>"
+			"name": "Grenade à Gax Toxique",
+			"description": "Même si la plupart plupart des gens rechignent à utiliser du poison au combat, certains chasseurs de primes et contrebandiers s’en servent pour semer la terreur chez leurs victimes. Les mercenaires droïdes et gands, insensibles aux vapeurs toxiques, emploient fréquemment des grenades de ce type. Ces projectiles peuvent être remplis de gaz mortels, comme du dioxis, du trion ou du Fex-M5. \n Ces munitions peuvent être chargées d'une dose de neurotoxine, d'anesthésique ou de neuroparalysant (cf. page 175 du livre de règles d'Aux Confins de l'Empire) ou de tout autre poison (tels que ceux décrits à la page 109), selon les préférences de MJ. Chaque fois qu'une cible est touchée (qu'elle subisse ou non des dégâts), elle subit en plus les effets du poison. \n A moins d'être en extérieur et par grand vent, le gaz toxique perdure pendant 2 rounds, affectant chaque individu pris dans le nuage. Par contre, dans un lieu fermé et mal ventilé comme une petite pièce ou un couloir exigu de vaisseau, il persiste durant 5 rounds. Seuls les droïdes et autres créatures n'ayant pas besoin de respirer ne sont pas touchés par ses effets. Les personnages munis de combinaisons hermétiques, de masques respiratoires, de respirateurs ou de recycleurs ne sont pas affectés non plus. [P][H3]Sources:[h3][H4]Page 102 - Lords of Nal Hutta[h4]"
 		},
 		{
 			"id": "Proton Grenade",
-			"name": "Proton Grenade",
-			"description": "[H3]Proton Grenade[h3]\n      Please see page 55 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 55 - Dangerous Covenants[h4]<div>Variable damage for additional grenades:  +20, +30, +40, +50 (150 max).  After 5, blast radius increased by one band per grenade. </div>"
+			"name": "Grenade à Proton de Mesonics",
+			"description": "Largement utilisées pour les opérations de démolition et d'abordage, les grenades à protons sont des explosifs très puissants qui recourent à la même technologie que les ogives des torpilles du même nom, à une échelle bien moindre cepedant. Parmi les dispositifs de poche, seuls les détonateurs thermiques sont plus dévastateurs. Ces grenades disposent d'un crochet magnétique et d'une charge orientée, ce qui les rend plus adaptées au bris de cloison et à la démolition de locaux qu'à des applications martiales antipersonnel. Elles sont particulièrement appréciées par les démolisseurs, car leur souffle est facile à anticiper. L'association avisée de plusieurs grenades possède un pouvoir de destruction bien plus dévastateur que celui engendré par la somme des grenades prises individuellement. \n un tel dispositif, constitué de grenades reliées, provoque les dégats suivants : +20 pts (2eme), +30 pts (3eme), +40 pts (4eme), +50 pts (5eme), +1 niveau de portée (Xème) <br /><br /> [H3]Règles[h3] La fabrication d'un explosif demande un test en Mécanique diff [DI] +1 dé par charge additionnelle. Chaque [SU] augmente de +1 les dégâts. <p>Voir page 56 de Périlleuses Alliances</p>"
 		},
 		{
 			"id": "Pulse Cannon",
@@ -1666,8 +1666,8 @@
 		},
 		{
 			"id": "Spray Foam Grenade",
-			"name": "Spray Foam Grenade",
-			"description": "[H3]Tenloss Spray Foam Grenade[h3]\n      Please see page 43 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Disciples of Harmony[h4]<div>Ensnare quality automatically activates if grenade hits, with no need to spend [AD]. </div>"
+			"name": "Grenade de mousse en spray Tenloss",
+			"description": "Les grenades de mousse en spray de Tenloss sont des sphères de plastique de dix centimètres scellées avec une source d'énergie à faible puissance et équipées d'un activateur de minuterie. Lorsque la minuterie atteint son terme, la source d'énergie se désactive, exposant les réactifs chimiques qu'elle contient les uns aux autres. Cela déclenche une réaction chimique soudaine. Le liquide à l'intérieur se dilate, formant un polymère en mousse. Cela peut s'étendre pour remplir un volume allant jusqu'à trois mètres cubes, emprisonnant tout ce qui se trouve à l'intérieur de cet espace. Cependant, le polymère est instable et commence à se décomposer après seulement quelques minutes d'exposition atmosphérique. Jusqu'à ce que cette décomposition soit complète, il est assez rigide, offrant un moyen efficace d'incapaciter temporairement un adversaire. \n La qualité Ensnare d'une grenade de mousse en spray se déclenche automatiquement sur toute cible touchée par l'arme, sans nécessité de dépenser [AD].[P][H3]Sources:[h3][H4]Page 43 - Disciples of Harmony[h4]"
 		},
 		{
 			"id": "Spray Rifle",
@@ -1736,8 +1736,8 @@
 		},
 		{
 			"id": "Tangle Gun",
-			"name": "Tangle Gun",
-			"description": "[H3]Tangle Gun[h3]\n      Please see page 41 of the Far Horizons Sourcebook for details.[P][H3]Sources:[h3][H4]Page 41 - Far Horizons[h4]"
+			"name": "Fusil Neutralisant 7",
+			"description": "Autre arme non létale proposée par Merr-Sonn, le Fusil Neutralisant 7 est le dernier instrument à la mode en matière de contrôle de la foule. De la taille d'une carabine, il possède un canon court mais large et une structure en polycarbone qui le rend léger et très maniable. L'arme projette une petite bille de naorstrachem, un matériau synthétique à mémoire réagissant çà l'air et extrêmement flexible. La bille est enfermée dans un étui éjecté au moment du tir, puis elle se transforme instantanément en filet dès qu'elle entre en contact avec l'air. Quand le filet atteint sa cible, la chaleur ne peut être libérée qu'en coupant le filet. Le Fusil Neutralisant 7 est classé parmi les armes non létales, mais le filet se resserre si rapidement et avec tant de violence que des... accidents se produisent à l'occasion[P][H3]Sources:[h3][H4]Page 41 - Horizons lointains[h4]"
 		},
 		{
 			"id": "Temple Guard Lightsaber Pike",

@@ -716,8 +716,8 @@
 		},
 		{
 			"id": "Integrated Holsters",
-			"name": "Integrated Holsters",
-			"description": "[H3]Integrated Holsters[h3]\n      Please see page 52 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - No Disintegrations[h4]<h3>Base Mods</h3><div>Hoster Weapon up to Encumbrance 3 Mod - Holster Weapon up to Encumbrance 3 Compte 2</div>"
+			"name": "Holsters Intégrés",
+			"description": "[H3]Holsters Intégrés[h3]\nDescription : Permettant aux combattants d'incorporer de manière transparente le stockage d'armes dans la structure de leur armure, les holsters intégrés offrent un accès rapide et facile aux armes tout en maintenant un profil discret. En montant les étuis directement sur l'armure, les porteurs garantissent qu'ils sont toujours armés et prêts pour toute rencontre. [H3]Modificateurs de Base :[h3] Augmente l'encombrement de 4. Le personnage peut ranger jusqu'à 2 armes d'encombrement 3 ou inférieur dans l'armure. Lorsqu'elles sont rangées, ces armes ne sont pas prises en compte dans la valeur d'encombrement du personnage. [H3]Options de Modification :[h3] Ajouter [SE] aux jets de Perception des autres personnages pour trouver des armes stockées dans l'armure. Ranger jusqu'à 1 arme supplémentaire d'encombrement 3 ou inférieur dans l'armure. Mod de Talent Inné (Dégainage Rapide). Please see page 52 of the No Disintegrations Sourcebook for details."
 		},
 		{
 			"id": "Integrated Illuminator",
@@ -1216,8 +1216,8 @@
 		},
 		{
 			"id": "Replusor-Assisted Lifting",
-			"name": "Replusor-Assisted Lifting",
-			"description": "[H3]Replusor-Assisted Lifting[h3]\n      Please see page 52 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - No Disintegrations[h4]<h3>Base Mods</h3><div>Increases Brawn for Determining Encumbrance Threshold Mod - Increase Brawn for Determining Encumbrance Threshold by 1 Compte 5</div>"
+			"name": "Levage assisté par répulseur",
+			"description": "[H3]Levage assisté par répulseur[h3]\n Bien que plus courants parmi les équipes de travail en usine ou entrepôt que sur le champ de bataille, les systèmes d'assistance par répulseur ont gagné en popularité parmi les chasseurs de primes qui ont besoin de transporter des prises lourdes. Les systèmes fonctionnent grâce à une série de générateurs de répulseurs miniaturisés placés aux articulations clés de l'armure, allégeant le poids des combinaisons attachées, ainsi que de toutes les charges qu'elles pourraient supporter. Bien sûr, les générateurs de répulseurs sont réglés pour réduire le poids et la pression plutôt que d'exercer une force par eux-mêmes, de sorte que certains chasseurs préfèrent des combinaisons d'armure assistées par énergie avec des capacités de levage moindres mais des applications plus générales pour leurs servomoteurs. Cette attache ne peut être utilisée qu'avec des armures laminées et d'autres combinaisons d'armure rigide intégrale.[H3] Effets [H3] Ajouter 5 au score de Brawn du porteur aux fins de détermination du seuil d'encombrement. [H3] Mods possibles [H3] 2 Ajouter 1 au score de Vigueur du porteur aux fins de détermination du seuil d'encombrement, 2 Mods de compétence (Athlétisme)."
 		},
 		{
 			"id": "Repulsor Pack",
@@ -1710,14 +1710,19 @@
 			"description": "[H3]Weighted Head[h3]\n      Please see page 193 of the Edge of the Empire Core Rulebook, page 205 of the Age of Rebellion Core Rulebook, or page 195 of the Force and Destiny Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 193 - Edge of the Empire Core Rulebook[h4][H4]Page 205 - Age of Rebellion Core Rulebook[h4][H4]Page 195 - Force and Destiny Core Rulebook[h4]<h3>Base Mods</h3><div>Additional Damage Mod - Damage +1 </div>"
 		},
 		{
+			"id": "Whipcord Thrower",
+			"name": "Lanceur de Câble Fouet",
+			"description": "[H3]Lanceur de Câble Fouet[h3]\nLe 'Lanceur de Câble Fouet' déploie rapidement une longueur de câble à haute résistance, le lançant sur une distance pour sécuriser une cible. Son montage pratique sur l'armure permet à l'utilisateur d'agir rapidement, que ce soit pour arrêter leur propre chute libre, sécuriser un objet lâche, ou enchevêtrer un adversaire pris par surprise.[P][H4]Page 63 - Collapse of the Republic[h4]<h3>Modifications de base</h3><div>Les lance-câbles peuvent être utilisés comme équipement d'escalade pour aider le porteur à grimper une surface verticale raide, réduisant la difficulté de grimper de un. Ils peuvent supporter un poids allant jusqu'à 200 kilogrammes. De plus, le lanceur peut être utilisé comme une arme avec le profil suivant : {Corps à corps, Dommage +1, Critique 5 ; Portée [Courte] ; enchevêtrement 2}</div>"
+		},
+		{
 			"id": "Whisperthrust Engine",
 			"name": "Whisperthrust Engine",
 			"description": "[H3]Whisperthrust Engine[h3]\n      Please see page 63 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 63 - Fly Casual[h4]<h3>Base Mods</h3><div>Increases the difficulty of checks to detect this vessel by two while it is traveling at speed 3 or lower. </div>"
 		},
 		{
 			"id": "XCiter Overcharge",
-			"name": "XCiter Overcharge",
-			"description": "[H4]XCiter Overcharge[h4]\n      Please see page 57 of the Cyphers and Masks Sourcebook for details.[P][H3]Sources:[h3][H4]Page 57 - Cyphers and Masks[h4]<h3>Base Mods</h3><div>As an incidental, may overcharge blaster.  Weapon gets the Prepare 1 quality and damge of next attack is increased by 4.  Weapon then runs out of ammo. </div><div>GM may spend [TH][TH][TH] or [DE] from a combat check involving an overcharged shot to cause weapon to explode and deal full damage to shooter. </div>"
+			"name": "XCiter Overcharge 2",
+			"description": "Test"
 		},
 		{
 			"id": "XV-09 Chemical Restraint Harness",
