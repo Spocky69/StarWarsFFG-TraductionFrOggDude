@@ -121,8 +121,8 @@
 		},
 		{
 			"id": "Armor Master (Supreme)",
-			"name": "Armor Master (Supreme)",
-			"description": "Please see page 30 of the Keeping the Peace Sourcebook for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4]"
+			"name": "Maître des Armures (Suprême)",
+			"description": "Une fois par round, subissez 3 points de stress pour entreprendre la broutille Maître des armures (ultime) : réduisez le résultat du jet de blessure critique que vous subissez de 10 par point d’encaissement, jusqu’à un minimum de 1."
 		},
 		{
 			"id": "As the Force Wills It",
@@ -1211,8 +1211,8 @@
 		},
 		{
 			"id": "Grapple",
-			"name": "Grapple",
-			"description": "Please see page 30 of the Keeping the Peace Sourcebook, or page 34 of the No Disintegrations Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 30 - Keeping the Peace[h4][H4]Page 34 - No Disintegrations[h4]"
+			"name": "Aggripement",
+			"description": "<p>Une fois par tour, peut effectuer la manœuvre d'Agrippement au lieu de se déplacer. Jusqu'au début du prochain tour du personnage, les cibles doivent dépenser 2 manoeuvres pour se déplacer au lieu de 1.</p>\n<p><em>Consultez la page 34 du livre de No Desintegration pour plus de détails</em></p>"
 		},
 		{
 			"id": "Greased Palms",
@@ -1551,8 +1551,8 @@
 		},
 		{
 			"id": "Iron Body",
-			"name": "Iron Body",
-			"description": "Please see page 34 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 34 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
+			"name": "Corps de Fer",
+			"description": "Supprime 1 [SE] par rang de Corps de Fer des jets de Coordination et de Résilience. Réduit la valeur de critique des attaques à mains nues de 1 par rang de Corps de Fer (minimum 1)</p>\n<p><em>Consultez la page 34 du livre de No Desintegration pour plus de détails</em></p>"
 		},
 		{
 			"id": "Iron Soul",
@@ -1751,8 +1751,8 @@
 		},
 		{
 			"id": "Martial Grace",
-			"name": "Martial Grace",
-			"description": "Please see page 35 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4][object Object][h4]"
+			"name": "Grace Martiale",
+			"description": "Une fois par round, subissez 2 points de stress pour ajouter un nombre de dégâts égal à vos rangs en Coordination à votre prochain test de Pugilat effectué ce tour-ci.</p>\n<p><em>Consultez la page 35 du livre de No Desintegration pour plus de détails</em></p>"
 		},
 		{
 			"id": "Master Artisan",
@@ -2231,18 +2231,18 @@
 		},
 		{
 			"id": "Precision Strike",
-			"name": "Precision Strike",
-			"description": "Please see page 31 of the Keeping the Peace Sourcebook, or page 35 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 31 - Keeping the Peace[h4][H4]Page 35 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
+			"name": "Frappe de Précision",
+			"description": "Quand ce personnage inflige une blessure critique avec une arme de Pugilat, Corps à Corps ou Sabre laser, il peut subir 1 point de stress pour changer le résultat en n'importe quelle blessure critique Facile [DI].</p>\n<p><em>Consultez la page 35 du livre de No Desintegration pour plus de détails</em></p>"
 		},
 		{
 			"id": "Precision Strike (Improved)",
-			"name": "Precision Strike (Improved)",
-			"description": "Please see page 35 of the No Disintegrations Sourcebook, or page 31 of the Knights of Fate Sourcebook, for details.[P][H3]Sources:[h3][H4]Page 35 - No Disintegrations[h4][H4]Page 31 - Knights of Fate[h4]"
+			"name": "Frappe de Précision (Améliorée)",
+			"description": "Une fois par tour, quand ce personnage inflige une blessure critique avec une arme de Pugilat, Corps à Corps ou Sabre laser, il peut subir 2 points de stress pour changer le résultat en n'importe quelle blessure critique Moyenne [DI][DI].</p>\n<p><em>Consultez la page 35 du livre de No Desintegration pour plus de détails</em></p>"
 		},
 		{
 			"id": "Precision Strike (Supreme)",
-			"name": "Precision Strike (Supreme)",
-			"description": "Please see page 36 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 36 - No Disintegrations[h4]"
+			"name": "Frappe de Précision (Suprême)",
+			"description": "Une fois par session, quand ce personnage inflige une blessure critique avec une arme de Pugilat, Corps à Corps ou Sabre laser, il peut subir 3 points de stress pour changer le résultat en n'importe quelle blessure critique Difficile [DI][DI][DI].</p>\n<p><em>Consultez la page 36 du livre de No Desintegration pour plus de détails</em></p>"
 		},
 		{
 			"id": "Preemptive Intervention",
@@ -2936,7 +2936,7 @@
 		},
 		{
 			"id": "Temple Training",
-			"name": "Temple Training",
+			"name": "Formation au temple",
 			"description": "Avant de faire un jet de la compétence Sabre laser, le personnage peut dépenser un Point de destin pour ajouter un nombre de dégats égal à son rang dans la compétence Connaissance (Culture). </p>\n<p>&nbsp;</p>\n<p><em>Page 43 du livre the Rise of the Separatists pour plus de d&eacute;tails.</em></p>"
 		},
 		{

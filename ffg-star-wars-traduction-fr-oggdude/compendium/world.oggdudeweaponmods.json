@@ -1,0 +1,212 @@
+{
+	"label": "WeaponMods",
+	"entries": {
+		"Accurate Quality": {
+			"name": "Qualité : Précis"
+		},
+		"Add Additional Crystal with no HP Cost Mod": {
+			"name": "Ajouter un Cristal Supplémentaire sans d'emplacement"
+		},
+		"Add Advantage to Combat Check Mod": {
+			"name": "Ajouter un Avantage au Jet de Combat Mod"
+		},
+		"Add Advantage to Successful Check Mod": {
+			"name": "Ajouter un Avantage au Jet Réussi Mod"
+		},
+		"Add Boost Mod": {
+			"name": "Ajouter un dé bleu"
+		},
+		"Add Setback Mod": {
+			"name": "Ajouter un dé noir"
+		},
+		"Add Success to Check Mod": {
+			"name": "Ajouter un Succès"
+		},
+		"Add Threat to Check Mod": {
+			"name": "Ajouter une Menac"
+		},
+		"Additional Damage for Crystal Mod": {
+			"name": "Ajoute des dégâts aux Crystaux"
+		},
+		"Additional Damage Mod": {
+			"name": "Dégâts Supplémentaires"
+		},
+		"Additional Range Mod": {
+			"name": "Augmente la portée"
+		},
+		"Auto-Fire Quality": {
+			"name": "Qualité : Automatique"
+		},
+		"Autofire Takes One Less Advantage to Activate Mod": {
+			"name": "Le Tir Automatique Nécessite un Avantage de Moins pour s'activer"
+		},
+		"Base Critical Rating Mod": {
+			"name": "Critique de Base"
+		},
+		"Base Damage Mod": {
+			"name": "Dégâts de Base"
+		},
+		"Blast Quality": {
+			"name": "Qualité : Souffle"
+		},
+		"Blast Takes One Less Advantage to Activate Mod": {
+			"name": "Le Souffle Nécessite un Avantage de Moins pour s'Activer"
+		},
+		"Breach Quality": {
+			"name": "Qualité : Brèche"
+		},
+		"Burn Quality": {
+			"name": "Qualité : Incendiaire"
+		},
+		"Burn Takes One Less Advantage to Activate Mod": {
+			"name": "Incendiaire Nécessite un Avantage de Moins pour s'Activer"
+		},
+		"Cancel Threat from Check Mod": {
+			"name": "Retire une Menace"
+		},
+		"Cannot deal strain damage": {
+			"name": "Ne peut pas infliger de dégâts de stress"
+		},
+		"Concussive Quality": {
+			"name": "Qualité : Choc"
+		},
+		"Concussive Takes One Less Advantage to Activate Mod": {
+			"name": "Choc Nécessite un Avantage de Moins pour s'Activer Mod"
+		},
+		"Cumbersome Quality": {
+			"name": "Qualité : Encombrant"
+		},
+		"Decrease Critical Mod": {
+			"name": "Diminuer le Critique"
+		},
+		"Decrease Long and Extreme Range Difficulty Mod": {
+			"name": "Diminuer la Difficulté de Portée Longue et Extrême"
+		},
+		"Decrease Long Range Difficulty Mod": {
+			"name": "Diminuer la Difficulté de Portée Longue"
+		},
+		"Defensive Quality": {
+			"name": "Qualité : Parade"
+		},
+		"Disorient Quality": {
+			"name": "Qualité : Désorientation"
+		},
+		"Disorient Takes One Less Advantage to Activate Mod": {
+			"name": "Désorienter Nécessite un Avantage de Moins pour s'Activer"
+		},
+		"Ensnare Quality": {
+			"name": "Qualité : Enchevêtrer"
+		},
+		"Ensnare Takes One Less Advantage to Activate Mod": {
+			"name": "Enchevêtrer Nécessite un Avantage de Moins pour s'Activer"
+		},
+		"Guided Quality": {
+			"name": "Qualité : Guidé"
+		},
+		"Guided Takes One Less Advantage to Activate Mod": {
+			"name": "Guidé Nécessite un Avantage de Moins pour s'Activer"
+		},
+		"Inaccurate Quality": {
+			"name": "Qualité : Imprécis"
+		},
+		"Increase doses by 1 Mod": {
+			"name": "Augmenter les Doses de 1"
+		},
+		"Ion Quality": {
+			"name": "Qualité : Ion"
+		},
+		"Knockdown Quality": {
+			"name": "Qualité : Renverser"
+		},
+		"Knockdown Takes One Less Advantage to Activate Mod": {
+			"name": "Renverser Nécessite un Avantage de Moins pour s'Activer"
+		},
+		"Limited Ammo Quality": {
+			"name": "Qualité : Munitions Limitées"
+		},
+		"Linked Quality": {
+			"name": "Qualité : Lié"
+		},
+		"Linked Takes One Less Advantage to Activate Mod": {
+			"name": "Lié Nécessite un Avantage de Moins pour s'Activer Mod"
+		},
+		"May Select Additional Jury Rigged Option Mod": {
+			"name": "Peut Sélectionner une Option Bricolée Supplémentaire"
+		},
+		"Pierce Quality": {
+			"name": "Qualité : Perforant"
+		},
+		"Prepare Quality": {
+			"name": "Qualité : Préparation"
+		},
+		"Quality Takes One Less Advantage to Activate Mod": {
+			"name": "Les Qualités Nécessitent un Avantage de Moins pour s'Activer"
+		},
+		"Reduce Range to Medium Mod": {
+			"name": "Réduire la Portée à Moyenne"
+		},
+		"Reduced Damage for Crystal Mod": {
+			"name": "Dégâts Réduits pour Cristal"
+		},
+		"Reduced Damage Mod": {
+			"name": "Dégâts Réduits"
+		},
+		"Reduced Range Mod": {
+			"name": "Portée Réduite"
+		},
+		"Remove Setback Mod": {
+			"name": "Retirer un dé noir"
+		},
+		"Slow Firing Quality": {
+			"name": "Qualité : Cadence Lente"
+		},
+		"Stagger Quality": {
+			"name": "Qualité : Ébranler"
+		},
+		"Stun (Droid Only) Quality": {
+			"name": "Qualité : Étourdissement (Droïdes Seulement)"
+		},
+		"Stun Damage (Droid Only) Quality": {
+			"name": "Qualité : Dégâts d'Étourdissement (Droïdes Seulement)"
+		},
+		"Stun Damage Quality": {
+			"name": "Qualité : Dégâts d'Étourdissement"
+		},
+		"Stun Quality": {
+			"name": "Qualité : Étourdissement"
+		},
+		"Stun Setting Quality": {
+			"name": "Qualité : Réglage Etourdissant"
+		},
+		"Stun Takes One Less Advantage to Activate Mod": {
+			"name": "Étourdissement Nécessite un Avantage de Moins pour s'Activer"
+		},
+		"Sunder Quality": {
+			"name": "Qualité : Briseur"
+		},
+		"Sunder Takes One Less Advantage to Activate Mod": {
+			"name": "Briseur Nécessite un Avantage de Moins pour s'Activer Mod"
+		},
+		"Tractor Quality": {
+			"name": "Qualité : Tracteur"
+		},
+		"Unwieldy Quality": {
+			"name": "Qualité : Lourde"
+		},
+		"Upgrade Difficulty of Check Mod": {
+			"name": "Augmenter la Difficulté du Jet"
+		},
+		"Vicious (Droid Only) Quality": {
+			"name": "Qualité Sanguinaire (Droïdes Seulement)"
+		},
+		"Vicious Quality": {
+			"name": "Qualité : Sanguinaire"
+		},
+		"Weapon's skill changes to Ranged-Heavy Mod": {
+			"name": "La Compétence de l'Arme Change en Distance-Lourd"
+		},
+		"Weapon's skill changes to Ranged-Light Mod": {
+			"name": "La Compétence de l'Arme Change en Distance-Léger"
+		}
+	}
+}

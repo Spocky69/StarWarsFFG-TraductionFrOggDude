@@ -211,8 +211,8 @@
 		},
 		{
 			"id": "Blast Knuckles",
-			"name": "Blast Knuckles",
-			"description": "[H3]Blast Knuckles[h3]\n      Please see page 48 of the Dangerous Covenants Sourcebook for details.[P][H3]Sources:[h3][H4]Page 48 - Dangerous Covenants[h4]<div>Cannot deal strain damage - Cannot deal strain damage </div><div>Every successful hit inflicts 1 strain on wielder. </div>"
+			"name": "Coup-de-poing blaster",
+			"description": "[H3]COUP-DE-POING BLASTER DE OUTLAWTECH[h3]\n<p>Cette arme peu courante est constituée d’un lourd gantelet blindé qui intègre, au dos de la main du porteur, ce qu’on pourrait rapprocher d’un pistolet blaster léger. Des plaques sensibles à la pression activent le blaster quand un coup fait mouche. Cette arme est indéniablement dévastatrice, mais elle est également dangereuse pour son utilisateur : les plaques activatrices ne sont censées protéger le porteur, mais il faut être très courageux, voire inconscient, pour accepter d’émettre une décharge de blaster à quelques centimètres de ses doigts. Même les plus robustes des guerriers finissent par pâtir de ces impacts sur leurs phalanges.</p>\n<p>Lorsqu’un personnage utilise un coup-de-poing blaster, chaque attaque réussie lui inflige la perte d’un point de stress (en plus du stress éventuellement imposé par le coup porté).</p>\n<p>Un coup-de-poing blaster est une arme létale, et ne peut pas servir à infliger du stress à la cible.</p>"
 		},
 		{
 			"id": "Blaster Carbine",
@@ -971,8 +971,8 @@
 		},
 		{
 			"id": "L7 Light Blaster Pistol",
-			"name": "L7 Light Blaster Pistol",
-			"description": "[H3]Liquidsilver L7 Light Blaster Pistol[h3]\n      Please see page 43 of the Fly Casual Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Fly Casual[h4]<div>Add [SE][SE] to Perception checks to notice pistol stashed aboard a starship. </div>"
+			"name": "Pistolet Blaster Léger L7 Liquidsilver",
+			"description": "[H3]PISTOLET BLASTER LÉGER L7 LIQUIDSILVER[h3]  <p>\nPistolet blaster simple et bon marché, le L7 Liquidsilver s’est taillé chez les contrebandiers une réputation de bonne arme de secours. Sa taille réduite, ses lignes élégantes et sa finition acier lui donnent une apparence passe-partout qui le font facilement oublier, surtout s’il est accroché à la paroi d’une cale ou près de la passerelle d’embarquement d’un cargo léger. Ajoutez [SE][SE] aux tests de Perception destinés à repérer un pistolet blaster léger L7 Liquidsilver dissimulé à bord d’un vaisseau.</p>"
 		},
 		{
 			"id": "L70 Acid Projector",
@@ -1316,8 +1316,8 @@
 		},
 		{
 			"id": "Needle Gloves",
-			"name": "Needle Gloves",
-			"description": "[H3]Needle Gloves[h3]\n      Please see page 46 of the Desperate Allies Sourcebook for details.[P][H3]Sources:[h3][H4]Page 46 - Desperate Allies[h4]"
+			"name": "Gants à aiguilles",
+			"description": "[H3]Gants à aiguilles[h3]<p>\n</p> À première vue, les gants à aiguilles ressemblent à des gants ordinaires. En fait, ils diffèrent si peu des gants classiques qu’ils offrent très peu d’avantages en combat, à une seule exception près : en effectuant un geste de la main spécifique, le porteur peut déployer une aiguille ultra-fine, pratiquement indétectable. <p>\n</p> Les gants à aiguilles peuvent être chargés avec une dose de neurotoxine, d’anesthésique, de neuroparalytique (voir page 188 du livre de règles principal **Age of Rebellion**), ou de tout autre poison que le MJ juge approprié. Chaque fois que le porteur attaque avec succès une cible avec cette arme (même sans infliger de dégâts), la cible subit également les effets du poison. <p>\n</p> Ajoutez [SE][SE][SE] aux tests de Perception d’un personnage pour déterminer si une paire de gants à aiguilles dissimule une arme mortelle."
 		},
 		{
 			"id": "Neuronic Whip",
@@ -1656,8 +1656,8 @@
 		},
 		{
 			"id": "Spore Stun Grenade",
-			"name": "Spore Stun Grenade",
-			"description": "[H3]Speizoc Arms Spore Stun Grenade[h3]\n      Please see page 43 of the Disciples of Harmony Sourcebook for details.[P][H3]Sources:[h3][H4]Page 43 - Disciples of Harmony[h4]"
+			"name": "Grenade étourdissante à spore",
+			"description": "Une arme à effet de zone capable d’étourdir un groupe d’adversaires peut être un outil vital dans une situation de contrôle des foules. De même, une personne qui accorde une grande valeur à la vie des êtres sensibles peut souhaiter utiliser des armes permettant de neutraliser les adversaires sans les tuer. Lorsqu’un individu est largement dépassé en nombre, une grenade étourdissante peut renverser le cours de la bataille de manière éthiquement acceptable. \n Les grenades spores étourdissantes de Speizoc Arms libèrent un nuage de spores étourdissantes actives lorsqu'elles explosent. Récoltées sur une plante carnivore, ces spores sont un puissant soporifique pour la plupart des formes de vie. Une combinaison hermétique offre une protection complète contre les spores, mais toute armure non scellée est d’une utilité limitée face au nuage de spores. Les spores agissent extrêmement rapidement lorsqu'elles sont inhalées, mais elles peuvent également faire effet après un contact avec la peau de la cible."
 		},
 		{
 			"id": "Spore/B Stun Grenade",

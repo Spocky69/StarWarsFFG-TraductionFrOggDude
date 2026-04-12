@@ -1481,8 +1481,8 @@
 		},
 		{
 			"id": "Strength Enhancing System",
-			"name": "Strength Enhancing System",
-			"description": "[H3]Strength Enhancing System[h3]\n      Please see page 194 of the Edge of the Empire Core Rulebook, or page 206 of the Age of Rebellion Core Rulebook, for details.[P][H3]Sources:[h3][H4]Page 194 - Edge of the Empire Core Rulebook[h4][H4]Page 206 - Age of Rebellion Core Rulebook[h4]"
+			"name": "Dispositif de renfort musculaire",
+			"description": "<H3>DISPOSITIF DE RENFORT MUSCULAIRE<h3>\nLes dispositifs de renfort musculaire peuvent transformer de simples armures en exosquelettes robotiques. Constitué d’une matrice de fibres musculaires synthétiques myomères électro-contrôlées renforcée par des systèmes nanohydrauliques, le DRM augmente la force physique et permet de porter des charges plus lourdes pendant plus longtemps. Les dispositifs de renforts musculaires peuvent être montés sur les armures laminaires et toutes les armures rigides qui recouvrent le corps entier."
 		},
 		{
 			"id": "Stripped Down",
@@ -1596,8 +1596,8 @@
 		},
 		{
 			"id": "Tracking System",
-			"name": "Tracking System",
-			"description": "[H3]Tracking System[h3]\n      Please see page 52 of the No Disintegrations Sourcebook for details.[P][H3]Sources:[h3][H4]Page 52 - No Disintegrations[h4]<h3>Base Mods</h3><div>As a maneuver, may designate a target for tracking.  Only one target may be designated at a time. </div><div>Upgrade the ability of checks to track a designated target once. </div>"
+			"name": "Système de pistage",
+			"description": "Grâce à une série de systèmes informatiques et de capteurs spécialisés, cet accessoire collecte et traite les données de l’environnement du porteur pour suivre et prédire les mouvements des cibles désignées. <p>\n</p> Un affichage tête haute intégré à un casque ou à une visière projette ces informations sur une superposition de l’environnement. <p>\n</p> Les systèmes ne sont pas limités aux cibles locales et peuvent suivre des signaux provenant de communicateurs ou de balises distantes, tout en calculant les itinéraires optimaux pour les atteindre. <p>\n</p> Les systèmes de suivi intégrés aux armures sont généralement conçus pour fonctionner avec des équipements similaires et peuvent souvent s’intégrer à d’autres systèmes pour un effet synergique. <p>\n</p> Cet accessoire peut être installé sur n’importe quelle armure. \n En utilisant une manœuvre, le porteur peut désigner une cible à suivre (une seule cible à la fois). <p>\n</p> Améliorez la capacité des tests pour suivre la cible désignée une fois."
 		},
 		{
 			"id": "Training Lightsaber Emitter",

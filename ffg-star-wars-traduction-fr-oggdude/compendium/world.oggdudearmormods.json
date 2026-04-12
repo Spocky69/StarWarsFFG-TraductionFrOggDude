@@ -1,0 +1,50 @@
+{
+	"label": "ArmorMods",
+	"entries": {
+		"Carry Items of Encumbrance 0 Mod": {
+			"name": "Porter des Objets d'Encombrement 0"
+		},
+		"Carry Items up to Encumbrance 1 Mod": {
+			"name": "Porter des Objets jusqu'à Encombrement 1"
+		},
+		"Hoster Weapon up to Encumbrance 3 Mod": {
+			"name": "Porter une Arme jusqu'à Encombrement 3"
+		},
+		"Increase Allowable Mounted Weapon Encumbrance by 1 Mod": {
+			"name": "Augmenter l'Encombrement Autorisé de l'Arme Montée de 1"
+		},
+		"Increase Defense Mod": {
+			"name": "Augmenter la Défense"
+		},
+		"Increase Defense when Force User Mod": {
+			"name": "Augmenter la Défense quand Utilisateur de la Force"
+		},
+		"Increase Melee Defense Mod": {
+			"name": "Augmenter la Défense en Mélée"
+		},
+		"Increase Ranged Defense Mod": {
+			"name": "Augmenter la Défense à Distance"
+		},
+		"Increase Soak Mod": {
+			"name": "Augmenter l'Encaissement"
+		},
+		"Mount Ranged Weapon up to Encumbrance 4 Mod": {
+			"name": "Monter une Arme à Distance jusqu'à Encombrement 4"
+		},
+		"Mount Weapon up to Encumbrance 3 Mod": {
+			"name": "Monter une Arme jusqu'à Encombrement 3"
+		},
+		"Sealable Mod": {
+			"name": "Scellable Mod"
+		},
+		"Sealed Mod": {
+			"name": "Scellé Mod"
+		},
+		"Set Defense Mod": {
+			"name": "Définir la Défense"
+		},
+		"Set Soak Mod": {
+			"name": "Définir l'Encaissement"
+		}
+	}
+}

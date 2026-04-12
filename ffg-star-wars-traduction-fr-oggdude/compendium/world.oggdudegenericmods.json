@@ -1,0 +1,1656 @@
+{
+	"label": "GenericMods",
+	"entries": {
+		"Add Advantage to Initiative Check Mod": {
+			"name": "Ajoute un Avantage au jet d'initiative"
+		},
+		"Add Dark Force Point to Force Power Check Mod": {
+			"name": "Ajoute un point de force obscure au jet de Force"
+		},
+		"Add Force Point to Force Power Check Mod": {
+			"name": "Ajoute un point de force au jet de Force"
+		},
+		"Add Force Rating Mod": {
+			"name": "Ajoute le rang de Force"
+		},
+		"Add Hard Points Mod": {
+			"name": "Ajoute des points d'emplacement"
+		},
+		"Add Light Force Point to Force Power Check Mod": {
+			"name": "Ajoute un point de force claire au jet de Force"
+		},
+		"Add to Cybernetics Cap Mod": {
+			"name": "Ajoute un emplacement cybernétique"
+		},
+		"Additional Strain Mod": {
+			"name": "Augmente seuil de stress"
+		},
+		"Adversary Talent": {
+			"name": "Talent Adversaire",
+			"description": ""
+		},
+		"Against All Odds Talent": {
+			"name": "Talent Contre Toute Probabilité",
+			"description": ""
+		},
+		"Agility Characteristic": {
+			"name": "Caractéristique Agilité",
+			"description": ""
+		},
+		"All-Terrain Driver Talent": {
+			"name": "Talent Conducteur Tout-Terrain",
+			"description": ""
+		},
+		"Anatomy Lessons Talent": {
+			"name": "Talent Leçons d’Anatomie",
+			"description": ""
+		},
+		"Animal Bond Talent": {
+			"name": "Talent Lien Animal",
+			"description": ""
+		},
+		"Animal Empathy Talent": {
+			"name": "Talent Empathie Animale",
+			"description": ""
+		},
+		"Armor Master (Improved) Talent": {
+			"name": "Talent Maître de l’Armure (Amélioré)",
+			"description": ""
+		},
+		"Armor Master Talent": {
+			"name": "Talent Maître de l’Armure",
+			"description": ""
+		},
+		"Astrogation Skill": {
+			"name": "Compétence Astrogation",
+			"description": ""
+		},
+		"Ataru Technique Talent": {
+			"name": "Talent Technique Ataru",
+			"description": ""
+		},
+		"Athletics Skill": {
+			"name": "Compétence Athlétisme",
+			"description": ""
+		},
+		"Bacta Specialist Talent": {
+			"name": "Talent Spécialiste du Bacta",
+			"description": ""
+		},
+		"Bad Cop Talent": {
+			"name": "Talent Mauvais Flic",
+			"description": ""
+		},
+		"Bad Motivator Talent": {
+			"name": "Talent Mauvais Détonateur",
+			"description": ""
+		},
+		"Bad Press Talent": {
+			"name": "Talent Mauvaise Presse",
+			"description": ""
+		},
+		"Balance Talent": {
+			"name": "Talent Équilibre",
+			"description": ""
+		},
+		"Barrage Talent": {
+			"name": "Talent Barrage",
+			"description": ""
+		},
+		"Basic Combat Training Talent": {
+			"name": "Talent Entraînement de Combat de Base",
+			"description": ""
+		},
+		"Beast Wrangler Talent": {
+			"name": "Talent Dompteur de Bêtes",
+			"description": ""
+		},
+		"Biggest Fan Talent": {
+			"name": "Talent Plus Grand Fan",
+			"description": ""
+		},
+		"Black Market Contacts Talent": {
+			"name": "Talent Contacts du Marché Noir",
+			"description": ""
+		},
+		"Blackmail Talent": {
+			"name": "Talent Chantage",
+			"description": ""
+		},
+		"Blooded Talent": {
+			"name": "Talent Endurci",
+			"description": ""
+		},
+		"Body Guard (Improved) Talent": {
+			"name": "Talent Garde du Corps (Amélioré)",
+			"description": ""
+		},
+		"Body Guard Talent": {
+			"name": "Talent Garde du Corps",
+			"description": ""
+		},
+		"Bolstered Armor Talent": {
+			"name": "Talent Armure Renforcée",
+			"description": ""
+		},
+		"Bought Info Talent": {
+			"name": "Talent Informations Achetées",
+			"description": ""
+		},
+		"Brace Talent": {
+			"name": "Talent Reforcer",
+			"description": ""
+		},
+		"Brawl Skill": {
+			"name": "Compétence Pugilat",
+			"description": ""
+		},
+		"Brawn Characteristic": {
+			"name": "Caractéristique Vigueur",
+			"description": ""
+		},
+		"Brilliant Evasion Talent": {
+			"name": "Talent Évasion Brillante",
+			"description": ""
+		},
+		"Bring It Down Talent": {
+			"name": "Talent Abattez-le",
+			"description": ""
+		},
+		"Burly Talent": {
+			"name": "Talent Costaud",
+			"description": ""
+		},
+		"Bypass Security Talent": {
+			"name": "Talent Contourner la Sécurité",
+			"description": ""
+		},
+		"Call 'Em Talent": {
+			"name": "Talent Appelez-les",
+			"description": ""
+		},
+		"Calming Aura (Improved) Talent": {
+			"name": "Talent Aura Calmante (Amélioré)",
+			"description": ""
+		},
+		"Calming Aura Talent": {
+			"name": "Talent Aura Calmante",
+			"description": ""
+		},
+		"Careful Planning Talent": {
+			"name": "Talent Planification Précautionneuse",
+			"description": ""
+		},
+		"Center of Being (Improved) Talent": {
+			"name": "Talent Centre de l'Être (Amélioré)",
+			"description": ""
+		},
+		"Center of Being Talent": {
+			"name": "Talent Centre de l'Être",
+			"description": ""
+		},
+		"Charm Skill": {
+			"name": "Compétence Charme",
+			"description": ""
+		},
+		"Circle of Shelter Talent": {
+			"name": "Talent Cercle de Protection",
+			"description": ""
+		},
+		"Clever Solution Talent": {
+			"name": "Talent Solution Astucieuse",
+			"description": ""
+		},
+		"Codebreaker Talent": {
+			"name": "Talent Décrypteur",
+			"description": ""
+		},
+		"Coercion Skill": {
+			"name": "Compétence Coercition",
+			"description": ""
+		},
+		"Command Talent": {
+			"name": "Talent Commandement",
+			"description": ""
+		},
+		"Commanding Presence Talent": {
+			"name": "Talent Présence Imposante",
+			"description": ""
+		},
+		"Comprehend Technology Talent": {
+			"name": "Talent Compréhension Technologique",
+			"description": ""
+		},
+		"Computers Skill": {
+			"name": "Compétence Informatique",
+			"description": ""
+		},
+		"Conditioned Talent": {
+			"name": "Talent Conditionné",
+			"description": ""
+		},
+		"Confidence Talent": {
+			"name": "Talent Confiance",
+			"description": ""
+		},
+		"Congenial Talent": {
+			"name": "Talent Avenant",
+			"description": ""
+		},
+		"Contingency Plan Talent": {
+			"name": "Talent Plan de Contingence",
+			"description": ""
+		},
+		"Contraption Talent": {
+			"name": "Talent Invention",
+			"description": ""
+		},
+		"Convincing Demeanor Talent": {
+			"name": "Talent Allure Convaincante",
+			"description": ""
+		},
+		"Cool Skill": {
+			"name": "Compétence Sang-froid",
+			"description": ""
+		},
+		"Coordinated Assault Talent": {
+			"name": "Talent Assaut Coordonné",
+			"description": ""
+		},
+		"Coordination Dodge Talent": {
+			"name": "Talent Esquive Coordonnée",
+			"description": ""
+		},
+		"Coordination Skill": {
+			"name": "Compétence Coordination",
+			"description": ""
+		},
+		"Core Worlds Skill": {
+			"name": "Compétence Mondes du Noyau",
+			"description": ""
+		},
+		"Corellian Sendoff (Improved) Talent": {
+			"name": "Talent Adieu Corellien (Amélioré)",
+			"description": ""
+		},
+		"Corellian Sendoff Talent": {
+			"name": "Talent Adieu Corellien",
+			"description": ""
+		},
+		"Cortosis Quality": {
+			"name": "Qualité : Cortosis"
+		},
+		"Counterstrike Talent": {
+			"name": "Talent Contre-Attaque",
+			"description": ""
+		},
+		"Creative Killer Talent": {
+			"name": "Talent Tueur Créatif",
+			"description": ""
+		},
+		"Crippling Blow Talent": {
+			"name": "Talent Coup Débilitant",
+			"description": ""
+		},
+		"Cunning Characteristic": {
+			"name": "Caractéristique Ruse",
+			"description": ""
+		},
+		"Customized Cooling Unit Talent": {
+			"name": "Talent Unité de Refrigération Personnalisée",
+			"description": ""
+		},
+		"Cutting Question Talent": {
+			"name": "Talent Question Cinglante",
+			"description": ""
+		},
+		"Dead to Rights (Improved) Talent": {
+			"name": "Talent Pris sur le Fait (Amélioré)",
+			"description": ""
+		},
+		"Dead to Rights Talent": {
+			"name": "Talent Pris sur le Fait",
+			"description": ""
+		},
+		"Deadly Accuracy Talent": {
+			"name": "Talent Précision Mortelle",
+			"description": ""
+		},
+		"Debilitating Shot Talent": {
+			"name": "Talent Tir Débilitant",
+			"description": ""
+		},
+		"Deception Skill": {
+			"name": "Compétence Tromperie",
+			"description": ""
+		},
+		"Deceptive Taunt Talent": {
+			"name": "Talent Provocation Trompeuse",
+			"description": ""
+		},
+		"Decreases Encumbrance by 2 Mod": {
+			"name": "Diminue l'Encombrement de 2"
+		},
+		"Decreases Encumbrance Mod": {
+			"name": "Diminue l'Encombrement"
+		},
+		"Decreases Encumbrance Threshold Mod": {
+			"name": "Diminue le Seuil d'Encombrement"
+		},
+		"Decreases Total Encumbrance Mod": {
+			"name": "Diminue l'Encombrement Total"
+		},
+		"Dedication Talent": {
+			"name": "Talent Dévouement",
+			"description": ""
+		},
+		"Defensive Circle Talent": {
+			"name": "Talent Cercle Défensif",
+			"description": ""
+		},
+		"Defensive Driving Talent": {
+			"name": "Talent Conduite Défensive",
+			"description": ""
+		},
+		"Defensive Slicing (Improved) Talent": {
+			"name": "Talent Piratage Défensif (Amélioré)",
+			"description": ""
+		},
+		"Defensive Slicing Talent": {
+			"name": "Talent Piratage Défensif",
+			"description": ""
+		},
+		"Defensive Stance Talent": {
+			"name": "Talent Posture Défensive",
+			"description": ""
+		},
+		"Defensive Training Talent": {
+			"name": "Talent Entraînement Défensif",
+			"description": ""
+		},
+		"Deflection Quality": {
+			"name": "Qualité : Déviation"
+		},
+		"Demon Mask": {
+			"name": "Masque Démon"
+		},
+		"Disarming Smile Talent": {
+			"name": "Talent Sourire Désarmant",
+			"description": ""
+		},
+		"Discipline Skill": {
+			"name": "Compétence Discipline",
+			"description": ""
+		},
+		"Discredit Talent": {
+			"name": "Talent Discréditer",
+			"description": ""
+		},
+		"Disorient Talent": {
+			"name": "Talent Désorienter",
+			"description": ""
+		},
+		"Disruptive Strike Talent": {
+			"name": "Talent Frappe Perturbante",
+			"description": ""
+		},
+		"Distracting Behavior (Improved) Talent": {
+			"name": "Talent Comportement Distrayant (Amélioré)",
+			"description": ""
+		},
+		"Distracting Behavior Talent": {
+			"name": "Talent Comportement Distrayant",
+			"description": ""
+		},
+		"Djem So Deflection Talent": {
+			"name": "Talent Déviation Djem So",
+			"description": ""
+		},
+		"Dodge Talent": {
+			"name": "Talent Esquive",
+			"description": ""
+		},
+		"Does not count toward Cybernetics Cap Mod": {
+			"name": "Ne compte pas pour le Plafond Cybernétique"
+		},
+		"Don't Shoot! Talent": {
+			"name": "Talent Ne Tirez Pas !",
+			"description": ""
+		},
+		"Double or Nothing (Improved) Talent": {
+			"name": "Talent Tout ou Rien (Amélioré)",
+			"description": ""
+		},
+		"Double or Nothing (Supreme) Talent": {
+			"name": "Talent Tout ou Rien (Suprême)",
+			"description": ""
+		},
+		"Double or Nothing Talent": {
+			"name": "Talent Tout ou Rien",
+			"description": ""
+		},
+		"Draw Closer Talent": {
+			"name": "Talent Rapprocher",
+			"description": ""
+		},
+		"Drive Back Talent": {
+			"name": "Talent Repousser",
+			"description": ""
+		},
+		"Duelist's Training Talent": {
+			"name": "Talent Entraînement de Duelliste",
+			"description": ""
+		},
+		"Durable Talent": {
+			"name": "Talent Durable",
+			"description": ""
+		},
+		"Dynamic Fire Talent": {
+			"name": "Talent Feu Dynamique",
+			"description": ""
+		},
+		"Education Skill": {
+			"name": "Compétence Éducation",
+			"description": ""
+		},
+		"Encoded Communique Talent": {
+			"name": "Talent Communication Codée",
+			"description": ""
+		},
+		"Encouraging Words Talent": {
+			"name": "Talent Paroles Encourageantes",
+			"description": ""
+		},
+		"Enduring Talent": {
+			"name": "Talent Endurant",
+			"description": ""
+		},
+		"Enhanced Leader Talent": {
+			"name": "Talent Chef Amélioré",
+			"description": ""
+		},
+		"Exhaust Port Talent": {
+			"name": "Talent Port d'Échappement",
+			"description": ""
+		},
+		"Expert Handler Talent": {
+			"name": "Talent Manipulateur Expert",
+			"description": ""
+		},
+		"Expert Tracker Talent": {
+			"name": "Talent Pisteur Expert",
+			"description": ""
+		},
+		"Falling Avalanche Talent": {
+			"name": "Talent Avalanche Tombante",
+			"description": ""
+		},
+		"Familiar Suns Talent": {
+			"name": "Talent Soleils Familiers",
+			"description": ""
+		},
+		"Fancy Paint Job Talent": {
+			"name": "Talent Peinture Fantaisie",
+			"description": ""
+		},
+		"Fearsome Talent": {
+			"name": "Talent Redoutable",
+			"description": ""
+		},
+		"Feint Talent": {
+			"name": "Talent Feinte",
+			"description": ""
+		},
+		"Feral Strength Talent": {
+			"name": "Talent Force Sauvage",
+			"description": ""
+		},
+		"Field Commander (Improved) Talent": {
+			"name": "Talent Commandant de Terrain (Amélioré)",
+			"description": ""
+		},
+		"Field Commander Talent": {
+			"name": "Talent Commandant de Terrain",
+			"description": ""
+		},
+		"Fine Tuning Talent": {
+			"name": "Talent Réglage Fin",
+			"description": ""
+		},
+		"Fire Control Talent": {
+			"name": "Talent Contrôle du Tir",
+			"description": ""
+		},
+		"Forager Talent": {
+			"name": "Talent Glaneur",
+			"description": ""
+		},
+		"Force Assault Talent": {
+			"name": "Talent Assaut de la Force",
+			"description": ""
+		},
+		"Force of Will Talent": {
+			"name": "Talent Force de Volonté",
+			"description": ""
+		},
+		"Force Protection Talent": {
+			"name": "Talent Protection de la Force",
+			"description": ""
+		},
+		"Force Rating Talent": {
+			"name": "Talent Rang de la Force",
+			"description": ""
+		},
+		"Forewarning Talent": {
+			"name": "Talent Avertissement",
+			"description": ""
+		},
+		"Form On Me Talent": {
+			"name": "Talent Formez sur Moi",
+			"description": ""
+		},
+		"Fortified Vacuum Seal Talent": {
+			"name": "Talent Joint de Vide Renforcé",
+			"description": ""
+		},
+		"Fortune Favors the Bold Talent": {
+			"name": "Talent la Fortune Sourit aux Audacieux",
+			"description": ""
+		},
+		"Frenzied Attack Talent": {
+			"name": "Talent Attaque Frénétique",
+			"description": ""
+		},
+		"Full Stop Talent": {
+			"name": "Talent Arrêt Complet",
+			"description": ""
+		},
+		"Full Throttle (Improved) Talent": {
+			"name": "Talent Plein Gaz (Amélioré)",
+			"description": ""
+		},
+		"Full Throttle (Supreme) Talent": {
+			"name": "Talent Plein Gaz (Suprême)",
+			"description": ""
+		},
+		"Full Throttle Talent": {
+			"name": "Talent Plein Gaz",
+			"description": ""
+		},
+		"Galaxy Mapper Talent": {
+			"name": "Talent Cartographe Galactique",
+			"description": ""
+		},
+		"Gearhead Talent": {
+			"name": "Talent Mécanicien",
+			"description": ""
+		},
+		"Good Cop Talent": {
+			"name": "Talent Bon Flic",
+			"description": ""
+		},
+		"Greased Palms Talent": {
+			"name": "Talent Paumes Graissées",
+			"description": ""
+		},
+		"Grit Talent": {
+			"name": "Talent Cran",
+			"description": ""
+		},
+		"Gunnery Skill": {
+			"name": "Compétence Artillerie",
+			"description": ""
+		},
+		"Guns Blazing Talent": {
+			"name": "Talent Armes à Feu",
+			"description": ""
+		},
+		"Hard Headed (Improved) Talent": {
+			"name": "Talent Tête Dure (Amélioré)",
+			"description": ""
+		},
+		"Hard Headed Talent": {
+			"name": "Talent Tête Dure",
+			"description": ""
+		},
+		"Hawk Bat Swoop Talent": {
+			"name": "Talent Piqué de la Chauve-Souris Faucon",
+			"description": ""
+		},
+		"Healing Trance (Improved) Talent": {
+			"name": "Talent Transe de Guérison (Amélioré)",
+			"description": ""
+		},
+		"Healing Trance Talent": {
+			"name": "Talent Transe de Guérison",
+			"description": ""
+		},
+		"Heavy Hitter Talent": {
+			"name": "Talent Coup Dur",
+			"description": ""
+		},
+		"Heightened Awareness Talent": {
+			"name": "Talent Conscience Aiguisée",
+			"description": ""
+		},
+		"Heroic Fortitude Talent": {
+			"name": "Talent Vaillance Héroïque",
+			"description": ""
+		},
+		"Heroic Resilience Talent": {
+			"name": "Talent Résilience Héroïque",
+			"description": ""
+		},
+		"Hidden Storage Talent": {
+			"name": "Talent Stockage Caché",
+			"description": ""
+		},
+		"High-G Training Talent": {
+			"name": "Talent Entraînement Haute Gravité",
+			"description": ""
+		},
+		"Hold Together Talent": {
+			"name": "Talent Tenir Ensemble",
+			"description": ""
+		},
+		"Hunter Talent": {
+			"name": "Talent Chasseur",
+			"description": ""
+		},
+		"Hunter's Quarry (Improved) Talent": {
+			"name": "Talent Proie du Chasseur (Amélioré)",
+			"description": ""
+		},
+		"Hunter's Quarry Talent": {
+			"name": "Talent Proie du Chasseur",
+			"description": ""
+		},
+		"Idealist Talent": {
+			"name": "Talent Idéaliste",
+			"description": ""
+		},
+		"Imbue Item Talent": {
+			"name": "Talent Imprégner Objet",
+			"description": ""
+		},
+		"Improvised Detonation (Improved) Talent": {
+			"name": "Talent Détonation Improvisée (Amélioré)",
+			"description": ""
+		},
+		"Improvised Detonation Talent": {
+			"name": "Talent Détonation Improvisée",
+			"description": ""
+		},
+		"In The Know (Improved) Talent": {
+			"name": "Talent Bien Informé (Amélioré)",
+			"description": ""
+		},
+		"In The Know Talent": {
+			"name": "Talent Bien Informé",
+			"description": ""
+		},
+		"Incite Rebellion Talent": {
+			"name": "Talent Inciter à la Révolte",
+			"description": ""
+		},
+		"Increases Brawn for Determining Encumbrance Threshold Mod": {
+			"name": "Augmente la Vigueur pour Déterminer le Seuil d'Encombrement"
+		},
+		"Increases Encumbrance Mod": {
+			"name": "Augmente l'Encombrement"
+		},
+		"Increases Encumbrance Threshold by 3 Mod": {
+			"name": "Augmente le Seuil d'Encombrement de 3"
+		},
+		"Increases Encumbrance Threshold Mod": {
+			"name": "Augmente le Seuil d'Encombrement"
+		},
+		"Indistinguishable Talent": {
+			"name": "Talent Indistinguable",
+			"description": ""
+		},
+		"Inferior Quality": {
+			"name": "Qualité Inférieure"
+		},
+		"Informant Talent": {
+			"name": "Talent Informateur",
+			"description": ""
+		},
+		"Insight Talent": {
+			"name": "Talent Perspicacité",
+			"description": ""
+		},
+		"Inspiring Rhetoric (Improved) Talent": {
+			"name": "Talent Rhétorique Inspirante (Amélioré)",
+			"description": ""
+		},
+		"Inspiring Rhetoric (Supreme) Talent": {
+			"name": "Talent Rhétorique Inspirante (Suprême)",
+			"description": ""
+		},
+		"Inspiring Rhetoric Talent": {
+			"name": "Talent Rhétorique Inspirante",
+			"description": ""
+		},
+		"Intellect Characteristic": {
+			"name": "Caractéristique Intellect",
+			"description": ""
+		},
+		"Intense Focus Talent": {
+			"name": "Talent Concentration Intensive",
+			"description": ""
+		},
+		"Intense Presence Talent": {
+			"name": "Talent Présence Intensive",
+			"description": ""
+		},
+		"Interjection Talent": {
+			"name": "Talent Interjection",
+			"description": ""
+		},
+		"Intimidating Talent": {
+			"name": "Talent Intimidant",
+			"description": ""
+		},
+		"Intuitive Evasion Talent": {
+			"name": "Talent Évasion Intuitive",
+			"description": ""
+		},
+		"Intuitive Improvements Talent": {
+			"name": "Talent Améliorations Intuitives",
+			"description": ""
+		},
+		"Intuitive Shot Talent": {
+			"name": "Talent Tir Intuitif",
+			"description": ""
+		},
+		"Intuitive Strike Talent": {
+			"name": "Talent Frappe Intuitive",
+			"description": ""
+		},
+		"Inventor Talent": {
+			"name": "Talent Inventeur",
+			"description": ""
+		},
+		"Invigorate Talent": {
+			"name": "Talent Revigorer",
+			"description": ""
+		},
+		"Iron Fists": {
+			"name": "Poings de Fer"
+		},
+		"It's Not that Bad Talent": {
+			"name": "Talent Ce n'est Pas si Mal",
+			"description": ""
+		},
+		"Item is Half Price Mod": {
+			"name": "L'Objet est à Moitié Prix"
+		},
+		"Jump Up Talent": {
+			"name": "Talent Sauter Debout",
+			"description": ""
+		},
+		"Jury Rigged Talent": {
+			"name": "Talent Bricolage",
+			"description": ""
+		},
+		"Just Kidding! Talent": {
+			"name": "Talent Je Plaisante !",
+			"description": ""
+		},
+		"Keen Eyed Talent": {
+			"name": "Talent Œil de Lynx",
+			"description": ""
+		},
+		"Kill With Kindness Talent": {
+			"name": "Talent Tuer par la Gentillesse",
+			"description": ""
+		},
+		"Knockdown Talent": {
+			"name": "Talent Mise à Terre",
+			"description": ""
+		},
+		"Know Somebody Talent": {
+			"name": "Talent Connaître Quelqu'un",
+			"description": ""
+		},
+		"Know-It-All Talent": {
+			"name": "Talent Je-Sais-Tout",
+			"description": ""
+		},
+		"Knowledge is Power Talent": {
+			"name": "Talent Le Savoir est un Pouvoir",
+			"description": ""
+		},
+		"Knowledge Specialization Talent": {
+			"name": "Talent Spécialisation des Connaissances",
+			"description": ""
+		},
+		"Knowledgeable Healing Talent": {
+			"name": "Talent Soins Éclairés",
+			"description": ""
+		},
+		"Known Schematic Talent": {
+			"name": "Talent Schéma Connu",
+			"description": ""
+		},
+		"Koiogran Turn Talent": {
+			"name": "Talent Virage Koiogran",
+			"description": ""
+		},
+		"Larger Project Talent": {
+			"name": "Talent Projet Plus Grand",
+			"description": ""
+		},
+		"Leadership Skill": {
+			"name": "Compétence Leadership",
+			"description": ""
+		},
+		"Let's Ride Talent": {
+			"name": "Talent En Route",
+			"description": ""
+		},
+		"Lethal Blows Talent": {
+			"name": "Talent Coups Mortels",
+			"description": ""
+		},
+		"Lightsaber Skill": {
+			"name": "Compétence Sabre Laser",
+			"description": ""
+		},
+		"Loom Talent": {
+			"name": "Talent Se Profiler",
+			"description": ""
+		},
+		"Lore Skill": {
+			"name": "Compétence Savoir",
+			"description": ""
+		},
+		"Makashi Finish Talent": {
+			"name": "Talent Finition Makashi",
+			"description": ""
+		},
+		"Makashi Flourish Talent": {
+			"name": "Talent Flourish Makashi",
+			"description": ""
+		},
+		"Makashi Technique Talent": {
+			"name": "Talent Technique Makashi",
+			"description": ""
+		},
+		"Master Artisan Talent": {
+			"name": "Talent Artisan Maître",
+			"description": ""
+		},
+		"Master Doctor Talent": {
+			"name": "Talent Médecin Maître",
+			"description": ""
+		},
+		"Master Driver Talent": {
+			"name": "Talent Conducteur Maître",
+			"description": ""
+		},
+		"Master Grenadier Talent": {
+			"name": "Talent Grenadier Maître",
+			"description": ""
+		},
+		"Master Leader Talent": {
+			"name": "Talent Chef Maître",
+			"description": ""
+		},
+		"Master Merchant Talent": {
+			"name": "Talent Marchand Maître",
+			"description": ""
+		},
+		"Master of Shadows Talent": {
+			"name": "Talent Maître des Ombres",
+			"description": ""
+		},
+		"Master Pilot Talent": {
+			"name": "Talent Pilote Maître",
+			"description": ""
+		},
+		"Master Slicer Talent": {
+			"name": "Talent Pirate Maître",
+			"description": ""
+		},
+		"Master Starhopper Talent": {
+			"name": "Talent Saute-Étoiles Maître",
+			"description": ""
+		},
+		"Mechanics Skill": {
+			"name": "Compétence Mécanique",
+			"description": ""
+		},
+		"Medicine Skill": {
+			"name": "Compétence Médecine",
+			"description": ""
+		},
+		"Meditation Focus": {
+			"name": "Focalisation Méditation"
+		},
+		"Melee Skill": {
+			"name": "Compétence Mélée",
+			"description": ""
+		},
+		"Mental Bond Talent": {
+			"name": "Talent Lien Mental",
+			"description": ""
+		},
+		"Mental Fortress Talent": {
+			"name": "Talent Forteresse Mentale",
+			"description": ""
+		},
+		"Mental Tools Talent": {
+			"name": "Talent Outils Mentaux",
+			"description": ""
+		},
+		"Multiple Opponents Talent": {
+			"name": "Talent Multiples Adversaires",
+			"description": ""
+		},
+		"Museum Worthy Talent": {
+			"name": "Talent Digne d'un Musée",
+			"description": ""
+		},
+		"Natural Athlete Talent": {
+			"name": "Talent Athlète Naturel",
+			"description": ""
+		},
+		"Natural Blademaster Talent": {
+			"name": "Talent Maître d'Armes Naturel",
+			"description": ""
+		},
+		"Natural Brawler Talent": {
+			"name": "Talent Bagarreur Naturel",
+			"description": ""
+		},
+		"Natural Charmer Talent": {
+			"name": "Talent Charmeur Naturel",
+			"description": ""
+		},
+		"Natural Doctor Talent": {
+			"name": "Talent Médecin Naturel",
+			"description": ""
+		},
+		"Natural Driver Talent": {
+			"name": "Talent Conducteur Naturel",
+			"description": ""
+		},
+		"Natural Enforcer Talent": {
+			"name": "Talent Exécuteur Naturel",
+			"description": ""
+		},
+		"Natural Hunter Talent": {
+			"name": "Talent Chasseur Naturel",
+			"description": ""
+		},
+		"Natural Leader Talent": {
+			"name": "Talent Chef Naturel",
+			"description": ""
+		},
+		"Natural Marksman Talent": {
+			"name": "Talent Tireur d'Élite Naturel",
+			"description": ""
+		},
+		"Natural Merchant Talent": {
+			"name": "Talent Marchand Naturel",
+			"description": ""
+		},
+		"Natural Mystic Talent": {
+			"name": "Talent Mystique Naturel",
+			"description": ""
+		},
+		"Natural Negotiator Talent": {
+			"name": "Talent Négociateur Naturel",
+			"description": ""
+		},
+		"Natural Outdoorsman Talent": {
+			"name": "Talent Homme des Bois Naturel",
+			"description": ""
+		},
+		"Natural Pilot Talent": {
+			"name": "Talent Pilote Naturel",
+			"description": ""
+		},
+		"Natural Programmer Talent": {
+			"name": "Talent Programmeur Naturel",
+			"description": ""
+		},
+		"Natural Rogue Talent": {
+			"name": "Talent Voyou Naturel",
+			"description": ""
+		},
+		"Natural Scholar Talent": {
+			"name": "Talent Érudit Naturel",
+			"description": ""
+		},
+		"Natural Tinkerer Talent": {
+			"name": "Talent Bricoleur Naturel",
+			"description": ""
+		},
+		"Negotiation Skill": {
+			"name": "Compétence Négociation",
+			"description": ""
+		},
+		"Niman Technique Talent": {
+			"name": "Talent Technique Niman",
+			"description": ""
+		},
+		"Nobody's Fool Talent": {
+			"name": "Talent Personne n'est Dupe",
+			"description": ""
+		},
+		"Not Today Talent": {
+			"name": "Talent Pas Aujourd'hui",
+			"description": ""
+		},
+		"Now You See Me Talent": {
+			"name": "Talent Maintenant Vous Me Voyez",
+			"description": ""
+		},
+		"One With The Universe Talent": {
+			"name": "Talent Un avec l'Univers",
+			"description": ""
+		},
+		"Outdoorsman Talent": {
+			"name": "Talent Homme des Bois",
+			"description": ""
+		},
+		"Outer Rim Skill": {
+			"name": "Compétence Bordure Extérieure",
+			"description": ""
+		},
+		"Overstocked Ammo Talent": {
+			"name": "Talent Munitions en Surplus",
+			"description": ""
+		},
+		"Overwhelm Defenses Talent": {
+			"name": "Talent Submerger les Défenses",
+			"description": ""
+		},
+		"Overwhelm Emotions Talent": {
+			"name": "Talent Submerger les Émotions",
+			"description": ""
+		},
+		"Parry (Improved) Talent": {
+			"name": "Talent Parer (Amélioré)",
+			"description": ""
+		},
+		"Parry (Supreme) Talent": {
+			"name": "Talent Parer (Suprême)",
+			"description": ""
+		},
+		"Parry Talent": {
+			"name": "Talent Parer",
+			"description": ""
+		},
+		"Perception Skill": {
+			"name": "Compétence Perception",
+			"description": ""
+		},
+		"Physical Training Talent": {
+			"name": "Talent Entraînement Physique",
+			"description": ""
+		},
+		"Physician Talent": {
+			"name": "Talent Médecin",
+			"description": ""
+		},
+		"Piloting - Planetary Skill": {
+			"name": "Compétence Pilotage - Planétaire",
+			"description": ""
+		},
+		"Piloting - Space Skill": {
+			"name": "Compétence Pilotage - Spatial",
+			"description": ""
+		},
+		"Pin Talent": {
+			"name": "Talent Immobiliser",
+			"description": ""
+		},
+		"Plausible Deniability (Improved) Talent": {
+			"name": "Talent Dénégation Plausible (Amélioré)",
+			"description": ""
+		},
+		"Plausible Deniability Talent": {
+			"name": "Talent Dénégation Plausible",
+			"description": ""
+		},
+		"Point Blank Talent": {
+			"name": "Talent À Bout Portant",
+			"description": ""
+		},
+		"Positive Spin (Improved) Talent": {
+			"name": "Talent Tournure Positive (Amélioré)",
+			"description": ""
+		},
+		"Positive Spin Talent": {
+			"name": "Talent Tournure Positive",
+			"description": ""
+		},
+		"Powerful Blast Talent": {
+			"name": "Talent Explosion Puissante",
+			"description": ""
+		},
+		"Precise Aim Talent": {
+			"name": "Talent Visée Précise",
+			"description": ""
+		},
+		"Preemptive Avoidance Talent": {
+			"name": "Talent Évitement Préventif",
+			"description": ""
+		},
+		"Presence Characteristic": {
+			"name": "Caractéristique Présence",
+			"description": ""
+		},
+		"Pressure Point Talent": {
+			"name": "Talent Point de Pression",
+			"description": ""
+		},
+		"Prey on the Weak Talent": {
+			"name": "Talent Proie des Faibles",
+			"description": ""
+		},
+		"Quick Draw Talent": {
+			"name": "Talent Dégainer Rapidement",
+			"description": ""
+		},
+		"Quick Fix Talent": {
+			"name": "Talent Réparation Rapide",
+			"description": ""
+		},
+		"Quick Movement Talent": {
+			"name": "Talent Mouvement Rapide",
+			"description": ""
+		},
+		"Quick Strike Talent": {
+			"name": "Talent Frappe Rapide",
+			"description": ""
+		},
+		"Quickdraw (Improved) Talent": {
+			"name": "Talent Dégainer Rapidement (Amélioré)",
+			"description": ""
+		},
+		"Rain of Death Talent": {
+			"name": "Talent Pluie de Mort",
+			"description": ""
+		},
+		"Ranged - Heavy Skill": {
+			"name": "Compétence Distance - Lourd",
+			"description": ""
+		},
+		"Ranged - Light Skill": {
+			"name": "Compétence Distance - Léger",
+			"description": ""
+		},
+		"Rapid Reaction Talent": {
+			"name": "Talent Réaction Rapide",
+			"description": ""
+		},
+		"Rapid Recovery Talent": {
+			"name": "Talent Récupération Rapide",
+			"description": ""
+		},
+		"Redundant Systems Talent": {
+			"name": "Talent Systèmes Redondants",
+			"description": ""
+		},
+		"Reflect (Improved) Talent": {
+			"name": "Talent Réfléchir (Amélioré)",
+			"description": ""
+		},
+		"Reflect (Supreme) Talent": {
+			"name": "Talent Réfléchir (Suprême)",
+			"description": ""
+		},
+		"Reflect Talent": {
+			"name": "Talent Réfléchir",
+			"description": ""
+		},
+		"Reinforced Frame Talent": {
+			"name": "Talent Cadre Renforcé",
+			"description": ""
+		},
+		"Remove Hard Points from Item Mod": {
+			"name": "Retirer les Points d'Emplacement de l'Objet"
+		},
+		"Researcher (Improved) Talent": {
+			"name": "Talent Chercheur (Amélioré)",
+			"description": ""
+		},
+		"Researcher Talent": {
+			"name": "Talent Chercheur",
+			"description": ""
+		},
+		"Resilience Skill": {
+			"name": "Compétence Résilience",
+			"description": ""
+		},
+		"Resist Disarm Talent": {
+			"name": "Talent Résister au Désarmement",
+			"description": ""
+		},
+		"Resolve Talent": {
+			"name": "Talent Résolution",
+			"description": ""
+		},
+		"Respected Scholar Talent": {
+			"name": "Talent Érudit Respecté",
+			"description": ""
+		},
+		"Saber Swarm Talent": {
+			"name": "Talent Essaim de Sabres",
+			"description": ""
+		},
+		"Saber Throw Talent": {
+			"name": "Talent Lancer de Sabre",
+			"description": ""
+		},
+		"Sarlacc Sweep Talent": {
+			"name": "Talent Balayage Sarlacc",
+			"description": ""
+		},
+		"Scathing Tirade (Improved) Talent": {
+			"name": "Talent Tirade Cinglante (Amélioré)",
+			"description": ""
+		},
+		"Scathing Tirade (Supreme) Talent": {
+			"name": "Talent Tirade Cinglante (Suprême)",
+			"description": ""
+		},
+		"Scathing Tirade Talent": {
+			"name": "Talent Tirade Cinglante",
+			"description": ""
+		},
+		"Second Chances Talent": {
+			"name": "Talent Deuxièmes Chances",
+			"description": ""
+		},
+		"Second Wind Talent": {
+			"name": "Talent Second Souffle",
+			"description": ""
+		},
+		"Selective Detonation Talent": {
+			"name": "Talent Détonation Sélective",
+			"description": ""
+		},
+		"Sense Advantage Talent": {
+			"name": "Talent Sentir l'Avantage",
+			"description": ""
+		},
+		"Sense Danger Talent": {
+			"name": "Talent Sentir le Danger",
+			"description": ""
+		},
+		"Sense Emotions Talent": {
+			"name": "Talent Sentir les Émotions",
+			"description": ""
+		},
+		"Share Pain Talent": {
+			"name": "Talent Partager la Douleur",
+			"description": ""
+		},
+		"Shien Technique Talent": {
+			"name": "Talent Technique Shien",
+			"description": ""
+		},
+		"Short Cut Talent": {
+			"name": "Talent Raccourci",
+			"description": ""
+		},
+		"Showboat Talent": {
+			"name": "Talent Frimeur",
+			"description": ""
+		},
+		"Shroud Talent": {
+			"name": "Talent Voile",
+			"description": ""
+		},
+		"Side Step Talent": {
+			"name": "Talent Pas de Côté",
+			"description": ""
+		},
+		"Signature Vehicle Talent": {
+			"name": "Talent Véhicule Signature",
+			"description": ""
+		},
+		"Situational Awareness Talent": {
+			"name": "Talent Conscience Situationnelle",
+			"description": ""
+		},
+		"Sixth Sense Talent": {
+			"name": "Talent Sixième Sens",
+			"description": ""
+		},
+		"Skilled Jockey Talent": {
+			"name": "Talent Jockey Expérimenté",
+			"description": ""
+		},
+		"Skilled Slicer Talent": {
+			"name": "Talent Pirate Expérimenté",
+			"description": ""
+		},
+		"Skulduggery Skill": {
+			"name": "Compétence Supercherie",
+			"description": ""
+		},
+		"Sleight of Mind Talent": {
+			"name": "Talent Tour de Passe-Passe Mental",
+			"description": ""
+		},
+		"Slippery Minded Talent": {
+			"name": "Talent Esprit Insaisissable",
+			"description": ""
+		},
+		"Smooth Talker Talent": {
+			"name": "Talent Parleur Doux",
+			"description": ""
+		},
+		"Sniper Shot Talent": {
+			"name": "Talent Tir de Sniper",
+			"description": ""
+		},
+		"Soft Spot Talent": {
+			"name": "Talent Point Faible",
+			"description": ""
+		},
+		"Solid Repairs Talent": {
+			"name": "Talent Réparations Solides",
+			"description": ""
+		},
+		"Soothing Tone Talent": {
+			"name": "Talent Ton Apaisant",
+			"description": ""
+		},
+		"Soresu Technique Talent": {
+			"name": "Talent Technique Soresu",
+			"description": ""
+		},
+		"Sorry About the Mess Talent": {
+			"name": "Talent Désolé pour le Désordre",
+			"description": ""
+		},
+		"Sound Investments Talent": {
+			"name": "Talent Investissements Judicieux",
+			"description": ""
+		},
+		"Spare Clip Talent": {
+			"name": "Talent Chargeur de Rechange",
+			"description": ""
+		},
+		"Speaks Binary Talent": {
+			"name": "Talent Parle le Binaire",
+			"description": ""
+		},
+		"Spitfire Talent": {
+			"name": "Talent Cracheur de Feu",
+			"description": ""
+		},
+		"Spur (Improved) Talent": {
+			"name": "Talent Éperon (Amélioré)",
+			"description": ""
+		},
+		"Spur (Supreme) Talent": {
+			"name": "Talent Éperon (Suprême)",
+			"description": ""
+		},
+		"Spur Talent": {
+			"name": "Talent Éperon",
+			"description": ""
+		},
+		"Stalker Talent": {
+			"name": "Talent Traqueur",
+			"description": ""
+		},
+		"Steady Nerves Talent": {
+			"name": "Talent Nerfs Solides",
+			"description": ""
+		},
+		"Stealth Skill": {
+			"name": "Compétence Furtivité",
+			"description": ""
+		},
+		"Steely Nerves Talent": {
+			"name": "Talent Nerfs d'Acier",
+			"description": ""
+		},
+		"Stim Application (Improved) Talent": {
+			"name": "Talent Application de Stimulant (Amélioré)",
+			"description": ""
+		},
+		"Stim Application (Supreme) Talent": {
+			"name": "Talent Application de Stimulant (Suprême)",
+			"description": ""
+		},
+		"Stim Application Talent": {
+			"name": "Talent Application de Stimulant",
+			"description": ""
+		},
+		"Stimpack Specialization Talent": {
+			"name": "Talent Spécialisation Stimpack",
+			"description": ""
+		},
+		"Strategic Form Talent": {
+			"name": "Talent Forme Stratégique",
+			"description": ""
+		},
+		"Street Smarts Talent": {
+			"name": "Talent Ruse Urbaine",
+			"description": ""
+		},
+		"Streetwise Skill": {
+			"name": "Compétence Rue",
+			"description": ""
+		},
+		"Stroke of Genius Talent": {
+			"name": "Talent Coup de Génie",
+			"description": ""
+		},
+		"Strong Arm Talent": {
+			"name": "Talent Bras Fort",
+			"description": ""
+		},
+		"Stunning Blow (Improved) Talent": {
+			"name": "Talent Coup Étourdissant (Amélioré)",
+			"description": ""
+		},
+		"Stunning Blow Talent": {
+			"name": "Talent Coup Étourdissant",
+			"description": ""
+		},
+		"Subtract from Cybernetics Cap Mod": {
+			"name": "Soustraire du Plafond Cybernétique"
+		},
+		"Subtract from Force Rating Mod": {
+			"name": "Soustraire du Rang de Force"
+		},
+		"Successful Medicine checks heal +1 wound Mod": {
+			"name": "Les réussites en Médecine soignent +1 blessure"
+		},
+		"Sum Djem Talent": {
+			"name": "Talent Sum Djem",
+			"description": ""
+		},
+		"Superior Quality": {
+			"name": "Qualité Supérieure"
+		},
+		"Superior Reflexes Talent": {
+			"name": "Talent Réflexes Supérieurs",
+			"description": ""
+		},
+		"Supporting Evidence Talent": {
+			"name": "Talent Preuve à l'Appui",
+			"description": ""
+		},
+		"Surgeon Talent": {
+			"name": "Talent Chirurgien",
+			"description": ""
+		},
+		"Survival Skill": {
+			"name": "Compétence Survie",
+			"description": ""
+		},
+		"Swift Talent": {
+			"name": "Talent Rapide",
+			"description": ""
+		},
+		"Tactical Combat Training Talent": {
+			"name": "Talent Entraînement au Combat Tactique",
+			"description": ""
+		},
+		"Talk the Talk Talent": {
+			"name": "Talent Parler le Bon Langage",
+			"description": ""
+		},
+		"Targeted Blow Talent": {
+			"name": "Talent Coup Ciblé",
+			"description": ""
+		},
+		"Technical Aptitude Talent": {
+			"name": "Talent Aptitude Technique",
+			"description": ""
+		},
+		"Terrify (Improved) Talent": {
+			"name": "Talent Terrifier (Amélioré)",
+			"description": ""
+		},
+		"Terrify Talent": {
+			"name": "Talent Terrifier",
+			"description": ""
+		},
+		"The Force Is My Ally Talent": {
+			"name": "Talent La Force est Mon Alliée",
+			"description": ""
+		},
+		"Thorough Assessment Talent": {
+			"name": "Talent Évaluation Approfondie",
+			"description": ""
+		},
+		"Throwing Credits Talent": {
+			"name": "Talent Jeter des Crédits",
+			"description": ""
+		},
+		"Time to Go (Improved) Talent": {
+			"name": "Talent Il est Temps de Partir (Amélioré)",
+			"description": ""
+		},
+		"Time to Go Talent": {
+			"name": "Talent Il est Temps de Partir",
+			"description": ""
+		},
+		"Tinkerer Talent": {
+			"name": "Talent Bricoleur",
+			"description": ""
+		},
+		"Touch of Fate Talent": {
+			"name": "Talent Toucher du Destin",
+			"description": ""
+		},
+		"Toughened Talent": {
+			"name": "Talent Endurci",
+			"description": ""
+		},
+		"Tricky Target Talent": {
+			"name": "Talent Cible Insaisissable",
+			"description": ""
+		},
+		"True Aim Talent": {
+			"name": "Talent Visé Juste",
+			"description": ""
+		},
+		"Tuned Maneuvering Thrusters Talent": {
+			"name": "Talent Propulseurs de Manœuvre Réglés",
+			"description": ""
+		},
+		"Twisted Words Talent": {
+			"name": "Talent Mots Tordus",
+			"description": ""
+		},
+		"Uncanny Reactions Talent": {
+			"name": "Talent Réactions Extraordinaires",
+			"description": ""
+		},
+		"Uncanny Senses Talent": {
+			"name": "Talent Sens Extraordinaires",
+			"description": ""
+		},
+		"Underworld Skill": {
+			"name": "Compétence Monde Souterrain",
+			"description": ""
+		},
+		"Unity Assault Talent": {
+			"name": "Talent Assaut Unifié",
+			"description": ""
+		},
+		"Unrelenting Skeptic (Improved) Talent": {
+			"name": "Talent Sceptique Implacable (Amélioré)",
+			"description": ""
+		},
+		"Unrelenting Skeptic Talent": {
+			"name": "Talent Sceptique Implacable",
+			"description": ""
+		},
+		"Unstoppable Talent": {
+			"name": "Talent Imparable",
+			"description": ""
+		},
+		"Up the Ante Talent": {
+			"name": "Talent Augmenter la Mise",
+			"description": ""
+		},
+		"Utility Belt Talent": {
+			"name": "Talent Ceinture Utilitaire",
+			"description": ""
+		},
+		"Utinni! Talent": {
+			"name": "Talent Utinni !",
+			"description": ""
+		},
+		"Valuable Facts Talent": {
+			"name": "Talent Faits Précieux",
+			"description": ""
+		},
+		"Vehicle Combat Training Talent": {
+			"name": "Talent Entraînement au Combat Véhiculaire",
+			"description": ""
+		},
+		"Vigilance Skill": {
+			"name": "Compétence Vigilance",
+			"description": ""
+		},
+		"Walk the Walk Talent": {
+			"name": "Talent Marcher la Marche",
+			"description": ""
+		},
+		"Warfare Skill": {
+			"name": "Compétence Guerre",
+			"description": ""
+		},
+		"Well Rounded Talent": {
+			"name": "Talent Polyvalent",
+			"description": ""
+		},
+		"Well Travelled Talent": {
+			"name": "Talent Grand Voyageur",
+			"description": ""
+		},
+		"Wheel and Deal Talent": {
+			"name": "Talent Marchander",
+			"description": ""
+		},
+		"Willpower Characteristic": {
+			"name": "Caractéristique Volonté",
+			"description": ""
+		},
+		"Works Like a Charm Talent": {
+			"name": "Talent Fonctionne Comme un Charme",
+			"description": ""
+		},
+		"Xenology Skill": {
+			"name": "Compétence Xénologie",
+			"description": ""
+		}
+	}
+}
